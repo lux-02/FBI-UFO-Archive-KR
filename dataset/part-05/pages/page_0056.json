@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 5,
+  "page": 56,
+  "pageId": "page_0056",
+  "source": {
+    "pdfPath": "docs/ufo5.pdf",
+    "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 7 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0056-l0001",
+    "page_0056-l0004",
+    "page_0056-l0005",
+    "page_0056-l0009"
+  ],
+  "lineCount": 11,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "BOISE IDA [unclear] 29 1947 255P",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "text": "LT FRANK M BROWN, A-2 (RPT A-2)",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "OFFICE 4TH AIRFORCE HAMILTON FIELD CALIF.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "VENTURE PRESS [REDACTED] EVANSTON ILL.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 5,
+      "text": "[REDACTED] SENT ARNOLD $200 TO GO TO TACOMA TO INVESTIGATE FLYING",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 6,
+      "text": "DISC REPORT THERE. SUGGEST THIS OUT OF LINE FOR PRESENT PUBLIC",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "INTEREST IN STORY AND BELIEVE AS I SUGGESTED ON YOUR VISIT HERE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "VENTURE PRESS SHOULD BE CHECKED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "[REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 10,
+      "text": "305 1718 $200",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "308P",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

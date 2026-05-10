@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 5,
+  "page": 65,
+  "pageId": "page_0065",
+  "source": {
+    "pdfPath": "docs/ufo5.pdf",
+    "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T09:55:16.485Z",
+  "unitCount": 1,
+  "sourceLineCount": 2,
+  "excludedLineCount": 0,
+  "excludedLines": [],
+  "units": [
+    {
+      "id": "TU-p05-page-0065-u001",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 65,
+      "pageId": "page_0065",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0065-l0001",
+          "page_0065-l0002"
+        ],
+        "lineNumbers": [
+          1,
+          2
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 65,
+            "pageId": "page_0065",
+            "lineId": "page_0065-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 65,
+            "pageId": "page_0065",
+            "lineId": "page_0065-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "UFO\nSECTION 4"
+      },
+      "translation": {
+        "text": "UFO\n섹션 4",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

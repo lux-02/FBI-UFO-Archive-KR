@@ -1,0 +1,95 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 5,
+  "page": 42,
+  "pageId": "page_0042",
+  "source": {
+    "pdfPath": "docs/ufo5.pdf",
+    "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 9 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0042-l0001",
+    "page_0042-l0002",
+    "page_0042-l0005"
+  ],
+  "lineCount": 14,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "It is noted that the original Boston teletype reflected that this inquiry",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "text": "was being treated as \"secret\" matter at MIT. [REDACTED] has advised that",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 3,
+      "text": "the comparatively small number of research scientists at MIT during the summer",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "are all cognizant of the incident and the results of the research. However,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "no publicity has been given and it is not anticipated that any will result. b7c",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 6,
+      "text": "The Bureau's interest is not known to the scientists at MIT. There has been",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "no speculation that a guided missile originating in a foreign land landed",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "in New Hampshire.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "As indicated above, unless the Bureau requests specifically further investigative",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "action, this case is being closed in the Boston Office.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 13,
+      "text": "BSG:md",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "100-20698",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

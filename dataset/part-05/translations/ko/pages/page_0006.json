@@ -1,0 +1,899 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 5,
+  "page": 6,
+  "pageId": "page_0006",
+  "source": {
+    "pdfPath": "docs/ufo5.pdf",
+    "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T09:55:16.485Z",
+  "unitCount": 14,
+  "sourceLineCount": 35,
+  "excludedLineCount": 4,
+  "excludedLines": [
+    {
+      "part": 5,
+      "page": 6,
+      "pageId": "page_0006",
+      "lineId": "page_0006-l0007",
+      "lineNumber": 7,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] Muroc Army Air Field, Muroc, California, statement",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 5,
+      "page": 6,
+      "pageId": "page_0006",
+      "lineId": "page_0006-l0026",
+      "lineNumber": 26,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "spherical or disc-like shape, moving about three hundred (300) miles an",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 5,
+      "page": 6,
+      "pageId": "page_0006",
+      "lineId": "page_0006-l0031",
+      "lineNumber": 31,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] who immediately came",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 5,
+      "page": 6,
+      "pageId": "page_0006",
+      "lineId": "page_0006-l0034",
+      "lineNumber": 34,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "the three (3) with sundry comments stated, \"They are flying Disc\". To",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p05-page-0006-u001",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 6,
+      "pageId": "page_0006",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0006-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "A F F I D A V I T"
+      },
+      "translation": {
+        "text": "진 술 서",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0006-u002",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 6,
+      "pageId": "page_0006",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0006-l0003",
+          "page_0006-l0004"
+        ],
+        "lineNumbers": [
+          3,
+          4
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "STATE OF CALIFORNIA )\nCOUNTY OF KERN )"
+      },
+      "translation": {
+        "text": "캘리포니아 주 )\n컨 카운티 )",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0006-u003",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 6,
+      "pageId": "page_0006",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0006-l0006"
+        ],
+        "lineNumbers": [
+          6
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "The following is a statement given by"
+      },
+      "translation": {
+        "text": "다음은 ~가 한 진술임",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0006-u004",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 6,
+      "pageId": "page_0006",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0006-l0008"
+        ],
+        "lineNumbers": [
+          8
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "given on 11 July 1947, to Mr. Thomas A. McMillan, CIC S/A, this Station."
+      },
+      "translation": {
+        "text": "1947년 7월 11일, 본 기지의 CIC 특별 요원 토마스 A. 맥밀런 씨에게 진술함.",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0006-u005",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 6,
+      "pageId": "page_0006",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0006-l0010",
+          "page_0006-l0011",
+          "page_0006-l0012",
+          "page_0006-l0013"
+        ],
+        "lineNumbers": [
+          10,
+          11,
+          12,
+          13
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "The following statement concerning the actual observance of what has\nbeen termed as a \"Flying Disc\" or a \"Flying Saucer\" is true and correct and\nit will be noted that the above mentioned observance was made by me per-\nsonally while enjoying complete health in mind and body."
+      },
+      "translation": {
+        "text": "소위 \"비행 디스크\" 또는 \"비행접시\"라고 불리는 것을 실제로 목격한 것에 관한 다음 진술은 사실이고 정확하며, 위에서 언급한 목격은 본인이 심신이 온전히 건강한 상태에서 직접 한 것임을 밝힙니다.",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0006-u006",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 6,
+      "pageId": "page_0006",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0006-l0015",
+          "page_0006-l0016",
+          "page_0006-l0017"
+        ],
+        "lineNumbers": [
+          15,
+          16,
+          17
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "On Tuesday 8 July 1947, at approximately nine-thirty A.M. (09:30)\nI was in conversation with personnel in the Post Exchange Office. My part\nof this conversation was as follows:"
+      },
+      "translation": {
+        "text": "1947년 7월 8일 화요일, 오전 약 9시 30분(09:30)에 저는 기지 매점 사무실에서 직원들과 대화 중이었습니다. 이 대화에서 제가 한 말은 다음과 같습니다:",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0006-u007",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 6,
+      "pageId": "page_0006",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0006-l0019",
+          "page_0006-l0020"
+        ],
+        "lineNumbers": [
+          19,
+          20
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "\"Someone will have to show me one of these Disc before I will\nbelieve it.\""
+      },
+      "translation": {
+        "text": "\"누군가 이 디스크 중 하나를 제게 보여줘야 믿을 겁니다.\"",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0006-u008",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 6,
+      "pageId": "page_0006",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0006-l0022",
+          "page_0006-l0023",
+          "page_0006-l0024",
+          "page_0006-l0025"
+        ],
+        "lineNumbers": [
+          22,
+          23,
+          24,
+          25
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0024",
+            "lineNumber": 24,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "Upon leaving the Post Exchange, I went directly to my Office and be-\nfore entering heard one of our local aircraft in the traffic pattern.\nLooking up, as I always do I observed the aircraft, and looked slightly\nto the left, whereupon I observed two (2) silver objects of either a"
+      },
+      "translation": {
+        "text": "기지 매점을 떠난 후, 저는 곧장 제 사무실로 갔고 들어가기 전에 우리 지역 항공기 한 대가 비행 경로에 있는 소리를 들었습니다. 늘 그렇듯이 위를 올려다보며 항공기를 관찰했고, 약간 왼쪽을 보았는데, 그곳에서 은색 물체 두(2) 개를 목격했습니다.",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0006-u009",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 6,
+      "pageId": "page_0006",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0006-l0027",
+          "page_0006-l0028"
+        ],
+        "lineNumbers": [
+          27,
+          28
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0027",
+            "lineNumber": 27,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0028",
+            "lineNumber": 28,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "hour, or perhaps less, at approximately eight thousand (8000) feet, heading\nat about three hundred twenty degrees (320°) due north."
+      },
+      "translation": {
+        "text": "시간, 또는 그보다 짧은 시간 동안, 약 8천(8000) 피트 고도에서, 약 320도(320°) 정북쪽으로 향하고 있었습니다.",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0006-u010",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 6,
+      "pageId": "page_0006",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0006-l0030"
+        ],
+        "lineNumbers": [
+          30
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0030",
+            "lineNumber": 30,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "When I first observed these objects I called"
+      },
+      "translation": {
+        "text": "이 물체들을 처음 목격했을 때 저는 불렀습니다",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0006-u011",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 6,
+      "pageId": "page_0006",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0006-l0032",
+          "page_0006-l0033"
+        ],
+        "lineNumbers": [
+          32,
+          33
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0032",
+            "lineNumber": 32,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0033",
+            "lineNumber": 33,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "to where I was standing. I pointed in the direction of the objects and\nasked them the question \"Tell me what you see up there.\" Whereupon, all"
+      },
+      "translation": {
+        "text": "제가 서 있는 곳으로 오게 했습니다. 저는 물체들의 방향을 가리키며 그들에게 \"저 위에 뭐가 보이는지 말해봐요.\"라고 질문했습니다. 그러자 모두",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0006-u012",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 6,
+      "pageId": "page_0006",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0006-l0035",
+          "page_0006-l0036",
+          "page_0006-l0037",
+          "page_0006-l0038"
+        ],
+        "lineNumbers": [
+          35,
+          36,
+          37,
+          38
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0035",
+            "lineNumber": 35,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0036",
+            "lineNumber": 36,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0037",
+            "lineNumber": 37,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0038",
+            "lineNumber": 38,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "further verify my observance I asked them to tell me in what direction the\nobjects were traveling, without indicating their direction myself, and again,\nall three (3) in a consistent nature stated that the objects were moving\ntoward Mojave, California."
+      },
+      "translation": {
+        "text": "제 목격을 추가로 확인하기 위해, 저는 제 스스로 방향을 알려주지 않은 채 그 물체들이 어느 방향으로 이동하고 있는지 말해달라고 요청했고, 다시 한번 세(3) 명 모두 일관되게 그 물체들이 캘리포니아 주 모하비를 향해 움직이고 있다고 진술했습니다.",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0006-u013",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 6,
+      "pageId": "page_0006",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0006-l0040",
+          "page_0006-l0041",
+          "page_0006-l0042",
+          "page_0006-l0043",
+          "page_0006-l0044",
+          "page_0006-l0045",
+          "page_0006-l0046"
+        ],
+        "lineNumbers": [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0040",
+            "lineNumber": 40,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0041",
+            "lineNumber": 41,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0042",
+            "lineNumber": 42,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0043",
+            "lineNumber": 43,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0044",
+            "lineNumber": 44,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0045",
+            "lineNumber": 45,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0046",
+            "lineNumber": 46,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "I had time to look away several times and renew my vision of the objects\nto make sure that there were not any results of eye strain, or in any nature\nan optical illusion. The objects in question were not repeat; were not air-\ncraft, the objects could not have been weather balloons released from this\nstation, since they were traveling against the prevailing wind, and since\nthe speed at which they were traveling and the horizontal direction in which\nthey were traveling, disqualified the fact that they were weather balloons."
+      },
+      "translation": {
+        "text": "저는 눈의 피로로 인한 결과나 어떤 종류의 착시 현상이 아닌지 확인하기 위해 여러 번 다른 곳을 보았다가 다시 그 물체들을 볼 시간이 있었습니다. 문제의 물체들은 반복하건대, 항공기가 아니었습니다. 그 물체들은 이 기지에서 띄운 기상 관측 기구일 수 없었는데, 왜냐하면 우세풍과 반대 방향으로 이동하고 있었고, 이동 속도와 수평 이동 방향으로 볼 때 기상 관측 기구라는 사실이 성립되지 않았기 때문입니다.",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0006-u014",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 6,
+      "pageId": "page_0006",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0006-l0048"
+        ],
+        "lineNumbers": [
+          48
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0048",
+            "lineNumber": 48,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "CONFIDENTIAL"
+      },
+      "translation": {
+        "text": "기밀",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

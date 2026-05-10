@@ -1,0 +1,239 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 5,
+  "page": 56,
+  "pageId": "page_0056",
+  "source": {
+    "pdfPath": "docs/ufo5.pdf",
+    "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T09:55:16.485Z",
+  "unitCount": 3,
+  "sourceLineCount": 7,
+  "excludedLineCount": 4,
+  "excludedLines": [
+    {
+      "part": 5,
+      "page": 56,
+      "pageId": "page_0056",
+      "lineId": "page_0056-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "BOISE IDA [unclear] 29 1947 255P",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 5,
+      "page": 56,
+      "pageId": "page_0056",
+      "lineId": "page_0056-l0004",
+      "lineNumber": 4,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "VENTURE PRESS [REDACTED] EVANSTON ILL.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 5,
+      "page": 56,
+      "pageId": "page_0056",
+      "lineId": "page_0056-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] SENT ARNOLD $200 TO GO TO TACOMA TO INVESTIGATE FLYING",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 5,
+      "page": 56,
+      "pageId": "page_0056",
+      "lineId": "page_0056-l0009",
+      "lineNumber": 9,
+      "sourceStatus": "NEEDS_IMAGE_CHECK",
+      "sourceText": "[REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p05-page-0056-u001",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 56,
+      "pageId": "page_0056",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0056-l0002",
+          "page_0056-l0003"
+        ],
+        "lineNumbers": [
+          2,
+          3
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 56,
+            "pageId": "page_0056",
+            "lineId": "page_0056-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 56,
+            "pageId": "page_0056",
+            "lineId": "page_0056-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "LT FRANK M BROWN, A-2 (RPT A-2)\nOFFICE 4TH AIRFORCE HAMILTON FIELD CALIF."
+      },
+      "translation": {
+        "text": "프랭크 M 브라운 중위, A-2 (A-2 보고)\n제4공군 사무실, 캘리포니아 주 해밀턴 필드.",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0056-u002",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 56,
+      "pageId": "page_0056",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0056-l0006",
+          "page_0056-l0007",
+          "page_0056-l0008"
+        ],
+        "lineNumbers": [
+          6,
+          7,
+          8
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 56,
+            "pageId": "page_0056",
+            "lineId": "page_0056-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 56,
+            "pageId": "page_0056",
+            "lineId": "page_0056-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 56,
+            "pageId": "page_0056",
+            "lineId": "page_0056-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "DISC REPORT THERE. SUGGEST THIS OUT OF LINE FOR PRESENT PUBLIC\nINTEREST IN STORY AND BELIEVE AS I SUGGESTED ON YOUR VISIT HERE\nVENTURE PRESS SHOULD BE CHECKED"
+      },
+      "translation": {
+        "text": "그곳의 디스크 보고. 현재 이 이야기에 대한 대중의 관심을 고려할 때 이는 도를 넘는 것으로 보이며, 귀하가 이곳을 방문했을 때 제안했듯이 벤처 프레스를 확인해야 한다고 생각함.",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0056-u003",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 56,
+      "pageId": "page_0056",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0056-l0010",
+          "page_0056-l0011"
+        ],
+        "lineNumbers": [
+          10,
+          11
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 56,
+            "pageId": "page_0056",
+            "lineId": "page_0056-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 56,
+            "pageId": "page_0056",
+            "lineId": "page_0056-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "305 1718 $200\n308P"
+      },
+      "translation": {
+        "text": "305 1718 $200\n308P",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

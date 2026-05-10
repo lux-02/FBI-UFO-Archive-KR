@@ -1,0 +1,282 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 5,
+  "page": 42,
+  "pageId": "page_0042",
+  "source": {
+    "pdfPath": "docs/ufo5.pdf",
+    "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T09:55:16.485Z",
+  "unitCount": 4,
+  "sourceLineCount": 9,
+  "excludedLineCount": 3,
+  "excludedLines": [
+    {
+      "part": 5,
+      "page": 42,
+      "pageId": "page_0042",
+      "lineId": "page_0042-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "It is noted that the original Boston teletype reflected that this inquiry",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 5,
+      "page": 42,
+      "pageId": "page_0042",
+      "lineId": "page_0042-l0002",
+      "lineNumber": 2,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "was being treated as \"secret\" matter at MIT. [REDACTED] has advised that",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 5,
+      "page": 42,
+      "pageId": "page_0042",
+      "lineId": "page_0042-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "no publicity has been given and it is not anticipated that any will result. b7c",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p05-page-0042-u001",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 42,
+      "pageId": "page_0042",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0042-l0003",
+          "page_0042-l0004"
+        ],
+        "lineNumbers": [
+          3,
+          4
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 42,
+            "pageId": "page_0042",
+            "lineId": "page_0042-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 42,
+            "pageId": "page_0042",
+            "lineId": "page_0042-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "the comparatively small number of research scientists at MIT during the summer\nare all cognizant of the incident and the results of the research. However,"
+      },
+      "translation": {
+        "text": "여름 동안 MIT에 있는 비교적 적은 수의 연구 과학자들은 모두 그 사건과 연구 결과를 인지하고 있습니다. 그러나,",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0042-u002",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 42,
+      "pageId": "page_0042",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0042-l0006",
+          "page_0042-l0007",
+          "page_0042-l0008"
+        ],
+        "lineNumbers": [
+          6,
+          7,
+          8
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 42,
+            "pageId": "page_0042",
+            "lineId": "page_0042-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 42,
+            "pageId": "page_0042",
+            "lineId": "page_0042-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 42,
+            "pageId": "page_0042",
+            "lineId": "page_0042-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "The Bureau's interest is not known to the scientists at MIT. There has been\nno speculation that a guided missile originating in a foreign land landed\nin New Hampshire."
+      },
+      "translation": {
+        "text": "수사국의 관심사는 MIT의 과학자들에게 알려져 있지 않습니다. 외국에서 발사된 유도 미사일이 뉴햄프셔에 착륙했다는 추측은 없었습니다.",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0042-u003",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 42,
+      "pageId": "page_0042",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0042-l0010",
+          "page_0042-l0011"
+        ],
+        "lineNumbers": [
+          10,
+          11
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 42,
+            "pageId": "page_0042",
+            "lineId": "page_0042-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 42,
+            "pageId": "page_0042",
+            "lineId": "page_0042-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "As indicated above, unless the Bureau requests specifically further investigative\naction, this case is being closed in the Boston Office."
+      },
+      "translation": {
+        "text": "위에 명시된 바와 같이, 수사국이 구체적으로 추가 수사 조치를 요청하지 않는 한, 이 사건은 보스턴 사무소에서 종결 처리됩니다.",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0042-u004",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 42,
+      "pageId": "page_0042",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0042-l0013",
+          "page_0042-l0014"
+        ],
+        "lineNumbers": [
+          13,
+          14
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 42,
+            "pageId": "page_0042",
+            "lineId": "page_0042-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 42,
+            "pageId": "page_0042",
+            "lineId": "page_0042-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "BSG:md\n100-20698"
+      },
+      "translation": {
+        "text": "BSG:md\n100-20698",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

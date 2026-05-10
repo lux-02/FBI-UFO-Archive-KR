@@ -1,0 +1,980 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 5,
+  "page": 50,
+  "pageId": "page_0050",
+  "source": {
+    "pdfPath": "docs/ufo5.pdf",
+    "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T09:55:16.485Z",
+  "unitCount": 21,
+  "sourceLineCount": 25,
+  "excludedLineCount": 1,
+  "excludedLines": [
+    {
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "lineId": "page_0050-l0039",
+      "lineNumber": 39,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Captain, Air Corps",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p05-page-0050-u001",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "COPY"
+      },
+      "translation": {
+        "text": "사본",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u002",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0003",
+          "page_0050-l0004"
+        ],
+        "lineNumbers": [
+          3,
+          4
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "Subject: Final Mission Report\n4 August 1947"
+      },
+      "translation": {
+        "text": "제목: 최종 임무 보고서\n1947년 8월 4일",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u003",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0006"
+        ],
+        "lineNumbers": [
+          6
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "5. STATISTICAL SUMMARY"
+      },
+      "translation": {
+        "text": "5. 통계 요약",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u004",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0008"
+        ],
+        "lineNumbers": [
+          8
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "a. GROUND ACTIVITY"
+      },
+      "translation": {
+        "text": "a. 지상 활동",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u005",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0010"
+        ],
+        "lineNumbers": [
+          10
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "(1) Total man hours by ARS Personnel in field 72"
+      },
+      "translation": {
+        "text": "(1) 현장 ARS 인력의 총 투입 시간 72",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u006",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0012",
+          "page_0050-l0013"
+        ],
+        "lineNumbers": [
+          12,
+          13
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "(2) Total man hours by other Army Personnel\n(estimate) 300"
+      },
+      "translation": {
+        "text": "(2) 기타 육군 인력의 총 투입 시간\n(추정) 300",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u007",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0015"
+        ],
+        "lineNumbers": [
+          15
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "(3) Total man hours by civilian personnel (est) 150"
+      },
+      "translation": {
+        "text": "(3) 민간인 인력의 총 투입 시간 (추정) 150",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u008",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0017"
+        ],
+        "lineNumbers": [
+          17
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "(4) No. of miles driven by Army Vehicles 500"
+      },
+      "translation": {
+        "text": "(4) 육군 차량 주행 마일 수 500",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u009",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0019"
+        ],
+        "lineNumbers": [
+          19
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "b. AERIAL ACTIVITY"
+      },
+      "translation": {
+        "text": "b. 공중 활동",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u010",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0021"
+        ],
+        "lineNumbers": [
+          21
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "(1) Total No. of sorties flown 3"
+      },
+      "translation": {
+        "text": "(1) 총 출격 횟수 3",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u011",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0023"
+        ],
+        "lineNumbers": [
+          23
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "(2) Total hours flown by Army aircraft 6"
+      },
+      "translation": {
+        "text": "(2) 육군 항공기 총 비행 시간 6",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u012",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0025"
+        ],
+        "lineNumbers": [
+          25
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "c. LOCAL PURCHASES"
+      },
+      "translation": {
+        "text": "c. 현지 구매",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u013",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0027"
+        ],
+        "lineNumbers": [
+          27
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0027",
+            "lineNumber": 27,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "(1) None"
+      },
+      "translation": {
+        "text": "(1) 없음",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u014",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0029"
+        ],
+        "lineNumbers": [
+          29
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "6. COMMENTS"
+      },
+      "translation": {
+        "text": "6. 의견",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u015",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0031",
+          "page_0050-l0032"
+        ],
+        "lineNumbers": [
+          31,
+          32
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0031",
+            "lineNumber": 31,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0032",
+            "lineNumber": 32,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "a. Cooperation received from all civilian agencies concerned\nwas complete and excellent."
+      },
+      "translation": {
+        "text": "a. 관련된 모든 민간 기관으로부터 받은 협조는\n완전하고 훌륭했음.",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u016",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0034"
+        ],
+        "lineNumbers": [
+          34
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0034",
+            "lineNumber": 34,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "7. RECOMMENDATIONS"
+      },
+      "translation": {
+        "text": "7. 권고 사항",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u017",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0036"
+        ],
+        "lineNumbers": [
+          36
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0036",
+            "lineNumber": 36,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "a. None."
+      },
+      "translation": {
+        "text": "a. 없음.",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u018",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0038"
+        ],
+        "lineNumbers": [
+          38
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0038",
+            "lineNumber": 38,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "ROBERT H. MASONHEIMER"
+      },
+      "translation": {
+        "text": "로버트 H. 메이슨하이머",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u019",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0040"
+        ],
+        "lineNumbers": [
+          40
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0040",
+            "lineNumber": 40,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "Commanding Officer"
+      },
+      "translation": {
+        "text": "지휘관",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u020",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0042",
+          "page_0050-l0043"
+        ],
+        "lineNumbers": [
+          42,
+          43
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0042",
+            "lineNumber": 42,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          },
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0043",
+            "lineNumber": 43,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "1 Incl:\n1-Photographs"
+      },
+      "translation": {
+        "text": "첨부 문서 1건:\n1-사진",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p05-page-0050-u021",
+      "unitVersion": 1,
+      "part": 5,
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo5.pdf",
+        "sha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25",
+        "lineIds": [
+          "page_0050-l0045"
+        ],
+        "lineNumbers": [
+          45
+        ],
+        "refs": [
+          {
+            "part": 5,
+            "page": 50,
+            "pageId": "page_0050",
+            "lineId": "page_0050-l0045",
+            "lineNumber": 45,
+            "sourcePath": "docs/ufo5.pdf",
+            "sourceSha256": "d46d8d32e344062ab4f5c0b2459973bab6e9aff40ea539b4efde0eaa8540af25"
+          }
+        ],
+        "text": "CONFIDENTIAL"
+      },
+      "translation": {
+        "text": "비밀",
+        "reviewedAt": "2026-05-10T09:54:54.531Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}
