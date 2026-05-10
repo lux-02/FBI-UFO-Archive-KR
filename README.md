@@ -1,10 +1,121 @@
 # FBI UFO OCR + Korean Translation Dataset
 
-FBI Vault에 공개된 UFO 관련 PDF를 대상으로 OCR 추출본과 한국어 번역 검수본을 정리하는 비공식 공개 데이터셋입니다.
+An unofficial public dataset containing OCR output and reviewed Korean translation exports derived from UFO-related PDFs published on the [FBI Vault](https://vault.fbi.gov/UFO).
 
-이 저장소는 미국 FBI 또는 미국 정부와 무관하며, 어떤 공식 입장이나 결론을 대변하지 않습니다. 원본 PDF는 [FBI Vault](https://vault.fbi.gov/UFO)의 공개 자료입니다. 이 저장소의 OCR/번역 데이터는 원본 문서를 읽고 검토하기 쉽게 만든 파생 데이터이며, 원문에 없는 사실이나 해석을 추가하지 않는 것을 원칙으로 합니다.
+This project is not affiliated with the U.S. FBI or the U.S. government, and it does not represent any official position or conclusion. The source PDFs are public materials available from FBI Vault. This dataset is a derivative reading and review aid; it does not add claims, tone, or conclusions that are not present in the source documents.
 
-This is an unofficial OCR and Korean translation dataset derived from FBI Vault UFO documents. It is not affiliated with the U.S. FBI or the U.S. government.
+---
+
+## Public Scope
+
+| Area | Path | Status |
+|---|---|---|
+| Source manifest | `data/sources.json` | FBI Vault URL, SHA-256, and page count for 16 PDFs |
+| Public OCR and translation dataset | `dataset/` | Part 01-03 OCR and Korean translation exports complete |
+| Source PDFs | Not included | Verify directly through FBI Vault |
+
+The current public dataset includes OCR output and Korean translation exports for Part 01-03. Part 04-16 are pending.
+
+---
+
+## Current Status
+
+| Part | Source PDF | Pages | Korean reviewed units | Approval |
+|---:|---|---:|---:|---|
+| 01 | `docs/ufo1.pdf` | 69 | 110 | `not_approved` |
+| 02 | `docs/ufo2.pdf` | 79 | 722 | `not_approved` |
+| 03 | `docs/ufo3.pdf` | 111 | 895 | `not_approved` |
+
+The dataset currently contains 1,727 Korean translation units available for public review.
+
+`reviewed` means the unit has gone through source comparison and Korean translation review. `not_approved` means the text is not a final approved publication translation; it is a public review dataset artifact.
+
+---
+
+## Dataset Layout
+
+```text
+data/
+  sources.json                       source URL, SHA-256, and page count for 16 PDFs
+
+dataset/
+  README.md                          detailed dataset notes
+  LICENSE                            dataset license and interim policy
+  part-01/
+    manifest.json                    part metadata, source SHA-256, export status
+    pages/
+      page_0001.txt                  page-level OCR text
+      page_0001.json                 structured line-level OCR data
+      ...
+    translations/ko/
+      summary.json                   Korean translation export summary
+      units.json                     translation units with source mapping
+      excluded_source_lines.json     unresolved OCR lines excluded from translation
+      pages/page_NNNN.txt            page-level Korean translation
+      pages/page_NNNN.json           structured page-level Korean translation
+  part-02/
+  part-03/
+```
+
+Each translation unit preserves part/page/source-line mappings. OCR lines that have not been confirmed are not mixed into the translated body text; they are retained separately in `excluded_source_lines.json`.
+
+---
+
+## How to Use
+
+1. Read [`dataset/README.md`](dataset/README.md) for detailed dataset status and conventions.
+2. Check each part's `manifest.json` for source PDF hash, page count, and export status.
+3. Read OCR source text in `dataset/part-XX/pages/page_NNNN.{txt,json}`.
+4. Read Korean translations in `dataset/part-XX/translations/ko/`.
+5. Compare against source page images by opening the PDFs directly from [FBI Vault UFO](https://vault.fbi.gov/UFO).
+
+If you download the source PDFs locally, verify them against `data/sources.json`.
+
+```sh
+shasum -a 256 docs/ufo1.pdf
+shasum -a 256 docs/ufo2.pdf
+shasum -a 256 docs/ufo3.pdf
+```
+
+---
+
+## Data Principles
+
+- Preserve traceability to the original PDF part and page.
+- Do not add facts, mood, or conclusions that are absent from the source PDF.
+- Do not reconstruct redacted, deleted, illegible, or physically damaged text by guesswork.
+- Keep confirmed OCR lines separate from unresolved OCR lines.
+- Keep Korean translation in a documentary record style, avoiding sensational or clickbait wording.
+- Do not publish raw model logs, private review notes, or operational crop evidence in the public dataset.
+
+---
+
+## License
+
+| Area | License / Policy |
+|---|---|
+| Public dataset (`dataset/`) | See [`dataset/LICENSE`](dataset/LICENSE) |
+| Korean translation exports | Same public dataset policy, final license review pending |
+| Source PDFs | This repository does not make claims about copyright or public-domain status |
+
+Source PDFs are not included in this repository. Check FBI Vault and any applicable legal terms before reusing the original documents.
+
+---
+
+## Citation
+
+```text
+FBI-UFO-Archive-KR Project. (2026). FBI UFO OCR + Korean Translation Dataset.
+Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
+```
+
+---
+
+# FBI UFO OCR + Korean Translation Dataset 한국어 안내
+
+[FBI Vault](https://vault.fbi.gov/UFO)에 공개된 UFO 관련 PDF를 대상으로 OCR 추출본과 한국어 번역 검수본을 정리하는 비공식 공개 데이터셋입니다.
+
+이 저장소는 미국 FBI 또는 미국 정부와 무관하며, 어떤 공식 입장이나 결론을 대변하지 않습니다. 원본 PDF는 FBI Vault에서 확인할 수 있는 공개 자료입니다. 이 데이터셋은 원본 문서를 읽고 검토하기 쉽게 만든 파생 데이터이며, 원문에 없는 사실, 분위기, 결론을 추가하지 않는 것을 원칙으로 합니다.
 
 ---
 
@@ -30,7 +141,7 @@ This is an unofficial OCR and Korean translation dataset derived from FBI Vault 
 
 총 1,727개의 한국어 번역 unit이 공개 검토 가능한 상태로 export되어 있습니다.
 
-`reviewed`는 OCR 원문 대조와 한국어 검수를 거친 상태를 뜻합니다. 다만 `not_approved`가 붙은 항목은 최종 승인 번역본이 아니며, 공개 검토와 재사용을 위한 데이터셋 상태입니다.
+`reviewed`는 OCR 원문 대조와 한국어 검수를 거친 상태를 뜻합니다. `not_approved`가 붙은 항목은 최종 승인 번역본이 아니며, 공개 검토와 재사용을 위한 데이터셋 상태입니다.
 
 ---
 
@@ -108,5 +219,5 @@ shasum -a 256 docs/ufo3.pdf
 
 ```text
 FBI-UFO-Archive-KR Project. (2026). FBI UFO OCR + Korean Translation Dataset.
-Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
+출처: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 ```
