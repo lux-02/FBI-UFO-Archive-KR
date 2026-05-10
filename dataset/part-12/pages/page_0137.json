@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 12,
+  "page": 137,
+  "pageId": "page_0137",
+  "source": {
+    "pdfPath": "docs/ufo12.pdf",
+    "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 7 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0137-l0003",
+    "page_0137-l0006"
+  ],
+  "lineCount": 11,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "Letter to Director of Special Investigations",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "The Inspector General",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "Department of the Air Force",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "The above information was telephonically",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "furnished to Captain [REDACTED] of your office by this",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 7,
+      "text": "Bureau on May 4 and May 5, 1956, for whatever action",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "deemed desirable by your office. No action is contemplated",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "in this matter by this Bureau.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
+      "text": "- 2 -",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

@@ -1,0 +1,260 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 12,
+  "page": 141,
+  "pageId": "page_0141",
+  "source": {
+    "pdfPath": "docs/ufo12.pdf",
+    "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T21:38:08.599Z",
+  "unitCount": 4,
+  "sourceLineCount": 8,
+  "excludedLineCount": 2,
+  "excludedLines": [
+    {
+      "part": 12,
+      "page": 141,
+      "pageId": "page_0141",
+      "lineId": "page_0141-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "Miss [REDACTED] advised Mr. [REDACTED] an employee",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 12,
+      "page": 141,
+      "pageId": "page_0141",
+      "lineId": "page_0141-l0006",
+      "lineNumber": 6,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "of the [REDACTED] North Arlington, Virginia, would recall",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p12-page-0141-u001",
+      "unitVersion": 1,
+      "part": 12,
+      "page": 141,
+      "pageId": "page_0141",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo12.pdf",
+        "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed",
+        "lineIds": [
+          "page_0141-l0001",
+          "page_0141-l0002",
+          "page_0141-l0003"
+        ],
+        "lineNumbers": [
+          1,
+          2,
+          3
+        ],
+        "refs": [
+          {
+            "part": 12,
+            "page": 141,
+            "pageId": "page_0141",
+            "lineId": "page_0141-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          },
+          {
+            "part": 12,
+            "page": 141,
+            "pageId": "page_0141",
+            "lineId": "page_0141-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          },
+          {
+            "part": 12,
+            "page": 141,
+            "pageId": "page_0141",
+            "lineId": "page_0141-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          }
+        ],
+        "text": "Letter to Director of Special Investigations\nThe Inspector General\nDepartment of the Air Force"
+      },
+      "translation": {
+        "text": "특별 수사국장에게 보내는 서신\n감찰관\n공군부",
+        "reviewedAt": "2026-05-10T21:37:20.739Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p12-page-0141-u002",
+      "unitVersion": 1,
+      "part": 12,
+      "page": 141,
+      "pageId": "page_0141",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo12.pdf",
+        "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed",
+        "lineIds": [
+          "page_0141-l0007",
+          "page_0141-l0008"
+        ],
+        "lineNumbers": [
+          7,
+          8
+        ],
+        "refs": [
+          {
+            "part": 12,
+            "page": 141,
+            "pageId": "page_0141",
+            "lineId": "page_0141-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          },
+          {
+            "part": 12,
+            "page": 141,
+            "pageId": "page_0141",
+            "lineId": "page_0141-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          }
+        ],
+        "text": "approximately where they sighted the object and he may\nbe able to furnish additional pertinent information."
+      },
+      "translation": {
+        "text": "그들이 물체를 목격한 대략적인 위치를 알려주면\n추가 관련 정보를 제공할 수 있을 것입니다.",
+        "reviewedAt": "2026-05-10T21:37:20.739Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p12-page-0141-u003",
+      "unitVersion": 1,
+      "part": 12,
+      "page": 141,
+      "pageId": "page_0141",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo12.pdf",
+        "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed",
+        "lineIds": [
+          "page_0141-l0010",
+          "page_0141-l0011"
+        ],
+        "lineNumbers": [
+          10,
+          11
+        ],
+        "refs": [
+          {
+            "part": 12,
+            "page": 141,
+            "pageId": "page_0141",
+            "lineId": "page_0141-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          },
+          {
+            "part": 12,
+            "page": 141,
+            "pageId": "page_0141",
+            "lineId": "page_0141-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          }
+        ],
+        "text": "The above is furnished for your information\nand no further action is being taken in this matter."
+      },
+      "translation": {
+        "text": "위 내용은 귀하의 정보 제공을 위한 것이며\n이 문제에 대해 더 이상의 조치는 취해지지 않습니다.",
+        "reviewedAt": "2026-05-10T21:37:20.739Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p12-page-0141-u004",
+      "unitVersion": 1,
+      "part": 12,
+      "page": 141,
+      "pageId": "page_0141",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo12.pdf",
+        "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed",
+        "lineIds": [
+          "page_0141-l0013"
+        ],
+        "lineNumbers": [
+          13
+        ],
+        "refs": [
+          {
+            "part": 12,
+            "page": 141,
+            "pageId": "page_0141",
+            "lineId": "page_0141-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          }
+        ],
+        "text": "- 2 -"
+      },
+      "translation": {
+        "text": "- 2 -",
+        "reviewedAt": "2026-05-10T21:37:20.739Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

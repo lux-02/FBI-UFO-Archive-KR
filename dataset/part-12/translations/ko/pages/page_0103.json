@@ -1,0 +1,400 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 12,
+  "page": 103,
+  "pageId": "page_0103",
+  "source": {
+    "pdfPath": "docs/ufo12.pdf",
+    "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T21:38:08.599Z",
+  "unitCount": 7,
+  "sourceLineCount": 9,
+  "excludedLineCount": 5,
+  "excludedLines": [
+    {
+      "part": 12,
+      "page": 103,
+      "pageId": "page_0103",
+      "lineId": "page_0103-l0003",
+      "lineNumber": 3,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "and government administration in the United States, representing possible",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 12,
+      "page": 103,
+      "pageId": "page_0103",
+      "lineId": "page_0103-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Assistant Attorney General Tompkins and the Director of the Immigration and",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 12,
+      "page": 103,
+      "pageId": "page_0103",
+      "lineId": "page_0103-l0009",
+      "lineNumber": 9,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "indication that matters related by [REDACTED] in her letter to [REDACTED] are within",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 12,
+      "page": 103,
+      "pageId": "page_0103",
+      "lineId": "page_0103-l0015",
+      "lineNumber": 15,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "1957. In view of [REDACTED] vague threatened use of force (set forth in the last",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 12,
+      "page": 103,
+      "pageId": "page_0103",
+      "lineId": "page_0103-l0016",
+      "lineNumber": 16,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "paragraph of her letter to [REDACTED] Richmond Division should promptly make",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p12-page-0103-u001",
+      "unitVersion": 1,
+      "part": 12,
+      "page": 103,
+      "pageId": "page_0103",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo12.pdf",
+        "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed",
+        "lineIds": [
+          "page_0103-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 12,
+            "page": 103,
+            "pageId": "page_0103",
+            "lineId": "page_0103-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          }
+        ],
+        "text": "SAC, Cincinnati"
+      },
+      "translation": {
+        "text": "신시내티 특수요원 담당관",
+        "reviewedAt": "2026-05-10T21:37:20.739Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p12-page-0103-u002",
+      "unitVersion": 1,
+      "part": 12,
+      "page": 103,
+      "pageId": "page_0103",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo12.pdf",
+        "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed",
+        "lineIds": [
+          "page_0103-l0004"
+        ],
+        "lineNumbers": [
+          4
+        ],
+        "refs": [
+          {
+            "part": 12,
+            "page": 103,
+            "pageId": "page_0103",
+            "lineId": "page_0103-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          }
+        ],
+        "text": "admissions against interest. This information was furnished by the Bureau to"
+      },
+      "translation": {
+        "text": "불리한 진술. 이 정보는 국에서 다음 기관에 제공되었습니다.",
+        "reviewedAt": "2026-05-10T21:37:20.739Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p12-page-0103-u003",
+      "unitVersion": 1,
+      "part": 12,
+      "page": 103,
+      "pageId": "page_0103",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo12.pdf",
+        "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed",
+        "lineIds": [
+          "page_0103-l0006"
+        ],
+        "lineNumbers": [
+          6
+        ],
+        "refs": [
+          {
+            "part": 12,
+            "page": 103,
+            "pageId": "page_0103",
+            "lineId": "page_0103-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          }
+        ],
+        "text": "Naturalization Service."
+      },
+      "translation": {
+        "text": "귀화국.",
+        "reviewedAt": "2026-05-10T21:37:20.739Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p12-page-0103-u004",
+      "unitVersion": 1,
+      "part": 12,
+      "page": 103,
+      "pageId": "page_0103",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo12.pdf",
+        "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed",
+        "lineIds": [
+          "page_0103-l0008"
+        ],
+        "lineNumbers": [
+          8
+        ],
+        "refs": [
+          {
+            "part": 12,
+            "page": 103,
+            "pageId": "page_0103",
+            "lineId": "page_0103-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          }
+        ],
+        "text": "In view of the above information and in the absence of any"
+      },
+      "translation": {
+        "text": "위 정보와 어떠한 정보도 없는 상황에서",
+        "reviewedAt": "2026-05-10T21:37:20.739Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p12-page-0103-u005",
+      "unitVersion": 1,
+      "part": 12,
+      "page": 103,
+      "pageId": "page_0103",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo12.pdf",
+        "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed",
+        "lineIds": [
+          "page_0103-l0010",
+          "page_0103-l0011"
+        ],
+        "lineNumbers": [
+          10,
+          11
+        ],
+        "refs": [
+          {
+            "part": 12,
+            "page": 103,
+            "pageId": "page_0103",
+            "lineId": "page_0103-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          },
+          {
+            "part": 12,
+            "page": 103,
+            "pageId": "page_0103",
+            "lineId": "page_0103-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          }
+        ],
+        "text": "the Bureau's jurisdiction, Richmond should disregard the lead set out in the last\nparagraph of referenced Cincinnati letter."
+      },
+      "translation": {
+        "text": "국의 관할권에 따라 리치몬드는 참조된 신시내티 서한의 마지막 단락에 명시된 단서를 무시해야 합니다.",
+        "reviewedAt": "2026-05-10T21:37:20.739Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p12-page-0103-u006",
+      "unitVersion": 1,
+      "part": 12,
+      "page": 103,
+      "pageId": "page_0103",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo12.pdf",
+        "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed",
+        "lineIds": [
+          "page_0103-l0013",
+          "page_0103-l0014"
+        ],
+        "lineNumbers": [
+          13,
+          14
+        ],
+        "refs": [
+          {
+            "part": 12,
+            "page": 103,
+            "pageId": "page_0103",
+            "lineId": "page_0103-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          },
+          {
+            "part": 12,
+            "page": 103,
+            "pageId": "page_0103",
+            "lineId": "page_0103-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          }
+        ],
+        "text": "There is enclosed herewith for the Richmond Office an Autostat\nof Eva Reich's letter to Leonard Stringfield, Cincinnati, Ohio, dated March 19,"
+      },
+      "translation": {
+        "text": "리치몬드 사무소에 3월 19일자 에바 라이히가 오하이오주 신시내티의 레너드 스트링필드에게 보낸 편지의 오토스탯 사본이 동봉되어 있습니다.",
+        "reviewedAt": "2026-05-10T21:37:20.739Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p12-page-0103-u007",
+      "unitVersion": 1,
+      "part": 12,
+      "page": 103,
+      "pageId": "page_0103",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo12.pdf",
+        "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed",
+        "lineIds": [
+          "page_0103-l0017"
+        ],
+        "lineNumbers": [
+          17
+        ],
+        "refs": [
+          {
+            "part": 12,
+            "page": 103,
+            "pageId": "page_0103",
+            "lineId": "page_0103-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          }
+        ],
+        "text": "this information available to appropriate local officials in Alexandria, Virginia."
+      },
+      "translation": {
+        "text": "이 정보를 버지니아주 알렉산드리아의 해당 지역 공무원에게 제공합니다.",
+        "reviewedAt": "2026-05-10T21:37:20.739Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

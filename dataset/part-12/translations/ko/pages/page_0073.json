@@ -1,0 +1,174 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 12,
+  "page": 73,
+  "pageId": "page_0073",
+  "source": {
+    "pdfPath": "docs/ufo12.pdf",
+    "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T21:38:08.599Z",
+  "unitCount": 2,
+  "sourceLineCount": 6,
+  "excludedLineCount": 2,
+  "excludedLines": [
+    {
+      "part": 12,
+      "page": 73,
+      "pageId": "page_0073",
+      "lineId": "page_0073-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Have upon [unclear] it and let me know.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 12,
+      "page": 73,
+      "pageId": "page_0073",
+      "lineId": "page_0073-l0003",
+      "lineNumber": 3,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p12-page-0073-u001",
+      "unitVersion": 1,
+      "part": 12,
+      "page": 73,
+      "pageId": "page_0073",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo12.pdf",
+        "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed",
+        "lineIds": [
+          "page_0073-l0002"
+        ],
+        "lineNumbers": [
+          2
+        ],
+        "refs": [
+          {
+            "part": 12,
+            "page": 73,
+            "pageId": "page_0073",
+            "lineId": "page_0073-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          }
+        ],
+        "text": "Sincerely yours,"
+      },
+      "translation": {
+        "text": "진심으로,",
+        "reviewedAt": "2026-05-10T21:37:20.739Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p12-page-0073-u002",
+      "unitVersion": 1,
+      "part": 12,
+      "page": 73,
+      "pageId": "page_0073",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo12.pdf",
+        "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed",
+        "lineIds": [
+          "page_0073-l0005",
+          "page_0073-l0006",
+          "page_0073-l0007",
+          "page_0073-l0008",
+          "page_0073-l0009"
+        ],
+        "lineNumbers": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "refs": [
+          {
+            "part": 12,
+            "page": 73,
+            "pageId": "page_0073",
+            "lineId": "page_0073-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          },
+          {
+            "part": 12,
+            "page": 73,
+            "pageId": "page_0073",
+            "lineId": "page_0073-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          },
+          {
+            "part": 12,
+            "page": 73,
+            "pageId": "page_0073",
+            "lineId": "page_0073-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          },
+          {
+            "part": 12,
+            "page": 73,
+            "pageId": "page_0073",
+            "lineId": "page_0073-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          },
+          {
+            "part": 12,
+            "page": 73,
+            "pageId": "page_0073",
+            "lineId": "page_0073-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo12.pdf",
+            "sourceSha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
+          }
+        ],
+        "text": "MR. JONES\nAUG 19 12 33 PM '47\nRECEIVED\nF B I\nU S DEPT OF JUSTICE"
+      },
+      "translation": {
+        "text": "존스 씨\n1947년 8월 19일 오후 12시 33분\n접수됨\nFBI\n미국 법무부",
+        "reviewedAt": "2026-05-10T21:37:20.739Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}
