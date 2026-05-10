@@ -1,0 +1,338 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 13,
+  "page": 117,
+  "pageId": "page_0117",
+  "source": {
+    "pdfPath": "docs/ufo13.pdf",
+    "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T22:41:01.050Z",
+  "unitCount": 3,
+  "sourceLineCount": 16,
+  "excludedLineCount": 4,
+  "excludedLines": [
+    {
+      "part": 13,
+      "page": 117,
+      "pageId": "page_0117",
+      "lineId": "page_0117-l0002",
+      "lineNumber": 2,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] STATES OBJECT WAS OVAL SHAPED, SIMILAR TO FOOTBALL,",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 117,
+      "pageId": "page_0117",
+      "lineId": "page_0117-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "WITNESSES KNOWN TO NOISE, FLAME OR OBJECT.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 117,
+      "pageId": "page_0117",
+      "lineId": "page_0117-l0006",
+      "lineNumber": 6,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] COMMANDER, STALLION RANGE",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 117,
+      "pageId": "page_0117",
+      "lineId": "page_0117-l0020",
+      "lineNumber": 20,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "[unclear]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p13-page-0117-u001",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 117,
+      "pageId": "page_0117",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0117-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 117,
+            "pageId": "page_0117",
+            "lineId": "page_0117-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "RECTANGULAR TYPE PATTERN AVERAGING ABOUT TWELVE FEET APART."
+      },
+      "translation": {
+        "text": "약 12피트 간격의 직사각형 패턴.",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0117-u002",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 117,
+      "pageId": "page_0117",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0117-l0003",
+          "page_0117-l0004"
+        ],
+        "lineNumbers": [
+          3,
+          4
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 117,
+            "pageId": "page_0117",
+            "lineId": "page_0117-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 117,
+            "pageId": "page_0117",
+            "lineId": "page_0117-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "POSSIBLY TWENTY FEET LONG, AND HAD A RED INSIGNIA ABOUT THIRTY\nINCHES HIGH AND TWO FEET WIDE, CENTERED ON OBJECT. NO OTHER"
+      },
+      "translation": {
+        "text": "길이는 약 20피트였을 수 있으며, 물체 중앙에 높이 약 30인치, 폭 2피트의 붉은 휘장이 있었다. 다른",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0117-u003",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 117,
+      "pageId": "page_0117",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0117-l0007",
+          "page_0117-l0008",
+          "page_0117-l0009",
+          "page_0117-l0010",
+          "page_0117-l0011",
+          "page_0117-l0012",
+          "page_0117-l0013",
+          "page_0117-l0014",
+          "page_0117-l0015",
+          "page_0117-l0016",
+          "page_0117-l0017",
+          "page_0117-l0018",
+          "page_0117-l0019"
+        ],
+        "lineNumbers": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 117,
+            "pageId": "page_0117",
+            "lineId": "page_0117-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 117,
+            "pageId": "page_0117",
+            "lineId": "page_0117-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 117,
+            "pageId": "page_0117",
+            "lineId": "page_0117-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 117,
+            "pageId": "page_0117",
+            "lineId": "page_0117-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 117,
+            "pageId": "page_0117",
+            "lineId": "page_0117-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 117,
+            "pageId": "page_0117",
+            "lineId": "page_0117-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 117,
+            "pageId": "page_0117",
+            "lineId": "page_0117-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 117,
+            "pageId": "page_0117",
+            "lineId": "page_0117-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 117,
+            "pageId": "page_0117",
+            "lineId": "page_0117-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 117,
+            "pageId": "page_0117",
+            "lineId": "page_0117-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 117,
+            "pageId": "page_0117",
+            "lineId": "page_0117-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 117,
+            "pageId": "page_0117",
+            "lineId": "page_0117-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 117,
+            "pageId": "page_0117",
+            "lineId": "page_0117-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "CENTER, SOCORRO, N.M., ADVISED AT ONCE APRIL TWENTY FOUR AND IS\nHANDLING.\nMILITARY PRESENTLY CONDUCTING OPERATION KNOWN AS CLOUD GAP\nWHICH IS JOINT OPERATION DEPARTMENT OF DEFENSE AND ARMY CONTROL,\nDISARMAMENT AGENCY IN SOUTHWEST STATES INCLUDING NEW MEXICO. NOT\nKNOWN IF ABOVE INCIDENT RELATES TO CLOUD GAP.\nCONSIDERABLE INTEREST OF PRESS IN MATTER. ALBUQUERQUE\nCONDUCTING NO INVESTIGATION, IS MAINTAINING LIAISON WITH MILITARY.\nBUREAU WILL BE ADVISED OF ANY PERTINENT DEVELOPMENTS.\nEND\nWA NHH\nFBI WASH DC\nTUP"
+      },
+      "translation": {
+        "text": "센터, 소코로, 뉴멕시코는 4월 24일에 즉시 통보받았으며 처리 중이다.\n군은 현재 클라우드 갭(CLOUD GAP)으로 알려진 작전을 수행 중이며, 이는 국방부와 육군 통제, 뉴멕시코를 포함한 남서부 주들의 군축 기관의 합동 작전이다. 위 사건이 클라우드 갭과 관련이 있는지는 알려지지 않았다.\n언론의 상당한 관심이 이 문제에 집중되어 있다. 앨버커키는 조사를 수행하지 않고 있으며, 군과 연락을 유지하고 있다.\n국은 모든 관련 진행 상황을 통보받을 것이다.\n끝\nWA NHH\nFBI 워싱턴 DC\nTUP",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 13,
+  "page": 139,
+  "pageId": "page_0139",
+  "source": {
+    "pdfPath": "docs/ufo13.pdf",
+    "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 5 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0139-l0006"
+  ],
+  "lineCount": 9,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "CI 100-11671",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "he saw a formation of them from a bomber.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "Since then he has served as a spotter for the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "Air Defense Command, published a magazine about the",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 7,
+      "text": "objects, and written a book on them.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "-3-",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

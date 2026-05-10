@@ -1,0 +1,292 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 13,
+  "page": 131,
+  "pageId": "page_0131",
+  "source": {
+    "pdfPath": "docs/ufo13.pdf",
+    "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T22:41:01.050Z",
+  "unitCount": 5,
+  "sourceLineCount": 5,
+  "excludedLineCount": 5,
+  "excludedLines": [
+    {
+      "part": 13,
+      "page": 131,
+      "pageId": "page_0131",
+      "lineId": "page_0131-l0004",
+      "lineNumber": 4,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "9/17/63, [REDACTED] Provost Marshal's",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 131,
+      "pageId": "page_0131",
+      "lineId": "page_0131-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "Office, Fort Monroe, Virginia, advised SA [REDACTED] that",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 131,
+      "pageId": "page_0131",
+      "lineId": "page_0131-l0007",
+      "lineNumber": 7,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "Maryland, has conducted a background check of [REDACTED] since",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 131,
+      "pageId": "page_0131",
+      "lineId": "page_0131-l0008",
+      "lineNumber": 8,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] directed voluminous correspondence to military",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 131,
+      "pageId": "page_0131",
+      "lineId": "page_0131-l0009",
+      "lineNumber": 9,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "officials in the area and because [REDACTED] is employed",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p13-page-0131-u001",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 131,
+      "pageId": "page_0131",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0131-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 131,
+            "pageId": "page_0131",
+            "lineId": "page_0131-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "NF 62-720"
+      },
+      "translation": {
+        "text": "NF 62-720",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0131-u002",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 131,
+      "pageId": "page_0131",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0131-l0003"
+        ],
+        "lineNumbers": [
+          3
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 131,
+            "pageId": "page_0131",
+            "lineId": "page_0131-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "For the information of the Bureau on"
+      },
+      "translation": {
+        "text": "국에 대한 정보는",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0131-u003",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 131,
+      "pageId": "page_0131",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0131-l0006"
+        ],
+        "lineNumbers": [
+          6
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 131,
+            "pageId": "page_0131",
+            "lineId": "page_0131-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "the G-2 Section of Second Army, Fort George G. Meade,"
+      },
+      "translation": {
+        "text": "포트 조지 G. 미드 제2군 G-2 섹션",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0131-u004",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 131,
+      "pageId": "page_0131",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0131-l0010"
+        ],
+        "lineNumbers": [
+          10
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 131,
+            "pageId": "page_0131",
+            "lineId": "page_0131-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "by the Department of the Army."
+      },
+      "translation": {
+        "text": "육군부에서.",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0131-u005",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 131,
+      "pageId": "page_0131",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0131-l0012"
+        ],
+        "lineNumbers": [
+          12
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 131,
+            "pageId": "page_0131",
+            "lineId": "page_0131-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "-3-"
+      },
+      "translation": {
+        "text": "-3-",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

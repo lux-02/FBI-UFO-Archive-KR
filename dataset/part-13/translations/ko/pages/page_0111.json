@@ -1,0 +1,195 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 13,
+  "page": 111,
+  "pageId": "page_0111",
+  "source": {
+    "pdfPath": "docs/ufo13.pdf",
+    "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T22:41:01.050Z",
+  "unitCount": 3,
+  "sourceLineCount": 3,
+  "excludedLineCount": 4,
+  "excludedLines": [
+    {
+      "part": 13,
+      "page": 111,
+      "pageId": "page_0111",
+      "lineId": "page_0111-l0002",
+      "lineNumber": 2,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "- It may be noted that Captain HOLDER immediately",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 111,
+      "pageId": "page_0111",
+      "lineId": "page_0111-l0004",
+      "lineNumber": 4,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] Liaison will be maintained with [REDACTED] who",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 111,
+      "pageId": "page_0111",
+      "lineId": "page_0111-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "advised he has received several more reported incidents,",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 111,
+      "pageId": "page_0111",
+      "lineId": "page_0111-l0007",
+      "lineNumber": 7,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "437",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p13-page-0111-u001",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 111,
+      "pageId": "page_0111",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0111-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 111,
+            "pageId": "page_0111",
+            "lineId": "page_0111-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "62-1028"
+      },
+      "translation": {
+        "text": "62-1028",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0111-u002",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 111,
+      "pageId": "page_0111",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0111-l0003"
+        ],
+        "lineNumbers": [
+          3
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 111,
+            "pageId": "page_0111",
+            "lineId": "page_0111-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "contacted proper military personnel concerning this incident."
+      },
+      "translation": {
+        "text": "이 사건과 관련하여 적절한 군 관계자에게 연락했습니다.",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0111-u003",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 111,
+      "pageId": "page_0111",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0111-l0006"
+        ],
+        "lineNumbers": [
+          6
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 111,
+            "pageId": "page_0111",
+            "lineId": "page_0111-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "to which he will give attention."
+      },
+      "translation": {
+        "text": "그가 주의를 기울일 것입니다.",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

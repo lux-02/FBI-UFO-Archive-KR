@@ -1,0 +1,89 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 13,
+  "page": 131,
+  "pageId": "page_0131",
+  "source": {
+    "pdfPath": "docs/ufo13.pdf",
+    "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 5 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0131-l0004",
+    "page_0131-l0005",
+    "page_0131-l0007",
+    "page_0131-l0008",
+    "page_0131-l0009"
+  ],
+  "lineCount": 12,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "NF 62-720",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "For the information of the Bureau on",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "9/17/63, [REDACTED] Provost Marshal's",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 5,
+      "text": "Office, Fort Monroe, Virginia, advised SA [REDACTED] that",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 6,
+      "text": "the G-2 Section of Second Army, Fort George G. Meade,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "Maryland, has conducted a background check of [REDACTED] since",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 8,
+      "text": "[REDACTED] directed voluminous correspondence to military",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 9,
+      "text": "officials in the area and because [REDACTED] is employed",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 10,
+      "text": "by the Department of the Army.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "-3-",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

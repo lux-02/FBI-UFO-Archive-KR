@@ -1,0 +1,738 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 13,
+  "page": 110,
+  "pageId": "page_0110",
+  "source": {
+    "pdfPath": "docs/ufo13.pdf",
+    "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T22:41:01.050Z",
+  "unitCount": 10,
+  "sourceLineCount": 28,
+  "excludedLineCount": 8,
+  "excludedLines": [
+    {
+      "part": 13,
+      "page": 110,
+      "pageId": "page_0110",
+      "lineId": "page_0110-l0003",
+      "lineNumber": 3,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "he had met [REDACTED] at Santa Fe, New Mexico, and both",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 110,
+      "pageId": "page_0110",
+      "lineId": "page_0110-l0004",
+      "lineNumber": 4,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "proceeded to La Madera, New Mexico, to check out [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 110,
+      "pageId": "page_0110",
+      "lineId": "page_0110-l0010",
+      "lineNumber": 10,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] had an odor of alcohol about him. [REDACTED] stated",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 110,
+      "pageId": "page_0110",
+      "lineId": "page_0110-l0016",
+      "lineNumber": 16,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "4/24/64, advised that they answered [REDACTED] radio calls and",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 110,
+      "pageId": "page_0110",
+      "lineId": "page_0110-l0019",
+      "lineNumber": 19,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "in the area. [REDACTED] a well rested and capable",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 110,
+      "pageId": "page_0110",
+      "lineId": "page_0110-l0020",
+      "lineNumber": 20,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] was noted to be perfectly sober and thoroughly",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 110,
+      "pageId": "page_0110",
+      "lineId": "page_0110-l0028",
+      "lineNumber": 28,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "with [REDACTED] and SA BYRNES checked the Socorro site",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 110,
+      "pageId": "page_0110",
+      "lineId": "page_0110-l0029",
+      "lineNumber": 29,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "and interviewed [REDACTED] at length. [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p13-page-0110-u001",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 110,
+      "pageId": "page_0110",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0110-l0001",
+          "page_0110-l0002"
+        ],
+        "lineNumbers": [
+          1,
+          2
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "62-1028\non 4/27/64, advised that on 4/26/64,"
+      },
+      "translation": {
+        "text": "62-1028\n4/27/64에, 4/26/64에 다음과 같이 조언했다.",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0110-u002",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 110,
+      "pageId": "page_0110",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0110-l0005",
+          "page_0110-l0006",
+          "page_0110-l0007",
+          "page_0110-l0008",
+          "page_0110-l0009"
+        ],
+        "lineNumbers": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "observations. He stated that at the scene there was still\nsome smoldering material. He noted that there was miscellaneous\nrubbish in the area and the site may have been a dump at one\ntime. In his opinion, some material, such as a can of paint,\ncould have caught fire and exploded. He also noted that"
+      },
+      "translation": {
+        "text": "관찰. 그는 현장에 여전히\n연기를 내는 물질이 남아 있었다고 진술했다. 그는 그 지역에 잡다한\n쓰레기가 있었고 그 장소가 한때 쓰레기장이었을 수도 있다고 언급했다.\n그의 의견으로는 페인트 캔과 같은 일부 물질이\n불이 붙어 폭발했을 수도 있다. 그는 또한",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0110-u003",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 110,
+      "pageId": "page_0110",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0110-l0011",
+          "page_0110-l0012"
+        ],
+        "lineNumbers": [
+          11,
+          12
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "he would advise the FBI, Albuquerque, of any pertinent develop-\nments."
+      },
+      "translation": {
+        "text": "관련된 진전 사항이 있으면 FBI 앨버커키에 알리겠다고 말했다.",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0110-u004",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 110,
+      "pageId": "page_0110",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0110-l0014",
+          "page_0110-l0015"
+        ],
+        "lineNumbers": [
+          14,
+          15
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "It may be noted that New Mexico State Police Sergeant\nM. S. CHAVEZ and Socorro County Undersheriff JIM LUCKIE on"
+      },
+      "translation": {
+        "text": "뉴멕시코 주 경찰 M. S. CHAVEZ 경사와 소코로 카운티 부보안관 JIM LUCKIE는",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0110-u005",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 110,
+      "pageId": "page_0110",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0110-l0017",
+          "page_0110-l0018"
+        ],
+        "lineNumbers": [
+          17,
+          18
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "went to the site quickly. They noted several small burning\nareas at the site and the indentations. No one else was noted"
+      },
+      "translation": {
+        "text": "현장에 빠르게 갔다. 그들은 현장에서 여러 개의 작은 불타는\n지역과 움푹 들어간 곳을 발견했다. 다른 사람은 발견되지 않았다.",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0110-u006",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 110,
+      "pageId": "page_0110",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0110-l0021"
+        ],
+        "lineNumbers": [
+          21
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "frightened."
+      },
+      "translation": {
+        "text": "겁에 질렸다.",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0110-u007",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 110,
+      "pageId": "page_0110",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0110-l0023",
+          "page_0110-l0024",
+          "page_0110-l0025",
+          "page_0110-l0026",
+          "page_0110-l0027"
+        ],
+        "lineNumbers": [
+          23,
+          24,
+          25,
+          26,
+          27
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0024",
+            "lineNumber": 24,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0026",
+            "lineNumber": 26,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0027",
+            "lineNumber": 27,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "SA D. ARTHUR BYRNES, JR. was at Socorro, New Mexico,\n4/24/64, and had noted the four irregular burned spots and\nthe four indentations at the site. SA BYRNES immediately\nadvised Captain R. T. HOLDER, Up Range Commander, Stallion\nRange Center, Socorro, New Mexico. Captain HOLDER, along"
+      },
+      "translation": {
+        "text": "특별 요원 D. ARTHUR BYRNES, JR.은 4/24/64에 뉴멕시코 소코로에 있었고,\n현장에서 네 개의 불규칙한 불탄 자국과 네 개의 움푹 들어간 곳을 발견했다.\n특별 요원 BYRNES는 즉시 뉴멕시코 소코로 스탤리언\n레인지 센터의 업 레인지 사령관인 R. T. HOLDER 대위에게\n알렸다. HOLDER 대위는",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0110-u008",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 110,
+      "pageId": "page_0110",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0110-l0030",
+          "page_0110-l0031",
+          "page_0110-l0032",
+          "page_0110-l0033"
+        ],
+        "lineNumbers": [
+          30,
+          31,
+          32,
+          33
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0030",
+            "lineNumber": 30,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0031",
+            "lineNumber": 31,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0032",
+            "lineNumber": 32,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0033",
+            "lineNumber": 33,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "observations were taken in the form of a statement. A copy\nof this lengthy statement is retained at the Albuquerque FBI\nOffice as well as a small sample of charred material taken\nat the scene."
+      },
+      "translation": {
+        "text": "관찰 내용은 진술서 형태로 작성되었다. 이 긴 진술서의 사본은\n앨버커키 FBI 사무실에 보관되어 있으며, 현장에서 채취한 작은 탄화 물질 샘플도 보관되어 있다.",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0110-u009",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 110,
+      "pageId": "page_0110",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0110-l0035",
+          "page_0110-l0036",
+          "page_0110-l0037",
+          "page_0110-l0038"
+        ],
+        "lineNumbers": [
+          35,
+          36,
+          37,
+          38
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0035",
+            "lineNumber": 35,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0036",
+            "lineNumber": 36,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0037",
+            "lineNumber": 37,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0038",
+            "lineNumber": 38,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "An unusual observation made at the Socorro scene\nwas that there appeared to be no \"blast\" effects. Between\nthe burned spots were unburned areas, including patches of\nunburned brown range grass."
+      },
+      "translation": {
+        "text": "소코로 현장에서 특이한 관찰은\n“폭발” 효과가 없는 것으로 보였다는 점이다. 불탄 자국 사이에는\n불타지 않은 갈색 목초지 패치를 포함하여 불타지 않은 지역이 있었다.",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0110-u010",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 110,
+      "pageId": "page_0110",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0110-l0040"
+        ],
+        "lineNumbers": [
+          40
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 110,
+            "pageId": "page_0110",
+            "lineId": "page_0110-l0040",
+            "lineNumber": 40,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "4/37"
+      },
+      "translation": {
+        "text": "4/37",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

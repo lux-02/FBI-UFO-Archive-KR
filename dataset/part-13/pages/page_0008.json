@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 13,
+  "page": 8,
+  "pageId": "page_0008",
+  "source": {
+    "pdfPath": "docs/ufo13.pdf",
+    "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 12 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0008-l0007",
+    "page_0008-l0013",
+    "page_0008-l0015"
+  ],
+  "lineCount": 16,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "HOTEL Gralynn",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "MIAMI, FLORIDA",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
+      "text": "Mr. Hoover - would you please",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "help me? Can you have some",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "F.B.I. men watch?",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "Starting July 26th, during the entire",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 8,
+      "text": "time the moon is out, I need",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "qualified watchers whose sanity",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "is unquestioned. The same men",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "must keep watch, so that they",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "can begin to comprehend the various",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "\"saucers and worse.\"",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Supply them with the following",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "equipment no one will know",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 16,
+      "text": "It is no trick!",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

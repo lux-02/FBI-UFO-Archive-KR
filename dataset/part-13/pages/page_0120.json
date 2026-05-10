@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 13,
+  "page": 120,
+  "pageId": "page_0120",
+  "source": {
+    "pdfPath": "docs/ufo13.pdf",
+    "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 10 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0120-l0006"
+  ],
+  "lineCount": 12,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "ADVISED. NO INVESTIGATION BEING CONDUCTED BY FBI, ALBUQUERQUE.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "LIAISON BEING MAINTAINED.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "MILITARY OFFICERS CONTACTED ADVISE THE TWO INCIDENTS REPORTED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "ARE NOT A PART OF A MILITARY EXERCISE TO THEIR KNOWLEDGE AND TO",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "DATE HAVE NO EXPLANATION.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "BUREAU WILL BE ADVISED OF ANY PERTENENT DEVELOPMENTS.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 7,
+      "text": "END",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "LLD",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "FBI WASH DC",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "P",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "CC-Mr. DeLoach",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

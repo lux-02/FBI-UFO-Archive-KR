@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 13,
+  "page": 114,
+  "pageId": "page_0114",
+  "source": {
+    "pdfPath": "docs/ufo13.pdf",
+    "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 5 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0114-l0002",
+    "page_0114-l0004"
+  ],
+  "lineCount": 8,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "AQ 62-1028",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "It may be noted that [REDACTED] immediately",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 3,
+      "text": "contacted proper military personnel concerning this incident.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "Liaison will be maintained with [REDACTED] who",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 5,
+      "text": "advised he has received several more reported incidents",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "to which he will give attention.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "3",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

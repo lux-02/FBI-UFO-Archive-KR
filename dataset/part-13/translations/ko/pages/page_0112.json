@@ -1,0 +1,674 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 13,
+  "page": 112,
+  "pageId": "page_0112",
+  "source": {
+    "pdfPath": "docs/ufo13.pdf",
+    "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T22:41:01.050Z",
+  "unitCount": 8,
+  "sourceLineCount": 28,
+  "excludedLineCount": 8,
+  "excludedLines": [
+    {
+      "part": 13,
+      "page": 112,
+      "pageId": "page_0112",
+      "lineId": "page_0112-l0003",
+      "lineNumber": 3,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Transmit the following in PLAIN (Type in plain text or code)",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 112,
+      "pageId": "page_0112",
+      "lineId": "page_0112-l0014",
+      "lineNumber": 14,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] OSI, Kirtland Air Force Base",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 112,
+      "pageId": "page_0112",
+      "lineId": "page_0112-l0016",
+      "lineNumber": 16,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "cannot explain the observations described by [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 112,
+      "pageId": "page_0112",
+      "lineId": "page_0112-l0018",
+      "lineNumber": 18,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] KAFB,",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 112,
+      "pageId": "page_0112",
+      "lineId": "page_0112-l0021",
+      "lineNumber": 21,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] advised that he and [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 112,
+      "pageId": "page_0112",
+      "lineId": "page_0112-l0023",
+      "lineNumber": 23,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] They were impressed by [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 112,
+      "pageId": "page_0112",
+      "lineId": "page_0112-l0025",
+      "lineNumber": 25,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "cannot explain [REDACTED] observations. He did learn",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 13,
+      "page": 112,
+      "pageId": "page_0112",
+      "lineId": "page_0112-l0036",
+      "lineNumber": 36,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Approved: [unclear] Special Agent in Charge Sent [unclear] Per [unclear]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p13-page-0112-u001",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 112,
+      "pageId": "page_0112",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0112-l0001",
+          "page_0112-l0002"
+        ],
+        "lineNumbers": [
+          1,
+          2
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "FBI\nDate: 4/28/64"
+      },
+      "translation": {
+        "text": "FBI\n날짜: 64/4/28",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0112-u002",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 112,
+      "pageId": "page_0112",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0112-l0004",
+          "page_0112-l0005",
+          "page_0112-l0006",
+          "page_0112-l0007",
+          "page_0112-l0008",
+          "page_0112-l0009",
+          "page_0112-l0010",
+          "page_0112-l0011",
+          "page_0112-l0012",
+          "page_0112-l0013"
+        ],
+        "lineNumbers": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "AIRTEL AIRMAIL\n(Priority)\nTO: DIRECTOR, FBI\nFROM: SAC, ALBUQUERQUE (62-1028) (P)\nRE: UNIDENTIFIED FLYING OBJECT,\nSOCORRO, NEW MEXICO,\n4/24/64\nINFORMATION CONCERNING\nRe Albuquerque teletypes to the Bureau 4/25/64 and\n4/27/64."
+      },
+      "translation": {
+        "text": "항공 전보 항공 우편\n(우선)\n수신: 국장, FBI\n발신: SAC, 앨버커키 (62-1028) (P)\n제목: 미확인 비행 물체,\n소코로, 뉴멕시코,\n64/4/24\n관련 정보\n앨버커키에서 본부로 보낸 64/4/25 및\n64/4/27 전신에 관하여.",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0112-u003",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 112,
+      "pageId": "page_0112",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0112-l0015"
+        ],
+        "lineNumbers": [
+          15
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "(KAFB), Albuquerque, New Mexico, on 4/26/64, advised that he"
+      },
+      "translation": {
+        "text": "앨버커키, 뉴멕시코 (KAFB)에서 64/4/26에 그가",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0112-u004",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 112,
+      "pageId": "page_0112",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0112-l0017"
+        ],
+        "lineNumbers": [
+          17
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "at Socorro, New Mexico."
+      },
+      "translation": {
+        "text": "뉴멕시코 소코로에서.",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0112-u005",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 112,
+      "pageId": "page_0112",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0112-l0019",
+          "page_0112-l0020"
+        ],
+        "lineNumbers": [
+          19,
+          20
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "Albuquerque, advised that he is the proper officer to handle\nsuch reports."
+      },
+      "translation": {
+        "text": "앨버커키는 그가 그러한 보고서를 처리할 적절한 담당자라고 조언했습니다.",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0112-u006",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 112,
+      "pageId": "page_0112",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0112-l0022"
+        ],
+        "lineNumbers": [
+          22
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "had examined the site at Socorro, New Mexico, and interviewed"
+      },
+      "translation": {
+        "text": "뉴멕시코 소코로의 현장을 조사하고 인터뷰했습니다.",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0112-u007",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 112,
+      "pageId": "page_0112",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0112-l0024"
+        ],
+        "lineNumbers": [
+          24
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0024",
+            "lineNumber": 24,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "sincerity. They noted no radio activity at the site. They"
+      },
+      "translation": {
+        "text": "성실성. 그들은 현장에서 무선 활동을 발견하지 못했습니다. 그들은",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p13-page-0112-u008",
+      "unitVersion": 1,
+      "part": 13,
+      "page": 112,
+      "pageId": "page_0112",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo13.pdf",
+        "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa",
+        "lineIds": [
+          "page_0112-l0026",
+          "page_0112-l0027",
+          "page_0112-l0028",
+          "page_0112-l0029",
+          "page_0112-l0030",
+          "page_0112-l0031",
+          "page_0112-l0032",
+          "page_0112-l0033",
+          "page_0112-l0034",
+          "page_0112-l0035"
+        ],
+        "lineNumbers": [
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ],
+        "refs": [
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0026",
+            "lineNumber": 26,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0027",
+            "lineNumber": 27,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0028",
+            "lineNumber": 28,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0030",
+            "lineNumber": 30,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0031",
+            "lineNumber": 31,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0032",
+            "lineNumber": 32,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0033",
+            "lineNumber": 33,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0034",
+            "lineNumber": 34,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          },
+          {
+            "part": 13,
+            "page": 112,
+            "pageId": "page_0112",
+            "lineId": "page_0112-l0035",
+            "lineNumber": 35,
+            "sourcePath": "docs/ufo13.pdf",
+            "sourceSha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
+          }
+        ],
+        "text": "that the New Mexico Institute of Mining and Technology at\nSocorro does some blasting in its work, however, their blasting\nis not in the area of this incident.\n(4) Bureau\n(1 - FBI Laboratory)\n2 - Albuquerque\nDAB/rae\n(6)\nAPR 30 1964\nNAT. SEC"
+      },
+      "translation": {
+        "text": "소코로에 있는 뉴멕시코 광업 기술 연구소는 작업 중에 일부 발파 작업을 하지만, 그들의 발파는 이 사건 지역에 있지 않습니다.\n(4) 본부\n(1 - FBI 연구소)\n2 - 앨버커키\nDAB/rae\n(6)\n1964년 4월 30일\n국가 안보",
+        "reviewedAt": "2026-05-10T22:40:13.344Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}
