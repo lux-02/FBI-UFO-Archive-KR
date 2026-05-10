@@ -52,7 +52,7 @@ scripts/verify-content.mjs
 # === Original PDFs ===
 # Re-downloadable from FBI Vault. Use scripts/download-pdfs.mjs.
 docs/*.pdf
-!docs/.gitkeep
+docs/.gitkeep
 
 # === Editor / OS local files ===
 .idea/
