@@ -1,26 +1,68 @@
-FBI UFO Archive KR — Public OCR + Translation Dataset
-License: CC0 1.0 Universal (Public Domain Dedication) — PROPOSED, NOT YET FINAL
+FBI UFO Archive KR - Public Dataset License
 
-Source PDFs (`docs/ufo*.pdf`) are believed to be U.S. federal government works
-in the public domain in the United States, distributed via the FBI Vault
-(https://vault.fbi.gov/UFO). The OCR-derived English source layer is a
-mechanical extraction and structural review layer.
+This file defines license terms for the public dataset artifacts under
+`dataset/` and the source manifest at `data/sources.json`.
 
-Korean translation exports in this dataset are unofficial project-generated
-translations. They are included under the same interim public dataset policy,
-but final license selection is still pending.
+This project is not affiliated with the U.S. FBI or the U.S. government. It
+does not represent any official position, interpretation, or conclusion.
 
-The project owner intends to release this dataset under CC0 1.0
-(https://creativecommons.org/publicdomain/zero/1.0/), but final license
-selection is pending review of:
-  1. U.S. federal government work copyright status outside the United States.
-  2. Any third-party material attached to the source PDFs (newspaper clippings,
-     letters from named individuals).
-  3. Copyright and license treatment for project-generated Korean translations.
+1. Source Manifest and OCR/Source Metadata - CC0 1.0 Universal
+----------------------------------------------------------------
 
-Until this LICENSE is replaced with a final license declaration, the dataset
-should be treated as "for archival, research, and translation use, with
-attribution requested." Redistribution under that interim policy is allowed
-provided this notice is preserved.
+The following public dataset artifacts are released under CC0 1.0 Universal:
 
-NOT AFFILIATED WITH THE U.S. FBI OR THE U.S. GOVERNMENT.
+  - data/sources.json
+  - dataset/part-*/manifest.json
+  - dataset/part-*/pages/**
+  - dataset/part-*/translations/ko/summary.json
+  - dataset/part-*/translations/ko/excluded_source_lines.json
+
+CC0 1.0 Universal:
+
+  https://creativecommons.org/publicdomain/zero/1.0/
+
+These files are intended to be reusable public metadata, OCR/source text, and
+source-review records. Where these files include text derived from FBI Vault
+source documents, this project claims no additional copyright in that source
+material.
+
+2. Korean Translation Exports - CC BY 4.0
+-----------------------------------------
+
+The following Korean translation export artifacts are released under Creative
+Commons Attribution 4.0 International (CC BY 4.0):
+
+  - dataset/part-*/translations/ko/units.json
+  - dataset/part-*/translations/ko/pages/**
+
+CC BY 4.0:
+
+  https://creativecommons.org/licenses/by/4.0/
+
+Attribution should include:
+
+  FBI-UFO-Archive-KR Project. (2026). Korean translation exports from FBI UFO
+  Archive KR. Source documents: FBI Vault UFO documents
+  (https://vault.fbi.gov/UFO).
+
+The Korean translations are unofficial project-generated translations. They are
+public review artifacts and are not final approved publication translations.
+
+3. Source PDFs
+--------------
+
+The original source PDFs are not included in this repository. They are available
+from FBI Vault:
+
+  https://vault.fbi.gov/UFO
+
+This project does not make a final legal claim about copyright, public-domain
+status, or reuse terms for the original PDFs, especially outside the United
+States or for any third-party material embedded in those PDFs.
+
+4. No Endorsement
+-----------------
+
+Do not represent this dataset, the Korean translations, or the reader app as
+affiliated with, endorsed by, or published by the U.S. FBI or the U.S.
+government.

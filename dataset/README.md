@@ -43,6 +43,23 @@ Other parts (07–16) are pending.
 
 This dataset is an unofficial Korean-archive OCR derivative. Not affiliated with the U.S. FBI or the U.S. government. Source PDFs come from the public [FBI Vault](https://vault.fbi.gov/UFO).
 
+## License
+
+Dataset license terms are defined in [`LICENSE`](LICENSE).
+
+| Area | Paths | License / Policy |
+|---|---|---|
+| Source manifest and OCR/source metadata | `../data/sources.json`, `part-*/manifest.json`, `part-*/pages/**`, `part-*/translations/ko/summary.json`, `part-*/translations/ko/excluded_source_lines.json` | CC0 1.0 Universal |
+| Korean translation exports | `part-*/translations/ko/units.json`, `part-*/translations/ko/pages/**` | CC BY 4.0 |
+| Original FBI Vault PDFs | Not included | Verify directly through FBI Vault |
+
+Recommended attribution for Korean translation exports:
+
+```text
+FBI-UFO-Archive-KR Project. (2026). Korean translation exports from FBI UFO Archive KR.
+Source documents: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
+```
+
 ## Layout
 
 ```text

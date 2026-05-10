@@ -48,7 +48,7 @@ data/
 
 dataset/
   README.md                          detailed dataset notes
-  LICENSE                            dataset license and interim policy
+  LICENSE                            dataset license terms
   part-01/
     manifest.json                    part metadata, source SHA-256, export status
     pages/
@@ -188,11 +188,13 @@ Excluded from deployment:
 
 | Area | License / Policy |
 |---|---|
-| Public dataset (`dataset/`) | See [`dataset/LICENSE`](dataset/LICENSE) |
-| Korean translation exports | Same public dataset policy, final license review pending |
-| Source PDFs | This repository does not make claims about copyright or public-domain status |
+| Reader app and project code | MIT License, see [`LICENSE`](LICENSE) |
+| Source manifest and OCR/source metadata | CC0 1.0 Universal, see [`dataset/LICENSE`](dataset/LICENSE) |
+| Korean translation exports | CC BY 4.0, see [`dataset/LICENSE`](dataset/LICENSE) |
+| Reader scan image cache (`public/source-cache/`) | No additional rights claimed; source-derived reading aids |
+| Original FBI Vault PDFs | Not included; verify directly through FBI Vault |
 
-Source PDFs are not included in this repository. Check FBI Vault and any applicable legal terms before reusing the original documents.
+See [`NOTICE.md`](NOTICE.md) for the full license matrix and source-document caveats. Source PDFs are not included in this repository. Check FBI Vault and any applicable legal terms before reusing the original documents.
 
 ---
 
@@ -255,7 +257,7 @@ data/
 
 dataset/
   README.md                          데이터셋 상세 설명
-  LICENSE                            데이터셋 라이선스/임시 정책
+  LICENSE                            데이터셋 라이선스 조건
   part-01/
     manifest.json                    part 메타데이터, source SHA-256, export 상태
     pages/
@@ -395,11 +397,13 @@ pnpm pdfs:download --dry-run
 
 | 영역 | 라이선스 / 정책 |
 |---|---|
-| 공개 데이터셋 (`dataset/`) | [`dataset/LICENSE`](dataset/LICENSE) 참조 |
-| 한국어 번역 export | 공개 데이터셋과 같은 임시 정책, 최종 라이선스 검토 전 |
-| 원본 PDF | 이 저장소는 저작권 또는 퍼블릭 도메인 여부를 단정하지 않음 |
+| 리더 앱 및 프로젝트 코드 | MIT License, [`LICENSE`](LICENSE) 참조 |
+| 출처 매니페스트 및 OCR/source metadata | CC0 1.0 Universal, [`dataset/LICENSE`](dataset/LICENSE) 참조 |
+| 한국어 번역 export | CC BY 4.0, [`dataset/LICENSE`](dataset/LICENSE) 참조 |
+| 리더 스캔 이미지 캐시 (`public/source-cache/`) | 추가 권리 주장 없음, 원본 문서 파생 열람용 이미지 |
+| 원본 FBI Vault PDF | 저장소에 미포함, FBI Vault에서 직접 확인 |
 
-원본 PDF는 이 저장소에 포함하지 않습니다. 원문 재사용 전 FBI Vault와 관련 법적 조건을 직접 확인하세요.
+전체 라이선스 매트릭스와 원본 문서 관련 주의사항은 [`NOTICE.md`](NOTICE.md)를 확인하세요. 원본 PDF는 이 저장소에 포함하지 않습니다. 원문 재사용 전 FBI Vault와 관련 법적 조건을 직접 확인하세요.
 
 ---
 
