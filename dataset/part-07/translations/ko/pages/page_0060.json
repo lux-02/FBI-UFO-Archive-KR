@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 7,
+  "page": 60,
+  "pageId": "page_0060",
+  "source": {
+    "pdfPath": "docs/ufo7.pdf",
+    "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T15:41:18.895Z",
+  "unitCount": 2,
+  "sourceLineCount": 4,
+  "excludedLineCount": 1,
+  "excludedLines": [
+    {
+      "part": 7,
+      "page": 60,
+      "pageId": "page_0060",
+      "lineId": "page_0060-l0002",
+      "lineNumber": 2,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "to Rickenbacker, often solicited in the most sensation form by news",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p07-page-0060-u001",
+      "unitVersion": 1,
+      "part": 7,
+      "page": 60,
+      "pageId": "page_0060",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo7.pdf",
+        "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825",
+        "lineIds": [
+          "page_0060-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 7,
+            "page": 60,
+            "pageId": "page_0060",
+            "lineId": "page_0060-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo7.pdf",
+            "sourceSha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
+          }
+        ],
+        "text": "the existence of some new weapon. Such statements, of the type attributed"
+      },
+      "translation": {
+        "text": "어떤 신무기의 존재. 그러한 진술은 다음과 같은 유형으로 귀속된다.",
+        "reviewedAt": "2026-05-10T15:41:12.375Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p07-page-0060-u002",
+      "unitVersion": 1,
+      "part": 7,
+      "page": 60,
+      "pageId": "page_0060",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo7.pdf",
+        "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825",
+        "lineIds": [
+          "page_0060-l0003",
+          "page_0060-l0004",
+          "page_0060-l0005"
+        ],
+        "lineNumbers": [
+          3,
+          4,
+          5
+        ],
+        "refs": [
+          {
+            "part": 7,
+            "page": 60,
+            "pageId": "page_0060",
+            "lineId": "page_0060-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo7.pdf",
+            "sourceSha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
+          },
+          {
+            "part": 7,
+            "page": 60,
+            "pageId": "page_0060",
+            "lineId": "page_0060-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo7.pdf",
+            "sourceSha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
+          },
+          {
+            "part": 7,
+            "page": 60,
+            "pageId": "page_0060",
+            "lineId": "page_0060-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo7.pdf",
+            "sourceSha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
+          }
+        ],
+        "text": "reporters in order to make a good story, make people watch the sky and any\nobject they cannot immediately recognize is called a \"flying saucer.\"\nThis helps to maintain the \"chain reaction\" of such reports."
+      },
+      "translation": {
+        "text": "좋은 기사를 만들기 위해 기자들에게, 사람들은 하늘을 보게 되고 즉시 인식할 수 없는 모든 물체는 \"비행접시\"라고 불린다. 이는 그러한 보고의 \"연쇄 반응\"을 유지하는 데 도움이 된다.",
+        "reviewedAt": "2026-05-10T15:41:12.375Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

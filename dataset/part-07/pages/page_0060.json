@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 7,
+  "page": 60,
+  "pageId": "page_0060",
+  "source": {
+    "pdfPath": "docs/ufo7.pdf",
+    "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 4 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0060-l0002"
+  ],
+  "lineCount": 5,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "the existence of some new weapon. Such statements, of the type attributed",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "to Rickenbacker, often solicited in the most sensation form by news",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 3,
+      "text": "reporters in order to make a good story, make people watch the sky and any",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "object they cannot immediately recognize is called a \"flying saucer.\"",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "This helps to maintain the \"chain reaction\" of such reports.",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

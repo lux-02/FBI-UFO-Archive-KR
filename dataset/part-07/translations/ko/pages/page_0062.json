@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 7,
+  "page": 62,
+  "pageId": "page_0062",
+  "source": {
+    "pdfPath": "docs/ufo7.pdf",
+    "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T15:41:18.895Z",
+  "unitCount": 1,
+  "sourceLineCount": 1,
+  "excludedLineCount": 2,
+  "excludedLines": [
+    {
+      "part": 7,
+      "page": 62,
+      "pageId": "page_0062",
+      "lineId": "page_0062-l0002",
+      "lineNumber": 2,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "DIC/27:D No. 4-50",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 7,
+      "page": 62,
+      "pageId": "page_0062",
+      "lineId": "page_0062-l0003",
+      "lineNumber": 3,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Subj: Unidentified Phenomena",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p07-page-0062-u001",
+      "unitVersion": 1,
+      "part": 7,
+      "page": 62,
+      "pageId": "page_0062",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo7.pdf",
+        "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825",
+        "lineIds": [
+          "page_0062-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 7,
+            "page": 62,
+            "pageId": "page_0062",
+            "lineId": "page_0062-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo7.pdf",
+            "sourceSha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
+          }
+        ],
+        "text": "CONFIDENTIAL"
+      },
+      "translation": {
+        "text": "기밀",
+        "reviewedAt": "2026-05-10T15:41:12.375Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

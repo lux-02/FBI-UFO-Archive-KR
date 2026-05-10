@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 7,
+  "page": 56,
+  "pageId": "page_0056",
+  "source": {
+    "pdfPath": "docs/ufo7.pdf",
+    "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 3 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0056-l0002",
+    "page_0056-l0003",
+    "page_0056-l0005"
+  ],
+  "lineCount": 6,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "ENCLOSURES TO THE BUREAU",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Copy of report by Intelligence Branch, New Orleans",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 3,
+      "text": "Port of Embarkation, [unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 4,
+      "text": "One negative copy and one positive copy of photographs",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "of flying saucer and man from Mars in custody of two MPs.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 6,
+      "text": "N.O. File 66-1199",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

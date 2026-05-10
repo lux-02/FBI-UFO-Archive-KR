@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 7,
+  "page": 42,
+  "pageId": "page_0042",
+  "source": {
+    "pdfPath": "docs/ufo7.pdf",
+    "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 5 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0042-l0002",
+    "page_0042-l0004",
+    "page_0042-l0010"
+  ],
+  "lineCount": 10,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "PART TWO",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "THIS OFFICE AND ABOVE, ISOR YOUR, INFO ONLY.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
+      "text": "[unclear] MURPHY!",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 5,
+      "text": "CORRECTION PLS 6TH LINE 7TH WORD SHOULD BE THIRTYFIVE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "END",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "PLS ACK",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "HOLD PLS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "cc Mr. Belmont",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    }
+  ],
+  "blockCount": null
+}

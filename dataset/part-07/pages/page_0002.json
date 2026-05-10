@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 7,
+  "page": 2,
+  "pageId": "page_0002",
+  "source": {
+    "pdfPath": "docs/ufo7.pdf",
+    "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 9 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0002-l0007",
+    "page_0002-l0008"
+  ],
+  "lineCount": 17,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "O",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "- 2 -",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "Anchorage File 100-1406",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
+      "text": "It may be stated to the Bureau that Mr. [REDACTED] is a well",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 8,
+      "text": "known flyer as well as Mr. [REDACTED] and both are known to be very reliable",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 9,
+      "text": "and responsible people, and it appears definite that they observed",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "something.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Bureau.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
+      "text": "The above is being submitted for the information of the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 16,
+      "text": "LOT:LMR",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "100-1406",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

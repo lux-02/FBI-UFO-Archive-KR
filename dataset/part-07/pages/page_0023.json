@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 7,
+  "page": 23,
+  "pageId": "page_0023",
+  "source": {
+    "pdfPath": "docs/ufo7.pdf",
+    "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 3 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0023-l0002",
+    "page_0023-l0003",
+    "page_0023-l0004",
+    "page_0023-l0007"
+  ],
+  "lineCount": 8,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "C",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "That would then look into this.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 3,
+      "text": "It might seem a [unclear] for now.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 4,
+      "text": "Sent to the Republic Partie",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 5,
+      "text": "at Washington D.C.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
+      "text": "[REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 8,
+      "text": "O.K. 12-12-51",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}
