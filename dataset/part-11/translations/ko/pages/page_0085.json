@@ -1,0 +1,423 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 11,
+  "page": 85,
+  "pageId": "page_0085",
+  "source": {
+    "pdfPath": "docs/ufo11.pdf",
+    "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T18:44:08.440Z",
+  "unitCount": 6,
+  "sourceLineCount": 11,
+  "excludedLineCount": 8,
+  "excludedLines": [
+    {
+      "part": 11,
+      "page": 85,
+      "pageId": "page_0085",
+      "lineId": "page_0085-l0004",
+      "lineNumber": 4,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] had been on tour for some time and that the meeting scheduled",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 11,
+      "page": 85,
+      "pageId": "page_0085",
+      "lineId": "page_0085-l0009",
+      "lineNumber": 9,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "identified with [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 11,
+      "page": 85,
+      "pageId": "page_0085",
+      "lineId": "page_0085-l0013",
+      "lineNumber": 13,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "caption of [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 11,
+      "page": 85,
+      "pageId": "page_0085",
+      "lineId": "page_0085-l0014",
+      "lineNumber": 14,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] was at that time operating under the name of [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 11,
+      "page": 85,
+      "pageId": "page_0085",
+      "lineId": "page_0085-l0015",
+      "lineNumber": 15,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] with headquarters and printing facilities in Noblesville, Indiana.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 11,
+      "page": 85,
+      "pageId": "page_0085",
+      "lineId": "page_0085-l0017",
+      "lineNumber": 17,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "With regard to [REDACTED] the indices of this office reflect",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 11,
+      "page": 85,
+      "pageId": "page_0085",
+      "lineId": "page_0085-l0018",
+      "lineNumber": 18,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "that as of July, 1942, he was general manager of the [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 11,
+      "page": 85,
+      "pageId": "page_0085",
+      "lineId": "page_0085-l0019",
+      "lineNumber": 19,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] a mechanical packing firm at [REDACTED] Cincinnati.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p11-page-0085-u001",
+      "unitVersion": 1,
+      "part": 11,
+      "page": 85,
+      "pageId": "page_0085",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo11.pdf",
+        "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b",
+        "lineIds": [
+          "page_0085-l0001",
+          "page_0085-l0002"
+        ],
+        "lineNumbers": [
+          1,
+          2
+        ],
+        "refs": [
+          {
+            "part": 11,
+            "page": 85,
+            "pageId": "page_0085",
+            "lineId": "page_0085-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo11.pdf",
+            "sourceSha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+          },
+          {
+            "part": 11,
+            "page": 85,
+            "pageId": "page_0085",
+            "lineId": "page_0085-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo11.pdf",
+            "sourceSha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+          }
+        ],
+        "text": "Letter to Director;\nJune 8, 1954"
+      },
+      "translation": {
+        "text": "국장에게 보내는 서신;\n1954년 6월 8일",
+        "reviewedAt": "2026-05-10T18:43:46.856Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p11-page-0085-u002",
+      "unitVersion": 1,
+      "part": 11,
+      "page": 85,
+      "pageId": "page_0085",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo11.pdf",
+        "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b",
+        "lineIds": [
+          "page_0085-l0005",
+          "page_0085-l0006"
+        ],
+        "lineNumbers": [
+          5,
+          6
+        ],
+        "refs": [
+          {
+            "part": 11,
+            "page": 85,
+            "pageId": "page_0085",
+            "lineId": "page_0085-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo11.pdf",
+            "sourceSha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+          },
+          {
+            "part": 11,
+            "page": 85,
+            "pageId": "page_0085",
+            "lineId": "page_0085-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo11.pdf",
+            "sourceSha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+          }
+        ],
+        "text": "for Cincinnati originally on 6-11-54 was to be the beginning of a new\nseries of meetings."
+      },
+      "translation": {
+        "text": "원래 1954년 6월 11일 신시내티에서 열릴 예정이었던 회의는 새로운\n일련의 회의의 시작이 될 예정이었습니다.",
+        "reviewedAt": "2026-05-10T18:43:46.856Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p11-page-0085-u003",
+      "unitVersion": 1,
+      "part": 11,
+      "page": 85,
+      "pageId": "page_0085",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo11.pdf",
+        "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b",
+        "lineIds": [
+          "page_0085-l0008"
+        ],
+        "lineNumbers": [
+          8
+        ],
+        "refs": [
+          {
+            "part": 11,
+            "page": 85,
+            "pageId": "page_0085",
+            "lineId": "page_0085-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo11.pdf",
+            "sourceSha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+          }
+        ],
+        "text": "The files of this office contain no information which can be"
+      },
+      "translation": {
+        "text": "본 사무실의 파일에는 다음 정보가 포함되어 있지 않습니다.",
+        "reviewedAt": "2026-05-10T18:43:46.856Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p11-page-0085-u004",
+      "unitVersion": 1,
+      "part": 11,
+      "page": 85,
+      "pageId": "page_0085",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo11.pdf",
+        "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b",
+        "lineIds": [
+          "page_0085-l0011",
+          "page_0085-l0012"
+        ],
+        "lineNumbers": [
+          11,
+          12
+        ],
+        "refs": [
+          {
+            "part": 11,
+            "page": 85,
+            "pageId": "page_0085",
+            "lineId": "page_0085-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo11.pdf",
+            "sourceSha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+          },
+          {
+            "part": 11,
+            "page": 85,
+            "pageId": "page_0085",
+            "lineId": "page_0085-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo11.pdf",
+            "sourceSha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+          }
+        ],
+        "text": "The indices reflect that by letter dated 2-7-52, Indianapolis\nfile 61-5, the Indianapolis Office advised the Cincinnati Office under the"
+      },
+      "translation": {
+        "text": "색인에 따르면 1952년 2월 7일자 서신, 인디애나폴리스\n파일 61-5에 따라 인디애나폴리스 사무실은 신시내티 사무실에 다음을 통보했습니다.",
+        "reviewedAt": "2026-05-10T18:43:46.856Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p11-page-0085-u005",
+      "unitVersion": 1,
+      "part": 11,
+      "page": 85,
+      "pageId": "page_0085",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo11.pdf",
+        "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b",
+        "lineIds": [
+          "page_0085-l0021",
+          "page_0085-l0022",
+          "page_0085-l0023"
+        ],
+        "lineNumbers": [
+          21,
+          22,
+          23
+        ],
+        "refs": [
+          {
+            "part": 11,
+            "page": 85,
+            "pageId": "page_0085",
+            "lineId": "page_0085-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo11.pdf",
+            "sourceSha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+          },
+          {
+            "part": 11,
+            "page": 85,
+            "pageId": "page_0085",
+            "lineId": "page_0085-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo11.pdf",
+            "sourceSha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+          },
+          {
+            "part": 11,
+            "page": 85,
+            "pageId": "page_0085",
+            "lineId": "page_0085-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo11.pdf",
+            "sourceSha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+          }
+        ],
+        "text": "No further action is being taken in this matter by this office,\nand the foregoing is for the Bureau's information and for the information\nof the Los Angeles and Indianapolis Offices."
+      },
+      "translation": {
+        "text": "본 사무실에서는 이 문제에 대해 더 이상 조치를 취하지 않으며,\n위 내용은 국과 로스앤젤레스 및 인디애나폴리스 사무실의 정보를 위한 것입니다.",
+        "reviewedAt": "2026-05-10T18:43:46.856Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p11-page-0085-u006",
+      "unitVersion": 1,
+      "part": 11,
+      "page": 85,
+      "pageId": "page_0085",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo11.pdf",
+        "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b",
+        "lineIds": [
+          "page_0085-l0025"
+        ],
+        "lineNumbers": [
+          25
+        ],
+        "refs": [
+          {
+            "part": 11,
+            "page": 85,
+            "pageId": "page_0085",
+            "lineId": "page_0085-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo11.pdf",
+            "sourceSha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+          }
+        ],
+        "text": "- 5 -"
+      },
+      "translation": {
+        "text": "- 5 -",
+        "reviewedAt": "2026-05-10T18:43:46.856Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

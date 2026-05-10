@@ -1,0 +1,195 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 11,
+  "page": 7,
+  "pageId": "page_0007",
+  "source": {
+    "pdfPath": "docs/ufo11.pdf",
+    "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T18:44:08.440Z",
+  "unitCount": 3,
+  "sourceLineCount": 6,
+  "excludedLineCount": 1,
+  "excludedLines": [
+    {
+      "part": 11,
+      "page": 7,
+      "pageId": "page_0007",
+      "lineId": "page_0007-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "REPORT ( UNIDENTIFIED AERIAL OBJECTS (d 2d)",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p11-page-0007-u001",
+      "unitVersion": 1,
+      "part": 11,
+      "page": 7,
+      "pageId": "page_0007",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo11.pdf",
+        "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b",
+        "lineIds": [
+          "page_0007-l0003",
+          "page_0007-l0004",
+          "page_0007-l0005"
+        ],
+        "lineNumbers": [
+          3,
+          4,
+          5
+        ],
+        "refs": [
+          {
+            "part": 11,
+            "page": 7,
+            "pageId": "page_0007",
+            "lineId": "page_0007-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo11.pdf",
+            "sourceSha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+          },
+          {
+            "part": 11,
+            "page": 7,
+            "pageId": "page_0007",
+            "lineId": "page_0007-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo11.pdf",
+            "sourceSha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+          },
+          {
+            "part": 11,
+            "page": 7,
+            "pageId": "page_0007",
+            "lineId": "page_0007-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo11.pdf",
+            "sourceSha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+          }
+        ],
+        "text": "Observer's signature\nTitle\n26. Additional remarks of investigator"
+      },
+      "translation": {
+        "text": "관찰자 서명\n직함\n26. 조사관의 추가 의견",
+        "reviewedAt": "2026-05-10T18:43:46.856Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p11-page-0007-u002",
+      "unitVersion": 1,
+      "part": 11,
+      "page": 7,
+      "pageId": "page_0007",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo11.pdf",
+        "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b",
+        "lineIds": [
+          "page_0007-l0007",
+          "page_0007-l0008"
+        ],
+        "lineNumbers": [
+          7,
+          8
+        ],
+        "refs": [
+          {
+            "part": 11,
+            "page": 7,
+            "pageId": "page_0007",
+            "lineId": "page_0007-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo11.pdf",
+            "sourceSha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+          },
+          {
+            "part": 11,
+            "page": 7,
+            "pageId": "page_0007",
+            "lineId": "page_0007-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo11.pdf",
+            "sourceSha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+          }
+        ],
+        "text": "Investigator's signature\nTitle"
+      },
+      "translation": {
+        "text": "조사관 서명\n직함",
+        "reviewedAt": "2026-05-10T18:43:46.856Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p11-page-0007-u003",
+      "unitVersion": 1,
+      "part": 11,
+      "page": 7,
+      "pageId": "page_0007",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo11.pdf",
+        "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b",
+        "lineIds": [
+          "page_0007-l0010"
+        ],
+        "lineNumbers": [
+          10
+        ],
+        "refs": [
+          {
+            "part": 11,
+            "page": 7,
+            "pageId": "page_0007",
+            "lineId": "page_0007-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo11.pdf",
+            "sourceSha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+          }
+        ],
+        "text": "-3-"
+      },
+      "translation": {
+        "text": "-3-",
+        "reviewedAt": "2026-05-10T18:43:46.856Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

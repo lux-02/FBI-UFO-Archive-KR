@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 11,
+  "page": 7,
+  "pageId": "page_0007",
+  "source": {
+    "pdfPath": "docs/ufo11.pdf",
+    "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 6 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0007-l0001"
+  ],
+  "lineCount": 10,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "REPORT ( UNIDENTIFIED AERIAL OBJECTS (d 2d)",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "Observer's signature",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "Title",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "26. Additional remarks of investigator",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
+      "text": "Investigator's signature",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "Title",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "-3-",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

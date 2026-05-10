@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 11,
+  "page": 127,
+  "pageId": "page_0127",
+  "source": {
+    "pdfPath": "docs/ufo11.pdf",
+    "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 4 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0127-l0001",
+    "page_0127-l0002",
+    "page_0127-l0003",
+    "page_0127-l0006",
+    "page_0127-l0009"
+  ],
+  "lineCount": 9,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "ATTENTION SAC's: Correspondent also enclosed a copy of",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "text": "the January 19, 1953 issue of \"Space Review\", the publication",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 3,
+      "text": "of The International Flying Saucer Bureau, indicating the",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 4,
+      "text": "address as Post Office Box 241, Bridgeport, Connecticut.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "This small periodical contains news of various I.F.S.B.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "groups throughout the United States and England and news",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 7,
+      "text": "items relating to flying saucers.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "No references can be located in Bufiles on the I.F.S.B.;",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "\"Space Review\" or [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    }
+  ],
+  "blockCount": null
+}

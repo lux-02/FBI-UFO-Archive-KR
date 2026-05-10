@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 11,
+  "page": 16,
+  "pageId": "page_0016",
+  "source": {
+    "pdfPath": "docs/ufo11.pdf",
+    "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 8 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0016-l0001",
+    "page_0016-l0002",
+    "page_0016-l0004"
+  ],
+  "lineCount": 13,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "Upon receiving the above information from Mr.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "text": "[REDACTED] he was advised that this Bureau would turn the",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 3,
+      "text": "information over to another Government agency. Mr.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "[REDACTED] indicated his approval of this action, but specifically",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 5,
+      "text": "requested that no public announcement or comment be given",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "to the fact that he had reported seeing the above object.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "The above information has been furnished to your",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "office for your confidential information and assistance",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "in connection with the captioned matter. It is requested",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "that no dissemination be made of this information.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 13,
+      "text": "- 3 -",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}
