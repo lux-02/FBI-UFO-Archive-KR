@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 4,
+  "page": 17,
+  "pageId": "page_0017",
+  "source": {
+    "pdfPath": "docs/ufo4.pdf",
+    "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T08:59:23.616Z",
+  "unitCount": 1,
+  "sourceLineCount": 3,
+  "excludedLineCount": 1,
+  "excludedLines": [
+    {
+      "part": 4,
+      "page": 17,
+      "pageId": "page_0017",
+      "lineId": "page_0017-l0004",
+      "lineNumber": 4,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "62 83894-627",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p04-page-0017-u001",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 17,
+      "pageId": "page_0017",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0017-l0001",
+          "page_0017-l0002",
+          "page_0017-l0003"
+        ],
+        "lineNumbers": [
+          1,
+          2,
+          3
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 17,
+            "pageId": "page_0017",
+            "lineId": "page_0017-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 17,
+            "pageId": "page_0017",
+            "lineId": "page_0017-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 17,
+            "pageId": "page_0017",
+            "lineId": "page_0017-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "FLYING SAUCER, ALLEGED SPECIMENS.\n233138\n5"
+      },
+      "translation": {
+        "text": "비행접시, 주장된 표본.\n233138\n5",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

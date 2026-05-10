@@ -1,0 +1,390 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 4,
+  "page": 30,
+  "pageId": "page_0030",
+  "source": {
+    "pdfPath": "docs/ufo4.pdf",
+    "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T08:59:23.616Z",
+  "unitCount": 6,
+  "sourceLineCount": 11,
+  "excludedLineCount": 5,
+  "excludedLines": [
+    {
+      "part": 4,
+      "page": 30,
+      "pageId": "page_0030",
+      "lineId": "page_0030-l0002",
+      "lineNumber": 2,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "TRAVELING AT LEAST THREE TIMES FASTER THAN A PLAN. BRUMMETT ADDED THAT",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 30,
+      "pageId": "page_0030",
+      "lineId": "page_0030-l0004",
+      "lineNumber": 4,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "DISAPPEARED FROM SIGHT. ACCORDING TO BRUMMETT THE OBJECTS WERE DESCRIBE",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 30,
+      "pageId": "page_0030",
+      "lineId": "page_0030-l0007",
+      "lineNumber": 7,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "OTHER AND BOTH MAINTAIND EQUAL RATES OF SPEED. FROM BRUMMETTS OBSERVATI",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 30,
+      "pageId": "page_0030",
+      "lineId": "page_0030-l0008",
+      "lineNumber": 8,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "HE WAS UNABLE TO DECIDE WHETHER THE OBJECTS WERE FLAT OR ROUND. MRS",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 30,
+      "pageId": "page_0030",
+      "lineId": "page_0030-l0012",
+      "lineNumber": 12,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "AT A FAST RATE OF SPEED.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p04-page-0030-u001",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 30,
+      "pageId": "page_0030",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0030-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 30,
+            "pageId": "page_0030",
+            "lineId": "page_0030-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "PAGE TWO"
+      },
+      "translation": {
+        "text": "2페이지",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0030-u002",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 30,
+      "pageId": "page_0030",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0030-l0003"
+        ],
+        "lineNumbers": [
+          3
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 30,
+            "pageId": "page_0030",
+            "lineId": "page_0030-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "HE WATCHED THE OBJECTS FROM FIVE TO EIGHT SECONDS AT WHICH TIME THEY"
+      },
+      "translation": {
+        "text": "그는 5초에서 8초 동안 그 물체들을 지켜보았고, 그 시간에 그것들은",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0030-u003",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 30,
+      "pageId": "page_0030",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0030-l0005",
+          "page_0030-l0006"
+        ],
+        "lineNumbers": [
+          5,
+          6
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 30,
+            "pageId": "page_0030",
+            "lineId": "page_0030-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 30,
+            "pageId": "page_0030",
+            "lineId": "page_0030-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "AS BEING NOISELESS, HAVING NO WINGS OR TAIL, LIGHTER THAN ALUMINUM,\nTAPERED AT BOTH ENDS AND ONE STAYED A LITTLE BEHIND AND A BIT ABOVE THE"
+      },
+      "translation": {
+        "text": "소음이 없고, 날개나 꼬리가 없으며, 알루미늄보다 가볍고, 양쪽 끝이 뾰족하며, 하나는 다른 것의 약간 뒤쪽이자 살짝 위쪽에 머물러 있었다고 함",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0030-u004",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 30,
+      "pageId": "page_0030",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0030-l0009",
+          "page_0030-l0010",
+          "page_0030-l0011"
+        ],
+        "lineNumbers": [
+          9,
+          10,
+          11
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 30,
+            "pageId": "page_0030",
+            "lineId": "page_0030-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 30,
+            "pageId": "page_0030",
+            "lineId": "page_0030-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 30,
+            "pageId": "page_0030",
+            "lineId": "page_0030-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "MAMIE ENGLISH STATED THAT WHEN BRUMMETT CALLED HER ATENTION TO THE\nOBJECTS SHE TOOK A PASSING GLANCE AT THE SKY AND COULD OFFER NO\nDESCRIPTION OTHER THAN THEY LOOKED LIKE TWO SILVER BALLS TRAVELING"
+      },
+      "translation": {
+        "text": "매미 잉글리시는 브루멧이 그 물체들에 대해 그녀의 주의를 환기시켰을 때, 하늘을 언뜻 쳐다보았으며, 두 개의 은색 공이 이동하는 것처럼 보였다는 것 외에는 어떠한 묘사도 할 수 없었다고 진술함",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0030-u005",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 30,
+      "pageId": "page_0030",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0030-l0014"
+        ],
+        "lineNumbers": [
+          14
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 30,
+            "pageId": "page_0030",
+            "lineId": "page_0030-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "WILCOX"
+      },
+      "translation": {
+        "text": "윌콕스",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0030-u006",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 30,
+      "pageId": "page_0030",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0030-l0016",
+          "page_0030-l0017",
+          "page_0030-l0018"
+        ],
+        "lineNumbers": [
+          16,
+          17,
+          18
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 30,
+            "pageId": "page_0030",
+            "lineId": "page_0030-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 30,
+            "pageId": "page_0030",
+            "lineId": "page_0030-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 30,
+            "pageId": "page_0030",
+            "lineId": "page_0030-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "END\nSHOLD PLS\n9-28 PM OK FBI WASH DC GAR"
+      },
+      "translation": {
+        "text": "끝\nSHOLD PLS\n오후 9시 28분 OK FBI 워싱턴 D.C. GAR",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

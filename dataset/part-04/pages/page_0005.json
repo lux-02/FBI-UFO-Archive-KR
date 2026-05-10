@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 4,
+  "page": 5,
+  "pageId": "page_0005",
+  "source": {
+    "pdfPath": "docs/ufo4.pdf",
+    "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 6 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0005-l0008",
+    "page_0005-l0011"
+  ],
+  "lineCount": 11,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "(D) FLYING DISCS --Effective immediately, the Bureau has discontinued its investi-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "gative activities as outlined in Section B of Bureau Bulletin No. 42, Series 1947,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "dated July 30, 1947.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "All future reports connected with flying discs should be referred to",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "the Air Forces and no investigative action should be taken by Bureau Agents.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "RECORDED",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 9,
+      "text": "OCT 6 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
+      "text": "ORIGINAL COPIED IN",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    }
+  ],
+  "blockCount": null
+}

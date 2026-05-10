@@ -1,0 +1,43 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 4,
+  "page": 17,
+  "pageId": "page_0017",
+  "source": {
+    "pdfPath": "docs/ufo4.pdf",
+    "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 3 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0017-l0004"
+  ],
+  "lineCount": 4,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "FLYING SAUCER, ALLEGED SPECIMENS.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "233138",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "5",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "62 83894-627",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    }
+  ],
+  "blockCount": null
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 4,
+  "page": 43,
+  "pageId": "page_0043",
+  "source": {
+    "pdfPath": "docs/ufo4.pdf",
+    "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 3 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0043-l0005",
+    "page_0043-l0006",
+    "page_0043-l0007",
+    "page_0043-l0008",
+    "page_0043-l0010"
+  ],
+  "lineCount": 10,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "20 ft",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "10 FT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "20 ft long",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "The bottom and side view - of the flying",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 6,
+      "text": "disc going down Snake river canyon at 1 PM",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 7,
+      "text": "this day at a distance of about 75 ft up",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 8,
+      "text": "from ground, speed about 1000 per hr.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "A. C. URIE - (owner trout FARM)",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    }
+  ],
+  "blockCount": null
+}

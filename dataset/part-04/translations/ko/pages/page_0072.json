@@ -1,0 +1,488 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 4,
+  "page": 72,
+  "pageId": "page_0072",
+  "source": {
+    "pdfPath": "docs/ufo4.pdf",
+    "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T08:59:23.616Z",
+  "unitCount": 7,
+  "sourceLineCount": 18,
+  "excludedLineCount": 4,
+  "excludedLines": [
+    {
+      "part": 4,
+      "page": 72,
+      "pageId": "page_0072",
+      "lineId": "page_0072-l0003",
+      "lineNumber": 3,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "Telephone message received from [REDACTED], Oakland Tribune:",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 72,
+      "pageId": "page_0072",
+      "lineId": "page_0072-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED], Sacramento 2, Calif, and insurance",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 72,
+      "pageId": "page_0072",
+      "lineId": "page_0072-l0025",
+      "lineNumber": 25,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] is a University of California graduate, and is personally",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 72,
+      "pageId": "page_0072",
+      "lineId": "page_0072-l0027",
+      "lineNumber": 27,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] of Southern California)",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p04-page-0072-u001",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 72,
+      "pageId": "page_0072",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0072-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 72,
+            "pageId": "page_0072",
+            "lineId": "page_0072-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "1030 hours 18 August 1947"
+      },
+      "translation": {
+        "text": "1947년 8월 18일 1030시",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0072-u002",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 72,
+      "pageId": "page_0072",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0072-l0006",
+          "page_0072-l0007"
+        ],
+        "lineNumbers": [
+          6,
+          7
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 72,
+            "pageId": "page_0072",
+            "lineId": "page_0072-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 72,
+            "pageId": "page_0072",
+            "lineId": "page_0072-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "executive with the firm of McGuire and Wallis, of Sacramento, reported the\nfollowing incident:"
+      },
+      "translation": {
+        "text": "새크라멘토 소재 McGuire and Wallis사의 임원이 다음과 같은 사건을 보고했다:",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0072-u003",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 72,
+      "pageId": "page_0072",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0072-l0009",
+          "page_0072-l0010",
+          "page_0072-l0011",
+          "page_0072-l0012",
+          "page_0072-l0013",
+          "page_0072-l0014",
+          "page_0072-l0015"
+        ],
+        "lineNumbers": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 72,
+            "pageId": "page_0072",
+            "lineId": "page_0072-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 72,
+            "pageId": "page_0072",
+            "lineId": "page_0072-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 72,
+            "pageId": "page_0072",
+            "lineId": "page_0072-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 72,
+            "pageId": "page_0072",
+            "lineId": "page_0072-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 72,
+            "pageId": "page_0072",
+            "lineId": "page_0072-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 72,
+            "pageId": "page_0072",
+            "lineId": "page_0072-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 72,
+            "pageId": "page_0072",
+            "lineId": "page_0072-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "At 4:P.M. on August 14, while driving on Cedar Ravine Road, 4 to 5\nmiles southeast of Placerville, Calif, he, accompanied by his wife, observed\na \"vapor\" trail moving from north to south. Closer observation revealed a\npiece of \"shiny metal\" at from 500 to 1000 feet altitude moving at a \"high\nrate of speed\". The object appeared to be more \"rocket-shaped\" than disc-\nshaped. It appeared to be approximately 8 feet in length and was \"tilted\nin a semi-circle\"."
+      },
+      "translation": {
+        "text": "8월 14일 오후 4시, 캘리포니아주 플레이서빌에서 남동쪽으로 4~5마일 떨어진 시더 라빈 로드를 운전하던 중, 그는 아내와 함께 북쪽에서 남쪽으로 이동하는 \"증기\" 흔적을 목격했다. 자세히 관찰한 결과 고도 500~1000피트에서 \"빠른 속도\"로 움직이는 \"빛나는 금속\" 조각이 드러났다. 그 물체는 디스크 모양보다는 \"로켓 모양\"에 더 가까워 보였다. 길이는 약 8피트로 보였고 \"반원형으로 기울어져\" 있었다.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0072-u004",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 72,
+      "pageId": "page_0072",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0072-l0017",
+          "page_0072-l0018",
+          "page_0072-l0019",
+          "page_0072-l0020"
+        ],
+        "lineNumbers": [
+          17,
+          18,
+          19,
+          20
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 72,
+            "pageId": "page_0072",
+            "lineId": "page_0072-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 72,
+            "pageId": "page_0072",
+            "lineId": "page_0072-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 72,
+            "pageId": "page_0072",
+            "lineId": "page_0072-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 72,
+            "pageId": "page_0072",
+            "lineId": "page_0072-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "The object struck the ground with a \"puff of black smoke\" about 100\nfeet below the top of a hill which was approximately 750 feet ahead of the\nautomobile driven by the observer. An intervening canyon prevented investi-\ngation of the location where the object was observed to have landed."
+      },
+      "translation": {
+        "text": "그 물체는 목격자가 운전하던 자동차로부터 약 750피트 앞에 있는 언덕 꼭대기에서 약 100피트 아래 지점에 \"검은 연기를 한 번 내뿜으며\" 땅에 부딪혔다. 중간에 있는 협곡 때문에 물체가 착륙한 것으로 관측된 장소를 조사할 수 없었다.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0072-u005",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 72,
+      "pageId": "page_0072",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0072-l0022",
+          "page_0072-l0023"
+        ],
+        "lineNumbers": [
+          22,
+          23
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 72,
+            "pageId": "page_0072",
+            "lineId": "page_0072-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 72,
+            "pageId": "page_0072",
+            "lineId": "page_0072-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "The observer is able to identify the location where the object was\nobserved to land."
+      },
+      "translation": {
+        "text": "목격자는 물체가 착륙한 것으로 관측된 위치를 식별할 수 있다.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0072-u006",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 72,
+      "pageId": "page_0072",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0072-l0026"
+        ],
+        "lineNumbers": [
+          26
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 72,
+            "pageId": "page_0072",
+            "lineId": "page_0072-l0026",
+            "lineNumber": 26,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "known by members of the Oakland Tribune staff. He is a brother-in-law of"
+      },
+      "translation": {
+        "text": "오클랜드 트리뷴지 직원들에게 알려져 있다. 그는 ~의 처남이다.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0072-u007",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 72,
+      "pageId": "page_0072",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0072-l0029"
+        ],
+        "lineNumbers": [
+          29
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 72,
+            "pageId": "page_0072",
+            "lineId": "page_0072-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "CONFIDENTIAL"
+      },
+      "translation": {
+        "text": "기밀",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 4,
+  "page": 38,
+  "pageId": "page_0038",
+  "source": {
+    "pdfPath": "docs/ufo4.pdf",
+    "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T08:59:23.616Z",
+  "unitCount": 3,
+  "sourceLineCount": 9,
+  "excludedLineCount": 1,
+  "excludedLines": [
+    {
+      "part": 4,
+      "page": 38,
+      "pageId": "page_0038",
+      "lineId": "page_0038-l0002",
+      "lineNumber": 2,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "Page 3- Some Life Data on [REDACTED] b6",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p04-page-0038-u001",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 38,
+      "pageId": "page_0038",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0038-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 38,
+            "pageId": "page_0038",
+            "lineId": "page_0038-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "CONFIDENTIAL"
+      },
+      "translation": {
+        "text": "대외비",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0038-u002",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 38,
+      "pageId": "page_0038",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0038-l0004",
+          "page_0038-l0005",
+          "page_0038-l0006",
+          "page_0038-l0007",
+          "page_0038-l0008",
+          "page_0038-l0009",
+          "page_0038-l0010"
+        ],
+        "lineNumbers": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 38,
+            "pageId": "page_0038",
+            "lineId": "page_0038-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 38,
+            "pageId": "page_0038",
+            "lineId": "page_0038-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 38,
+            "pageId": "page_0038",
+            "lineId": "page_0038-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 38,
+            "pageId": "page_0038",
+            "lineId": "page_0038-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 38,
+            "pageId": "page_0038",
+            "lineId": "page_0038-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 38,
+            "pageId": "page_0038",
+            "lineId": "page_0038-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 38,
+            "pageId": "page_0038",
+            "lineId": "page_0038-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "practice and judgment to be able to land in most any cow\npasture and get out without injuring your airplane; the\nrunways are very limited and the altitude is very high in\nsome of the fields and places I have to go in my work. To\ndate, I have landed in 832 cow pastures in mountain meadows,\nand in over a thousand hours a flat tire has been my greatest\nmishap."
+      },
+      "translation": {
+        "text": "어지간한 소 목초지에 착륙하여 비행기에 손상을 입히지 않고 빠져나오려면 연습과 판단력이 필요합니다. 제가 업무상 가야 하는 일부 들판과 장소는 활주로가 매우 제한적이고 고도가 매우 높습니다. 현재까지 저는 산악 초원의 소 목초지 832곳에 착륙했으며, 천 시간이 넘는 동안 타이어 펑크가 저의 가장 큰 사고였습니다.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0038-u003",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 38,
+      "pageId": "page_0038",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0038-l0012"
+        ],
+        "lineNumbers": [
+          12
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 38,
+            "pageId": "page_0038",
+            "lineId": "page_0038-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "CONFIDENTIAL"
+      },
+      "translation": {
+        "text": "대외비",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 4,
+  "page": 47,
+  "pageId": "page_0047",
+  "source": {
+    "pdfPath": "docs/ufo4.pdf",
+    "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T08:59:23.616Z",
+  "unitCount": 7,
+  "sourceLineCount": 11,
+  "excludedLineCount": 6,
+  "excludedLines": [
+    {
+      "part": 4,
+      "page": 47,
+      "pageId": "page_0047",
+      "lineId": "page_0047-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "NEEDS_IMAGE_CHECK",
+      "sourceText": "U.S. DEPT. OF JUSTICE",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 47,
+      "pageId": "page_0047",
+      "lineId": "page_0047-l0002",
+      "lineNumber": 2,
+      "sourceStatus": "NEEDS_IMAGE_CHECK",
+      "sourceText": "COMMUNICATIONS SECTION",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 47,
+      "pageId": "page_0047",
+      "lineId": "page_0047-l0004",
+      "lineNumber": 4,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "AUG 15 1947",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 47,
+      "pageId": "page_0047",
+      "lineId": "page_0047-l0013",
+      "lineNumber": 13,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "FLYING DISCS - SECURITY MATTER DASH X. A MR [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 47,
+      "pageId": "page_0047",
+      "lineId": "page_0047-l0017",
+      "lineNumber": 17,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "ONLY A SHORT TIME BECAUSE OF ITS SPEED. [REDACTED] TO BE INTERVIEWED.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 47,
+      "pageId": "page_0047",
+      "lineId": "page_0047-l0021",
+      "lineNumber": 21,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "SEP 30 1947",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p04-page-0047-u001",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 47,
+      "pageId": "page_0047",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0047-l0005"
+        ],
+        "lineNumbers": [
+          5
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "TELETYPE"
+      },
+      "translation": {
+        "text": "텔레타이프",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0047-u002",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 47,
+      "pageId": "page_0047",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0047-l0007",
+          "page_0047-l0008",
+          "page_0047-l0009"
+        ],
+        "lineNumbers": [
+          7,
+          8,
+          9
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "PORTLAND FBI\n8-15-47\n-1-48 PM"
+      },
+      "translation": {
+        "text": "포틀랜드 FBI\n47-8-15\n오후 1시 48분",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0047-u003",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 47,
+      "pageId": "page_0047",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0047-l0011"
+        ],
+        "lineNumbers": [
+          11
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "DIRECTOR FBI"
+      },
+      "translation": {
+        "text": "FBI 국장",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0047-u004",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 47,
+      "pageId": "page_0047",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0047-l0014",
+          "page_0047-l0015",
+          "page_0047-l0016"
+        ],
+        "lineNumbers": [
+          14,
+          15,
+          16
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "AGATE BEACH, NEAR OCEAN LAKE, OREGON HAS REPORTED THAT THE EVENING\nOF AUGUST SEVEN, AT ELEVEN THIRTY PM HE SIGHTED WHAT HE BELIEVED\nTO BE A DISC BRIGHT IN COLOR WHICH HE WAS ABLE TO OBSERVE FOR"
+      },
+      "translation": {
+        "text": "오리건 주 오션 레이크 인근 애거트 비치에서 8월 7일 저녁 11시 30분에 밝은 색의 디스크로 생각되는 것을 목격했으며 이를 관찰할 수 있었다고 보고했습니다.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0047-u005",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 47,
+      "pageId": "page_0047",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0047-l0019"
+        ],
+        "lineNumbers": [
+          19
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "BOBBITT"
+      },
+      "translation": {
+        "text": "보빗",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0047-u006",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 47,
+      "pageId": "page_0047",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0047-l0022"
+        ],
+        "lineNumbers": [
+          22
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "HOLD PLS"
+      },
+      "translation": {
+        "text": "대기 바람",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0047-u007",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 47,
+      "pageId": "page_0047",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0047-l0024"
+        ],
+        "lineNumbers": [
+          24
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0024",
+            "lineNumber": 24,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "5-50 PM OK FBI WASH DC L"
+      },
+      "translation": {
+        "text": "오후 5시 50분 OK FBI 워싱턴 DC L",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

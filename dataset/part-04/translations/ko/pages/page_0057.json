@@ -1,0 +1,423 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 4,
+  "page": 57,
+  "pageId": "page_0057",
+  "source": {
+    "pdfPath": "docs/ufo4.pdf",
+    "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T08:59:23.616Z",
+  "unitCount": 6,
+  "sourceLineCount": 16,
+  "excludedLineCount": 3,
+  "excludedLines": [
+    {
+      "part": 4,
+      "page": 57,
+      "pageId": "page_0057",
+      "lineId": "page_0057-l0016",
+      "lineNumber": 16,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "I've noticed!",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 57,
+      "pageId": "page_0057",
+      "lineId": "page_0057-l0024",
+      "lineNumber": 24,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Sincerely yours,",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 57,
+      "pageId": "page_0057",
+      "lineId": "page_0057-l0026",
+      "lineNumber": 26,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "b7c [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p04-page-0057-u001",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 57,
+      "pageId": "page_0057",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0057-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 57,
+            "pageId": "page_0057",
+            "lineId": "page_0057-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "-2-"
+      },
+      "translation": {
+        "text": "-2-",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0057-u002",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 57,
+      "pageId": "page_0057",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0057-l0003",
+          "page_0057-l0004"
+        ],
+        "lineNumbers": [
+          3,
+          4
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 57,
+            "pageId": "page_0057",
+            "lineId": "page_0057-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 57,
+            "pageId": "page_0057",
+            "lineId": "page_0057-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "In short, I'd like to have you continue to keep in contact\nwith me, and relay to me anything further you learn."
+      },
+      "translation": {
+        "text": "요컨대, 저와 계속 연락을 유지해 주시고, 추가로 알게 되는 것이 있으면 무엇이든 저에게 전달해 주시기 바랍니다.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0057-u003",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 57,
+      "pageId": "page_0057",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0057-l0006",
+          "page_0057-l0007",
+          "page_0057-l0008",
+          "page_0057-l0009"
+        ],
+        "lineNumbers": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 57,
+            "pageId": "page_0057",
+            "lineId": "page_0057-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 57,
+            "pageId": "page_0057",
+            "lineId": "page_0057-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 57,
+            "pageId": "page_0057",
+            "lineId": "page_0057-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 57,
+            "pageId": "page_0057",
+            "lineId": "page_0057-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "In turn, I'll give you the whole story, which I'm just about\nready to break (not in the newspapers). And if it was as\ndangerous as you seem to suspect, I'm afraid I'd have been\na corpse long ago!"
+      },
+      "translation": {
+        "text": "그러면 저도 모든 이야기를 해드리겠습니다. 제가 곧 공개하려는 이야기입니다(신문에는 아님). 그리고 당신이 의심하는 것처럼 그것이 위험했다면, 저는 이미 오래전에 시체가 되었을까 두렵습니다!",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0057-u004",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 57,
+      "pageId": "page_0057",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0057-l0011",
+          "page_0057-l0012",
+          "page_0057-l0013",
+          "page_0057-l0014",
+          "page_0057-l0015"
+        ],
+        "lineNumbers": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 57,
+            "pageId": "page_0057",
+            "lineId": "page_0057-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 57,
+            "pageId": "page_0057",
+            "lineId": "page_0057-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 57,
+            "pageId": "page_0057",
+            "lineId": "page_0057-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 57,
+            "pageId": "page_0057",
+            "lineId": "page_0057-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 57,
+            "pageId": "page_0057",
+            "lineId": "page_0057-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "But, and this is all you need remember, those disks are not\nred corpuscles in your eyeball, and they are not something\nwe can forget about with an ostrich in the sand attitude.\nWe've got to solve them, public hysteria or no. As for that\nhysteria, if laughing is hysteria, that's all the hysteria"
+      },
+      "translation": {
+        "text": "하지만, 이것만 기억하시면 됩니다. 그 디스크들은 당신의 안구에 있는 적혈구가 아니며, 모래 속에 머리를 박는 타조 같은 태도로 잊어버릴 수 있는 것도 아닙니다. 우리는 대중의 히스테리가 있든 없든 그것들을 해결해야 합니다. 그 히스테리에 관해서라면, 웃는 것이 히스테리라면, 그것이 모든 히스테리입니다.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0057-u005",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 57,
+      "pageId": "page_0057",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0057-l0018",
+          "page_0057-l0019",
+          "page_0057-l0020"
+        ],
+        "lineNumbers": [
+          18,
+          19,
+          20
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 57,
+            "pageId": "page_0057",
+            "lineId": "page_0057-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 57,
+            "pageId": "page_0057",
+            "lineId": "page_0057-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 57,
+            "pageId": "page_0057",
+            "lineId": "page_0057-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "You know your business, and you handled it like a major.\nBut I'm hoping you do the easy part now and get that report\non paper."
+      },
+      "translation": {
+        "text": "당신은 당신의 일을 알고 있고, 소령처럼 처리했습니다. 하지만 이제 쉬운 부분을 처리하여 그 보고서를 서면으로 작성해 주시기를 바랍니다.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0057-u006",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 57,
+      "pageId": "page_0057",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0057-l0022"
+        ],
+        "lineNumbers": [
+          22
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 57,
+            "pageId": "page_0057",
+            "lineId": "page_0057-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "A check for your June 24 article is going out to you."
+      },
+      "translation": {
+        "text": "6월 24일자 기사에 대한 수표가 귀하에게 발송될 것입니다.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

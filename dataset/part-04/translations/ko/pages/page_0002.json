@@ -1,0 +1,919 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 4,
+  "page": 2,
+  "pageId": "page_0002",
+  "source": {
+    "pdfPath": "docs/ufo4.pdf",
+    "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T08:59:23.616Z",
+  "unitCount": 16,
+  "sourceLineCount": 26,
+  "excludedLineCount": 9,
+  "excludedLines": [
+    {
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "lineId": "page_0002-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "STANDARD F",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "lineId": "page_0002-l0013",
+      "lineNumber": 13,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] Montana State Prison, Deer Lodge, Montana, has",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "lineId": "page_0002-l0016",
+      "lineNumber": 16,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "across the sky. This was also seen by [REDACTED], convict chauffeur,",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "lineId": "page_0002-l0017",
+      "lineNumber": 17,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "and [REDACTED] This object went into a nose dive and they thought it would",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "lineId": "page_0002-l0024",
+      "lineNumber": 24,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "in the air. [REDACTED] said that this silver object was traveling at an",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "lineId": "page_0002-l0026",
+      "lineNumber": 26,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "way from the earth. [REDACTED] said when he first saw it he thought it was",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "lineId": "page_0002-l0032",
+      "lineNumber": 32,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "The Seattle Office is requested to advise Mr. [REDACTED] 4th",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "lineId": "page_0002-l0042",
+      "lineNumber": 42,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "lineId": "page_0002-l0050",
+      "lineNumber": 50,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p04-page-0002-u001",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0002-l0003"
+        ],
+        "lineNumbers": [
+          3
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "Office Memorandum • UNITED STATES GOVERNMENT"
+      },
+      "translation": {
+        "text": "사무 메모 • 미합중국 정부",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0002-u002",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0002-l0005",
+          "page_0002-l0006"
+        ],
+        "lineNumbers": [
+          5,
+          6
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "TO : Director, FBI\nDATE: September 27, 1947"
+      },
+      "translation": {
+        "text": "수신: FBI 국장\n날짜: 1947년 9월 27일",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0002-u003",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0002-l0008"
+        ],
+        "lineNumbers": [
+          8
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "FROM : SAC, Butte"
+      },
+      "translation": {
+        "text": "발신: 뷰트 지부 책임 특별 요원(SAC)",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0002-u004",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0002-l0010",
+          "page_0002-l0011"
+        ],
+        "lineNumbers": [
+          10,
+          11
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "SUBJECT: FLYING DISCS SIGHTED MAY 5, 1947,\nBETWEEN ELLENSBURG AND SEATTLE, WASHINGTON"
+      },
+      "translation": {
+        "text": "제목: 1947년 5월 5일 워싱턴주 엘렌스버그와 시애틀 사이에서 목격된 비행 디스크",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0002-u005",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0002-l0014",
+          "page_0002-l0015"
+        ],
+        "lineNumbers": [
+          14,
+          15
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "advised the writer that while driving between Ellensburg and Seattle, Washing-\nton, about 3:30 P.M., on May 5, 1947, he sighted a silver object streaking"
+      },
+      "translation": {
+        "text": "1947년 5월 5일 오후 3시 30분경 워싱턴주 엘렌스버그와 시애틀 사이를 운전하던 중, 은색 물체가 쏜살같이 날아가는 것을 목격했다고 필자에게 알렸습니다.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0002-u006",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0002-l0018",
+          "page_0002-l0019",
+          "page_0002-l0020",
+          "page_0002-l0021"
+        ],
+        "lineNumbers": [
+          18,
+          19,
+          20,
+          21
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "crash. However, before reaching the earth it disintegrated, leaving a long\npillar of \"gas\" hanging in the sky. It was particularly odd because this re-\nmained in form and did not blow away. It was observed by these three people\nwhile they drove from twenty to thirty miles."
+      },
+      "translation": {
+        "text": "추락. 그러나, 지상에 도달하기 전에 그것은 분해되어 하늘에 긴 '가스' 기둥을 남겼습니다. 이것이 형태를 유지하고 흩어지지 않았기 때문에 특히 이상했습니다. 이 세 사람은 20에서 30마일을 운전하는 동안 그것을 관찰했습니다.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0002-u007",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0002-l0023"
+        ],
+        "lineNumbers": [
+          23
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "This smoky, gaseous pillar was a long ways off and remained high"
+      },
+      "translation": {
+        "text": "이 연기 같은 가스 기둥은 아주 멀리 떨어져 있었고 높이 남아 있었습니다.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0002-u008",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0002-l0025"
+        ],
+        "lineNumbers": [
+          25
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "excessively high rate of speed and when it disintegrated it was still a long"
+      },
+      "translation": {
+        "text": "과도하게 빠른 속도였고 분해되었을 때에도 여전히 멀리 있었습니다.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0002-u009",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0002-l0027",
+          "page_0002-l0028",
+          "page_0002-l0029",
+          "page_0002-l0030"
+        ],
+        "lineNumbers": [
+          27,
+          28,
+          29,
+          30
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0027",
+            "lineNumber": 27,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0028",
+            "lineNumber": 28,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0030",
+            "lineNumber": 30,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "probably a jet propelled plane but that he couldn't tell except that its mo-\ntions were erratic. He said he had not reported it until he had noticed so\nmuch in the papers about these discs. Although three people saw it, they de-\ncided that they must be \"seeing things\"."
+      },
+      "translation": {
+        "text": "아마도 제트 추진 비행기일 것이지만, 그 움직임이 불규칙했다는 것 외에는 알 수 없었다고 했습니다. 그는 신문에서 이 디스크들에 대해 많이 접하기 전까지는 신고하지 않았다고 말했습니다. 세 사람이 그것을 보았지만, 그들은 자신들이 '헛것을 보고 있는 것'이라고 결론 내렸습니다.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0002-u010",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0002-l0033"
+        ],
+        "lineNumbers": [
+          33
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0033",
+            "lineNumber": 33,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "Air Force, S-2, McChord Field, Washington."
+      },
+      "translation": {
+        "text": "워싱턴주 맥코드 필드 공군 S-2.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0002-u011",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0002-l0035",
+          "page_0002-l0036"
+        ],
+        "lineNumbers": [
+          35,
+          36
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0035",
+            "lineNumber": 35,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0036",
+            "lineNumber": 36,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "No further action is being taken by the Butte Office due to the\ntime elapsing between the sighting of this object and the report."
+      },
+      "translation": {
+        "text": "이 물체의 목격과 보고 사이에 경과된 시간으로 인해 뷰트 지부에서는 더 이상의 조치를 취하지 않고 있습니다.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0002-u012",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0002-l0038"
+        ],
+        "lineNumbers": [
+          38
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0038",
+            "lineNumber": 38,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "WGB:LB"
+      },
+      "translation": {
+        "text": "WGB:LB",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0002-u013",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0002-l0040"
+        ],
+        "lineNumbers": [
+          40
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0040",
+            "lineNumber": 40,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "cc - Seattle"
+      },
+      "translation": {
+        "text": "참조 - 시애틀",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0002-u014",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0002-l0044"
+        ],
+        "lineNumbers": [
+          44
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0044",
+            "lineNumber": 44,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "RECORDED"
+      },
+      "translation": {
+        "text": "기록됨",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0002-u015",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0002-l0046"
+        ],
+        "lineNumbers": [
+          46
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0046",
+            "lineNumber": 46,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "INDEXED"
+      },
+      "translation": {
+        "text": "색인됨",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0002-u016",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 2,
+      "pageId": "page_0002",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0002-l0048"
+        ],
+        "lineNumbers": [
+          48
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 2,
+            "pageId": "page_0002",
+            "lineId": "page_0002-l0048",
+            "lineNumber": 48,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "EX-48"
+      },
+      "translation": {
+        "text": "EX-48",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

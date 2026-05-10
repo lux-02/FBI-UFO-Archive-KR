@@ -1,0 +1,91 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 4,
+  "page": 74,
+  "pageId": "page_0074",
+  "source": {
+    "pdfPath": "docs/ufo4.pdf",
+    "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 6 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0074-l0004",
+    "page_0074-l0005",
+    "page_0074-l0007",
+    "page_0074-l0011"
+  ],
+  "lineCount": 13,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "UNIDENTIFIED OBJECT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "4AF-1208-I",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
+      "text": "AGENT'S NOTES: [REDACTED] will communicate with the AC of S, A-2,",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 5,
+      "text": "Headquarters Fourth Air Force, Hamilton Field, California, if any",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 6,
+      "text": "information regarding wreckage of an aircraft is located in the area in",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "question. [REDACTED] was not informed of the mission and was led to believe",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 8,
+      "text": "that the mission was an effort to locate possible aircraft wreckage in",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "the area.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Dryden L. Moon, Special Agent, 4AF CIC",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 12,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 13,
+      "text": "CONFIDENTIAL",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

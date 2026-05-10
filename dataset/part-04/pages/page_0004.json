@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 4,
+  "page": 4,
+  "pageId": "page_0004",
+  "source": {
+    "pdfPath": "docs/ufo4.pdf",
+    "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 13 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0004-l0008",
+    "page_0004-l0010"
+  ],
+  "lineCount": 20,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "Director, FBI",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "RE: REPORTS OF FLYING DISCS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "9/19/47",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "In the event the Bureau decides to discuss the matter further with",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "the Army Air Forces, it is recommended that no indication whatsoever be",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "given indicating this letter was referred to me by Lieutenant Colonel",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "[REDACTED] inasmuch as it would undoubtedly cause him serious embarrassment",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 9,
+      "text": "and would certainly cause the excellent personal relationship which exists",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "between Lieutenant Colonel [REDACTED] and this office to be endangered.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Very truly yours,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Harry M. Kimball",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Special Agent in Charge",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 17,
+      "text": "HMK:mhr",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "62-2938",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 20,
+      "text": "b7c",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

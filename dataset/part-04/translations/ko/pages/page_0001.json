@@ -1,0 +1,883 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 4,
+  "page": 1,
+  "pageId": "page_0001",
+  "source": {
+    "pdfPath": "docs/ufo4.pdf",
+    "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T08:59:23.616Z",
+  "unitCount": 8,
+  "sourceLineCount": 53,
+  "excludedLineCount": 2,
+  "excludedLines": [
+    {
+      "part": 4,
+      "page": 1,
+      "pageId": "page_0001",
+      "lineId": "page_0001-l0003",
+      "lineNumber": 3,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "[unclear] by the U. S. Weather [unclear]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 1,
+      "pageId": "page_0001",
+      "lineId": "page_0001-l0044",
+      "lineNumber": 44,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "formation. They were colliding",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p04-page-0001-u001",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 1,
+      "pageId": "page_0001",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0001-l0001",
+          "page_0001-l0002"
+        ],
+        "lineNumbers": [
+          1,
+          2
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "News\n94-130 THE WEA."
+      },
+      "translation": {
+        "text": "뉴스\n94-130 날씨.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0001-u002",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 1,
+      "pageId": "page_0001",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0001-l0004",
+          "page_0001-l0005",
+          "page_0001-l0006",
+          "page_0001-l0007",
+          "page_0001-l0008",
+          "page_0001-l0009"
+        ],
+        "lineNumbers": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "For Birmingham and Vicinity-\nPartly cloudy and warm today, to-\nnight and tomorrow with a few\nscattered showers this afternoon.\nHigh today 88, low tonight 70, high\ntomorrow 90."
+      },
+      "translation": {
+        "text": "버밍엄 및 인근 지역-\n오늘, 오늘 밤, 내일 대체로 흐리고 따뜻하며\n오늘 오후에 소나기가 몇 차례 흩뿌려질 것임.\n오늘 최고 기온 88도, 오늘 밤 최저 기온 70도, 내일\n최고 기온 90도.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0001-u003",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 1,
+      "pageId": "page_0001",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0001-l0011",
+          "page_0001-l0012",
+          "page_0001-l0013"
+        ],
+        "lineNumbers": [
+          11,
+          12,
+          13
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "47\n**\nPRICE: 5 CENTS"
+      },
+      "translation": {
+        "text": "47\n**\n가격: 5센트",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0001-u004",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 1,
+      "pageId": "page_0001",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0001-l0015",
+          "page_0001-l0016",
+          "page_0001-l0017"
+        ],
+        "lineNumbers": [
+          15,
+          16,
+          17
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "'Flying Saucers' Reported\nFrom 39 States, But Seem\nTo Be Concentrated Here"
+      },
+      "translation": {
+        "text": "'비행접시' 39개 주에서 보고되었으나,\n이곳에 집중된 것으로 보임",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0001-u005",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 1,
+      "pageId": "page_0001",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0001-l0019",
+          "page_0001-l0020",
+          "page_0001-l0021"
+        ],
+        "lineNumbers": [
+          19,
+          20,
+          21
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "City Is Baffled By\nDazzling Display\nOf Spooky Discs"
+      },
+      "translation": {
+        "text": "눈부신 광경에\n도시 혼란\n으스스한 디스크들",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0001-u006",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 1,
+      "pageId": "page_0001",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0001-l0023",
+          "page_0001-l0024",
+          "page_0001-l0025",
+          "page_0001-l0026",
+          "page_0001-l0027",
+          "page_0001-l0028",
+          "page_0001-l0029",
+          "page_0001-l0030",
+          "page_0001-l0031",
+          "page_0001-l0032",
+          "page_0001-l0033",
+          "page_0001-l0034",
+          "page_0001-l0035",
+          "page_0001-l0036",
+          "page_0001-l0037",
+          "page_0001-l0038",
+          "page_0001-l0039",
+          "page_0001-l0040",
+          "page_0001-l0041",
+          "page_0001-l0042",
+          "page_0001-l0043"
+        ],
+        "lineNumbers": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0024",
+            "lineNumber": 24,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0026",
+            "lineNumber": 26,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0027",
+            "lineNumber": 27,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0028",
+            "lineNumber": 28,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0030",
+            "lineNumber": 30,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0031",
+            "lineNumber": 31,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0032",
+            "lineNumber": 32,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0033",
+            "lineNumber": 33,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0034",
+            "lineNumber": 34,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0035",
+            "lineNumber": 35,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0036",
+            "lineNumber": 36,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0037",
+            "lineNumber": 37,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0038",
+            "lineNumber": 38,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0039",
+            "lineNumber": 39,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0040",
+            "lineNumber": 40,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0041",
+            "lineNumber": 41,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0042",
+            "lineNumber": 42,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0043",
+            "lineNumber": 43,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "The strange things that have\nbeen in night skies since June 25,\nwere over Birmingham last night.\nOn one thing everyone who has\nseen the mysterious objects agree\n-they are round, saucer-like. After\nthat, every story differs. Each of\nthe hundreds of callers who re-\nported witnessing the baffling sky\ndemonstrations here last night had\na different version of what they\nsaw.\nSome said the objects were\nlarge, some small. They were mov-\ning at great speed. They were sus-\npended in the air. There was sound\nalong with their movements. They\nmoved noiselessly through the black\nsky. They were at great distance\nfrom the earth. They had fallen to\nthe ground. They were in perfect"
+      },
+      "translation": {
+        "text": "6월 25일부터 밤하늘에 나타난\n이상한 물체들이 어젯밤 버밍엄 상공에 나타났습니다.\n신비한 물체를 본 모든 사람이 동의하는\n한 가지는 그것들이 둥글고 접시 모양이라는 것입니다. 그 이후로는\n모든 이야기가 다릅니다. 어젯밤 이곳에서\n당혹스러운 하늘의 시연을 목격했다고 보고한\n수백 명의 제보자들은 각자 본 것에 대해\n다른 버전을 가지고 있었습니다.\n어떤 이들은 물체가 크다고 했고, 어떤 이들은 작다고 했습니다. 그것들은\n엄청난 속도로 움직이고 있었습니다. 그것들은 공중에\n떠 있었습니다. 움직임과 함께\n소리가 났습니다. 그것들은 검은\n하늘을 소리 없이 움직였습니다. 그것들은 지구에서\n상당한 거리에 있었습니다. 그것들은\n땅에 떨어졌습니다. 그것들은 완벽한",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0001-u007",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 1,
+      "pageId": "page_0001",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0001-l0045",
+          "page_0001-l0046",
+          "page_0001-l0047",
+          "page_0001-l0048",
+          "page_0001-l0049",
+          "page_0001-l0050",
+          "page_0001-l0051",
+          "page_0001-l0052",
+          "page_0001-l0053"
+        ],
+        "lineNumbers": [
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0045",
+            "lineNumber": 45,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0046",
+            "lineNumber": 46,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0047",
+            "lineNumber": 47,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0048",
+            "lineNumber": 48,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0049",
+            "lineNumber": 49,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0050",
+            "lineNumber": 50,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0051",
+            "lineNumber": 51,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0052",
+            "lineNumber": 52,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0053",
+            "lineNumber": 53,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "with each other.\nBut whatever the things are that\nhave set the nation agog since first\nreported 12 days ago by a man in\nWashington State, they definitely\nwere over the Magic City last night.\nIt seems, in fact, that more Bir-\nmingham residents saw the objects\nthan in any other place."
+      },
+      "translation": {
+        "text": "서로 함께.\n그러나 12일 전 워싱턴 주의 한 남성에 의해 처음\n보고된 이후로 나라를 들썩이게 한 그 물체들이 무엇이든 간에,\n그것들은 어젯밤 매직 시티 상공에 분명히 있었습니다.\n사실, 다른 어떤 곳보다 더 많은\n버밍엄 주민들이 그 물체들을 본 것 같습니다.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0001-u008",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 1,
+      "pageId": "page_0001",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0001-l0055",
+          "page_0001-l0056",
+          "page_0001-l0057",
+          "page_0001-l0058",
+          "page_0001-l0059",
+          "page_0001-l0060"
+        ],
+        "lineNumbers": [
+          55,
+          56,
+          57,
+          58,
+          59,
+          60
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0055",
+            "lineNumber": 55,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0056",
+            "lineNumber": 56,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0057",
+            "lineNumber": 57,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0058",
+            "lineNumber": 58,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0059",
+            "lineNumber": 59,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0060",
+            "lineNumber": 60,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "REPORTS BEGAN coming into\nthe Age-Herald city room around\n8 o'clock last night. For more than\nan hour thereafter, the place was\nbedlam. The switchboard operators\nwere swamped with calls. Report-"
+      },
+      "translation": {
+        "text": "어젯밤 8시경부터 에이지-헤럴드 시 편집실로\n보고가 들어오기 시작했습니다. 그 후 한 시간 이상\n그곳은 아수라장이었습니다. 교환원들은\n전화로 넘쳐났습니다. 보고-",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 .DS_Store
 .omx/
+dossier-*.png
 
 # === Node / build artifacts ===
 node_modules/
@@ -28,26 +29,31 @@ coverage/
 CLAUDE.md
 AGENTS.md
 
-# === Local app scaffold / maintainer workflow — not in dataset release ===
-package.json
-pnpm-lock.yaml
+# === App harness ===
+# The Astro reader is still under local development and is excluded from the
+# current public dataset release. Publish OCR/translation data first.
 astro.config.mjs
 tsconfig.json
+package.json
+pnpm-lock.yaml
 src/
-scripts/
-WORKFLOW.md
+public/
+
+# === Maintainer workflow docs ===
+# Keep agent orchestration and local workflow details private for now; the
+# public dataset README carries the user-facing process summary.
 AGENT_ORCHESTRATION.md
+WORKFLOW.md
 
 # === Operational pipeline — not for distribution ===
 # Working data and operational rules. The exported public dataset under
 # `dataset/` is what is published.
+scripts/*
 data/ocr/
 data/translations/
 scripts/ocr/
 scripts/translation/
 scripts/dataset/
-scripts/verify-baseline-schemas.mjs
-scripts/verify-content.mjs
 
 # === Original PDFs ===
 # Re-downloadable from FBI Vault. Use scripts/download-pdfs.mjs.

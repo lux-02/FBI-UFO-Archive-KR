@@ -1,0 +1,206 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 4,
+  "page": 5,
+  "pageId": "page_0005",
+  "source": {
+    "pdfPath": "docs/ufo4.pdf",
+    "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T08:59:23.616Z",
+  "unitCount": 3,
+  "sourceLineCount": 6,
+  "excludedLineCount": 2,
+  "excludedLines": [
+    {
+      "part": 4,
+      "page": 5,
+      "pageId": "page_0005",
+      "lineId": "page_0005-l0008",
+      "lineNumber": 8,
+      "sourceStatus": "NEEDS_IMAGE_CHECK",
+      "sourceText": "RECORDED",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 5,
+      "pageId": "page_0005",
+      "lineId": "page_0005-l0011",
+      "lineNumber": 11,
+      "sourceStatus": "NEEDS_IMAGE_CHECK",
+      "sourceText": "ORIGINAL COPIED IN",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p04-page-0005-u001",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 5,
+      "pageId": "page_0005",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0005-l0001",
+          "page_0005-l0002",
+          "page_0005-l0003"
+        ],
+        "lineNumbers": [
+          1,
+          2,
+          3
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "(D) FLYING DISCS --Effective immediately, the Bureau has discontinued its investi-\ngative activities as outlined in Section B of Bureau Bulletin No. 42, Series 1947,\ndated July 30, 1947."
+      },
+      "translation": {
+        "text": "(D) 비행 디스크 --즉시 효력 발생, 국은 1947년 7월 30일자 국 회보 제42호, 1947년 시리즈의 B절에 명시된 수사 활동을 중단했습니다.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0005-u002",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 5,
+      "pageId": "page_0005",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0005-l0005",
+          "page_0005-l0006"
+        ],
+        "lineNumbers": [
+          5,
+          6
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "All future reports connected with flying discs should be referred to\nthe Air Forces and no investigative action should be taken by Bureau Agents."
+      },
+      "translation": {
+        "text": "비행 디스크와 관련된 모든 향후 보고는 공군에 회부되어야 하며, 국 요원은 어떠한 수사 조치도 취해서는 안 됩니다.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0005-u003",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 5,
+      "pageId": "page_0005",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0005-l0009"
+        ],
+        "lineNumbers": [
+          9
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "OCT 6 1947"
+      },
+      "translation": {
+        "text": "1947년 10월 6일",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

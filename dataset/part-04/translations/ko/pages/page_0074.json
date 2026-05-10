@@ -1,0 +1,260 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 4,
+  "page": 74,
+  "pageId": "page_0074",
+  "source": {
+    "pdfPath": "docs/ufo4.pdf",
+    "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T08:59:23.616Z",
+  "unitCount": 4,
+  "sourceLineCount": 6,
+  "excludedLineCount": 4,
+  "excludedLines": [
+    {
+      "part": 4,
+      "page": 74,
+      "pageId": "page_0074",
+      "lineId": "page_0074-l0004",
+      "lineNumber": 4,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "AGENT'S NOTES: [REDACTED] will communicate with the AC of S, A-2,",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 74,
+      "pageId": "page_0074",
+      "lineId": "page_0074-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Headquarters Fourth Air Force, Hamilton Field, California, if any",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 74,
+      "pageId": "page_0074",
+      "lineId": "page_0074-l0007",
+      "lineNumber": 7,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "question. [REDACTED] was not informed of the mission and was led to believe",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 4,
+      "page": 74,
+      "pageId": "page_0074",
+      "lineId": "page_0074-l0011",
+      "lineNumber": 11,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Dryden L. Moon, Special Agent, 4AF CIC",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p04-page-0074-u001",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 74,
+      "pageId": "page_0074",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0074-l0001",
+          "page_0074-l0002"
+        ],
+        "lineNumbers": [
+          1,
+          2
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 74,
+            "pageId": "page_0074",
+            "lineId": "page_0074-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 74,
+            "pageId": "page_0074",
+            "lineId": "page_0074-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "UNIDENTIFIED OBJECT\n4AF-1208-I"
+      },
+      "translation": {
+        "text": "미확인 물체\n4AF-1208-I",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0074-u002",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 74,
+      "pageId": "page_0074",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0074-l0006"
+        ],
+        "lineNumbers": [
+          6
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 74,
+            "pageId": "page_0074",
+            "lineId": "page_0074-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "information regarding wreckage of an aircraft is located in the area in"
+      },
+      "translation": {
+        "text": "항공기 잔해에 관한 정보가 해당 지역에 있다는",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0074-u003",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 74,
+      "pageId": "page_0074",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0074-l0008",
+          "page_0074-l0009"
+        ],
+        "lineNumbers": [
+          8,
+          9
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 74,
+            "pageId": "page_0074",
+            "lineId": "page_0074-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          },
+          {
+            "part": 4,
+            "page": 74,
+            "pageId": "page_0074",
+            "lineId": "page_0074-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "that the mission was an effort to locate possible aircraft wreckage in\nthe area."
+      },
+      "translation": {
+        "text": "해당 임무는 그 지역에서 있을 수 있는 항공기 잔해를 찾는 노력이었다는 것.",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p04-page-0074-u004",
+      "unitVersion": 1,
+      "part": 4,
+      "page": 74,
+      "pageId": "page_0074",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo4.pdf",
+        "sha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847",
+        "lineIds": [
+          "page_0074-l0013"
+        ],
+        "lineNumbers": [
+          13
+        ],
+        "refs": [
+          {
+            "part": 4,
+            "page": 74,
+            "pageId": "page_0074",
+            "lineId": "page_0074-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo4.pdf",
+            "sourceSha256": "ccb69dd730f65e8369ab6a82ae48c14c36c06ce9abb9e62e9962cf102d7b4847"
+          }
+        ],
+        "text": "CONFIDENTIAL"
+      },
+      "translation": {
+        "text": "기밀",
+        "reviewedAt": "2026-05-10T08:59:17.322Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

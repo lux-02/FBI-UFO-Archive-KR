@@ -19,8 +19,13 @@ This directory contains public-facing OCR and Korean translation datasets derive
   - 893 lines marked permanent_unresolved and excluded from translation body text.
   - Page-level breakdown: 7 READY · 102 PARTIAL_READY · 2 NOT_READY.
   - Korean translation export: 895 reviewed units across 109 pages, not final owner-approved.
+- **part-04** (`ufo4.pdf`, 77 pages) — OCR + translation export complete (2026-05-10).
+  - 1,637 source-bearing lines promoted through conservative image-match closure.
+  - 786 lines marked permanent_unresolved and excluded from translation body text.
+  - Page-level breakdown: 2 READY · 74 PARTIAL_READY · 1 NOT_READY.
+  - Korean translation export: 708 reviewed units across 76 pages, not final owner-approved.
 
-Other parts (04–16) are pending.
+Other parts (05–16) are pending.
 
 ## Disclaimer
 
@@ -52,6 +57,10 @@ dataset/
     pages/
     translations/ko/
   part-03/
+    manifest.json
+    pages/
+    translations/ko/
+  part-04/
     manifest.json
     pages/
     translations/ko/
@@ -104,6 +113,17 @@ Part 02 uses line-level closure for every page. Only `IMAGE_MATCHED` lines are t
 
 Part 03 uses line-level closure for every page. Only `IMAGE_MATCHED` lines are translation source; 893 unresolved lines are retained as excluded source-line records.
 
+### part-04
+
+| Layer | Pages | Meaning |
+|---|---:|---|
+| `line_audit` | 77 | Line-by-line OCR candidate pages with conservative image-match closure |
+| `manual_review` | 0 | Not used for this part export |
+| `no_text` | 0 | Not used for this part export |
+| `draft_only` | 0 | Not used for this part export |
+
+Part 04 uses line-level closure for every page. Only `IMAGE_MATCHED` lines are translation source; 786 unresolved lines are retained as excluded source-line records.
+
 ## Korean translation status
 
 This export now includes reviewed Korean translation data for:
@@ -117,6 +137,9 @@ This export now includes reviewed Korean translation data for:
 - `dataset/part-03/translations/ko/summary.json`
 - `dataset/part-03/translations/ko/units.json`
 - `dataset/part-03/translations/ko/pages/page_NNNN.{txt,json}`
+- `dataset/part-04/translations/ko/summary.json`
+- `dataset/part-04/translations/ko/units.json`
+- `dataset/part-04/translations/ko/pages/page_NNNN.{txt,json}`
 
 The translation input is limited to `IMAGE_MATCHED` source lines. Unresolved OCR lines are listed in each part's `excluded_source_lines.json` and are intentionally not translated as confirmed body text.
 
@@ -133,6 +156,9 @@ Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 
 FBI-UFO-Archive-KR Project. (2026). FBI UFO Archive KR — Public OCR + Translation Dataset, part-03.
 Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
+
+FBI-UFO-Archive-KR Project. (2026). FBI UFO Archive KR — Public OCR + Translation Dataset, part-04.
+Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 ```
 
 ## How to verify integrity
@@ -147,6 +173,9 @@ shasum -a 256 docs/ufo2.pdf
 
 shasum -a 256 docs/ufo3.pdf
 # Should match dataset/part-03/manifest.json -> source.sha256
+
+shasum -a 256 docs/ufo4.pdf
+# Should match dataset/part-04/manifest.json -> source.sha256
 ```
 
 ## Regenerate
@@ -157,7 +186,7 @@ Public users do not need the private export pipeline to read or verify this data
 
 Maintainer-side OCR and translation workflows produce the exported files in this directory, but those operational logs and review workspaces are not part of the public dataset.
 
-The public-facing project workflow is summarized in [`../WORKFLOW.md`](../WORKFLOW.md):
+The maintainer-side workflow for each exported part is:
 
 ```text
 OCR extraction -> OCR review -> Korean translation -> translation review -> public export
