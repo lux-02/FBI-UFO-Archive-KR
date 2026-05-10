@@ -1,0 +1,793 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 6,
+  "page": 29,
+  "pageId": "page_0029",
+  "source": {
+    "pdfPath": "docs/ufo6.pdf",
+    "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T12:36:01.951Z",
+  "unitCount": 10,
+  "sourceLineCount": 37,
+  "excludedLineCount": 4,
+  "excludedLines": [
+    {
+      "part": 6,
+      "page": 29,
+      "pageId": "page_0029",
+      "lineId": "page_0029-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "me to believe the under surface of this object to be curved in shape.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 29,
+      "pageId": "page_0029",
+      "lineId": "page_0029-l0023",
+      "lineNumber": 23,
+      "sourceStatus": "NEEDS_IMAGE_CHECK",
+      "sourceText": "flame were observed during the entire course with exception of the",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 29,
+      "pageId": "page_0029",
+      "lineId": "page_0029-l0035",
+      "lineNumber": 35,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "It is to be noted that [REDACTED] is a member of the Active 67C",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 29,
+      "pageId": "page_0029",
+      "lineId": "page_0029-l0044",
+      "lineNumber": 44,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] advised that he is planning to clear with his head- 67C",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p06-page-0029-u001",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 29,
+      "pageId": "page_0029",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0029-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "LA 100-2442"
+      },
+      "translation": {
+        "text": "LA 100-2442",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0029-u002",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 29,
+      "pageId": "page_0029",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0029-l0003",
+          "page_0029-l0004"
+        ],
+        "lineNumbers": [
+          3,
+          4
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "dull surfaced, light colored metal. The only ground lights of in-\ntensity were a row of street lights behind me one half block which leads"
+      },
+      "translation": {
+        "text": "광택이 없는 밝은 색의 금속. 강렬한 지상 조명은 반 블록 뒤에 있는 한 줄의 가로등뿐이었는데, 이는",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0029-u003",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 29,
+      "pageId": "page_0029",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0029-l0007",
+          "page_0029-l0008",
+          "page_0029-l0009",
+          "page_0029-l0010",
+          "page_0029-l0011",
+          "page_0029-l0012",
+          "page_0029-l0013",
+          "page_0029-l0014",
+          "page_0029-l0015",
+          "page_0029-l0016",
+          "page_0029-l0017"
+        ],
+        "lineNumbers": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "\"This object when first sighted, was moving very slowly in a west\nor northwesterly direction. I would estimate that I had it in my range\nof vision for 35 seconds, after having heard it about ten seconds before\nlocating it. It passed on beyond the house and maneuvered through an\narc of turn to the left of about ninety degrees. The clicking sound was\ncontinuous throughout this turn, however, it became louder as it returned\non its new heading of south or southwest. On its return the clicking\nsound became louder, but I was unable to see it at this time. The click-\ning stopped when it was at its greatest intensity and appeared to come\nfrom a position directly over head. I was unable to see the object after\nthe sound stopped."
+      },
+      "translation": {
+        "text": "\"이 물체는 처음 목격되었을 때 서쪽 또는 북서쪽 방향으로 매우 느리게 움직이고 있었습니다. 저는 그것을 발견하기 약 10초 전에 소리를 들은 후, 제 시야 범위에 35초 동안 있었다고 추정합니다. 그것은 집을 지나서 왼쪽으로 약 90도 호를 그리며 기동했습니다. 이 선회 내내 딸깍거리는 소리는 계속되었지만, 남쪽 또는 남서쪽의 새로운 경로로 돌아오면서 소리가 더 커졌습니다. 돌아올 때 딸깍거리는 소리는 더 커졌지만, 이때는 볼 수 없었습니다. 딸깍거리는 소리는 가장 강렬할 때 멈췄고 바로 머리 위 위치에서 나는 것처럼 보였습니다. 소리가 멈춘 후에는 물체를 볼 수 없었습니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0029-u004",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 29,
+      "pageId": "page_0029",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0029-l0019",
+          "page_0029-l0020",
+          "page_0029-l0021",
+          "page_0029-l0022"
+        ],
+        "lineNumbers": [
+          19,
+          20,
+          21,
+          22
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "\"This clicking sound, retained the same pitch and speed through-\nout the entire course observed, but intensity varied. There was not\nwhistle or roar, but only the clicking noise which might be compared to\nbeaters of a home mixer that were not properly meshed. No lights or"
+      },
+      "translation": {
+        "text": "\"이 딸깍거리는 소리는 관찰된 전체 경로 동안 동일한 음높이와 속도를 유지했지만 강도는 다양했습니다. 휘파람 소리나 굉음은 없었고, 제대로 맞물리지 않은 가정용 믹서기의 날과 비교할 수 있는 딸깍거리는 소리만 있었습니다. 조명이나",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0029-u005",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 29,
+      "pageId": "page_0029",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0029-l0024",
+          "page_0029-l0025"
+        ],
+        "lineNumbers": [
+          24,
+          25
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0024",
+            "lineNumber": 24,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "previous described reflections twice. No exhaust trail was distinguish-\nable."
+      },
+      "translation": {
+        "text": "이전에 설명된 반사 두 번. 배기 흔적은 식별할 수 없었습니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0029-u006",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 29,
+      "pageId": "page_0029",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0029-l0027",
+          "page_0029-l0028",
+          "page_0029-l0029",
+          "page_0029-l0030",
+          "page_0029-l0031",
+          "page_0029-l0032",
+          "page_0029-l0033"
+        ],
+        "lineNumbers": [
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0027",
+            "lineNumber": 27,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0028",
+            "lineNumber": 28,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0030",
+            "lineNumber": 30,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0031",
+            "lineNumber": 31,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0032",
+            "lineNumber": 32,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0033",
+            "lineNumber": 33,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "\"My dog was with me and directed her attention in the general\ndirection of this object's flight throughout its course. She had been\nromping with me on coming out of the house but without spoken word\nstopped and directed her attention on to the previously described area.\nThe clicking sound might not have been unusual to the dog, but there is\na possibility of sounds on wave lengths discernable only to the dog,\nbeing emitted.\""
+      },
+      "translation": {
+        "text": "\"제 개가 저와 함께 있었고, 물체가 비행하는 내내 그쪽 방향으로 주의를 기울였습니다. 집에서 나올 때는 저와 뛰어놀고 있었지만, 아무런 말도 없이 멈춰 서서 이전에 설명한 구역으로 주의를 돌렸습니다. 딸깍거리는 소리가 개에게는 이상하지 않았을 수도 있지만, 개만 식별할 수 있는 파장의 소리가 방출되었을 가능성이 있습니다.\"",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0029-u007",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 29,
+      "pageId": "page_0029",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0029-l0036",
+          "page_0029-l0037",
+          "page_0029-l0038",
+          "page_0029-l0039",
+          "page_0029-l0040",
+          "page_0029-l0041",
+          "page_0029-l0042"
+        ],
+        "lineNumbers": [
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0036",
+            "lineNumber": 36,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0037",
+            "lineNumber": 37,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0038",
+            "lineNumber": 38,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0039",
+            "lineNumber": 39,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0040",
+            "lineNumber": 40,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0041",
+            "lineNumber": 41,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0042",
+            "lineNumber": 42,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "USAF Reserve with rank of Major. He attained rating of pilot in August\n1941 and has approximately 2200 hours flying time. During his active\nduty period in WW2 he stated that he had considerable night flying\nexperience in connection with his military assignment. The Intelligence\nOfficer in the above mentioned letter made the following statement, \"An\nattempt to locate other witnesses in the area or through the local news-\npaper proved unsuccessful\"."
+      },
+      "translation": {
+        "text": "소령 계급의 미 공군 예비군. 그는 1941년 8월에 조종사 등급을 취득했으며 약 2200시간의 비행 시간을 보유하고 있습니다. 제2차 세계대전 현역 복무 기간 동안 그는 군사 임무와 관련하여 상당한 야간 비행 경험이 있다고 진술했습니다. 위에서 언급한 서한의 정보 장교는 다음과 같이 진술했습니다, \"해당 지역이나 지역 신문을 통해 다른 목격자를 찾으려는 시도는 성공하지 못했습니다\".",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0029-u008",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 29,
+      "pageId": "page_0029",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0029-l0045"
+        ],
+        "lineNumbers": [
+          45
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0045",
+            "lineNumber": 45,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "quarters office and will probably conduct an investigation."
+      },
+      "translation": {
+        "text": "본부 사무실이며 아마도 조사를 실시할 것입니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0029-u009",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 29,
+      "pageId": "page_0029",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0029-l0047"
+        ],
+        "lineNumbers": [
+          47
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0047",
+            "lineNumber": 47,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "The above is being furnished for the information of the Bureau."
+      },
+      "translation": {
+        "text": "위 내용은 국(Bureau)의 정보를 위해 제공됩니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0029-u010",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 29,
+      "pageId": "page_0029",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0029-l0049"
+        ],
+        "lineNumbers": [
+          49
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 29,
+            "pageId": "page_0029",
+            "lineId": "page_0029-l0049",
+            "lineNumber": 49,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "-2-"
+      },
+      "translation": {
+        "text": "-2-",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

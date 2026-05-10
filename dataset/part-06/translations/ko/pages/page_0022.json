@@ -1,0 +1,1028 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 6,
+  "page": 22,
+  "pageId": "page_0022",
+  "source": {
+    "pdfPath": "docs/ufo6.pdf",
+    "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T12:36:01.951Z",
+  "unitCount": 17,
+  "sourceLineCount": 39,
+  "excludedLineCount": 3,
+  "excludedLines": [
+    {
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "lineId": "page_0022-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "T..C GAME OF HECKLE O",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "lineId": "page_0022-l0012",
+      "lineNumber": 12,
+      "sourceStatus": "NEEDS_IMAGE_CHECK",
+      "sourceText": "circle",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "lineId": "page_0022-l0027",
+      "lineNumber": 27,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "The game begins with the Filer (A) attempting to sail the SAUCER around the HECKLERS in the",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p06-page-0022-u001",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0022-l0003",
+          "page_0022-l0004",
+          "page_0022-l0005"
+        ],
+        "lineNumbers": [
+          3,
+          4,
+          5
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "THE GAME OF HECKLE provides a means of utilizing the unique manner in which the FLYIN'\nSAUCER can be guided. Rules and regulations are provided, forming the basis for skill and\ncompetition."
+      },
+      "translation": {
+        "text": "헤클 게임은 비행접시를 조종하는 독특한 방식을 활용하는 수단을 제공합니다. 기술과 경쟁의 기초를 형성하는 규칙과 규정이 제공됩니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0022-u002",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0022-l0007"
+        ],
+        "lineNumbers": [
+          7
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "PLAYERS -- Four -- with two on each team."
+      },
+      "translation": {
+        "text": "선수 -- 4명 -- 각 팀에 2명.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0022-u003",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0022-l0009"
+        ],
+        "lineNumbers": [
+          9
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "OBJECT -- To fly SAUCER around HECKLERS into your partner's circle."
+      },
+      "translation": {
+        "text": "목표 -- 헤클러 주위로 비행접시를 날려 파트너의 원 안으로 보내기.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0022-u004",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0022-l0011"
+        ],
+        "lineNumbers": [
+          11
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "circle"
+      },
+      "translation": {
+        "text": "원",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0022-u005",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0022-l0013",
+          "page_0022-l0014",
+          "page_0022-l0015",
+          "page_0022-l0016",
+          "page_0022-l0017",
+          "page_0022-l0018",
+          "page_0022-l0019",
+          "page_0022-l0020",
+          "page_0022-l0021"
+        ],
+        "lineNumbers": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "circle\ncircle\nA\n18ft\nB\n30ft\nC\n18ft\nD"
+      },
+      "translation": {
+        "text": "원\n원\nA\n18피트\nB\n30피트\nC\n18피트\nD",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0022-u006",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0022-l0023"
+        ],
+        "lineNumbers": [
+          23
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "ALL CIRCLES ARE 6 FEET IN DIAMETER -- CENTER SPACE MAY VARY WITH ABILITY."
+      },
+      "translation": {
+        "text": "모든 원의 직경은 6피트입니다 -- 중앙 공간은 능력에 따라 달라질 수 있습니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0022-u007",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0022-l0025"
+        ],
+        "lineNumbers": [
+          25
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "All players must remain in their circle until SAUCER is airborne."
+      },
+      "translation": {
+        "text": "모든 선수는 비행접시가 공중에 뜰 때까지 자신의 원 안에 머물러야 합니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0022-u008",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0022-l0028"
+        ],
+        "lineNumbers": [
+          28
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0028",
+            "lineNumber": 28,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "circles (B) and (C) so that his partner in the Receiver's circle (D) can catch it."
+      },
+      "translation": {
+        "text": "원 (B)와 (C)를 통과하여 리시버의 원 (D)에 있는 그의 파트너가 잡을 수 있도록 합니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0022-u009",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0022-l0030"
+        ],
+        "lineNumbers": [
+          30
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0030",
+            "lineNumber": 30,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "Filer (A) must remain in his circle when serving the SAUCER."
+      },
+      "translation": {
+        "text": "파일러 (A)는 비행접시를 서브할 때 자신의 원 안에 머물러야 합니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0022-u010",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0022-l0032",
+          "page_0022-l0033",
+          "page_0022-l0034"
+        ],
+        "lineNumbers": [
+          32,
+          33,
+          34
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0032",
+            "lineNumber": 32,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0033",
+            "lineNumber": 33,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0034",
+            "lineNumber": 34,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "HECKLER (B) must remain in his circle at all times while his team is defensive. He may at-\ntempt to stop the flight of the SAUCER, or distract the Filer in any manner. Should he step\nor fall out of his circle, his team forfeits 1 point and the offensive team retains serve."
+      },
+      "translation": {
+        "text": "헤클러 (B)는 자신의 팀이 수비 중일 때 항상 자신의 원 안에 머물러야 합니다. 그는 비행접시의 비행을 막으려 하거나 어떤 방식으로든 파일러를 방해할 수 있습니다. 만약 그가 원 밖으로 나가거나 넘어지면, 그의 팀은 1점을 잃고 공격 팀이 서브권을 유지합니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0022-u011",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0022-l0036",
+          "page_0022-l0037",
+          "page_0022-l0038",
+          "page_0022-l0039"
+        ],
+        "lineNumbers": [
+          36,
+          37,
+          38,
+          39
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0036",
+            "lineNumber": 36,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0037",
+            "lineNumber": 37,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0038",
+            "lineNumber": 38,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0039",
+            "lineNumber": 39,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "HECKLER (C) remains in his circle until SAUCER is airborne. He may then leave his circle to\nheckle the Receiver (D) in any manner so long as he doesn't interfere with flight of SAUCER\nor touch the Receiver, or step into the Receiver's circle. Hecklers forfeit 2 points for\neach infraction."
+      },
+      "translation": {
+        "text": "헤클러 (C)는 비행접시가 공중에 뜰 때까지 자신의 원 안에 머물러 있습니다. 그런 다음 그는 원을 떠나 비행접시의 비행을 방해하거나, 리시버를 만지거나, 리시버의 원 안으로 들어가지 않는 한 어떤 방식으로든 리시버 (D)를 방해할 수 있습니다. 헤클러는 위반 시마다 2점을 잃습니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0022-u012",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0022-l0041",
+          "page_0022-l0042",
+          "page_0022-l0043",
+          "page_0022-l0044"
+        ],
+        "lineNumbers": [
+          41,
+          42,
+          43,
+          44
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0041",
+            "lineNumber": 41,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0042",
+            "lineNumber": 42,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0043",
+            "lineNumber": 43,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0044",
+            "lineNumber": 44,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "Receiver (D) attempts to catch the SAUCER in his circle. Should he do so, then his team re-\nceives 2 points. Should it be necessary for the Receiver to leave his circle to catch the\nSAUCER, then his team scores but 1 point. Should he drop or miss the SAUCER, no points are\nscored, and the teams change positions. (A) changes with (B) and (C) changes with (D)."
+      },
+      "translation": {
+        "text": "리시버 (D)는 자신의 원 안에서 비행접시를 잡으려고 시도합니다. 만약 그렇게 하면 그의 팀은 2점을 얻습니다. 리시버가 비행접시를 잡기 위해 원을 떠나야 하는 경우, 그의 팀은 1점만 득점합니다. 만약 그가 비행접시를 떨어뜨리거나 놓치면 점수는 없으며, 팀은 위치를 바꿉니다. (A)는 (B)와, (C)는 (D)와 바꿉니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0022-u013",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0022-l0046",
+          "page_0022-l0047"
+        ],
+        "lineNumbers": [
+          46,
+          47
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0046",
+            "lineNumber": 46,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0047",
+            "lineNumber": 47,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "(C) is now the Filer, and (B) the Receiver. HECKLER (D) must remain in his circle, and the\nHECKLER (A) becomes the roving HECKLER."
+      },
+      "translation": {
+        "text": "(C)는 이제 파일러가 되고, (B)는 리시버가 됩니다. 헤클러 (D)는 자신의 원 안에 머물러야 하며, 헤클러 (A)는 이동하는 헤클러가 됩니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0022-u014",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0022-l0049"
+        ],
+        "lineNumbers": [
+          49
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0049",
+            "lineNumber": 49,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "Teams change positions when the Receiver fails to catch the SAUCER."
+      },
+      "translation": {
+        "text": "리시버가 비행접시를 잡지 못하면 팀은 위치를 바꿉니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0022-u015",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0022-l0051",
+          "page_0022-l0052"
+        ],
+        "lineNumbers": [
+          51,
+          52
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0051",
+            "lineNumber": 51,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0052",
+            "lineNumber": 52,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "In the event that no Referee is available, disputes will be settled by mutual agreement, or\nthe flip of a coin."
+      },
+      "translation": {
+        "text": "심판이 없는 경우, 분쟁은 상호 합의 또는 동전 던지기로 해결됩니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0022-u016",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0022-l0054",
+          "page_0022-l0055"
+        ],
+        "lineNumbers": [
+          54,
+          55
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0054",
+            "lineNumber": 54,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0055",
+            "lineNumber": 55,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "First team to score 25 points wins the game.\nKEEP 'EM FLYIN'"
+      },
+      "translation": {
+        "text": "먼저 25점을 득점하는 팀이 게임에서 승리합니다.\n계속 날리세요",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0022-u017",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0022-l0057",
+          "page_0022-l0058"
+        ],
+        "lineNumbers": [
+          57,
+          58
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0057",
+            "lineNumber": 57,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0058",
+            "lineNumber": 58,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "This is a PIPCO PRODUCT\nSan Luis Obispo, Calif."
+      },
+      "translation": {
+        "text": "이것은 PIPCO 제품입니다\n캘리포니아 주, 샌 루이스 오비스포",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

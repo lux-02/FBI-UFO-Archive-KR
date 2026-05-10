@@ -29,8 +29,13 @@ This directory contains public-facing OCR and Korean translation datasets derive
   - 860 lines marked permanent_unresolved and excluded from translation body text.
   - Page-level breakdown: 3 READY · 66 PARTIAL_READY · 5 NOT_READY.
   - Korean translation export: 780 reviewed units across 69 pages, not final owner-approved.
+- **part-06** (`ufo6.pdf`, 129 pages) — OCR + translation export complete (2026-05-10).
+  - 3,543 source-bearing lines promoted through conservative image-match closure.
+  - 852 lines marked permanent_unresolved and excluded from translation body text.
+  - Page-level breakdown: 8 READY · 120 PARTIAL_READY · 1 NOT_READY.
+  - Korean translation export: 1,178 reviewed units across 128 pages, not final owner-approved.
 
-Other parts (06–16) are pending.
+Other parts (07–16) are pending.
 
 ## Disclaimer
 
@@ -40,7 +45,7 @@ This dataset is an unofficial Korean-archive OCR derivative. Not affiliated with
 
 ## Layout
 
-```
+```text
 dataset/
   README.md                                  this file
   LICENSE                                    license terms
@@ -73,78 +78,38 @@ dataset/
     manifest.json
     pages/
     translations/ko/
+  part-06/
+    manifest.json
+    pages/
+    translations/ko/
 ```
 
-## Content conventions
+## Content Conventions
 
 - `IMAGE_MATCHED` lines are included verbatim (vision OCR + image audit closure).
-- `permanent_unresolved` lines render as `[unclear: <reason>]` (e.g., `[unclear: torn/cropped]`). Reasons follow the `unresolved_reason` ENUM:
+- `permanent_unresolved` lines render as `[unclear: <reason>]` in source records and are excluded from Korean body translation. Reasons follow the `unresolved_reason` enum:
   `physical_obstruction`, `torn_or_cropped`, `stamp_or_envelope_artifact`, `handwritten_or_signature_partial`, `form_field_partial`, `other_documented`.
 - `STRUCTURE_BLANK` lines render as a blank line.
-- Pages where review is incomplete render `[needs review — page status <STATUS>]`. The body text is intentionally excluded until image-level audit closes the page.
-- Page-level `NORMALIZED` review (status=`NORMALIZED` in the source pipeline) renders the manually approved transcription as a single block.
+- Pages where review is incomplete render `[needs review — page status <STATUS>]`. Body text is intentionally excluded until image-level audit closes the page.
+- Page-level `NORMALIZED` review renders the manually approved transcription as a single block.
 - `NO_TRANSCRIBABLE_TEXT` pages render `[no transcribable text]`.
 - Korean translation files preserve source unit IDs and line mappings. They expose reviewed translation text only, not Gemini raw logs or operational crop evidence.
 - Translation status `reviewed` means Gemini first draft plus Codex source-faithfulness review. It does not mean final owner approval.
 
-## Source layer breakdown
+## Source Layer Breakdown
 
-### part-01
+| Part | `line_audit` | `manual_review` | `no_text` | `draft_only` | Translation source policy |
+|---:|---:|---:|---:|---:|---|
+| 01 | 16 | 8 | 3 | 42 | Line-audit/manual reviewed pages only |
+| 02 | 79 | 0 | 0 | 0 | `IMAGE_MATCHED` lines only |
+| 03 | 111 | 0 | 0 | 0 | `IMAGE_MATCHED` lines only |
+| 04 | 77 | 0 | 0 | 0 | `IMAGE_MATCHED` lines only |
+| 05 | 74 | 0 | 0 | 0 | `IMAGE_MATCHED` lines only |
+| 06 | 129 | 0 | 0 | 0 | `IMAGE_MATCHED` lines only |
 
-| Layer | Pages | Meaning |
-|---|---|---|
-| `line_audit` | 16 | Line-by-line image-matched closure (most difficult pages) |
-| `manual_review` | 8 | Page-level NORMALIZED review with full transcription |
-| `no_text` | 3 | Empty/non-content scan pages |
-| `draft_only` | 42 | Page review status not yet `NORMALIZED`; body excluded |
+Parts 02-06 use line-level closure for every page. Only `IMAGE_MATCHED` lines are translation source; unresolved lines are retained as excluded source-line records.
 
-The 24 pages with `line_audit` or `manual_review` source are publishable as Korean-translation source. The remaining 42 pages have draft transcriptions in the upstream pipeline but have not been image-matched at line level; those drafts are intentionally excluded from this public export until they pass review.
-
-### part-02
-
-| Layer | Pages | Meaning |
-|---|---:|---|
-| `line_audit` | 79 | Line-by-line OCR candidate pages with conservative image-match closure |
-| `manual_review` | 0 | Not used for this part export |
-| `no_text` | 0 | Not used for this part export |
-| `draft_only` | 0 | Not used for this part export |
-
-Part 02 uses line-level closure for every page. Only `IMAGE_MATCHED` lines are translation source; 721 unresolved lines are retained as excluded source-line records.
-
-### part-03
-
-| Layer | Pages | Meaning |
-|---|---:|---|
-| `line_audit` | 111 | Line-by-line OCR candidate pages with conservative image-match closure |
-| `manual_review` | 0 | Not used for this part export |
-| `no_text` | 0 | Not used for this part export |
-| `draft_only` | 0 | Not used for this part export |
-
-Part 03 uses line-level closure for every page. Only `IMAGE_MATCHED` lines are translation source; 893 unresolved lines are retained as excluded source-line records.
-
-### part-04
-
-| Layer | Pages | Meaning |
-|---|---:|---|
-| `line_audit` | 77 | Line-by-line OCR candidate pages with conservative image-match closure |
-| `manual_review` | 0 | Not used for this part export |
-| `no_text` | 0 | Not used for this part export |
-| `draft_only` | 0 | Not used for this part export |
-
-Part 04 uses line-level closure for every page. Only `IMAGE_MATCHED` lines are translation source; 786 unresolved lines are retained as excluded source-line records.
-
-### part-05
-
-| Layer | Pages | Meaning |
-|---|---:|---|
-| `line_audit` | 74 | Line-by-line OCR candidate pages with conservative image-match closure |
-| `manual_review` | 0 | Not used for this part export |
-| `no_text` | 0 | Not used for this part export |
-| `draft_only` | 0 | Not used for this part export |
-
-Part 05 uses line-level closure for every page. Only `IMAGE_MATCHED` lines are translation source; 860 unresolved lines are retained as excluded source-line records.
-
-## Korean translation status
+## Korean Translation Status
 
 This export now includes reviewed Korean translation data for:
 
@@ -163,14 +128,17 @@ This export now includes reviewed Korean translation data for:
 - `dataset/part-05/translations/ko/summary.json`
 - `dataset/part-05/translations/ko/units.json`
 - `dataset/part-05/translations/ko/pages/page_NNNN.{txt,json}`
+- `dataset/part-06/translations/ko/summary.json`
+- `dataset/part-06/translations/ko/units.json`
+- `dataset/part-06/translations/ko/pages/page_NNNN.{txt,json}`
 
 The translation input is limited to `IMAGE_MATCHED` source lines. Unresolved OCR lines are listed in each part's `excluded_source_lines.json` and are intentionally not translated as confirmed body text.
 
 The current Korean export is `reviewed` / `not_approved`: suitable for public inspection and dataset review, but not labeled as final approved publication text.
 
-## How to cite
+## How to Cite
 
-```
+```text
 FBI-UFO-Archive-KR Project. (2026). FBI UFO Archive KR — Public OCR + Translation Dataset, part-01.
 Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 
@@ -185,11 +153,14 @@ Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 
 FBI-UFO-Archive-KR Project. (2026). FBI UFO Archive KR — Public OCR + Translation Dataset, part-05.
 Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
+
+FBI-UFO-Archive-KR Project. (2026). FBI UFO Archive KR — Public OCR + Translation Dataset, part-06.
+Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 ```
 
-## How to verify integrity
+## How to Verify Integrity
 
-```
+```sh
 cd <repo>
 shasum -a 256 docs/ufo1.pdf
 # Should match dataset/part-01/manifest.json -> source.sha256
@@ -205,13 +176,16 @@ shasum -a 256 docs/ufo4.pdf
 
 shasum -a 256 docs/ufo5.pdf
 # Should match dataset/part-05/manifest.json -> source.sha256
+
+shasum -a 256 docs/ufo6.pdf
+# Should match dataset/part-06/manifest.json -> source.sha256
 ```
 
 ## Regenerate
 
 Public users do not need the private export pipeline to read or verify this dataset. Maintainers regenerate OCR and translation exports from ignored local pipeline artifacts before committing the public `dataset/` output.
 
-## Authority and rules
+## Authority and Rules
 
 Maintainer-side OCR and translation workflows produce the exported files in this directory, but those operational logs and review workspaces are not part of the public dataset.
 

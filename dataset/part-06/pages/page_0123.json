@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 6,
+  "page": 123,
+  "pageId": "page_0123",
+  "source": {
+    "pdfPath": "docs/ufo6.pdf",
+    "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 12 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0123-l0001",
+    "page_0123-l0008",
+    "page_0123-l0015"
+  ],
+  "lineCount": 15,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "we saw was something",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "text": "definate.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "I think this is curious busi-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "ness. So if this letter helps",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "you in any way, I will be",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "well paid.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "Respectfully Yours,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "[REDACTED] b7C",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Covington, Ohio",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "R.R. 1",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "FEB 11 11 30 AM",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "INTERNAL SECURITY",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "F. B. I.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "FEB 3 2 01 PM '49",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "4",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    }
+  ],
+  "blockCount": null
+}

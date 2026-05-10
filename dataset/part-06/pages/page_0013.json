@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 6,
+  "page": 13,
+  "pageId": "page_0013",
+  "source": {
+    "pdfPath": "docs/ufo6.pdf",
+    "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 4 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0013-l0004",
+    "page_0013-l0005",
+    "page_0013-l0009"
+  ],
+  "lineCount": 9,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "O O",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "The incident was, I believe, an important one. And though I have",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "already made reports to Maj. [REDACTED] of Los Alamos and to General",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 5,
+      "text": "Handy, I would appreciate the fuller newspaper stories appearing in the b7c",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 6,
+      "text": "press there. Thanking you kindly, I am,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "Sincerely,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "/s/ [REDACTED] b7c",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    }
+  ],
+  "blockCount": null
+}

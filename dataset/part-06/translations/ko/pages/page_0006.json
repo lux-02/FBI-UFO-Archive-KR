@@ -1,0 +1,424 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 6,
+  "page": 6,
+  "pageId": "page_0006",
+  "source": {
+    "pdfPath": "docs/ufo6.pdf",
+    "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T12:36:01.951Z",
+  "unitCount": 5,
+  "sourceLineCount": 13,
+  "excludedLineCount": 9,
+  "excludedLines": [
+    {
+      "part": 6,
+      "page": 6,
+      "pageId": "page_0006",
+      "lineId": "page_0006-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 6,
+      "pageId": "page_0006",
+      "lineId": "page_0006-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "minutes, though we did not",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 6,
+      "pageId": "page_0006",
+      "lineId": "page_0006-l0010",
+      "lineNumber": 10,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "sound.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 6,
+      "pageId": "page_0006",
+      "lineId": "page_0006-l0016",
+      "lineNumber": 16,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "come down anywhere. We",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 6,
+      "pageId": "page_0006",
+      "lineId": "page_0006-l0018",
+      "lineNumber": 18,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "sort of weather balloon, but as",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 6,
+      "pageId": "page_0006",
+      "lineId": "page_0006-l0020",
+      "lineNumber": 20,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "reports on them, here is this.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 6,
+      "pageId": "page_0006",
+      "lineId": "page_0006-l0021",
+      "lineNumber": 21,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Yours sincerely,",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 6,
+      "pageId": "page_0006",
+      "lineId": "page_0006-l0022",
+      "lineNumber": 22,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 6,
+      "pageId": "page_0006",
+      "lineId": "page_0006-l0024",
+      "lineNumber": 24,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "67C",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p06-page-0006-u001",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 6,
+      "pageId": "page_0006",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0006-l0002",
+          "page_0006-l0003"
+        ],
+        "lineNumbers": [
+          2,
+          3
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "NOBLEBORO, MAINE\n67C"
+      },
+      "translation": {
+        "text": "노블보로, 메인\n67C",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0006-u002",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 6,
+      "pageId": "page_0006",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0006-l0006",
+          "page_0006-l0007",
+          "page_0006-l0008",
+          "page_0006-l0009"
+        ],
+        "lineNumbers": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "look at our watches until it\nwas gone. It was then a\nfew minutes before eight.\nThere was no audible"
+      },
+      "translation": {
+        "text": "그것이 사라질 때까지 우리 시계를 보았다.\n그때가 8시 몇 분 전이었다.\n아무 소리도 들리지 않았다",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0006-u003",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 6,
+      "pageId": "page_0006",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0006-l0011",
+          "page_0006-l0012",
+          "page_0006-l0013",
+          "page_0006-l0014",
+          "page_0006-l0015"
+        ],
+        "lineNumbers": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "We of course call it our\nflying saucer, but it was\nnever oval, and never\nfast - moving and never\nappeared to be about to"
+      },
+      "translation": {
+        "text": "우리는 물론 그것을 우리의\n비행접시라고 부르지만, 그것은\n결코 타원형이 아니었고, 결코\n빠르게 움직이지 않았으며, 결코\n~할 것처럼 보이지 않았다",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0006-u004",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 6,
+      "pageId": "page_0006",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0006-l0017"
+        ],
+        "lineNumbers": [
+          17
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "suppose it to have been some"
+      },
+      "translation": {
+        "text": "그것이 어떤 것이었다고 가정하다",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0006-u005",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 6,
+      "pageId": "page_0006",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0006-l0019"
+        ],
+        "lineNumbers": [
+          19
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 6,
+            "pageId": "page_0006",
+            "lineId": "page_0006-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "we understand that you wish"
+      },
+      "translation": {
+        "text": "우리는 당신이 원한다고 이해합니다",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

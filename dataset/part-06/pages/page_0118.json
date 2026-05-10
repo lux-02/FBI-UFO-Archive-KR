@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 6,
+  "page": 118,
+  "pageId": "page_0118",
+  "source": {
+    "pdfPath": "docs/ufo6.pdf",
+    "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 7 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0118-l0001",
+    "page_0118-l0002",
+    "page_0118-l0010"
+  ],
+  "lineCount": 12,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "backgro[unclear] is compatible with his observations of an occurrence obviously not atmo-",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "text": "spheric or celestial phenomena, may be transmitted by TWX. Reports will be submitted",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 3,
+      "text": "directly to Headquarters, USAF, ATTN: Directorate of Intelligence, Air Intelligence",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "Requirements Branch. One informational copy of each report submitted will be for-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "warded to this command, ATTN: AC of S, Intelligence. Reports will be classified at",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "least CONFIDENTIAL.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "BY COMMAND OF LIEUTENANT GENERAL STRATEMEYER:",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "RICHARD W. GEUSS",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Captain, USAF",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Actg Asst Adj Gen",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

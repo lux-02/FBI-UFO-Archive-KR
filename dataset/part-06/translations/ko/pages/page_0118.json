@@ -1,0 +1,228 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 6,
+  "page": 118,
+  "pageId": "page_0118",
+  "source": {
+    "pdfPath": "docs/ufo6.pdf",
+    "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T12:36:01.951Z",
+  "unitCount": 3,
+  "sourceLineCount": 7,
+  "excludedLineCount": 3,
+  "excludedLines": [
+    {
+      "part": 6,
+      "page": 118,
+      "pageId": "page_0118",
+      "lineId": "page_0118-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "backgro[unclear] is compatible with his observations of an occurrence obviously not atmo-",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 118,
+      "pageId": "page_0118",
+      "lineId": "page_0118-l0002",
+      "lineNumber": 2,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "spheric or celestial phenomena, may be transmitted by TWX. Reports will be submitted",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 118,
+      "pageId": "page_0118",
+      "lineId": "page_0118-l0010",
+      "lineNumber": 10,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "RICHARD W. GEUSS",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p06-page-0118-u001",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 118,
+      "pageId": "page_0118",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0118-l0003",
+          "page_0118-l0004",
+          "page_0118-l0005",
+          "page_0118-l0006"
+        ],
+        "lineNumbers": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 118,
+            "pageId": "page_0118",
+            "lineId": "page_0118-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 118,
+            "pageId": "page_0118",
+            "lineId": "page_0118-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 118,
+            "pageId": "page_0118",
+            "lineId": "page_0118-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 118,
+            "pageId": "page_0118",
+            "lineId": "page_0118-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "directly to Headquarters, USAF, ATTN: Directorate of Intelligence, Air Intelligence\nRequirements Branch. One informational copy of each report submitted will be for-\nwarded to this command, ATTN: AC of S, Intelligence. Reports will be classified at\nleast CONFIDENTIAL."
+      },
+      "translation": {
+        "text": "미공군(USAF) 본부 정보국, 항공 정보 요구과로 직접 전달할 것. 제출된 각 보고서의 정보 사본 1부는 본 사령부, 정보 참모보(AC of S, Intelligence) 앞으로 전달될 것입니다. 보고서는 최소 기밀(CONFIDENTIAL)로 분류됩니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0118-u002",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 118,
+      "pageId": "page_0118",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0118-l0008"
+        ],
+        "lineNumbers": [
+          8
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 118,
+            "pageId": "page_0118",
+            "lineId": "page_0118-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "BY COMMAND OF LIEUTENANT GENERAL STRATEMEYER:"
+      },
+      "translation": {
+        "text": "스트래트마이어 중장 명령:",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0118-u003",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 118,
+      "pageId": "page_0118",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0118-l0011",
+          "page_0118-l0012"
+        ],
+        "lineNumbers": [
+          11,
+          12
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 118,
+            "pageId": "page_0118",
+            "lineId": "page_0118-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 118,
+            "pageId": "page_0118",
+            "lineId": "page_0118-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "Captain, USAF\nActg Asst Adj Gen"
+      },
+      "translation": {
+        "text": "미공군 대위\n부관감 보좌 대리",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

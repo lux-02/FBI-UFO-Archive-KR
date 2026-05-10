@@ -1,0 +1,338 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 6,
+  "page": 5,
+  "pageId": "page_0005",
+  "source": {
+    "pdfPath": "docs/ufo6.pdf",
+    "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T12:36:01.951Z",
+  "unitCount": 3,
+  "sourceLineCount": 18,
+  "excludedLineCount": 2,
+  "excludedLines": [
+    {
+      "part": 6,
+      "page": 5,
+      "pageId": "page_0005",
+      "lineId": "page_0005-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "NEEDS_IMAGE_CHECK",
+      "sourceText": "at their ends so that it [unclear]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 5,
+      "pageId": "page_0005",
+      "lineId": "page_0005-l0003",
+      "lineNumber": 3,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "armless marionette, constantly",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p06-page-0005-u001",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 5,
+      "pageId": "page_0005",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0005-l0002"
+        ],
+        "lineNumbers": [
+          2
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "presented the appearance of a"
+      },
+      "translation": {
+        "text": "의 모습을 보였다",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0005-u002",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 5,
+      "pageId": "page_0005",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0005-l0004",
+          "page_0005-l0005",
+          "page_0005-l0006",
+          "page_0005-l0007",
+          "page_0005-l0008",
+          "page_0005-l0009"
+        ],
+        "lineNumbers": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "whirling. To me, with the\nglasses, the middle appeared\nsometimes bean shaped but\nthat may well be a defect\nin my eyesight, as the object\nwas then very distant."
+      },
+      "translation": {
+        "text": "회전하고 있었다. 안경을 쓴 내게는, 가운데 부분이 때때로 콩 모양으로 보였지만, 그 물체가 당시 매우 멀리 있었기 때문에 그것은 내 시력의 결함일 수도 있다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0005-u003",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 5,
+      "pageId": "page_0005",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0005-l0011",
+          "page_0005-l0012",
+          "page_0005-l0013",
+          "page_0005-l0014",
+          "page_0005-l0015",
+          "page_0005-l0016",
+          "page_0005-l0017",
+          "page_0005-l0018",
+          "page_0005-l0019",
+          "page_0005-l0020",
+          "page_0005-l0021"
+        ],
+        "lineNumbers": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 5,
+            "pageId": "page_0005",
+            "lineId": "page_0005-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "At last it disappeared\nfrom sight entirely. As we\nhad no guess at its altitude\nwe could not guess its size\nalthough I would hazard\nthe statement that it seemed\nat about the usual altitude\nof passing planes and seemed\nto fade away much as a plane\nwould, but far more slowly.\nWe must have seen it for ten"
+      },
+      "translation": {
+        "text": "마침내 그것은 시야에서 완전히 사라졌다. 우리는 그것의 고도를 짐작할 수 없었기 때문에 크기도 짐작할 수 없었다. 하지만 조심스럽게 말하자면, 그것은 지나가는 비행기의 통상적인 고도에 있는 것 같았고, 비행기처럼 사라지는 듯 보였으나 훨씬 더 느렸다. 우리는 그것을 십",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

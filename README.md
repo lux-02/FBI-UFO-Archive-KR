@@ -4,8 +4,6 @@ An unofficial public dataset containing OCR output and reviewed Korean translati
 
 This project is not affiliated with the U.S. FBI or the U.S. government, and it does not represent any official position or conclusion. The source PDFs are public materials available from FBI Vault. This dataset is a derivative reading and review aid; it does not add claims, tone, or conclusions that are not present in the source documents.
 
-Production reader app: [ufo.n2f.site](https://ufo.n2f.site)
-
 ---
 
 ## Public Scope
@@ -13,10 +11,10 @@ Production reader app: [ufo.n2f.site](https://ufo.n2f.site)
 | Area | Path | Status |
 |---|---|---|
 | Source manifest | `data/sources.json` | FBI Vault URL, SHA-256, and page count for 16 PDFs |
-| Public OCR and translation dataset | `dataset/` | Part 01-05 OCR and Korean translation exports complete |
+| Public OCR and translation dataset | `dataset/` | Part 01-06 OCR and Korean translation exports complete |
 | Source PDFs | Not included | Verify directly through FBI Vault |
 
-The current public dataset includes OCR output and Korean translation exports for Part 01-05. Part 06-16 are pending.
+The current public dataset includes OCR output and Korean translation exports for Part 01-06. Part 07-16 are pending.
 
 ---
 
@@ -29,8 +27,9 @@ The current public dataset includes OCR output and Korean translation exports fo
 | 03 | `docs/ufo3.pdf` | 111 | 895 | `not_approved` |
 | 04 | `docs/ufo4.pdf` | 77 | 708 | `not_approved` |
 | 05 | `docs/ufo5.pdf` | 74 | 780 | `not_approved` |
+| 06 | `docs/ufo6.pdf` | 129 | 1,178 | `not_approved` |
 
-The dataset currently contains 3,215 Korean translation units available for public review.
+The dataset currently contains 4,393 Korean translation units available for public review.
 
 `reviewed` means the unit has gone through source comparison and Korean translation review. `not_approved` means the text is not a final approved publication translation; it is a public review dataset artifact.
 
@@ -61,6 +60,7 @@ dataset/
   part-03/
   part-04/
   part-05/
+  part-06/
 ```
 
 Each translation unit preserves part/page/source-line mappings. OCR lines that have not been confirmed are not mixed into the translated body text; they are retained separately in `excluded_source_lines.json`.
@@ -83,26 +83,8 @@ shasum -a 256 docs/ufo2.pdf
 shasum -a 256 docs/ufo3.pdf
 shasum -a 256 docs/ufo4.pdf
 shasum -a 256 docs/ufo5.pdf
+shasum -a 256 docs/ufo6.pdf
 ```
-
----
-
-## Static Web App Deployment
-
-The repository includes an Astro static reader app. Vercel deployment uses the checked-in app source and prebuilt reader scan images.
-
-Production domain: [ufo.n2f.site](https://ufo.n2f.site)
-
-Recommended Vercel settings:
-
-| Setting | Value |
-|---|---|
-| Framework Preset | Astro |
-| Install Command | `pnpm install` |
-| Build Command | `pnpm build` |
-| Output Directory | `dist` |
-
-Reader scan images are served from `public/source-cache/{sha256}/page_NNNN.reader.webp`. These WebP files are deploy inputs, not runtime-generated files. Source PDFs and OCR working data are not included in deployment.
 
 ---
 
@@ -144,8 +126,6 @@ Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 
 이 저장소는 미국 FBI 또는 미국 정부와 무관하며, 어떤 공식 입장이나 결론을 대변하지 않습니다. 원본 PDF는 FBI Vault에서 확인할 수 있는 공개 자료입니다. 이 데이터셋은 원본 문서를 읽고 검토하기 쉽게 만든 파생 데이터이며, 원문에 없는 사실, 분위기, 결론을 추가하지 않는 것을 원칙으로 합니다.
 
-프로덕션 리더 앱: [ufo.n2f.site](https://ufo.n2f.site)
-
 ---
 
 ## 공개 범위
@@ -153,10 +133,10 @@ Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 | 영역 | 위치 | 상태 |
 |---|---|---|
 | PDF 출처 매니페스트 | `data/sources.json` | 16개 PDF의 FBI Vault URL, SHA-256, 페이지 수 |
-| 공개 OCR/번역 데이터셋 | `dataset/` | Part 01-05 OCR/한국어 번역 export 완료 |
+| 공개 OCR/번역 데이터셋 | `dataset/` | Part 01-06 OCR/한국어 번역 export 완료 |
 | 원본 PDF | 저장소에 미포함 | FBI Vault에서 직접 확인 |
 
-현재 공개 데이터셋에는 Part 01-05의 OCR 추출 결과와 한국어 번역 결과물이 포함되어 있습니다. Part 06-16은 아직 처리 전입니다.
+현재 공개 데이터셋에는 Part 01-06의 OCR 추출 결과와 한국어 번역 결과물이 포함되어 있습니다. Part 07-16은 아직 처리 전입니다.
 
 ---
 
@@ -169,8 +149,9 @@ Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 | 03 | `docs/ufo3.pdf` | 111 | 895 | `not_approved` |
 | 04 | `docs/ufo4.pdf` | 77 | 708 | `not_approved` |
 | 05 | `docs/ufo5.pdf` | 74 | 780 | `not_approved` |
+| 06 | `docs/ufo6.pdf` | 129 | 1,178 | `not_approved` |
 
-총 3,215개의 한국어 번역 unit이 공개 검토 가능한 상태로 export되어 있습니다.
+총 4,393개의 한국어 번역 unit이 공개 검토 가능한 상태로 export되어 있습니다.
 
 `reviewed`는 OCR 원문 대조와 한국어 검수를 거친 상태를 뜻합니다. `not_approved`가 붙은 항목은 최종 승인 번역본이 아니며, 공개 검토와 재사용을 위한 데이터셋 상태입니다.
 
@@ -201,6 +182,7 @@ dataset/
   part-03/
   part-04/
   part-05/
+  part-06/
 ```
 
 각 번역 unit은 part/page/source line 매핑을 보존합니다. OCR이 확정되지 않은 라인은 번역 본문에 섞지 않고 `excluded_source_lines.json`에 따로 남깁니다.
@@ -223,26 +205,8 @@ shasum -a 256 docs/ufo2.pdf
 shasum -a 256 docs/ufo3.pdf
 shasum -a 256 docs/ufo4.pdf
 shasum -a 256 docs/ufo5.pdf
+shasum -a 256 docs/ufo6.pdf
 ```
-
----
-
-## 정적 웹앱 배포
-
-이 저장소에는 Astro 기반 정적 리더 웹앱이 포함됩니다. Vercel 배포는 저장소에 포함된 앱 소스와 사전 생성된 리더용 스캔 이미지를 사용합니다.
-
-프로덕션 도메인: [ufo.n2f.site](https://ufo.n2f.site)
-
-권장 Vercel 설정:
-
-| 설정 | 값 |
-|---|---|
-| Framework Preset | Astro |
-| Install Command | `pnpm install` |
-| Build Command | `pnpm build` |
-| Output Directory | `dist` |
-
-리더 스캔 이미지는 `public/source-cache/{sha256}/page_NNNN.reader.webp`에서 제공됩니다. 이 WebP 파일은 런타임 생성물이 아니라 배포 입력입니다. 원본 PDF와 OCR 작업 데이터는 배포에 포함하지 않습니다.
 
 ---
 
@@ -259,13 +223,13 @@ shasum -a 256 docs/ufo5.pdf
 
 ## 라이선스
 
-| 영역 | 라이선스/정책 |
+| 영역 | 라이선스 / 정책 |
 |---|---|
 | 공개 데이터셋 (`dataset/`) | [`dataset/LICENSE`](dataset/LICENSE) 참조 |
-| 한국어 번역 export | `dataset/` 공개 정책과 동일하게 적용, 최종 라이선스 검토 중 |
-| 원본 PDF | 본 저장소가 저작권/공개 상태를 단정하지 않음 |
+| 한국어 번역 export | 공개 데이터셋과 같은 임시 정책, 최종 라이선스 검토 전 |
+| 원본 PDF | 이 저장소는 저작권 또는 퍼블릭 도메인 여부를 단정하지 않음 |
 
-원본 PDF는 이 저장소에 포함하지 않습니다. 원본 문서의 이용 조건은 FBI Vault 및 관련 법적 조건을 별도로 확인해야 합니다.
+원본 PDF는 이 저장소에 포함하지 않습니다. 원문 재사용 전 FBI Vault와 관련 법적 조건을 직접 확인하세요.
 
 ---
 
@@ -273,5 +237,5 @@ shasum -a 256 docs/ufo5.pdf
 
 ```text
 FBI-UFO-Archive-KR Project. (2026). FBI UFO OCR + Korean Translation Dataset.
-출처: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
+Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 ```

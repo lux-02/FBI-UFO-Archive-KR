@@ -1,0 +1,825 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 6,
+  "page": 78,
+  "pageId": "page_0078",
+  "source": {
+    "pdfPath": "docs/ufo6.pdf",
+    "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T12:36:01.951Z",
+  "unitCount": 11,
+  "sourceLineCount": 32,
+  "excludedLineCount": 9,
+  "excludedLines": [
+    {
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "lineId": "page_0078-l0002",
+      "lineNumber": 2,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "the object among ourselves, Mr. [REDACTED] expressed an intention",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "lineId": "page_0078-l0009",
+      "lineNumber": 9,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "In response to Mr. [REDACTED] inquiry, there was no",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "lineId": "page_0078-l0019",
+      "lineNumber": 19,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "As I recall, this Eastman shop was on Los Palmas Street in",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "lineId": "page_0078-l0022",
+      "lineNumber": 22,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "California on Wednesday so they mailed the film to me at my",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "lineId": "page_0078-l0023",
+      "lineNumber": 23,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "business address, [REDACTED] Houston, Texas.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "lineId": "page_0078-l0032",
+      "lineNumber": 32,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "the film in the projection room at [REDACTED] to the following:",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "lineId": "page_0078-l0033",
+      "lineNumber": 33,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "lineId": "page_0078-l0035",
+      "lineNumber": 35,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "men work in the instrument shop with me at [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "lineId": "page_0078-l0037",
+      "lineNumber": 37,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "of Pasadena, Texas, at home on the following night.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p06-page-0078-u001",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0078-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "After we finished taking our pictures and discussing"
+      },
+      "translation": {
+        "text": "우리가 사진 촬영과 논의를 마친 후",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0078-u002",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0078-l0003",
+          "page_0078-l0004",
+          "page_0078-l0005",
+          "page_0078-l0006",
+          "page_0078-l0007"
+        ],
+        "lineNumbers": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "of obtaining a truck and hauling the object to his shop. I\ncannot say at this time whether he did this or not or where\nthe object may be at this particular date. We finished\nour observation and picture taking at approximately 5:30\nor 6 P.M. on December 7."
+      },
+      "translation": {
+        "text": "트럭을 구해 그 물체를 그의 가게로 옮기는 것에 대해. 그가 이 일을 했는지 안 했는지, 또는 이 특정 날짜에 그 물체가 어디에 있을지는 현재로서는 말할 수 없습니다. 우리는 12월 7일 오후 5시 30분 또는 6시경에 관찰과 사진 촬영을 마쳤습니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0078-u003",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0078-l0010"
+        ],
+        "lineNumbers": [
+          10
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "radio equipment noted on the object in any fashion or form."
+      },
+      "translation": {
+        "text": "물체에서 어떤 방식이나 형태로든 언급된 라디오 장비.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0078-u004",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0078-l0012",
+          "page_0078-l0013",
+          "page_0078-l0014",
+          "page_0078-l0015",
+          "page_0078-l0016",
+          "page_0078-l0017",
+          "page_0078-l0018"
+        ],
+        "lineNumbers": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "We returned to Pasadena, California, that evening\narriving in Hollywood about 9 or 9:30 P.M. I took some more\npictures that night along Hollywood Boulevard on the unfinished\nroll of film and then went over the Chinese Theatre and took\na picture of the signature of George Raft and finished the roll.\nI bought another roll of film, and took them to the Eastman Kodak\nCompany the following Monday which would be December 13, 1948."
+      },
+      "translation": {
+        "text": "우리는 그날 저녁 캘리포니아 패서디나로 돌아왔고, 할리우드에 오후 9시 또는 9시 30분경 도착했습니다. 저는 그날 밤 할리우드 대로를 따라 다 쓰지 않은 필름으로 사진을 몇 장 더 찍었고, 그 다음 차이니즈 시어터로 가서 조지 래프트의 서명 사진을 찍고 필름 한 롤을 다 썼습니다. 필름을 한 롤 더 사서, 다음 월요일인 1948년 12월 13일에 이스트만 코닥 회사에 가져갔습니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0078-u005",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0078-l0020",
+          "page_0078-l0021"
+        ],
+        "lineNumbers": [
+          20,
+          21
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "Los Angeles, California. They informed me they would develop\nthe film and that it would be ready on Thursday. I left"
+      },
+      "translation": {
+        "text": "캘리포니아주 로스앤젤레스. 그들은 필름을 현상해 줄 것이며 목요일에 준비될 것이라고 알려주었습니다. 나는 떠났다",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0078-u006",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0078-l0024"
+        ],
+        "lineNumbers": [
+          24
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0024",
+            "lineNumber": 24,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "I received these films on December 23, 1948."
+      },
+      "translation": {
+        "text": "나는 1948년 12월 23일에 이 필름들을 받았다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0078-u007",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0078-l0026",
+          "page_0078-l0027",
+          "page_0078-l0028",
+          "page_0078-l0029",
+          "page_0078-l0030",
+          "page_0078-l0031"
+        ],
+        "lineNumbers": [
+          26,
+          27,
+          28,
+          29,
+          30,
+          31
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0026",
+            "lineNumber": 26,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0027",
+            "lineNumber": 27,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0028",
+            "lineNumber": 28,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0030",
+            "lineNumber": 30,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0031",
+            "lineNumber": 31,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "After my return from California I mentioned to several\nof my business and social acquaintances that I had seen this\nobject, a disc or saucer or whatever you might call it, and\ntold them that I had taken pictures and would be glad to show\nthem when the pictures arrived. As stated, I received the\nfilm on December 23 and at 1:30 P.M. on the same date I showed"
+      },
+      "translation": {
+        "text": "캘리포니아에서 돌아온 후, 저는 몇몇 비즈니스 및 사교계 지인들에게 제가 이 물체, 즉 디스크나 접시, 혹은 뭐라고 부르든 간에 그것을 보았다고 말했고, 사진을 찍었으며 사진이 도착하면 기꺼이 보여주겠다고 말했습니다. 명시된 바와 같이, 저는 12월 23일에 필름을 받았고 같은 날 오후 1시 30분에 보여주었습니다",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0078-u008",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0078-l0034"
+        ],
+        "lineNumbers": [
+          34
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0034",
+            "lineNumber": 34,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "and two other men whose names I do not recall. All of these"
+      },
+      "translation": {
+        "text": "그리고 이름이 기억나지 않는 다른 두 남자. 이들 모두",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0078-u009",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0078-l0036"
+        ],
+        "lineNumbers": [
+          36
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0036",
+            "lineNumber": 36,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "Company. I also showed the film to my brother-in-law,"
+      },
+      "translation": {
+        "text": "회사. 나는 또한 내 처남에게도 그 필름을 보여주었다,",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0078-u010",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0078-l0039",
+          "page_0078-l0040",
+          "page_0078-l0041",
+          "page_0078-l0042",
+          "page_0078-l0043",
+          "page_0078-l0044"
+        ],
+        "lineNumbers": [
+          39,
+          40,
+          41,
+          42,
+          43,
+          44
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0039",
+            "lineNumber": 39,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0040",
+            "lineNumber": 40,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0041",
+            "lineNumber": 41,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0042",
+            "lineNumber": 42,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0043",
+            "lineNumber": 43,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0044",
+            "lineNumber": 44,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "On Christmas Day I met some friends and one of the\ngirls was with a young boy who was interested in photography.\nI do not know his name but he works at Southern Pacific. I told\nhim I had some pictures of the flying disc but I did not show him\nthe pictures but explained the disc. I think this boy is the\nperson who had his friend at the newspaper contact me."
+      },
+      "translation": {
+        "text": "크리스마스 날에 친구 몇 명을 만났는데, 여자아이 중 한 명이 사진에 관심이 있는 어린 소년과 함께 있었습니다. 그의 이름은 모르지만 서던 퍼시픽에서 일합니다. 나는 그에게 비행 디스크 사진이 좀 있다고 말했지만 사진을 보여주지는 않고 디스크에 대해 설명해주었습니다. 이 소년이 신문사에 있는 그의 친구를 통해 저에게 연락한 사람인 것 같습니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0078-u011",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 78,
+      "pageId": "page_0078",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0078-l0046"
+        ],
+        "lineNumbers": [
+          46
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0046",
+            "lineNumber": 46,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "-4-"
+      },
+      "translation": {
+        "text": "-4-",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

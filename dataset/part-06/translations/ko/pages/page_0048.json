@@ -1,0 +1,1123 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 6,
+  "page": 48,
+  "pageId": "page_0048",
+  "source": {
+    "pdfPath": "docs/ufo6.pdf",
+    "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T12:36:01.951Z",
+  "unitCount": 21,
+  "sourceLineCount": 36,
+  "excludedLineCount": 3,
+  "excludedLines": [
+    {
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "lineId": "page_0048-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "NEEDS_IMAGE_CHECK",
+      "sourceText": "[REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "lineId": "page_0048-l0052",
+      "lineNumber": 52,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "(1) City, town.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "lineId": "page_0048-l0062",
+      "lineNumber": 62,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "RESTRICTED",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p06-page-0048-u001",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0003",
+          "page_0048-l0004"
+        ],
+        "lineNumbers": [
+          3,
+          4
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "(2) Supplementary written reports, prepared on AF Form 112, will be forwarded to the\nDirector of Intelligence, Headquarters United States Air Force."
+      },
+      "translation": {
+        "text": "(2) AF 양식 112에 작성된 보충 서면 보고서는 미 공군 본부 정보국장에게 전달됩니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u002",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0006",
+          "page_0048-l0007",
+          "page_0048-l0008"
+        ],
+        "lineNumbers": [
+          6,
+          7,
+          8
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "(3) Commanding General, Air Materiel Command is authorized direct contact with major\nAir Commands (overseas) and organizations under their control in connection with the\ndevelopment of information on this subject."
+      },
+      "translation": {
+        "text": "(3) 공군 군수사령부 사령관은 이 주제에 대한 정보 개발과 관련하여 주요 공군 사령부(해외) 및 그 통제 하에 있는 기관과 직접 접촉할 권한이 있습니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u003",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0010"
+        ],
+        "lineNumbers": [
+          10
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "c. Major Air Commands (ZI)"
+      },
+      "translation": {
+        "text": "다. 주요 공군 사령부 (ZI)",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u004",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0012",
+          "page_0048-l0013",
+          "page_0048-l0014"
+        ],
+        "lineNumbers": [
+          12,
+          13,
+          14
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "(1) Reports will be forwarded direct to the Commanding General, Air Materiel Command,\nWright-Patterson Air Force Base, Dayton, Ohio, Attn: MCIAXO-3 by installations receiv-\ning information pertaining to the requirements enunciated in Part II."
+      },
+      "translation": {
+        "text": "(1) 보고서는 제2부에 명시된 요구사항에 관한 정보를 수신하는 시설에서 오하이오주 데이턴, 라이트-패터슨 공군기지, 공군 군수사령부 사령관(수신: MCIAXO-3)에게 직접 전달됩니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u005",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0016",
+          "page_0048-l0017"
+        ],
+        "lineNumbers": [
+          16,
+          17
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "(2) Copies of such reports may be supplied the Command Headquarters of the installation\nconcerned."
+      },
+      "translation": {
+        "text": "(2) 그러한 보고서의 사본은 해당 시설의 사령부 본부에 제공될 수 있습니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u006",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0019",
+          "page_0048-l0020",
+          "page_0048-l0021"
+        ],
+        "lineNumbers": [
+          19,
+          20,
+          21
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "(3) A copy of all reports sent to Air Materiel Command in accordance with these instruc-\ntions will be forwarded at the same time to the Director of Intelligence, Headquarters\nUnited States Air Force."
+      },
+      "translation": {
+        "text": "(3) 이 지침에 따라 공군 군수사령부로 발송되는 모든 보고서의 사본은 동시에 미 공군 본부 정보국장에게 전달됩니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u007",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0023"
+        ],
+        "lineNumbers": [
+          23
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "(4) Written reports will be submitted on AF Form 112."
+      },
+      "translation": {
+        "text": "(4) 서면 보고서는 AF 양식 112로 제출해야 합니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u008",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0025",
+          "page_0048-l0026",
+          "page_0048-l0027"
+        ],
+        "lineNumbers": [
+          25,
+          26,
+          27
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0026",
+            "lineNumber": 26,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0027",
+            "lineNumber": 27,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "(5) Commanding General, Air Materiel Command is authorized direct contact with major\nAir Commands (ZI) and organizations under their control in connection with the develop-\nment of information on this subject."
+      },
+      "translation": {
+        "text": "(5) 공군 군수사령부 사령관은 이 주제에 대한 정보 개발과 관련하여 주요 공군 사령부(ZI) 및 그 통제 하에 있는 기관과 직접 접촉할 권한이 있습니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u009",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0029"
+        ],
+        "lineNumbers": [
+          29
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "d. Non-Air Force Agencies"
+      },
+      "translation": {
+        "text": "라. 비공군 기관",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u010",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0031",
+          "page_0048-l0032",
+          "page_0048-l0033"
+        ],
+        "lineNumbers": [
+          31,
+          32,
+          33
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0031",
+            "lineNumber": 31,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0032",
+            "lineNumber": 32,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0033",
+            "lineNumber": 33,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "(1) Addressees other than those of the United States Air Force are requested to forward\nreports direct to the Commanding General, Air Materiel Command, Wright-Patterson Air\nForce Base, Dayton, Ohio, Attn: MCIAXO-3."
+      },
+      "translation": {
+        "text": "(1) 미 공군 이외의 수신자는 보고서를 오하이오주 데이턴, 라이트-패터슨 공군기지, 공군 군수사령부 사령관(수신: MCIAXO-3)에게 직접 전달하도록 요청됩니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u011",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0035",
+          "page_0048-l0036",
+          "page_0048-l0037",
+          "page_0048-l0038"
+        ],
+        "lineNumbers": [
+          35,
+          36,
+          37,
+          38
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0035",
+            "lineNumber": 35,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0036",
+            "lineNumber": 36,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0037",
+            "lineNumber": 37,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0038",
+            "lineNumber": 38,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "(2) In order to reduce the time factor involved in transmission of this type of information\nit is requested that, wherever communications facilities permit, subordinate elements be\nauthorized to communicate reports direct to the Commanding General, Air Materiel Com-\nmand."
+      },
+      "translation": {
+        "text": "(2) 이러한 유형의 정보 전송에 소요되는 시간을 줄이기 위해, 통신 시설이 허용하는 곳마다 하위 부서가 공군 군수사령부 사령관에게 직접 보고서를 전달할 수 있도록 승인해 주시기를 요청합니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u012",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0040"
+        ],
+        "lineNumbers": [
+          40
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0040",
+            "lineNumber": 40,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "PART II - REQUIREMENTS"
+      },
+      "translation": {
+        "text": "제2부 - 요구사항",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u013",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0042"
+        ],
+        "lineNumbers": [
+          42
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0042",
+            "lineNumber": 42,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "General"
+      },
+      "translation": {
+        "text": "일반",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u014",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0044"
+        ],
+        "lineNumbers": [
+          44
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0044",
+            "lineNumber": 44,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "1. Date of sighting."
+      },
+      "translation": {
+        "text": "1. 목격 날짜.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u015",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0046"
+        ],
+        "lineNumbers": [
+          46
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0046",
+            "lineNumber": 46,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "2. Time of sighting (zonal by 24 hr. clock)."
+      },
+      "translation": {
+        "text": "2. 목격 시간 (24시간제에 따른 지역 시간).",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u016",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0048"
+        ],
+        "lineNumbers": [
+          48
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0048",
+            "lineNumber": 48,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "3. Where sighted (observer's position):"
+      },
+      "translation": {
+        "text": "3. 목격 장소 (관찰자 위치):",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u017",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0050"
+        ],
+        "lineNumbers": [
+          50
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0050",
+            "lineNumber": 50,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "a. Ground"
+      },
+      "translation": {
+        "text": "가. 지상",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u018",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0054"
+        ],
+        "lineNumbers": [
+          54
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0054",
+            "lineNumber": 54,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "(2) Distance and direction from city or town, road, intersection, etc."
+      },
+      "translation": {
+        "text": "(2) 도시나 마을, 도로, 교차로 등으로부터의 거리 및 방향.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u019",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0056"
+        ],
+        "lineNumbers": [
+          56
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0056",
+            "lineNumber": 56,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "(3) From building (story), yard, etc."
+      },
+      "translation": {
+        "text": "(3) 건물(층), 마당 등으로부터.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u020",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0058"
+        ],
+        "lineNumbers": [
+          58
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0058",
+            "lineNumber": 58,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "(4) Map coordinates (if feasible) showing latitude and longitude."
+      },
+      "translation": {
+        "text": "(4) 위도와 경도를 보여주는 지도 좌표 (가능한 경우).",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0048-u021",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0048-l0060"
+        ],
+        "lineNumbers": [
+          60
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 48,
+            "pageId": "page_0048",
+            "lineId": "page_0048-l0060",
+            "lineNumber": 60,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "- 2 -"
+      },
+      "translation": {
+        "text": "- 2 -",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,636 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 6,
+  "page": 60,
+  "pageId": "page_0060",
+  "source": {
+    "pdfPath": "docs/ufo6.pdf",
+    "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T12:36:01.951Z",
+  "unitCount": 13,
+  "sourceLineCount": 15,
+  "excludedLineCount": 3,
+  "excludedLines": [
+    {
+      "part": 6,
+      "page": 60,
+      "pageId": "page_0060",
+      "lineId": "page_0060-l0018",
+      "lineNumber": 18,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Colonel [REDACTED] Air Materiel Command, Nuclear Energy for the Propulsion of Aircraft Research, Oak Ridge, Tennessee, has recently and confidentially advised the Bureau that flying discs are believed by the Air Force to be man-made missiles rather than some natural phenomenon and that as much as four years ago it was learned that some type of flying discs were being experimented upon by the Russians. It was further determined from [REDACTED] that most all of the flying discs seen by persons in the United States approached this country from a northerly direction and returned in the same direction, indicating the strong possibility that they are coming from Russia.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 60,
+      "pageId": "page_0060",
+      "lineId": "page_0060-l0025",
+      "lineNumber": 25,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "At the present time this Bureau is conducting an investigation of information received in the field relating to the captioned matter.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 6,
+      "page": 60,
+      "pageId": "page_0060",
+      "lineId": "page_0060-l0030",
+      "lineNumber": 30,
+      "sourceStatus": "NEEDS_IMAGE_CHECK",
+      "sourceText": "Enclosure",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p06-page-0060-u001",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 60,
+      "pageId": "page_0060",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0060-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 60,
+            "pageId": "page_0060",
+            "lineId": "page_0060-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "Office Memorandum • UNITED STATES GOVERNMENT"
+      },
+      "translation": {
+        "text": "사무 비망록 • 미합중국 정부",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0060-u002",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 60,
+      "pageId": "page_0060",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0060-l0003",
+          "page_0060-l0004"
+        ],
+        "lineNumbers": [
+          3,
+          4
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 60,
+            "pageId": "page_0060",
+            "lineId": "page_0060-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 60,
+            "pageId": "page_0060",
+            "lineId": "page_0060-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "TO : Mr. Ladd\nDATE: March 14, 1949"
+      },
+      "translation": {
+        "text": "수신 : Ladd 씨\n날짜: 1949년 3월 14일",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0060-u003",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 60,
+      "pageId": "page_0060",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0060-l0006"
+        ],
+        "lineNumbers": [
+          6
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 60,
+            "pageId": "page_0060",
+            "lineId": "page_0060-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "FROM : Mr. Fletcher"
+      },
+      "translation": {
+        "text": "발신 : Fletcher 씨",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0060-u004",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 60,
+      "pageId": "page_0060",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0060-l0008"
+        ],
+        "lineNumbers": [
+          8
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 60,
+            "pageId": "page_0060",
+            "lineId": "page_0060-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "SUBJECT: FLYING DISCS"
+      },
+      "translation": {
+        "text": "제목: 비행 디스크",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0060-u005",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 60,
+      "pageId": "page_0060",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0060-l0010"
+        ],
+        "lineNumbers": [
+          10
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 60,
+            "pageId": "page_0060",
+            "lineId": "page_0060-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "PURPOSE"
+      },
+      "translation": {
+        "text": "목적",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0060-u006",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 60,
+      "pageId": "page_0060",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0060-l0012"
+        ],
+        "lineNumbers": [
+          12
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 60,
+            "pageId": "page_0060",
+            "lineId": "page_0060-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "The approval of the Executives Conference is requested for the attached SAC letter furnishing to the field the type of information desired by the Intelligence Division of the Air Force in connection with the captioned matter."
+      },
+      "translation": {
+        "text": "본 건과 관련하여 공군 정보부가 원하는 정보 유형을 현장에 제공하는 첨부 SAC 서신에 대해 임원 회의의 승인을 요청합니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0060-u007",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 60,
+      "pageId": "page_0060",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0060-l0014"
+        ],
+        "lineNumbers": [
+          14
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 60,
+            "pageId": "page_0060",
+            "lineId": "page_0060-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "BACKGROUND"
+      },
+      "translation": {
+        "text": "배경",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0060-u008",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 60,
+      "pageId": "page_0060",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0060-l0016"
+        ],
+        "lineNumbers": [
+          16
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 60,
+            "pageId": "page_0060",
+            "lineId": "page_0060-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "You will recall that by Bureau Bulletin #57, Series 1947, dated October 1, 1947, the field was advised that effective as of that date the Bureau had discontinued its investigative activities in connection with flying discs. The field was advised that all future reports concerning this matter received in the field should be referred to the Air Forces."
+      },
+      "translation": {
+        "text": "1947년 10월 1일자 1947년 시리즈 국회보 #57에 의거, 국은 해당 일자를 기점으로 비행 디스크 관련 수사 활동을 중단했음을 현장에 통보했다는 사실을 기억하실 것입니다. 이 문제와 관련하여 현장에서 접수되는 모든 향후 보고서는 공군에 회부하도록 현장에 통보되었습니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0060-u009",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 60,
+      "pageId": "page_0060",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0060-l0020"
+        ],
+        "lineNumbers": [
+          20
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 60,
+            "pageId": "page_0060",
+            "lineId": "page_0060-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "The Department of the Air Force has furnished to the Bureau a sufficient number of copies of a memorandum dated February 15, 1949 captioned \"Unconventional Aircraft\" which can be furnished to our field offices."
+      },
+      "translation": {
+        "text": "공군부는 1949년 2월 15일자 \"비정규 항공기\"라는 제목의 비망록 사본을 우리 현장 사무소에 제공할 수 있도록 국에 충분한 수량을 제공했습니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0060-u010",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 60,
+      "pageId": "page_0060",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0060-l0022",
+          "page_0060-l0023"
+        ],
+        "lineNumbers": [
+          22,
+          23
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 60,
+            "pageId": "page_0060",
+            "lineId": "page_0060-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          },
+          {
+            "part": 6,
+            "page": 60,
+            "pageId": "page_0060",
+            "lineId": "page_0060-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "STATUS\nRECORDED - 76 160"
+      },
+      "translation": {
+        "text": "상태\n기록됨 - 76 160",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0060-u011",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 60,
+      "pageId": "page_0060",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0060-l0027"
+        ],
+        "lineNumbers": [
+          27
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 60,
+            "pageId": "page_0060",
+            "lineId": "page_0060-l0027",
+            "lineNumber": 27,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "RECOMMENDATION"
+      },
+      "translation": {
+        "text": "권고",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0060-u012",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 60,
+      "pageId": "page_0060",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0060-l0029"
+        ],
+        "lineNumbers": [
+          29
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 60,
+            "pageId": "page_0060",
+            "lineId": "page_0060-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "It is recommended that the attached SAC letter and enclosure be forwarded to the field to advise them of the type of questions to be asked of persons who voluntarily submit information relative to \"flying discs.\" Although no active investigation will be conducted by the Bureau, it is believed that the captioned matter is of sufficient importance to the internal security of the country that our field offices should secure as much information as possible from complainants in order to assist the Department of the Air Force."
+      },
+      "translation": {
+        "text": "첨부된 SAC 서신과 첨부 문서를 현장에 전달하여 \"비행 디스크\"에 관한 정보를 자발적으로 제출하는 사람들에게 해야 할 질문 유형을 알리는 것을 권고합니다. 국에서 적극적인 조사를 수행하지는 않겠지만, 본 건은 국가의 내부 안보에 충분히 중요한 사안이므로, 우리 현장 사무소에서 공군부를 지원하기 위해 제보자들로부터 가능한 한 많은 정보를 확보해야 한다고 사료됩니다.",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p06-page-0060-u013",
+      "unitVersion": 1,
+      "part": 6,
+      "page": 60,
+      "pageId": "page_0060",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo6.pdf",
+        "sha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8",
+        "lineIds": [
+          "page_0060-l0031"
+        ],
+        "lineNumbers": [
+          31
+        ],
+        "refs": [
+          {
+            "part": 6,
+            "page": 60,
+            "pageId": "page_0060",
+            "lineId": "page_0060-l0031",
+            "lineNumber": 31,
+            "sourcePath": "docs/ufo6.pdf",
+            "sourceSha256": "767839d8ea9b338d6b525e3fbf7bfca8b004ec2d3b8edca3fba937216475fdb8"
+          }
+        ],
+        "text": "Attachment"
+      },
+      "translation": {
+        "text": "첨부",
+        "reviewedAt": "2026-05-10T12:35:45.620Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_cli",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}
