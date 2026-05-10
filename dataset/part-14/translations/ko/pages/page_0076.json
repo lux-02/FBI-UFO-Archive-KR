@@ -1,0 +1,682 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 14,
+  "page": 76,
+  "pageId": "page_0076",
+  "source": {
+    "pdfPath": "docs/ufo14.pdf",
+    "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T23:57:29.207Z",
+  "unitCount": 11,
+  "sourceLineCount": 20,
+  "excludedLineCount": 8,
+  "excludedLines": [
+    {
+      "part": 14,
+      "page": 76,
+      "pageId": "page_0076",
+      "lineId": "page_0076-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 14,
+      "page": 76,
+      "pageId": "page_0076",
+      "lineId": "page_0076-l0004",
+      "lineNumber": 4,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "SUBJECT: [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 14,
+      "page": 76,
+      "pageId": "page_0076",
+      "lineId": "page_0076-l0013",
+      "lineNumber": 13,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "information identifiable with [REDACTED] or the",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 14,
+      "page": 76,
+      "pageId": "page_0076",
+      "lineId": "page_0076-l0014",
+      "lineNumber": 14,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 14,
+      "page": 76,
+      "pageId": "page_0076",
+      "lineId": "page_0076-l0017",
+      "lineNumber": 17,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "Missouri Directory does not list [REDACTED] This",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 14,
+      "page": 76,
+      "pageId": "page_0076",
+      "lineId": "page_0076-l0018",
+      "lineNumber": 18,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "directory lists [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 14,
+      "page": 76,
+      "pageId": "page_0076",
+      "lineId": "page_0076-l0021",
+      "lineNumber": 21,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "City Office contain nothing identifiable with [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 14,
+      "page": 76,
+      "pageId": "page_0076",
+      "lineId": "page_0076-l0032",
+      "lineNumber": 32,
+      "sourceStatus": "NEEDS_IMAGE_CHECK",
+      "sourceText": "[unclear]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p14-page-0076-u001",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 76,
+      "pageId": "page_0076",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0076-l0002",
+          "page_0076-l0003"
+        ],
+        "lineNumbers": [
+          2,
+          3
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "TO : DIRECTOR, FBI DATE: January 30, 1958\nFROM SAC, KANSAS CITY (62-7386)"
+      },
+      "translation": {
+        "text": "수신: FBI 국장 날짜: 1958년 1월 30일\n발신: 캔자스시티 특수요원 (62-7386)",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0076-u002",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 76,
+      "pageId": "page_0076",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0076-l0005",
+          "page_0076-l0006"
+        ],
+        "lineNumbers": [
+          5,
+          6
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "MISCELLANEOUS - INFORMATION CONCERNING\nFLYING SAUCERS"
+      },
+      "translation": {
+        "text": "기타 - 비행접시에 관한 정보",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0076-u003",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 76,
+      "pageId": "page_0076",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0076-l0008",
+          "page_0076-l0009",
+          "page_0076-l0010"
+        ],
+        "lineNumbers": [
+          8,
+          9,
+          10
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "Re St. Louis letter to Bureau 1-6-58 and Bureau\nletter to Director of Special Investigations, Department\nof the Air Force, dated 1-23-58."
+      },
+      "translation": {
+        "text": "1958년 1월 6일자 세인트루이스 발 국장 서신 및 1958년 1월 23일자 공군 특수수사국장에게 보낸 국장 서신 참조.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0076-u004",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 76,
+      "pageId": "page_0076",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0076-l0012"
+        ],
+        "lineNumbers": [
+          12
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "The files of the Kansas City Office contain no"
+      },
+      "translation": {
+        "text": "캔자스시티 사무소 파일에는 아무것도 포함되어 있지 않습니다.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0076-u005",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 76,
+      "pageId": "page_0076",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0076-l0016"
+        ],
+        "lineNumbers": [
+          16
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "It should be noted that the 1957 Independence,"
+      },
+      "translation": {
+        "text": "1957년 인디펜던스,",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0076-u006",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 76,
+      "pageId": "page_0076",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0076-l0020"
+        ],
+        "lineNumbers": [
+          20
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "Terrace, Independence, Missouri. The files of the Kansas"
+      },
+      "translation": {
+        "text": "테라스, 미주리주 인디펜던스. 캔자스 파일",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0076-u007",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 76,
+      "pageId": "page_0076",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0076-l0023"
+        ],
+        "lineNumbers": [
+          23
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "RUC."
+      },
+      "translation": {
+        "text": "RUC.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0076-u008",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 76,
+      "pageId": "page_0076",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0076-l0025",
+          "page_0076-l0026",
+          "page_0076-l0027"
+        ],
+        "lineNumbers": [
+          25,
+          26,
+          27
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0026",
+            "lineNumber": 26,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0027",
+            "lineNumber": 27,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "2 - Bureau\n1 - St. Louis (62-0) (info)\n1 - Kansas City (62-7386)"
+      },
+      "translation": {
+        "text": "2 - 국\n1 - 세인트루이스 (62-0) (정보)\n1 - 캔자스시티 (62-7386)",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0076-u009",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 76,
+      "pageId": "page_0076",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0076-l0029",
+          "page_0076-l0030"
+        ],
+        "lineNumbers": [
+          29,
+          30
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0030",
+            "lineNumber": 30,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "RHA:MEJ\n(4)"
+      },
+      "translation": {
+        "text": "RHA:MEJ\n(4)",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0076-u010",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 76,
+      "pageId": "page_0076",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0076-l0033",
+          "page_0076-l0034",
+          "page_0076-l0035"
+        ],
+        "lineNumbers": [
+          33,
+          34,
+          35
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0033",
+            "lineNumber": 33,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0034",
+            "lineNumber": 34,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0035",
+            "lineNumber": 35,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "3 FEB 4 1953\nRECORDED - 4103\nEX-103"
+      },
+      "translation": {
+        "text": "1953년 2월 4일\n기록됨 - 4103\nEX-103",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0076-u011",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 76,
+      "pageId": "page_0076",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0076-l0037"
+        ],
+        "lineNumbers": [
+          37
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 76,
+            "pageId": "page_0076",
+            "lineId": "page_0076-l0037",
+            "lineNumber": 37,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "6 0 FEB 7 1958"
+      },
+      "translation": {
+        "text": "1958년 2월 7일 6 0",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

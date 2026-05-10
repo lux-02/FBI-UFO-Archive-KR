@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 14,
+  "page": 90,
+  "pageId": "page_0090",
+  "source": {
+    "pdfPath": "docs/ufo14.pdf",
+    "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T23:57:29.207Z",
+  "unitCount": 1,
+  "sourceLineCount": 3,
+  "excludedLineCount": 0,
+  "excludedLines": [],
+  "units": [
+    {
+      "id": "TU-p14-page-0090-u001",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 90,
+      "pageId": "page_0090",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0090-l0001",
+          "page_0090-l0002",
+          "page_0090-l0003"
+        ],
+        "lineNumbers": [
+          1,
+          2,
+          3
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 90,
+            "pageId": "page_0090",
+            "lineId": "page_0090-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 90,
+            "pageId": "page_0090",
+            "lineId": "page_0090-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 90,
+            "pageId": "page_0090",
+            "lineId": "page_0090-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "set II\nUFO\nsec 10"
+      },
+      "translation": {
+        "text": "세트 II\nUFO\n섹션 10",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

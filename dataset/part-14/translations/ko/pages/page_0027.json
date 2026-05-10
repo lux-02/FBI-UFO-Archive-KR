@@ -1,0 +1,240 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 14,
+  "page": 27,
+  "pageId": "page_0027",
+  "source": {
+    "pdfPath": "docs/ufo14.pdf",
+    "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T23:57:29.207Z",
+  "unitCount": 2,
+  "sourceLineCount": 12,
+  "excludedLineCount": 2,
+  "excludedLines": [
+    {
+      "part": 14,
+      "page": 27,
+      "pageId": "page_0027",
+      "lineId": "page_0027-l0007",
+      "lineNumber": 7,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "FIELD, MICHIGAN. THIS MATERIAL WAS TURNED OVER TO TWENTYFIFTH",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 14,
+      "page": 27,
+      "pageId": "page_0027",
+      "lineId": "page_0027-l0008",
+      "lineNumber": 8,
+      "sourceStatus": "NEEDS_IMAGE_CHECK",
+      "sourceText": "OFFICE OF SPECIAL INVESTIGATIONS AIR FORCE BASE",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p14-page-0027-u001",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 27,
+      "pageId": "page_0027",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0027-l0001",
+          "page_0027-l0002",
+          "page_0027-l0003",
+          "page_0027-l0004",
+          "page_0027-l0005",
+          "page_0027-l0006"
+        ],
+        "lineNumbers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 27,
+            "pageId": "page_0027",
+            "lineId": "page_0027-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 27,
+            "pageId": "page_0027",
+            "lineId": "page_0027-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 27,
+            "pageId": "page_0027",
+            "lineId": "page_0027-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 27,
+            "pageId": "page_0027",
+            "lineId": "page_0027-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 27,
+            "pageId": "page_0027",
+            "lineId": "page_0027-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 27,
+            "pageId": "page_0027",
+            "lineId": "page_0027-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "PAGE TWO\nRESIDENT AGENCY RECEIVED PRESS INQUIRY, AND ADVISED ONLY THAT PERRY\nHAD TURNED TWO SLIDES OVER TO THE FBI, AND THEY WERE BEING MADE\nAVAILABLE TO APPROPRIATE AUTHORITIES. DETROIT TIMES ADVISED TODAY\nFBI HAS NOT AND IS NOT CONDUCTING INVESTIGATION CONCERNING SLIDES\nBUT HAS TURNED OVER THE INFORMATION TO THE AIR FORCE, SELFRIDGE"
+      },
+      "translation": {
+        "text": "2페이지\n주재 기관은 언론 문의를 받았고, 페리가 FBI에 슬라이드 두 장을 넘겼으며, 해당 슬라이드는 관련 당국에 제공되고 있다고만 알렸다. 디트로이트 타임즈는 오늘 FBI가 슬라이드와 관련하여 조사를 수행하지 않았고 현재도 수행하고 있지 않지만, 해당 정보를 셀프리지 공군 기지(Selfridge AFB)의 OSI 파견대에 넘겨 관련 공군 관계자에게 회부했다고 알렸다.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0027-u002",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 27,
+      "pageId": "page_0027",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0027-l0009",
+          "page_0027-l0010",
+          "page_0027-l0011",
+          "page_0027-l0012",
+          "page_0027-l0013",
+          "page_0027-l0014"
+        ],
+        "lineNumbers": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 27,
+            "pageId": "page_0027",
+            "lineId": "page_0027-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 27,
+            "pageId": "page_0027",
+            "lineId": "page_0027-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 27,
+            "pageId": "page_0027",
+            "lineId": "page_0027-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 27,
+            "pageId": "page_0027",
+            "lineId": "page_0027-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 27,
+            "pageId": "page_0027",
+            "lineId": "page_0027-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 27,
+            "pageId": "page_0027",
+            "lineId": "page_0027-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "OSI DETACHMENT, SELFRIDGE AFB, FOR REFERRAL TO APPROPRIATE AIR\nFORCE OFFICIALS. AIRTEL WITH DETAILS FOLLOWS.\nEND\nWA 4-36 PM OK FBI WA MS\nTU DISCO\nCC-IR: BELMOST"
+      },
+      "translation": {
+        "text": "셀프리지 공군 기지(Selfridge AFB)의 OSI 파견대에 넘겨 관련 공군 관계자에게 회부했습니다. 자세한 내용은 에어텔로 이어집니다.\n끝\nWA 4-36 PM OK FBI WA MS\nTU DISCO\nCC-IR: 벨모스트",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

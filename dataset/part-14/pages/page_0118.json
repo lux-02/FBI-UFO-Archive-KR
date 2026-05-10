@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 14,
+  "page": 118,
+  "pageId": "page_0118",
+  "source": {
+    "pdfPath": "docs/ufo14.pdf",
+    "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 7 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0118-l0001",
+    "page_0118-l0002",
+    "page_0118-l0006",
+    "page_0118-l0009"
+  ],
+  "lineCount": 12,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "This information will help settle some disturbing question",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "text": "the readers of my articles. Personally I am not sure at all",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 3,
+      "text": "whether I can fully accept these rumours as facts. I",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "need more information.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "Any information you supply can ease the worries of",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "people who feel that the objects unknown they see in the",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 7,
+      "text": "sky may portend the visit of a mysterious visitor.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "Yours truly,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Mr. [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
+      "text": "P.S. If there are any pamphlets covering the FBI's",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "functions you feel I will need, please send them along.",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

@@ -1,0 +1,823 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 14,
+  "page": 122,
+  "pageId": "page_0122",
+  "source": {
+    "pdfPath": "docs/ufo14.pdf",
+    "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T23:57:29.207Z",
+  "unitCount": 13,
+  "sourceLineCount": 33,
+  "excludedLineCount": 2,
+  "excludedLines": [
+    {
+      "part": 14,
+      "page": 122,
+      "pageId": "page_0122",
+      "lineId": "page_0122-l0026",
+      "lineNumber": 26,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "the official report by the C.A.B., along with a letter by a Mr. [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 14,
+      "page": 122,
+      "pageId": "page_0122",
+      "lineId": "page_0122-l0027",
+      "lineNumber": 27,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED], Director Community and Congressional Relations.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p14-page-0122-u001",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 122,
+      "pageId": "page_0122",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0122-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "March 19, 1969"
+      },
+      "translation": {
+        "text": "1969년 3월 19일",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0122-u002",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 122,
+      "pageId": "page_0122",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0122-l0003",
+          "page_0122-l0004",
+          "page_0122-l0005",
+          "page_0122-l0006"
+        ],
+        "lineNumbers": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "John Edgar Hoover\nUnited States Department of Justice\nFederal Bureau of Investigation\nWashington 25, D.C."
+      },
+      "translation": {
+        "text": "존 에드거 후버\n미국 법무부\n연방 수사국\n워싱턴 25, D.C.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0122-u003",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 122,
+      "pageId": "page_0122",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0122-l0008"
+        ],
+        "lineNumbers": [
+          8
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "Dear Mr. Hoover:"
+      },
+      "translation": {
+        "text": "후버 씨께,",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0122-u004",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 122,
+      "pageId": "page_0122",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0122-l0010",
+          "page_0122-l0011",
+          "page_0122-l0012",
+          "page_0122-l0013",
+          "page_0122-l0014"
+        ],
+        "lineNumbers": [
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "December 7, 1963, I observed in the sky at Moorestown, New Jersey, an\nunusual object and its unusual behavior. On December 8, 1963, just\n24 hours later at Elkton, Maryland, the Pan American Aircraft with 73\npassengers and a crew of eight perished when this aircraft exploded in\nmid air and crashed."
+      },
+      "translation": {
+        "text": "1963년 12월 7일, 저는 뉴저지주 무어스타운 상공에서 특이한 물체와 그 특이한 행동을 목격했습니다. 1963년 12월 8일, 정확히 24시간 후 메릴랜드주 엘크턴에서 팬 아메리칸 항공기가 공중에서 폭발하여 추락하면서 승객 73명과 승무원 8명이 사망했습니다.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0122-u005",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 122,
+      "pageId": "page_0122",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0122-l0016",
+          "page_0122-l0017",
+          "page_0122-l0018",
+          "page_0122-l0019",
+          "page_0122-l0020"
+        ],
+        "lineNumbers": [
+          16,
+          17,
+          18,
+          19,
+          20
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "I sent a tape recording of the observation I had made on December 7,\nto Mr. J. Edgar Hoover and associated this object with the crash of\nthis plane. Mr. Hoover informed me that the Civil Aeronautics Board\nwas investigating this disaster and what I had sent to him would be\nforwarded to them, the C.A.B."
+      },
+      "translation": {
+        "text": "저는 12월 7일에 제가 관찰한 내용을 녹음한 테이프를 J. 에드거 후버 씨에게 보냈고, 이 물체를 이 비행기 추락과 연관시켰습니다. 후버 씨는 민간항공위원회(Civil Aeronautics Board)가 이 재난을 조사하고 있으며 제가 그에게 보낸 내용은 민간항공위원회(C.A.B.)로 전달될 것이라고 알려주었습니다.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0122-u006",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 122,
+      "pageId": "page_0122",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0122-l0022",
+          "page_0122-l0023"
+        ],
+        "lineNumbers": [
+          22,
+          23
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "In the month of March, 1965, the C.A.B., released a report that this\naccident and cause was due to a lightning strike."
+      },
+      "translation": {
+        "text": "1965년 3월, C.A.B.는 이 사고의 원인이 낙뢰 때문이라는 보고서를 발표했습니다.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0122-u007",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 122,
+      "pageId": "page_0122",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0122-l0025"
+        ],
+        "lineNumbers": [
+          25
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "I protested to Senator Case of New Jersey. Senator Case mailed me"
+      },
+      "translation": {
+        "text": "저는 뉴저지주 케이스 상원의원에게 항의했습니다. 케이스 상원의원은 저에게 우편으로",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0122-u008",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 122,
+      "pageId": "page_0122",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0122-l0029",
+          "page_0122-l0030",
+          "page_0122-l0031",
+          "page_0122-l0032"
+        ],
+        "lineNumbers": [
+          29,
+          30,
+          31,
+          32
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0030",
+            "lineNumber": 30,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0031",
+            "lineNumber": 31,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0032",
+            "lineNumber": 32,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "Upon reading the Official C.A.B. report on this accident and also\nthis letter I have come to the conclusion that neither the C.A.B. or\nthe writer of this letter know what they are talking about and have\nmissed the point completely."
+      },
+      "translation": {
+        "text": "이 사고에 대한 공식 C.A.B. 보고서와 이 편지를 읽고 저는 C.A.B.도 이 편지를 쓴 사람도 자신들이 무슨 말을 하는지 모르고 요점을 완전히 놓쳤다는 결론에 도달했습니다.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0122-u009",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 122,
+      "pageId": "page_0122",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0122-l0034",
+          "page_0122-l0035"
+        ],
+        "lineNumbers": [
+          34,
+          35
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0034",
+            "lineNumber": 34,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0035",
+            "lineNumber": 35,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "I claimed that the object which I seen was laying air mines and\nthat this aircraft was destroyed by contact with one of these mines."
+      },
+      "translation": {
+        "text": "저는 제가 본 물체가 공중 지뢰를 설치하고 있었고, 이 항공기가 이 지뢰 중 하나와 접촉하여 파괴되었다고 주장했습니다.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0122-u010",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 122,
+      "pageId": "page_0122",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0122-l0037",
+          "page_0122-l0038",
+          "page_0122-l0039",
+          "page_0122-l0040"
+        ],
+        "lineNumbers": [
+          37,
+          38,
+          39,
+          40
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0037",
+            "lineNumber": 37,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0038",
+            "lineNumber": 38,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0039",
+            "lineNumber": 39,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0040",
+            "lineNumber": 40,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "To substantiate my claim I would refer you to page 8 line 20 to line\n24 inclusive of this report File #1-0015. Boeing 707-121 N709PA Pan\nAmerican World Airways, Inc., near Elkton, Maryland, December 8,\n1963."
+      },
+      "translation": {
+        "text": "제 주장을 입증하기 위해 이 보고서 파일 #1-0015, 보잉 707-121 N709PA 팬 아메리칸 월드 항공, 메릴랜드주 엘크턴 근처, 1963년 12월 8일의 8페이지 20행부터 24행까지를 참조하시기 바랍니다.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0122-u011",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 122,
+      "pageId": "page_0122",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0122-l0042",
+          "page_0122-l0043"
+        ],
+        "lineNumbers": [
+          42,
+          43
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0042",
+            "lineNumber": 42,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0043",
+            "lineNumber": 43,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "REC-128\nSI-1:"
+      },
+      "translation": {
+        "text": "REC-128\nSI-1:",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0122-u012",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 122,
+      "pageId": "page_0122",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0122-l0045"
+        ],
+        "lineNumbers": [
+          45
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0045",
+            "lineNumber": 45,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "25 MAR 27 1969"
+      },
+      "translation": {
+        "text": "25 MAR 27 1969",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0122-u013",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 122,
+      "pageId": "page_0122",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0122-l0047"
+        ],
+        "lineNumbers": [
+          47
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 122,
+            "pageId": "page_0122",
+            "lineId": "page_0122-l0047",
+            "lineNumber": 47,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "APR4 1969"
+      },
+      "translation": {
+        "text": "APR4 1969",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

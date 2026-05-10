@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 14,
+  "page": 23,
+  "pageId": "page_0023",
+  "source": {
+    "pdfPath": "docs/ufo14.pdf",
+    "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 4 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0023-l0003"
+  ],
+  "lineCount": 6,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "Joe Perry and His Telescope (Journal Photo)",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "report that the Air Force was [unclear] FBI office, which said",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 4,
+      "text": "interested in all reports of un- the slide was sent to the Wash-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "identified flying objects ington office of the Air Force,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "(UFO's). So he gave it to the which deals with UFO's.",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

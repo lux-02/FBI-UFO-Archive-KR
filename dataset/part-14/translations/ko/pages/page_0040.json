@@ -1,0 +1,531 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 14,
+  "page": 40,
+  "pageId": "page_0040",
+  "source": {
+    "pdfPath": "docs/ufo14.pdf",
+    "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T23:57:29.207Z",
+  "unitCount": 8,
+  "sourceLineCount": 22,
+  "excludedLineCount": 1,
+  "excludedLines": [
+    {
+      "part": 14,
+      "page": 40,
+      "pageId": "page_0040",
+      "lineId": "page_0040-l0027",
+      "lineNumber": 27,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p14-page-0040-u001",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 40,
+      "pageId": "page_0040",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0040-l0001",
+          "page_0040-l0002"
+        ],
+        "lineNumbers": [
+          1,
+          2
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "Newport News, Virginia\nFebruary 1, 1959"
+      },
+      "translation": {
+        "text": "버지니아주 뉴포트 뉴스\n1959년 2월 1일",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0040-u002",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 40,
+      "pageId": "page_0040",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0040-l0004",
+          "page_0040-l0005",
+          "page_0040-l0006",
+          "page_0040-l0007"
+        ],
+        "lineNumbers": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "Director of Field Investigations,\nUnidentified Flying Objects\nThe Federal Bureau of Investigation\nWashington, D. C."
+      },
+      "translation": {
+        "text": "현장 조사 국장,\n미확인 비행 물체\n연방 수사국\n워싱턴 D. C.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0040-u003",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 40,
+      "pageId": "page_0040",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0040-l0009"
+        ],
+        "lineNumbers": [
+          9
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "Dear Sir:"
+      },
+      "translation": {
+        "text": "친애하는 각하:",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0040-u004",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 40,
+      "pageId": "page_0040",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0040-l0011",
+          "page_0040-l0012",
+          "page_0040-l0013"
+        ],
+        "lineNumbers": [
+          11,
+          12,
+          13
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "It is my understanding that the F.B.I. has par-\nticipated in the Government's program of investigation of\nUnidentified Flying Objects (UFO)."
+      },
+      "translation": {
+        "text": "제가 알기로는 F.B.I.가 정부의 미확인 비행 물체(UFO) 조사 프로그램에 참여해 왔습니다.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0040-u005",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 40,
+      "pageId": "page_0040",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0040-l0015",
+          "page_0040-l0016",
+          "page_0040-l0017",
+          "page_0040-l0018",
+          "page_0040-l0019"
+        ],
+        "lineNumbers": [
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "How many UFO sighting reports involving alleged\nphotographs or films of unconventional aerial objects has\nyour organization collected, evaluated, or analyzed since\nJanuary 1, 1952 to present? Has the F.B.I. ever been fur-\nnished with an analysis of maneuvers of UFO's ?"
+      },
+      "translation": {
+        "text": "1952년 1월 1일부터 현재까지 귀 기관은 비전통적인 공중 물체의 사진 또는 필름이 포함된 UFO 목격 보고서를 몇 건이나 수집, 평가 또는 분석했습니까? F.B.I.는 UFO의 기동 분석을 제공받은 적이 있습니까?",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0040-u006",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 40,
+      "pageId": "page_0040",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0040-l0021",
+          "page_0040-l0022",
+          "page_0040-l0023"
+        ],
+        "lineNumbers": [
+          21,
+          22,
+          23
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "I understand that congressional closed-door\nhearings are being held on the UFO subject. Has any F.B.I\nrepresentative ever given testimony in these hearings ?"
+      },
+      "translation": {
+        "text": "저는 UFO 주제에 대한 의회 비공개 청문회가 열리고 있는 것으로 알고 있습니다. 이 청문회에서 F.B.I. 대표가 증언한 적이 있습니까?",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0040-u007",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 40,
+      "pageId": "page_0040",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0040-l0025"
+        ],
+        "lineNumbers": [
+          25
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "Yours sincerely,"
+      },
+      "translation": {
+        "text": "진심으로,",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0040-u008",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 40,
+      "pageId": "page_0040",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0040-l0029",
+          "page_0040-l0030",
+          "page_0040-l0031"
+        ],
+        "lineNumbers": [
+          29,
+          30,
+          31
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0030",
+            "lineNumber": 30,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0031",
+            "lineNumber": 31,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "REC-27\nEX-136\nNAT. SEC."
+      },
+      "translation": {
+        "text": "REC-27\nEX-136\nNAT. SEC.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

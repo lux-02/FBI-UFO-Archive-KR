@@ -1,0 +1,95 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 14,
+  "page": 27,
+  "pageId": "page_0027",
+  "source": {
+    "pdfPath": "docs/ufo14.pdf",
+    "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 12 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0027-l0007",
+    "page_0027-l0008"
+  ],
+  "lineCount": 14,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "PAGE TWO",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "RESIDENT AGENCY RECEIVED PRESS INQUIRY, AND ADVISED ONLY THAT PERRY",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "HAD TURNED TWO SLIDES OVER TO THE FBI, AND THEY WERE BEING MADE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "AVAILABLE TO APPROPRIATE AUTHORITIES. DETROIT TIMES ADVISED TODAY",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "FBI HAS NOT AND IS NOT CONDUCTING INVESTIGATION CONCERNING SLIDES",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "BUT HAS TURNED OVER THE INFORMATION TO THE AIR FORCE, SELFRIDGE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "FIELD, MICHIGAN. THIS MATERIAL WAS TURNED OVER TO TWENTYFIFTH",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 8,
+      "text": "OFFICE OF SPECIAL INVESTIGATIONS AIR FORCE BASE",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 9,
+      "text": "OSI DETACHMENT, SELFRIDGE AFB, FOR REFERRAL TO APPROPRIATE AIR",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "FORCE OFFICIALS. AIRTEL WITH DETAILS FOLLOWS.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "END",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "WA 4-36 PM OK FBI WA MS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "TU DISCO",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "CC-IR: BELMOST",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

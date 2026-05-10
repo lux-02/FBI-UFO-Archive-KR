@@ -1,0 +1,684 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 14,
+  "page": 8,
+  "pageId": "page_0008",
+  "source": {
+    "pdfPath": "docs/ufo14.pdf",
+    "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T23:57:29.207Z",
+  "unitCount": 9,
+  "sourceLineCount": 31,
+  "excludedLineCount": 3,
+  "excludedLines": [
+    {
+      "part": 14,
+      "page": 8,
+      "pageId": "page_0008",
+      "lineId": "page_0008-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "RE: [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 14,
+      "page": 8,
+      "pageId": "page_0008",
+      "lineId": "page_0008-l0008",
+      "lineNumber": 8,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "In summation, [REDACTED] speech was on these",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 14,
+      "page": 8,
+      "pageId": "page_0008",
+      "lineId": "page_0008-l0019",
+      "lineNumber": 19,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "Throughout his lecture, [REDACTED] mentioned only",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p14-page-0008-u001",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 8,
+      "pageId": "page_0008",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0008-l0002",
+          "page_0008-l0003",
+          "page_0008-l0004",
+          "page_0008-l0005",
+          "page_0008-l0006"
+        ],
+        "lineNumbers": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "ruined, not because of any fear that would be engendered\nin the public. He said this is due to the number of scien-\ntific discoveries already made and that will be made which\nare labor saving and of almost permanency so that replacements\nwould not be needed."
+      },
+      "translation": {
+        "text": "대중에게 생겨날 어떤 두려움 때문이 아니라 망가질 것이라고 말했다. 그는 이것이 이미 이루어졌고 앞으로 이루어질 수많은 과학적 발견들 때문이며, 이러한 발견들은 노동력을 절약하고 거의 영구적이어서 교체가 필요 없을 것이라고 말했다.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0008-u002",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 8,
+      "pageId": "page_0008",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0008-l0009"
+        ],
+        "lineNumbers": [
+          9
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "subjects:"
+      },
+      "translation": {
+        "text": "주제:",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0008-u003",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 8,
+      "pageId": "page_0008",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0008-l0011",
+          "page_0008-l0012"
+        ],
+        "lineNumbers": [
+          11,
+          12
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "(1) Space people related to occurrences in\nBible."
+      },
+      "translation": {
+        "text": "(1) 성경의 사건들과 관련된 우주인.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0008-u004",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 8,
+      "pageId": "page_0008",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0008-l0014"
+        ],
+        "lineNumbers": [
+          14
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "(2) Atom Bomb detrimental to earth and universe."
+      },
+      "translation": {
+        "text": "(2) 지구와 우주에 해로운 원자 폭탄.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0008-u005",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 8,
+      "pageId": "page_0008",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0008-l0016",
+          "page_0008-l0017"
+        ],
+        "lineNumbers": [
+          16,
+          17
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "(3) Economy is poor and would collapse under\nideas brought by space people."
+      },
+      "translation": {
+        "text": "(3) 경제가 좋지 않으며 우주인들이 가져올 아이디어로 인해 붕괴될 것이다.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0008-u006",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 8,
+      "pageId": "page_0008",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0008-l0020",
+          "page_0008-l0021",
+          "page_0008-l0022",
+          "page_0008-l0023",
+          "page_0008-l0024",
+          "page_0008-l0025",
+          "page_0008-l0026",
+          "page_0008-l0027"
+        ],
+        "lineNumbers": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0024",
+            "lineNumber": 24,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0026",
+            "lineNumber": 26,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0027",
+            "lineNumber": 27,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "the U. S. economy and Government and the U. S. Air Force. He\ndid refer to the human race numerous times but all references\nto Government and economy could only be taken as meaning the\nU. S. One question put to him was whether sightings had been\nmade in Russia or China. He answered this by saying sightings\nhad been reported all over the world, but then specifically\nmentioned only the U. S., Australia, New Zealand, and New\nGuinea."
+      },
+      "translation": {
+        "text": "미국 경제와 정부, 그리고 미 공군. 그는 인류를 여러 번 언급했지만, 정부와 경제에 대한 모든 언급은 미국을 의미하는 것으로만 해석될 수 있었다. 그에게 러시아나 중국에서 목격된 적이 있는지 질문하자, 그는 전 세계에서 목격이 보고되었다고 답했지만, 그 후에는 구체적으로 미국, 호주, 뉴질랜드, 뉴기니만 언급했다.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0008-u007",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 8,
+      "pageId": "page_0008",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0008-l0029",
+          "page_0008-l0030",
+          "page_0008-l0031",
+          "page_0008-l0032",
+          "page_0008-l0033",
+          "page_0008-l0034",
+          "page_0008-l0035",
+          "page_0008-l0036",
+          "page_0008-l0037"
+        ],
+        "lineNumbers": [
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0030",
+            "lineNumber": 30,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0031",
+            "lineNumber": 31,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0032",
+            "lineNumber": 32,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0033",
+            "lineNumber": 33,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0034",
+            "lineNumber": 34,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0035",
+            "lineNumber": 35,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0036",
+            "lineNumber": 36,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0037",
+            "lineNumber": 37,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "He also mentioned that he was not advocating or\nasking for any action on the part of the audience because he\nsaid evil has a way of destroying itself. He did say that\nhe felt that the audience, of about 250 persons, were the\nonly intelligent people in Denver and he knew they had not\ncome out of curiosity but because they wanted to do the right\nthing. He said that they were above the average in intelligence\nand when the critical time came, the world would need people\nsuch as this to think and guide."
+      },
+      "translation": {
+        "text": "그는 또한 자신이 청중에게 어떤 행동을 옹호하거나 요구하는 것이 아니라고 언급했는데, 그는 악은 스스로를 파괴하는 방식이 있다고 말했기 때문이다. 그는 약 250명의 청중이 덴버에서 유일하게 지적인 사람들이라고 느꼈으며, 그들이 호기심 때문에 온 것이 아니라 올바른 일을 하고 싶어서 왔다는 것을 알고 있다고 말했다. 그는 그들이 평균 이상의 지능을 가지고 있으며, 결정적인 시기가 오면 세상은 생각하고 이끌어갈 이런 사람들이 필요할 것이라고 말했다.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0008-u008",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 8,
+      "pageId": "page_0008",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0008-l0039",
+          "page_0008-l0040"
+        ],
+        "lineNumbers": [
+          39,
+          40
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0039",
+            "lineNumber": 39,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          },
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0040",
+            "lineNumber": 40,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "An application blank was distributed at the meeting\nfor membership in the Denver society of this organization."
+      },
+      "translation": {
+        "text": "이 단체의 덴버 지부 회원 가입 신청서가 회의에서 배포되었다.",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p14-page-0008-u009",
+      "unitVersion": 1,
+      "part": 14,
+      "page": 8,
+      "pageId": "page_0008",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo14.pdf",
+        "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3",
+        "lineIds": [
+          "page_0008-l0042"
+        ],
+        "lineNumbers": [
+          42
+        ],
+        "refs": [
+          {
+            "part": 14,
+            "page": 8,
+            "pageId": "page_0008",
+            "lineId": "page_0008-l0042",
+            "lineNumber": 42,
+            "sourcePath": "docs/ufo14.pdf",
+            "sourceSha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
+          }
+        ],
+        "text": "- 4 -"
+      },
+      "translation": {
+        "text": "- 4 -",
+        "reviewedAt": "2026-05-10T23:57:20.596Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}
