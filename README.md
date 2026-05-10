@@ -4,6 +4,8 @@ An unofficial public dataset containing OCR output and reviewed Korean translati
 
 This project is not affiliated with the U.S. FBI or the U.S. government, and it does not represent any official position or conclusion. The source PDFs are public materials available from FBI Vault. This dataset is a derivative reading and review aid; it does not add claims, tone, or conclusions that are not present in the source documents.
 
+Production reader app: [ufo.n2f.site](https://ufo.n2f.site)
+
 ---
 
 ## Public Scope
@@ -89,6 +91,8 @@ shasum -a 256 docs/ufo5.pdf
 
 The repository includes an Astro static reader app. Vercel deployment uses the checked-in app source and prebuilt reader scan images.
 
+Production domain: [ufo.n2f.site](https://ufo.n2f.site)
+
 Recommended Vercel settings:
 
 | Setting | Value |
@@ -139,6 +143,8 @@ Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 [FBI Vault](https://vault.fbi.gov/UFO)에 공개된 UFO 관련 PDF를 대상으로 OCR 추출본과 한국어 번역 검수본을 정리하는 비공식 공개 데이터셋입니다.
 
 이 저장소는 미국 FBI 또는 미국 정부와 무관하며, 어떤 공식 입장이나 결론을 대변하지 않습니다. 원본 PDF는 FBI Vault에서 확인할 수 있는 공개 자료입니다. 이 데이터셋은 원본 문서를 읽고 검토하기 쉽게 만든 파생 데이터이며, 원문에 없는 사실, 분위기, 결론을 추가하지 않는 것을 원칙으로 합니다.
+
+프로덕션 리더 앱: [ufo.n2f.site](https://ufo.n2f.site)
 
 ---
 
@@ -224,6 +230,8 @@ shasum -a 256 docs/ufo5.pdf
 ## 정적 웹앱 배포
 
 이 저장소에는 Astro 기반 정적 리더 웹앱이 포함됩니다. Vercel 배포는 저장소에 포함된 앱 소스와 사전 생성된 리더용 스캔 이미지를 사용합니다.
+
+프로덕션 도메인: [ufo.n2f.site](https://ufo.n2f.site)
 
 권장 Vercel 설정:
 
