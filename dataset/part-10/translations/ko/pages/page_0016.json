@@ -1,0 +1,229 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 10,
+  "page": 16,
+  "pageId": "page_0016",
+  "source": {
+    "pdfPath": "docs/ufo10.pdf",
+    "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T17:35:20.041Z",
+  "unitCount": 2,
+  "sourceLineCount": 10,
+  "excludedLineCount": 3,
+  "excludedLines": [
+    {
+      "part": 10,
+      "page": 16,
+      "pageId": "page_0016",
+      "lineId": "page_0016-l0003",
+      "lineNumber": 3,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "[unclear] was first attracted while driving north along Ritchie",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 10,
+      "page": 16,
+      "pageId": "page_0016",
+      "lineId": "page_0016-l0004",
+      "lineNumber": 4,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] in company with [REDACTED] a friend, a",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 10,
+      "page": 16,
+      "pageId": "page_0016",
+      "lineId": "page_0016-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "[unclear] object was observed just ahead of the automobile. It was",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p10-page-0016-u001",
+      "unitVersion": 1,
+      "part": 10,
+      "page": 16,
+      "pageId": "page_0016",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo10.pdf",
+        "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24",
+        "lineIds": [
+          "page_0016-l0001",
+          "page_0016-l0002"
+        ],
+        "lineNumbers": [
+          1,
+          2
+        ],
+        "refs": [
+          {
+            "part": 10,
+            "page": 16,
+            "pageId": "page_0016",
+            "lineId": "page_0016-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          },
+          {
+            "part": 10,
+            "page": 16,
+            "pageId": "page_0016",
+            "lineId": "page_0016-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          }
+        ],
+        "text": "67c\nDESCRIPTION OF INCIDENT"
+      },
+      "translation": {
+        "text": "67c\n사건 설명",
+        "reviewedAt": "2026-05-10T17:35:10.652Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p10-page-0016-u002",
+      "unitVersion": 1,
+      "part": 10,
+      "page": 16,
+      "pageId": "page_0016",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo10.pdf",
+        "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24",
+        "lineIds": [
+          "page_0016-l0006",
+          "page_0016-l0007",
+          "page_0016-l0008",
+          "page_0016-l0009",
+          "page_0016-l0010",
+          "page_0016-l0011",
+          "page_0016-l0012",
+          "page_0016-l0013"
+        ],
+        "lineNumbers": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "refs": [
+          {
+            "part": 10,
+            "page": 16,
+            "pageId": "page_0016",
+            "lineId": "page_0016-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          },
+          {
+            "part": 10,
+            "page": 16,
+            "pageId": "page_0016",
+            "lineId": "page_0016-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          },
+          {
+            "part": 10,
+            "page": 16,
+            "pageId": "page_0016",
+            "lineId": "page_0016-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          },
+          {
+            "part": 10,
+            "page": 16,
+            "pageId": "page_0016",
+            "lineId": "page_0016-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          },
+          {
+            "part": 10,
+            "page": 16,
+            "pageId": "page_0016",
+            "lineId": "page_0016-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          },
+          {
+            "part": 10,
+            "page": 16,
+            "pageId": "page_0016",
+            "lineId": "page_0016-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          },
+          {
+            "part": 10,
+            "page": 16,
+            "pageId": "page_0016",
+            "lineId": "page_0016-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          },
+          {
+            "part": 10,
+            "page": 16,
+            "pageId": "page_0016",
+            "lineId": "page_0016-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          }
+        ],
+        "text": "approximately 10:45 P.M. The engine in the car seemed to die and car drifted\nto a stop, the driver pulling slightly off the road. The object was\napproximately over the car and had no forward motion. It seemed to be tilted\nslightly and was giving off a yellowish-greenish light which faded and then\ncame on again and then faded again. The outer edges of this object which seemed\nto be round with a thickness toward the center, seemed to be opaque. Mr. Tyler\nstated he was not sure whether he had observed anything that looked like a port-hole. He stated he was not\nsure of the exact location, but there might"
+      },
+      "translation": {
+        "text": "대략 오후 10시 45분. 차의 엔진이 멈춘 것 같았고 차는 멈춰 섰으며, 운전자는 도로에서 약간 벗어났다. 물체는 차 위에 있었고 앞으로 움직이지 않았다. 그것은 약간 기울어져 있었고 노란색-녹색 빛을 내고 있었는데, 이 빛은 희미해졌다가 다시 켜지고 다시 희미해졌다. 중앙으로 갈수록 두꺼워지는 둥근 모양으로 보이는 이 물체의 바깥쪽 가장자리는 불투명해 보였다. 타일러 씨는 자신이 포트홀처럼 보이는 것을 관찰했는지 확실하지 않다고 진술했다. 그는 정확한 위치는 확실하지 않지만, 있을 수도 있다고 진술했다.",
+        "reviewedAt": "2026-05-10T17:35:10.652Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

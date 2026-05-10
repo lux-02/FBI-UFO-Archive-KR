@@ -1,0 +1,530 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 10,
+  "page": 12,
+  "pageId": "page_0012",
+  "source": {
+    "pdfPath": "docs/ufo10.pdf",
+    "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T17:35:20.041Z",
+  "unitCount": 9,
+  "sourceLineCount": 18,
+  "excludedLineCount": 2,
+  "excludedLines": [
+    {
+      "part": 10,
+      "page": 12,
+      "pageId": "page_0012",
+      "lineId": "page_0012-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "records at the gare reflected that the car had bee serviced on 23",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 10,
+      "page": 12,
+      "pageId": "page_0012",
+      "lineId": "page_0012-l0002",
+      "lineNumber": 2,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "April, 8 December, 18 December 1951; and 31 January, 20 March, and 8",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p10-page-0012-u001",
+      "unitVersion": 1,
+      "part": 10,
+      "page": 12,
+      "pageId": "page_0012",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo10.pdf",
+        "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24",
+        "lineIds": [
+          "page_0012-l0003",
+          "page_0012-l0004",
+          "page_0012-l0005",
+          "page_0012-l0006",
+          "page_0012-l0007",
+          "page_0012-l0008"
+        ],
+        "lineNumbers": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "refs": [
+          {
+            "part": 10,
+            "page": 12,
+            "pageId": "page_0012",
+            "lineId": "page_0012-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          },
+          {
+            "part": 10,
+            "page": 12,
+            "pageId": "page_0012",
+            "lineId": "page_0012-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          },
+          {
+            "part": 10,
+            "page": 12,
+            "pageId": "page_0012",
+            "lineId": "page_0012-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          },
+          {
+            "part": 10,
+            "page": 12,
+            "pageId": "page_0012",
+            "lineId": "page_0012-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          },
+          {
+            "part": 10,
+            "page": 12,
+            "pageId": "page_0012",
+            "lineId": "page_0012-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          },
+          {
+            "part": 10,
+            "page": 12,
+            "pageId": "page_0012",
+            "lineId": "page_0012-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          }
+        ],
+        "text": "May 1952. The records reflected that the car had been brought in for\nroutine check-ups and repairs. There was no indication in the records\nthat the car had been repainted. Mr. ISENDOCK stated that the car was\nstill the same green color; however, he could not state as to whether\nit had been recently repainted. He did state he knew the car had not\nbeen repainted at his garage."
+      },
+      "translation": {
+        "text": "1952년 5월. 기록에 따르면 차량은 정기 점검 및 수리를 위해 입고되었습니다. 기록에는 차량이 다시 도색되었다는 어떠한 표시도 없었습니다. ISENDOCK 씨는 차량이 여전히 같은 녹색이라고 진술했습니다. 그러나 그는 최근에 다시 도색되었는지 여부에 대해서는 말할 수 없었습니다. 그는 자신의 차고에서 차량이 다시 도색되지 않았다는 것을 알고 있다고 진술했습니다.",
+        "reviewedAt": "2026-05-10T17:35:10.652Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p10-page-0012-u002",
+      "unitVersion": 1,
+      "part": 10,
+      "page": 12,
+      "pageId": "page_0012",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo10.pdf",
+        "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24",
+        "lineIds": [
+          "page_0012-l0010",
+          "page_0012-l0011",
+          "page_0012-l0012"
+        ],
+        "lineNumbers": [
+          10,
+          11,
+          12
+        ],
+        "refs": [
+          {
+            "part": 10,
+            "page": 12,
+            "pageId": "page_0012",
+            "lineId": "page_0012-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          },
+          {
+            "part": 10,
+            "page": 12,
+            "pageId": "page_0012",
+            "lineId": "page_0012-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          },
+          {
+            "part": 10,
+            "page": 12,
+            "pageId": "page_0012",
+            "lineId": "page_0012-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          }
+        ],
+        "text": "24. On 12 May 1952 records checks at the Baltimore City Police\nDepartment, Baltimore County Police, and Maryland State Police reflected\nno records of STEWART."
+      },
+      "translation": {
+        "text": "24. 1952년 5월 12일 볼티모어 시 경찰국, 볼티모어 카운티 경찰, 메릴랜드 주 경찰의 기록 확인 결과 STEWART에 대한 기록은 없었습니다.",
+        "reviewedAt": "2026-05-10T17:35:10.652Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p10-page-0012-u003",
+      "unitVersion": 1,
+      "part": 10,
+      "page": 12,
+      "pageId": "page_0012",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo10.pdf",
+        "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24",
+        "lineIds": [
+          "page_0012-l0014"
+        ],
+        "lineNumbers": [
+          14
+        ],
+        "refs": [
+          {
+            "part": 10,
+            "page": 12,
+            "pageId": "page_0012",
+            "lineId": "page_0012-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          }
+        ],
+        "text": "INCLOSURES"
+      },
+      "translation": {
+        "text": "첨부 문서",
+        "reviewedAt": "2026-05-10T17:35:10.652Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p10-page-0012-u004",
+      "unitVersion": 1,
+      "part": 10,
+      "page": 12,
+      "pageId": "page_0012",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo10.pdf",
+        "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24",
+        "lineIds": [
+          "page_0012-l0016"
+        ],
+        "lineNumbers": [
+          16
+        ],
+        "refs": [
+          {
+            "part": 10,
+            "page": 12,
+            "pageId": "page_0012",
+            "lineId": "page_0012-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          }
+        ],
+        "text": "FOR HEADQUARTERS OSI"
+      },
+      "translation": {
+        "text": "OSI 본부용",
+        "reviewedAt": "2026-05-10T17:35:10.652Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p10-page-0012-u005",
+      "unitVersion": 1,
+      "part": 10,
+      "page": 12,
+      "pageId": "page_0012",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo10.pdf",
+        "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24",
+        "lineIds": [
+          "page_0012-l0018",
+          "page_0012-l0019"
+        ],
+        "lineNumbers": [
+          18,
+          19
+        ],
+        "refs": [
+          {
+            "part": 10,
+            "page": 12,
+            "pageId": "page_0012",
+            "lineId": "page_0012-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          },
+          {
+            "part": 10,
+            "page": 12,
+            "pageId": "page_0012",
+            "lineId": "page_0012-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          }
+        ],
+        "text": "1. Photostatic reproduction of information obtained from STEWART\nby CORBIN (with sketch)."
+      },
+      "translation": {
+        "text": "1. CORBIN이 STEWART로부터 얻은 정보의 사진 복사본(스케치 포함).",
+        "reviewedAt": "2026-05-10T17:35:10.652Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p10-page-0012-u006",
+      "unitVersion": 1,
+      "part": 10,
+      "page": 12,
+      "pageId": "page_0012",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo10.pdf",
+        "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24",
+        "lineIds": [
+          "page_0012-l0021",
+          "page_0012-l0022"
+        ],
+        "lineNumbers": [
+          21,
+          22
+        ],
+        "refs": [
+          {
+            "part": 10,
+            "page": 12,
+            "pageId": "page_0012",
+            "lineId": "page_0012-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          },
+          {
+            "part": 10,
+            "page": 12,
+            "pageId": "page_0012",
+            "lineId": "page_0012-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          }
+        ],
+        "text": "2. Photostatic reproduction of information obtained from TYLER\nby CORBIN."
+      },
+      "translation": {
+        "text": "2. CORBIN이 TYLER로부터 얻은 정보의 사진 복사본.",
+        "reviewedAt": "2026-05-10T17:35:10.652Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p10-page-0012-u007",
+      "unitVersion": 1,
+      "part": 10,
+      "page": 12,
+      "pageId": "page_0012",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo10.pdf",
+        "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24",
+        "lineIds": [
+          "page_0012-l0024"
+        ],
+        "lineNumbers": [
+          24
+        ],
+        "refs": [
+          {
+            "part": 10,
+            "page": 12,
+            "pageId": "page_0012",
+            "lineId": "page_0012-l0024",
+            "lineNumber": 24,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          }
+        ],
+        "text": "CLOSED"
+      },
+      "translation": {
+        "text": "종결됨",
+        "reviewedAt": "2026-05-10T17:35:10.652Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p10-page-0012-u008",
+      "unitVersion": 1,
+      "part": 10,
+      "page": 12,
+      "pageId": "page_0012",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo10.pdf",
+        "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24",
+        "lineIds": [
+          "page_0012-l0026"
+        ],
+        "lineNumbers": [
+          26
+        ],
+        "refs": [
+          {
+            "part": 10,
+            "page": 12,
+            "pageId": "page_0012",
+            "lineId": "page_0012-l0026",
+            "lineNumber": 26,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          }
+        ],
+        "text": "10"
+      },
+      "translation": {
+        "text": "10",
+        "reviewedAt": "2026-05-10T17:35:10.652Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p10-page-0012-u009",
+      "unitVersion": 1,
+      "part": 10,
+      "page": 12,
+      "pageId": "page_0012",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo10.pdf",
+        "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24",
+        "lineIds": [
+          "page_0012-l0028"
+        ],
+        "lineNumbers": [
+          28
+        ],
+        "refs": [
+          {
+            "part": 10,
+            "page": 12,
+            "pageId": "page_0012",
+            "lineId": "page_0012-l0028",
+            "lineNumber": 28,
+            "sourcePath": "docs/ufo10.pdf",
+            "sourceSha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
+          }
+        ],
+        "text": "SECURITY INFORMATION - CONFIDENTIAL"
+      },
+      "translation": {
+        "text": "보안 정보 - 기밀",
+        "reviewedAt": "2026-05-10T17:35:10.652Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

@@ -15,11 +15,11 @@ This project is not affiliated with the U.S. FBI or the U.S. government, and it 
 | Area | Path | Status |
 |---|---|---|
 | Source manifest | `data/sources.json` | FBI Vault URL, SHA-256, and page count for 16 PDFs |
-| Public OCR and translation dataset | `dataset/` | Part 01-09 OCR and Korean translation exports complete |
+| Public OCR and translation dataset | `dataset/` | Part 01-10 OCR and Korean translation exports complete |
 | Static web reader | `src/`, `public/` | Deployed at [ufo.n2f.site](https://ufo.n2f.site) |
 | Source PDFs | Not included | Verify directly through FBI Vault |
 
-The current public dataset includes OCR output and Korean translation exports for Part 01-09. Part 10-16 are pending.
+The current public dataset includes OCR output and Korean translation exports for Part 01-10. Part 11-16 are pending.
 
 ---
 
@@ -36,8 +36,9 @@ The current public dataset includes OCR output and Korean translation exports fo
 | 07 | `docs/ufo7.pdf` | 84 | 491 | `not_approved` |
 | 08 | `docs/ufo8.pdf` | 66 | 585 | `not_approved` |
 | 09 | `docs/ufo9.pdf` | 67 | 501 | `not_approved` |
+| 10 | `docs/ufo10.pdf` | 56 | 409 | `not_approved` |
 
-The dataset currently contains 6,350 Korean translation units available for public review.
+The dataset currently contains 6,759 Korean translation units available for public review.
 
 `reviewed` means the unit has gone through source comparison and Korean translation review. `not_approved` means the text is not a final approved publication translation; it is a public review dataset artifact.
 
@@ -72,6 +73,7 @@ dataset/
   part-07/
   part-08/
   part-09/
+  part-10/
 ```
 
 Each translation unit preserves part/page/source-line mappings. OCR lines that have not been confirmed are not mixed into the translated body text; they are retained separately in `excluded_source_lines.json`.
@@ -99,6 +101,7 @@ shasum -a 256 docs/ufo6.pdf
 shasum -a 256 docs/ufo7.pdf
 shasum -a 256 docs/ufo8.pdf
 shasum -a 256 docs/ufo9.pdf
+shasum -a 256 docs/ufo10.pdf
 ```
 
 ---
@@ -237,7 +240,7 @@ Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 | 정적 웹 리더 | `src/`, `public/` | [ufo.n2f.site](https://ufo.n2f.site)에 배포 |
 | 원본 PDF | 저장소에 미포함 | FBI Vault에서 직접 확인 |
 
-현재 공개 데이터셋에는 Part 01-09의 OCR 추출 결과와 한국어 번역 결과물이 포함되어 있습니다. Part 10-16은 아직 처리 전입니다.
+현재 공개 데이터셋에는 Part 01-10의 OCR 추출 결과와 한국어 번역 결과물이 포함되어 있습니다. Part 11-16은 아직 처리 전입니다.
 
 ---
 
@@ -254,8 +257,9 @@ Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 | 07 | `docs/ufo7.pdf` | 84 | 491 | `not_approved` |
 | 08 | `docs/ufo8.pdf` | 66 | 585 | `not_approved` |
 | 09 | `docs/ufo9.pdf` | 67 | 501 | `not_approved` |
+| 10 | `docs/ufo10.pdf` | 56 | 409 | `not_approved` |
 
-총 6,350개의 한국어 번역 unit이 공개 검토 가능한 상태로 export되어 있습니다.
+총 6,759개의 한국어 번역 unit이 공개 검토 가능한 상태로 export되어 있습니다.
 
 `reviewed`는 OCR 원문 대조와 한국어 검수를 거친 상태를 뜻합니다. `not_approved`가 붙은 항목은 최종 승인 번역본이 아니며, 공개 검토와 재사용을 위한 데이터셋 상태입니다.
 
@@ -290,6 +294,7 @@ dataset/
   part-07/
   part-08/
   part-09/
+  part-10/
 ```
 
 각 번역 unit은 part/page/source line 매핑을 보존합니다. OCR이 확정되지 않은 라인은 번역 본문에 섞지 않고 `excluded_source_lines.json`에 따로 남깁니다.
@@ -317,6 +322,7 @@ shasum -a 256 docs/ufo6.pdf
 shasum -a 256 docs/ufo7.pdf
 shasum -a 256 docs/ufo8.pdf
 shasum -a 256 docs/ufo9.pdf
+shasum -a 256 docs/ufo10.pdf
 ```
 
 ---
