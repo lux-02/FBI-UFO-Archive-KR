@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 1,
+  "page": 58,
+  "pageId": "page_0058",
+  "source": {
+    "pdfPath": "docs/ufo1.pdf",
+    "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "teletype_or_wire_message",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 10 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0058-l0013"
+  ],
+  "lineCount": 14,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "PAGE TWO",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "BELIEVED TO BE TURPENTINE. CONSENSUS OF ALL PERSONS PRESENT THAT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "DISK COULD NOT FLY. DISK PRESENTLY IN POSSESSION OF ONI SEATTLE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "AND NO INVESTIGATION BEING CONDUCTED. NO PUBLICITY THUS FAR AND",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "NO COMMENT BEING MADE IN EVENT PRESS INQUIRIES ARE RECEIVED.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
+      "text": "MAYNOR",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "END",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "2-22 PM OK FBI WA NY",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Info brought to attention",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "of Mr S.C. [unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "handwritten_or_signature_partial"
+    },
+    {
+      "lineNumber": 14,
+      "text": "7/10/47.",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

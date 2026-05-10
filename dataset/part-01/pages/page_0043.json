@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 1,
+  "page": 43,
+  "pageId": "page_0043",
+  "source": {
+    "pdfPath": "docs/ufo1.pdf",
+    "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "typed_envelope_or_routing_page",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 9 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0043-l0011",
+    "page_0043-l0012",
+    "page_0043-l0015",
+    "page_0043-l0016"
+  ],
+  "lineCount": 17,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "AFTER FIVE DAYS RETURN TO",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "Daly City, Calif",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "SAN FRANCISCO. CALIF.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "JUL 21",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "1-PM",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "BUILD YOUR",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "WISELY [unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "stamp_or_envelope_artifact"
+    },
+    {
+      "lineNumber": 12,
+      "text": "U.S. SAVINGS [unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "stamp_or_envelope_artifact"
+    },
+    {
+      "lineNumber": 13,
+      "text": "3 CENTS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
+      "text": "[unclear] J Edgar Hoover",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "stamp_or_envelope_artifact"
+    },
+    {
+      "lineNumber": 16,
+      "text": "F.B.I",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "stamp_or_envelope_artifact"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Washington, D.C.",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}
