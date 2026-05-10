@@ -7,18 +7,299 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "teletype_or_wire_message",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_SECOND_PASS; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "16 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0053-l0025",
+    "page_0053-l0030",
+    "page_0053-l0031",
+    "page_0053-l0032",
+    "page_0053-l0033",
+    "page_0053-l0035",
+    "page_0053-l0036",
+    "page_0053-l0037",
+    "page_0053-l0039",
+    "page_0053-l0040",
+    "page_0053-l0041",
+    "page_0053-l0042",
+    "page_0053-l0043",
+    "page_0053-l0044",
+    "page_0053-l0045",
+    "page_0053-l0051"
+  ],
+  "lineCount": 51,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "FEDERAL BUREAU OF INVESTIGATION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "U. S. DEPARTMENT OF JUSTICE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "COMMUNICATIONS SECTION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "JUL 18 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "TELETYPE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "Mr. A. Tamm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Mr. Clegg",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "Mr. Glavin",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Mr. Ladd",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Mr. Nichols",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "Mr. Rosen",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Mr. Tracy",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Mr. Egan",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Mr. Gurnea",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Mr. Harbo",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "Mr. Mohr",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "Mr. Pennington",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "Mr. Quinn Tamm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "text": "Mr. Nease",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "Miss G",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "text": "\"REC 4A\"",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "7/19/47",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "NA [unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 26,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 27,
+      "text": "WASHINGTON FROM BOSTON 3",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "text": "DIRECTOR",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "text": "METAL FRAGMENTS OBSERVED AT WEST RINDGE, N.H., JULY SEVEN, FORTYSEVEN,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "text": "SECURITY MATTER-X. [REDACTED] SECURITY OFFICER, M.I.T.,",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 31,
+      "text": "CAMBRIDGE, MASS., ADVISED THAT TODAY HE WAS IN CONTACT WITH ONE [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 32,
+      "text": "[REDACTED] OF WEST RINDGE, N.H., A RETIRED [REDACTED] OF THE NEW",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 33,
+      "text": "ENGLAND TEL. AND TEL.CO. [REDACTED] ADVISED THAT AT APPROXIMATELY THREE",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 34,
+      "text": "PM ON JULY SEVEN LAST SEVERAL PEOPLE SITTING ON A PORCH OBSERVED ON THE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "text": "LAWN OF [REDACTED] ROUTE [REDACTED] WEST RINDGE, N.H., LITTLE CLOUDS",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 36,
+      "text": "OF SMOKE, WHICH ON INSPECTION DISCLOSED SMALL BURNED [REDACTED] SPOTS ABOUT ONE",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 37,
+      "text": "AND ONE HALF INCHES IN DIAMATER ON THE GREEN LAWN. ALSO IN THE LONG DRY",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 38,
+      "text": "GRASS ON BOTH SIDES OF ROAD IN A CIRCLE APPROXIMATELY TWO HUNDRED FEET",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 39,
+      "text": "IN DIAMETER SEVERAL LITTLE BLAZES HAD STARTED AND THE FIRE [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 40,
+      "text": "DEPT. WAS CALLED. FIRES WERE APPARNTLY CAUSED BY METALLIC FRAGMENTATION",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 41,
+      "text": "WHICH WERE TURNED OVER TO [REDACTED] OF MIT, BY A [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 42,
+      "text": "[REDACTED] OF THE TELEPHONE COMPANY. [REDACTED] HAS ADVISED [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 43,
+      "text": "THAT THEIR GENERAL [REDACTED] APPEARANCE ARE SIMILAR TO THE LINING OF",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 44,
+      "text": "V DASH TWO BOMBS, WHICH HE HAD OBSERVED AT NEW MEXICO. [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 45,
+      "text": "PROFESSOR [REDACTED] AN OUTSTANDING METALLURGIST AT MIT, STATED",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 46,
+      "text": "THAT THEY ARE POSSIBLY THE EX. 64 FROM A JET TURBO PLANE. AT PRESENT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 47,
+      "text": "TIME HE IS IN PROCESS OF ANALYZING TWO OF THESE PIECES. THESE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 48,
+      "text": "SCIENTISTS IN ROUGHLY RECONSTRUCTING THE METALLIC OBJECT STATE IT WAS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "text": "APPROXIMATELY FOURTEEN INCHES IN DIAMETER, THREE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 50,
+      "text": "58 AUG 13 1947 COPIES DESTROYED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "text": "[REDACTED] PAGE ONE---270 NOV 18 1964",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

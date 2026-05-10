@@ -1,0 +1,315 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 1,
+  "page": 54,
+  "pageId": "page_0054",
+  "source": {
+    "pdfPath": "docs/ufo1.pdf",
+    "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T14:28:13.026Z",
+  "unitCount": 4,
+  "sourceLineCount": 11,
+  "excludedLineCount": 4,
+  "excludedLines": [
+    {
+      "part": 1,
+      "page": 54,
+      "pageId": "page_0054",
+      "lineId": "page_0054-l0003",
+      "lineNumber": 3,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "INDICATED THEY WERE BURNED AND [REDACTED] APPEARED TO HAVE BEEN",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 1,
+      "page": 54,
+      "pageId": "page_0054",
+      "lineId": "page_0054-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "AS CLASSIFIED INFORMATION. MR. [REDACTED] AT WEST RINDGE, N.H.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 1,
+      "page": 54,
+      "pageId": "page_0054",
+      "lineId": "page_0054-l0008",
+      "lineNumber": 8,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "POSSESSION. [REDACTED] INDICATED THAT THE [REDACTED] RESIDENCE IS SEVEN",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 1,
+      "page": 54,
+      "pageId": "page_0054",
+      "lineId": "page_0054-l0009",
+      "lineNumber": 9,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "TO EIGHT HUNDRED FEET EAST OF THE RAILROAD TRACKS. [REDACTED] STATED",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p01-page-0054-u001",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 54,
+      "pageId": "page_0054",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0054-l0001",
+          "page_0054-l0002"
+        ],
+        "lineNumbers": [
+          1,
+          2
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 54,
+            "pageId": "page_0054",
+            "lineId": "page_0054-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 54,
+            "pageId": "page_0054",
+            "lineId": "page_0054-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "---PAGE TWO---\nSIXTEENTHS OF AN INCH THICK, AND MACHINE TOOLED, AND SOME FRAGMENTS"
+      },
+      "translation": {
+        "text": "---2페이지---\n16분의 1인치 두께이며 기계 가공되었고, 일부 파편은",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0054-u002",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 54,
+      "pageId": "page_0054",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0054-l0004"
+        ],
+        "lineNumbers": [
+          4
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 54,
+            "pageId": "page_0054",
+            "lineId": "page_0054-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "SUBJECTED TO TERRIFIC HEAT. THESE SCIENTISTS ARE TREATING THIS MATTER"
+      },
+      "translation": {
+        "text": "엄청난 열에 노출되었습니다. 이 과학자들은 이 문제를 다루고 있습니다.",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0054-u003",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 54,
+      "pageId": "page_0054",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0054-l0006",
+          "page_0054-l0007"
+        ],
+        "lineNumbers": [
+          6,
+          7
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 54,
+            "pageId": "page_0054",
+            "lineId": "page_0054-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 54,
+            "pageId": "page_0054",
+            "lineId": "page_0054-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "IS ALSO ENDEAVORING TO COLLECT ADDITIONAL FRAGMENTS AND HAS STATED\nTHAT THE FIRE CHIEF AT WEST RINDGE HAS ALSO SEVERAL FRAGMENTS IN HIS"
+      },
+      "translation": {
+        "text": "또한 추가 파편을 수집하기 위해 노력하고 있으며, 웨스트 린지의 소방서장도 여러 파편을 가지고 있다고 밝혔습니다.",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0054-u004",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 54,
+      "pageId": "page_0054",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0054-l0010",
+          "page_0054-l0011",
+          "page_0054-l0012",
+          "page_0054-l0013",
+          "page_0054-l0014",
+          "page_0054-l0015"
+        ],
+        "lineNumbers": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 54,
+            "pageId": "page_0054",
+            "lineId": "page_0054-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 54,
+            "pageId": "page_0054",
+            "lineId": "page_0054-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 54,
+            "pageId": "page_0054",
+            "lineId": "page_0054-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 54,
+            "pageId": "page_0054",
+            "lineId": "page_0054-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 54,
+            "pageId": "page_0054",
+            "lineId": "page_0054-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 54,
+            "pageId": "page_0054",
+            "lineId": "page_0054-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "HE WILL MAKE THE RESULTS OF M I T RESEARCH AVAILABLE IF SIGNIFICANT.\nOPINIONS OF SCIENTISTS AS SET FORTH ABOVE SUGGEST POSSIBLE MILITARY\nINTEREST. MILITARY AUTHORITIES AT BOSTON HAVE NOT BEEN NOTIFIED.\nSOUCY\nHOLD\ncc - Mr. Ladd"
+      },
+      "translation": {
+        "text": "그는 MIT 연구 결과가 중요할 경우 공개할 것입니다.\n위에 제시된 과학자들의 의견은 군사적 관심을 시사합니다.\n보스턴의 군 당국에는 통보되지 않았습니다.\n수시\n보류\n참조 - 래드 씨",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

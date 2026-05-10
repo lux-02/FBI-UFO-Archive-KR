@@ -1,0 +1,764 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 1,
+  "page": 23,
+  "pageId": "page_0023",
+  "source": {
+    "pdfPath": "docs/ufo1.pdf",
+    "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T14:28:13.026Z",
+  "unitCount": 6,
+  "sourceLineCount": 47,
+  "excludedLineCount": 3,
+  "excludedLines": [
+    {
+      "part": 1,
+      "page": 23,
+      "pageId": "page_0023",
+      "lineId": "page_0023-l0002",
+      "lineNumber": 2,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 1,
+      "page": 23,
+      "pageId": "page_0023",
+      "lineId": "page_0023-l0018",
+      "lineNumber": 18,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "BILLY was interviewed on August 8, 1947 by Special",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 1,
+      "page": 23,
+      "pageId": "page_0023",
+      "lineId": "page_0023-l0019",
+      "lineNumber": 19,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "Agent [REDACTED] at which time BILLY informed that the",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p01-page-0023-u001",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 23,
+      "pageId": "page_0023",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0023-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "STANDARD FORM NO. 14"
+      },
+      "translation": {
+        "text": "표준 양식 번호 14",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0023-u002",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 23,
+      "pageId": "page_0023",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0023-l0003",
+          "page_0023-l0004",
+          "page_0023-l0005"
+        ],
+        "lineNumbers": [
+          3,
+          4,
+          5
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "TO : Director, FBI\nFROM : SAC, Norfolk\nSUBJECT: FLYING DISCS"
+      },
+      "translation": {
+        "text": "수신: FBI 국장\n발신: 노퍽 특수요원\n제목: 비행 디스크",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0023-u003",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 23,
+      "pageId": "page_0023",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0023-l0007",
+          "page_0023-l0008",
+          "page_0023-l0009"
+        ],
+        "lineNumbers": [
+          7,
+          8,
+          9
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "Re Bureau Bulletin No. 42, dated July 30, 1947,\nSeries 1947, wherein information is set forth pertaining to\nflying discs."
+      },
+      "translation": {
+        "text": "1947년 7월 30일자 국 국보 제42호, 1947년 시리즈 참조. 비행 디스크에 관한 정보가 명시되어 있습니다.",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0023-u004",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 23,
+      "pageId": "page_0023",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0023-l0011",
+          "page_0023-l0012",
+          "page_0023-l0013",
+          "page_0023-l0014",
+          "page_0023-l0015",
+          "page_0023-l0016"
+        ],
+        "lineNumbers": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "There is enclosed with this letter a newspaper\nclipping from the \"Norfolk Ledger-Dispatch\", dated July 9, 1947.\nThe photograph appearing on this clipping is alleged to represent\na flying disc which was observed by BILLY TURRENTINE, a Norfolk\nschool boy, who was successful in photographing the object with\nhis small camera."
+      },
+      "translation": {
+        "text": "이 편지에는 1947년 7월 9일자 \"노퍽 레저-디스패치\" 신문 스크랩이 동봉되어 있습니다. 이 스크랩에 실린 사진은 노퍽의 학생인 빌리 터렌타인이 작은 카메라로 물체를 촬영하는 데 성공하여 관찰한 비행 디스크를 나타내는 것으로 알려져 있습니다.",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0023-u005",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 23,
+      "pageId": "page_0023",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0023-l0020",
+          "page_0023-l0021",
+          "page_0023-l0022",
+          "page_0023-l0023",
+          "page_0023-l0024",
+          "page_0023-l0025",
+          "page_0023-l0026"
+        ],
+        "lineNumbers": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0024",
+            "lineNumber": 24,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0026",
+            "lineNumber": 26,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "original negative was given by him to a Mr. BROWN of the Photo\nCraftsmen Service, who in turn furnished the negative to the\nInternational News Service. BILLY advised that he has an agree-\nment with Mr. BROWN whereby the latter will share equally in any\nprofits derived from the use of the negative by commercial firms\nor newspapers. As of August 8, 1947 BILLY has not received any\nremuneration for the use of this negative."
+      },
+      "translation": {
+        "text": "원본 네거티브는 그가 포토 크래프츠멘 서비스의 브라운 씨에게 주었고, 브라운 씨는 그 네거티브를 국제 뉴스 서비스에 제공했습니다. 빌리는 브라운 씨와 상업 회사나 신문이 네거티브를 사용하여 얻는 모든 수익을 균등하게 분배하기로 합의했다고 밝혔습니다. 1947년 8월 8일 현재 빌리는 이 네거티브 사용에 대한 어떠한 보수도 받지 못했습니다.",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0023-u006",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 23,
+      "pageId": "page_0023",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0023-l0028",
+          "page_0023-l0029",
+          "page_0023-l0030",
+          "page_0023-l0031",
+          "page_0023-l0032",
+          "page_0023-l0033",
+          "page_0023-l0034",
+          "page_0023-l0035",
+          "page_0023-l0036",
+          "page_0023-l0037",
+          "page_0023-l0038",
+          "page_0023-l0039",
+          "page_0023-l0040",
+          "page_0023-l0041",
+          "page_0023-l0042",
+          "page_0023-l0043",
+          "page_0023-l0044",
+          "page_0023-l0045",
+          "page_0023-l0046",
+          "page_0023-l0047",
+          "page_0023-l0048",
+          "page_0023-l0049",
+          "page_0023-l0050",
+          "page_0023-l0051",
+          "page_0023-l0052",
+          "page_0023-l0053",
+          "page_0023-l0054"
+        ],
+        "lineNumbers": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0028",
+            "lineNumber": 28,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0030",
+            "lineNumber": 30,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0031",
+            "lineNumber": 31,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0032",
+            "lineNumber": 32,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0033",
+            "lineNumber": 33,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0034",
+            "lineNumber": 34,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0035",
+            "lineNumber": 35,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0036",
+            "lineNumber": 36,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0037",
+            "lineNumber": 37,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0038",
+            "lineNumber": 38,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0039",
+            "lineNumber": 39,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0040",
+            "lineNumber": 40,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0041",
+            "lineNumber": 41,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0042",
+            "lineNumber": 42,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0043",
+            "lineNumber": 43,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0044",
+            "lineNumber": 44,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0045",
+            "lineNumber": 45,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0046",
+            "lineNumber": 46,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0047",
+            "lineNumber": 47,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0048",
+            "lineNumber": 48,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0049",
+            "lineNumber": 49,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0050",
+            "lineNumber": 50,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0051",
+            "lineNumber": 51,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0052",
+            "lineNumber": 52,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0053",
+            "lineNumber": 53,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 23,
+            "pageId": "page_0023",
+            "lineId": "page_0023-l0054",
+            "lineNumber": 54,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "He informed that he was sitting on the front porch\nof his apartment which is located on the third floor at 410 West\n14th Street, Norfolk, Virginia, around noontime on July 8, 1947.\nHe had read numerous newspaper articles pertaining to flying discs\nand decided to sit on his front porch in the hopes of seeing one\nand attempting to photograph it. On July 8, 1947 BILLY observed\na large, black object moving rapidly through space proceeding from\nthe southwest to a northeast direction. He said the black object\nwas followed by two smaller objects which also proceeded in the\nsame direction. BILLY explained that the objects were moving at\na very fast speed which appeared to him to be much faster than\nthe speed of an airplane, and further, that the objects appeared\nto be extremely high. He said that they were much higher than the\naverage plane travels in the City of Norfolk and appeared to be\nabove the clouds, and that a white mist followed each of the three\nobjects. BILLY was unable to state what the black objects repre-\nsented, but admitted that they could have been large balloons. He\nindicated that he has observed small, toy balloons flying through\nthe air, but that definitely these were not the toy type balloons.\nHe said that when he first observed the objects they were at such\na great distance from him that it was not necessary that he raise\nhis head in order to see them from his porch on the third floor\nof the apartment building. He immediately turned around to obtain\nCOPIES DESTROYED\n270 NOV 18 1964\nRECORDED\nINDEXED"
+      },
+      "translation": {
+        "text": "그는 1947년 7월 8일 정오경 버지니아주 노퍽 14번가 서쪽 410번지 3층에 위치한 자신의 아파트 현관에 앉아 있었다고 진술했습니다. 그는 비행 디스크에 관한 수많은 신문 기사를 읽었고, 하나를 보고 사진을 찍으려는 희망으로 현관에 앉아 있기로 결정했습니다. 1947년 7월 8일 빌리는 남서쪽에서 북동쪽 방향으로 빠르게 움직이는 크고 검은 물체를 관찰했습니다. 그는 검은 물체 뒤를 따라 같은 방향으로 움직이는 두 개의 더 작은 물체가 있었다고 말했습니다. 빌리는 물체들이 비행기 속도보다 훨씬 빠르게 보이는 매우 빠른 속도로 움직였으며, 물체들이 극도로 높은 곳에 있는 것처럼 보였다고 설명했습니다. 그는 물체들이 노퍽 시에서 일반 비행기가 비행하는 평균 고도보다 훨씬 높았고 구름 위에 있는 것처럼 보였으며, 세 물체 각각 뒤를 흰 안개가 따랐다고 말했습니다. 빌리는 검은 물체가 무엇을 나타내는지 말할 수 없었지만, 그것들이 큰 풍선일 수도 있었다고 인정했습니다. 그는 작은 장난감 풍선이 공중을 날아다니는 것을 본 적이 있지만, 이것들은 분명히 장난감 유형의 풍선이 아니었다고 밝혔습니다. 그는 물체들을 처음 관찰했을 때 너무 멀리 떨어져 있어서 아파트 건물 3층 현관에서 그것들을 보기 위해 고개를 들 필요가 없었다고 말했습니다. 그는 즉시 몸을 돌려\n사본 파기됨\n270 1964년 11월 18일\n기록됨\n색인됨",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

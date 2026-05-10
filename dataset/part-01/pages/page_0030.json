@@ -7,18 +7,253 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "typed_official_document",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0030-l0008",
+    "page_0030-l0012",
+    "page_0030-l0017",
+    "page_0030-l0018",
+    "page_0030-l0025",
+    "page_0030-l0047"
+  ],
+  "lineCount": 47,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "RECORDED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Date: August 5, 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "To: Director of Intelligence",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "War Department General Staff",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "The Pentagon",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "Washington 25, D. C.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "Attention: Colonel [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "From: John Edgar Hoover - Director, Federal Bureau of Investigation",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Subject: [REDACTED] 67C",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
+      "text": "There are attached hereto copies of a letter received from the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "above-captioned individual concerning \"flying discs.\"",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 17,
+      "text": "[REDACTED] letter has been acknowledged and he has been",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 18,
+      "text": "advised that copies of his letter have been furnished to you for your 67C",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 19,
+      "text": "consideration.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 21,
+      "text": "Attachment",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
+      "text": "Tolson",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "E. A. Tamm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "Cleg",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 26,
+      "text": "Mr. Glavin",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "Mr. Ladd",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "text": "Mr. Nichols",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "text": "Mr. Rosen",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "text": "Mr. Tracy",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "text": "Mr. Carson",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "Mr. Egan",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "Mr. Gurnea",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "Mr. Harbo",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "text": "Mr. Hendon",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "text": "Mr. Pennington",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 37,
+      "text": "Mr. Quinn Tamm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "text": "Mr. Nease",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Mr. Gandy",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "WVC:mp:rb",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 42,
+      "text": "COMMUNICATIONS SECTION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 43,
+      "text": "AUG 7 1947 5 PM",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "FEDERAL BUREAU OF INVESTIGATION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "text": "U. S. DEPARTMENT OF JUSTICE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 46,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 47,
+      "text": "62-83 894-47",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

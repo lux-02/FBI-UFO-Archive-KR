@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 1,
+  "page": 1,
+  "pageId": "page_0001",
+  "source": {
+    "pdfPath": "docs/ufo1.pdf",
+    "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T14:28:13.026Z",
+  "unitCount": 2,
+  "sourceLineCount": 2,
+  "excludedLineCount": 0,
+  "excludedLines": [],
+  "units": [
+    {
+      "id": "TU-p01-page-0001-u001",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 1,
+      "pageId": "page_0001",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0001-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "UFO"
+      },
+      "translation": {
+        "text": "UFO",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0001-u002",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 1,
+      "pageId": "page_0001",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0001-l0003"
+        ],
+        "lineNumbers": [
+          3
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 1,
+            "pageId": "page_0001",
+            "lineId": "page_0001-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "SECTION 1"
+      },
+      "translation": {
+        "text": "섹션 1",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

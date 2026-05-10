@@ -7,18 +7,169 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "typed_official_document",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 17 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0061-l0001",
+    "page_0061-l0008",
+    "page_0061-l0009",
+    "page_0061-l0010",
+    "page_0061-l0014",
+    "page_0061-l0015",
+    "page_0061-l0016"
+  ],
+  "lineCount": 29,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "Director, FBI",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Re: RECOVERY OF \"FLYING DISC\",",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "NORTH HOLLYWOOD, CALIFORNIA,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "JULY 9, 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
+      "text": "July 17, 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "On the following day, July 10, 1947, one [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 9,
+      "text": "the North Hollywood, reported that on this morning he was at",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 10,
+      "text": "the North Hollywood Service Station eating at which time there was",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 11,
+      "text": "considerable talk about the flying disc having been found in the vicinity.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "A number of what appeared to be young high school students were present",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "and were having quite a laugh about the excitement caused by the finding",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "of the disc. [REDACTED] stated that he received a definite impression that",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 15,
+      "text": "these young students either had themselves or knew of someone who had been",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 16,
+      "text": "working for the past two weeks making this \"flying disc\". [REDACTED] was",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 17,
+      "text": "unable to furnish the names of any of these young men but identified one",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "of them who was making the statements as being employed in a Chevron",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "Service Station at the corner of Victory Boulevard and Whitsett Street.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "He described the youngster as about sixteen years of age.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 22,
+      "text": "The above information was also furnished to the G-2 Office at",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "text": "San Pedro, California.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 25,
+      "text": "MMB:MGM",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "100-9099",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "ENC. (3)",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
+      "text": "- 2 -",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

@@ -7,18 +7,171 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "teletype_or_wire_message",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 14 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0026-l0010",
+    "page_0026-l0011",
+    "page_0026-l0012",
+    "page_0026-l0013",
+    "page_0026-l0014",
+    "page_0026-l0015",
+    "page_0026-l0016",
+    "page_0026-l0017",
+    "page_0026-l0024",
+    "page_0026-l0027"
+  ],
+  "lineCount": 28,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "FEDERAL BUREAU OF INVESTIGATION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "U. S. DEPARTMENT OF JUSTICE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "COMMUNICATIONS SECTION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "AUG 4 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "TELETYPE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
+      "text": "WASHINGTON 1 FROM NEWARK 8-4-47 5-36 PM EDST JFG",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "DIRECTOR U R G E N T",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "FLYING DISC REPORTED AT HACKENSACK, NJ AUGUST THREE, NINETEEN FORTY",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 11,
+      "text": "SEVEN , MISC. INFORMATION RECEIVED THAT [REDACTED] AGE [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 12,
+      "text": "[REDACTED] AGE TWENTY, [REDACTED] HACKENSACK AND [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 13,
+      "text": "[REDACTED] FT. DIX, NJ ON LATE AFTERNOON AUGUST THIRD LAST SIGHTED",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 14,
+      "text": "FROM GROUND OBJECT DESCRIBED AS FLYING DISC. [REDACTED] CLAIMED IT WAS",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 15,
+      "text": "TWO HUNDRED [REDACTED] YDS, IN AIR, REVOLVING SLOWLY, MOVING RAPIDLY, AND",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 16,
+      "text": "NEITHER A KITE NOR A BALLOON. [REDACTED] TELEPHONED INFORMATION TO HACK-",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 17,
+      "text": "ENSACK PD. INQUIRY BEING MADE, BUREAU WILL BE KEPT ADVISED.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 18,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 19,
+      "text": "MC KEE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "END",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "text": "NK R 1 WA",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
+      "text": "SEP 30 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "RECORDED 62-83894 - 47",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 25,
+      "text": "29 AUG 11",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "EX-46",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "Info brought to Mr Ladd's attention [unclear] 8/6/47",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 28,
+      "text": "b.7c",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

@@ -7,19 +7,146 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "manual_review",
-  "translationReadiness": "ready",
-  "pageType": "typed_official_document",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level NORMALIZED review by codex. Approved as page source candidate.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "typed_or_printed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 11 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0024-l0006",
+    "page_0024-l0007",
+    "page_0024-l0008",
+    "page_0024-l0009",
+    "page_0024-l0010",
+    "page_0024-l0011",
+    "page_0024-l0012",
+    "page_0024-l0013"
+  ],
+  "lineCount": 24,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "page_normalized",
-      "text": "Letter to Director, FBI\nRe: FLYING DISCS\nAugust 8, 1947\n\nhis camera and estimated it took him approximately twenty to thirty seconds, at which time the discs were almost directly over his apartment and it was necessary that he stoop and look up almost perpendicular in order to obtain the photograph, which accounts for the porch railing being shown in the newspaper clipping. BILLY pointed out that the day on which he took the picture, the weather was hazy and somewhat cloudy and there was a slight breeze blowing from the southwest in the general direction of the northeast, which is the same direction traveled by the black image which he photographed.\n\nInasmuch as the Army authorities in the Tidewater Area of Virginia are cognizant of the above information, no further investigation will be conducted by this office in this matter.\n\nEnclosure.\n\nTJC:lab\n62-182\n\n-2-"
+      "text": "Letter to Director, FBI",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Re: FLYING DISCS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "August 8, 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "his camera and estimated it took him approximately twenty to thirty",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "seconds, at which time the discs were almost directly over his apart-",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 7,
+      "text": "ment and it was necessary that he stoop and look up almost perpen-",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 8,
+      "text": "dicular in order to obtain the photograph, which accounts for the",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 9,
+      "text": "porch railing being shown in the newspaper clipping. BILLY pointed",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 10,
+      "text": "out that the day on which he took the picture, the weather was hazy",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 11,
+      "text": "and somewhat cloudy and there was a slight breeze blowing from the",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 12,
+      "text": "southwest in the general direction of the northeast, which is the",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 13,
+      "text": "same direction traveled by the black image which he photographed.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Inasmuch as the Army authorities in the Tidewater Area",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "of Virginia are cognizant of the above information, no further investi-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "gation will be conducted by this office in this matter.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 19,
+      "text": "Enclosure.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 21,
+      "text": "TJC:lab",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "62-182",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 24,
+      "text": "- 2 -",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 5
+  "blockCount": null
 }

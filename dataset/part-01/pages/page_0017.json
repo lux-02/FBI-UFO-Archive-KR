@@ -7,18 +7,276 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "typed_official_document",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "9 permanent_unresolved line(s) excluded under SRC-896. 34 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0017-l0001",
+    "page_0017-l0020",
+    "page_0017-l0022",
+    "page_0017-l0025",
+    "page_0017-l0032",
+    "page_0017-l0034",
+    "page_0017-l0036",
+    "page_0017-l0042",
+    "page_0017-l0045"
+  ],
+  "lineCount": 50,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "text": "TO : DIRECTOR, FBI DATE: August 12, 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "FROM SAC, MILWAUKEE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "SUBJECT: FLYING DISCS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "SABOTAGE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
+      "text": "Reference is made to Bureau Bulletin No. 42, Series 1947,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "dated July 30, 1947, Section (B), which advises that all reports",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "concerning flying discs should be investigated by field offices.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Prior to the receipt of these instructions, two instances",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "were called to the attention of this office concerning flying discs.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "One report was received July 7, 1947, the details of which are set",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "forth in Milwaukee letter to the Bureau dated July 8, 1947, entitled,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "\"Flying Discs or Saucers, Miscellaneous, Telephone Call from Mr.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Fletcher to the Bureau at 8:30 a.m., 7-7-47.\" No investigation was",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "conducted concerning this report.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 19,
+      "text": "The second report was received by this office at 1:20 p.m.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "July 11, 1947, from [REDACTED] who is in",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 21,
+      "text": "charge of the Civil Air Patrol of Wisconsin, an auxiliary of the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "Army Air Forces. On that occasion [REDACTED] calling from",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 23,
+      "text": "Black River Falls, Wisconsin, telephonically advised this office that",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "an object in the shape of a disc, nineteen inches in diameter had been",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "found July 10, 1947, by one [REDACTED] city electrician on the Jackson",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 26,
+      "text": "County fairgrounds, near Black River Falls, Wisconsin, about 3:30 p.m.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "The disc might be made of a substance such as cardboard covered by a",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "text": "silver airplane dope material. The contraption has a small wooden tail",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "text": "like a rudder in the back and inside of the disc is what appears to be",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "text": "an ROA photo-electric cell or tube. Also inside the disc is a little",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "text": "electric motor with a shaft running to the center of the disc. At one",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "end of the shaft is a very small propeller. In [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 33,
+      "text": "opinion that contraption might possibly have been made by some juvenile.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "[REDACTED] stated that he desired to return the contraption to",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 35,
+      "text": "Milwaukee and eventually turn it over to the Army Air Forces, but that",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "text": "the finder, [REDACTED] apparently wanted to get some publicity on his",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 37,
+      "text": "find and wanted it returned to him.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 39,
+      "text": "This information was telephonically called to the attention",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "of Assistant Director D. M. LADD of the Bureau on July 11, 1947.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 42,
+      "text": "Subsequently, SAC H. K. JOHNSON telephoned Colonel [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 43,
+      "text": "in charge of Counter Intelligence, Fifth Army, Chicago AC of S G-2",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "Headquarters Fifth Army, East Hyde Park Avenue, Chicago, Illinois, who",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "text": "stated he would contact [REDACTED] of Black River Falls, Wisconsin.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 46,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 47,
+      "text": "No further investigation was conducted in this matter.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 48,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 49,
+      "text": "COPIES DESTROYED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 50,
+      "text": "270 NOV 18 1964",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 5
+  "blockCount": null
 }

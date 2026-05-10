@@ -7,11 +7,11 @@ This folder contains the public Korean translation export for `ufo1.pdf`.
 - Language: Korean (ko)
 - Status: reviewed, not final approved
 - Source scope: `IMAGE_MATCHED` line-audit units only
-- Pages with translations: 16
-- Translation units: 110
-- Source OCR lines translated: 418
-- Excluded unresolved source lines: 19
-- Codex overrides applied: 11
+- Pages with translations: 63
+- Translation units: 490
+- Source OCR lines translated: 1,737
+- Excluded unresolved source lines: 321
+- Codex overrides applied: 12
 
 ## Files
 

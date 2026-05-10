@@ -7,19 +7,64 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "manual_review",
-  "translationReadiness": "ready",
-  "pageType": "typed_official_document",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level NORMALIZED review by codex. Approved as page source candidate.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 6 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0039-l0005"
+  ],
+  "lineCount": 10,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "page_normalized",
-      "text": "MEMORANDUM FOR D. M. LADD\n\nThere is attached a Bureau Bulletin to the Field for their assistance in handling this matter.\n\nRECOMMENDATION\n\nAttachment"
+      "text": "MEMORANDUM FOR D. M. LADD",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "7/23/47",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
+      "text": "RECOMMENDATION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "[unclear] is attached a Bureau Bulletin to the Field for their",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 6,
+      "text": "assistance in handling this matter.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "Attachment",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "- 2 -",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 1
+  "blockCount": null
 }

@@ -7,18 +7,114 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "typed_official_document",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 11 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0056-l0011",
+    "page_0056-l0014",
+    "page_0056-l0015",
+    "page_0056-l0016"
+  ],
+  "lineCount": 19,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "Letter to the DIRECTOR, FBI",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Re: \"FLYING SAUCERS\"",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "STAMFORD, CONNECTICUT, INFORMANT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "ATOMIC ENERGY ACT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
+      "text": "July 18, 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "67C",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "would be noticed that all of the above-mentioned cities form a",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "direct orbit or circle around the earth and would be more or less",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 12,
+      "text": "in line of any path in which the saucers could be circling.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
+      "text": "[REDACTED] further stated that he had recently talked with [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 15,
+      "text": "[REDACTED], one of the owners of [REDACTED] in Glenbrook,",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Connecticut, and had been informed by [REDACTED] that his company is",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 17,
+      "text": "making a large powerful telescope to be used in searching the strato-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "sphere for atom bombs.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "67C",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

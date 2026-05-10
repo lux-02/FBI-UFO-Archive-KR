@@ -7,18 +7,384 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "newspaper_clipping_with_attachment_area",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 60 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0015-l0001",
+    "page_0015-l0003",
+    "page_0015-l0004",
+    "page_0015-l0007",
+    "page_0015-l0009",
+    "page_0015-l0012",
+    "page_0015-l0072"
+  ],
+  "lineCount": 72,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "THE OREGONIAN, THURSDAY, JULY 3, 1947",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "\"THE OREGONIAN\" Portland, Oregon.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 4,
+      "text": "3 July 1947",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
+      "text": "Pilot Recalls",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "Seeing Discs",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Dick Rankin Tells",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 10,
+      "text": "Of Odd Aircraft",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "More reports of \"flying flap-",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 13,
+      "text": "jacks\" turned up Wednesday,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "one from no less than Dick",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Rankin, brother of the late Tex",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Rankin, and himself an expe-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "rienced pilot of more than 7000",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "hours' flying time.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "Rankin, who is recovering",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "from an old back injury re-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "text": "ceived in an automobile acci-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "dent, came to Portland over",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "text": "the week end to spend the sum-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "mer. He saw the \"silver sau-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "cers\" over Bakersfield, Cal.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "June 23, while lying on the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "lawn sun bathing, he told The",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "text": "Oregonian.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "text": "\"I hesitated to say much",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "text": "about them,\" Rankin said, \"un-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "text": "til I noticed all the hullabaloo",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "in the papers. I puzzled over",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "their strange shape for a while",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "and finally concluded that they",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "text": "were the navy's new XF5U-1",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "text": "flying flapjacks, which are thin",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 37,
+      "text": "and round, with twin propellers",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "text": "and stubby tail.\"",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Only One XF5U-1 Built",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "The navy and the manufac-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
+      "text": "turer have announced official-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 42,
+      "text": "ly that only one such machine",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 43,
+      "text": "was built and that it never left",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "Connecticut.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "text": "\"These planes were flying",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 46,
+      "text": "high, maybe 9000 feet, and fair",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 47,
+      "text": "ly fast, about 300 or 400 miles",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 48,
+      "text": "an hour. I first counted ten of",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "text": "them in formation, going north.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 50,
+      "text": "About 2:15 P. M. they returned",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "text": "on the reverse course, headed",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 52,
+      "text": "south. But there were only sev-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 53,
+      "text": "en in the formation.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 54,
+      "text": "\"They were not weaving or",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 55,
+      "text": "bobbing in formation I couldn't",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 56,
+      "text": "make out the number or loca-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 57,
+      "text": "tion of their propellers and",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 58,
+      "text": "couldn't distinguish any wings",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 59,
+      "text": "or tail. They appeared almost",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 60,
+      "text": "round. They looked like pic-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 61,
+      "text": "tures of the navy's flying flap-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 62,
+      "text": "jack,\" Rankin said.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 63,
+      "text": "Rankin, who plans to spend",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 64,
+      "text": "the summer here at 834 N. E.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 65,
+      "text": "Simpson street, is now able to",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 66,
+      "text": "resume a little flying for fun,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 67,
+      "text": "but not commercially, he said.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 68,
+      "text": "He now operates a string of",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 69,
+      "text": "auto courts, spending his win-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 70,
+      "text": "ters at Palm Springs.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 71,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 72,
+      "text": "62-83894-[unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
     }
   ],
-  "blockCount": 3
+  "blockCount": null
 }

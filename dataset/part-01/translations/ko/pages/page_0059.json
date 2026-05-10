@@ -1,0 +1,501 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 1,
+  "page": 59,
+  "pageId": "page_0059",
+  "source": {
+    "pdfPath": "docs/ufo1.pdf",
+    "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T14:28:13.026Z",
+  "unitCount": 5,
+  "sourceLineCount": 25,
+  "excludedLineCount": 4,
+  "excludedLines": [
+    {
+      "part": 1,
+      "page": 59,
+      "pageId": "page_0059",
+      "lineId": "page_0059-l0006",
+      "lineNumber": 6,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "DATE: July 3, 1947",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 1,
+      "page": 59,
+      "pageId": "page_0059",
+      "lineId": "page_0059-l0008",
+      "lineNumber": 8,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "Mr. [REDACTED] of the Idaho Daily Statesman, Boise, Idaho, tele-",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 1,
+      "page": 59,
+      "pageId": "page_0059",
+      "lineId": "page_0059-l0016",
+      "lineNumber": 16,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "The writer informed [REDACTED] that this office was not making",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 1,
+      "page": 59,
+      "pageId": "page_0059",
+      "lineId": "page_0059-l0027",
+      "lineNumber": 27,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "N-83894-25",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p01-page-0059-u001",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 59,
+      "pageId": "page_0059",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0059-l0001",
+          "page_0059-l0002",
+          "page_0059-l0003",
+          "page_0059-l0004",
+          "page_0059-l0005"
+        ],
+        "lineNumbers": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "STANDARD FORM NO. 64\nOffice Memorandum • UNITED STATES GOVERNMENT\nTO : Director, FBI\nFROM : SAC, Butte\nSUBJECT: FLYING DISCS"
+      },
+      "translation": {
+        "text": "표준 양식 번호 64\n사무실 메모 • 미국 정부\n수신: FBI 국장\n발신: 새크, 뷰트\n제목: 비행 디스크",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0059-u002",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 59,
+      "pageId": "page_0059",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0059-l0007"
+        ],
+        "lineNumbers": [
+          7
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "67c"
+      },
+      "translation": {
+        "text": "67c",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0059-u003",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 59,
+      "pageId": "page_0059",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0059-l0009",
+          "page_0059-l0010",
+          "page_0059-l0011",
+          "page_0059-l0012",
+          "page_0059-l0013",
+          "page_0059-l0014",
+          "page_0059-l0015"
+        ],
+        "lineNumbers": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "phonically contacted the Butte Office and asked if the FBI was checking on\nthe flying discs reported to have been seen by many citizens. He advised\nthat so many had reported having seen them that it undoubtedly was not a\nfigment of the imagination. He said that these discs had been seen on July\n1, 1947, in the vicinity of Trail Creek near Sun Valley, Idaho, by reputable\ncitizens.\n67c"
+      },
+      "translation": {
+        "text": "뷰트 사무실에 전화로 연락하여 FBI가 많은 시민들이 보았다고 보고된 비행 디스크를 확인하고 있는지 물었습니다. 그는 너무 많은 사람들이 그것들을 보았다고 보고했기 때문에 그것이 상상의 산물이 아닐 것이라고 조언했습니다. 그는 이 디스크들이 1947년 7월 1일 아이다호 선밸리 근처 트레일 크릭 부근에서 신뢰할 수 있는 시민들에 의해 목격되었다고 말했습니다.\n67c",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0059-u004",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 59,
+      "pageId": "page_0059",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0059-l0017",
+          "page_0059-l0018",
+          "page_0059-l0019",
+          "page_0059-l0020",
+          "page_0059-l0021",
+          "page_0059-l0022",
+          "page_0059-l0023",
+          "page_0059-l0024",
+          "page_0059-l0025",
+          "page_0059-l0026"
+        ],
+        "lineNumbers": [
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0024",
+            "lineNumber": 24,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0026",
+            "lineNumber": 26,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "an investigation and inquired as to whether he had contacted Army and Navy\nofficials. He said that he was inquiring of these agencies.\n67c\nWGB:LB\nAIR MAIL\nRECORDED\n&\nINDEXED\nEX-46\n67c"
+      },
+      "translation": {
+        "text": "조사를 진행하고 그가 육군 및 해군 관계자들에게 연락했는지 물었습니다. 그는 이 기관들에 문의하고 있다고 말했습니다.\n67c\nWGB:LB\n항공 우편\n기록됨\n&\n색인됨\nEX-46\n67c",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0059-u005",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 59,
+      "pageId": "page_0059",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0059-l0028",
+          "page_0059-l0029"
+        ],
+        "lineNumbers": [
+          28,
+          29
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0028",
+            "lineNumber": 28,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 59,
+            "pageId": "page_0059",
+            "lineId": "page_0059-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "36 JUL 23 1947\n51 AUG 5 1947"
+      },
+      "translation": {
+        "text": "36 1947년 7월 23일\n51 1947년 8월 5일",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

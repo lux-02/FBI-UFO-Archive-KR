@@ -7,18 +7,289 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "typed_official_document",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 36 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0055-l0001",
+    "page_0055-l0012",
+    "page_0055-l0015",
+    "page_0055-l0018",
+    "page_0055-l0020",
+    "page_0055-l0023",
+    "page_0055-l0026",
+    "page_0055-l0027",
+    "page_0055-l0031",
+    "page_0055-l0040"
+  ],
+  "lineCount": 52,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "TO : DIRECTOR, FBI DATE: July 18, 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "FROM : SAC, NEW HAVEN",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "67c",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "SUBJECT: \"FLYING SAUCERS\"",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "EDWIN M. BAILEY, JR.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "STAMFORD, CONNECTICUT, INFORMANT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "ATOMIC ENERGY ACT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
+      "text": "For the information of the Bureau this is to advise that on July 7, 1947,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "[REDACTED] Stamford, Connecticut, appeared at the 67c",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 13,
+      "text": "Stamford Resident Agent's office and furnished the following information:-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
+      "text": "[REDACTED] prefaced his remarks by stating that he is a scientist by",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 16,
+      "text": "occupation and is currently employed at the American Cyanamid Research",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Laboratories on West Main Street in Stamford, Connecticut, in the Physics 67c",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "Division. [REDACTED] further indicated that during the war he was employed",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 19,
+      "text": "at MIT, Cambridge, Massachusetts, in the Radiation Laboratory which labora-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "tory is connected with the Manhattan Project. [REDACTED] advised that he is",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 21,
+      "text": "thirty years of age and is a graduate of the University of Arizona.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
+      "text": "[REDACTED] stated that the topic of \"flying saucers\" had caused considerable",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 24,
+      "text": "comment and concern to the present day scientists and indicated that he him-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "self had a personal theory concerning the \"flying saucers\". Prior to",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "advancing his own theory, [REDACTED] remarked that immediately after the conclu-",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 27,
+      "text": "sion of World War II, a friend of his, [REDACTED] allegedly observed",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 28,
+      "text": "the \"flying saucers\" from an observatory in Milan and Bologna, Italy. He",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "text": "stated that apparently at that time the \"flying saucers\" had caused a little",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "text": "comment in Italy but that after some little publicity they immediately died 67c",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "text": "out as public interest. [REDACTED] stated that it is quite possible that",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 32,
+      "text": "actually the \"flying saucers\" could be radio controlled germ bombs or atom",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "bombs which are circling the orbit of the earth and which could be controlled",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "by radio and directed to land on any designated target at the specific desire",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "text": "of the agency or country operating the bombs. He stated that one of the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "text": "items of interest which he personally has observed is the fact that the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 37,
+      "text": "saucers have been observed in Mexico City, New Orleans, Philadelphia, New",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "text": "York, Boston, Halifax, Newfoundland, Paris, Milan, Bologna and Yugoslavia",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 39,
+      "text": "as well as Albania. By placing a string around the globe of the earth it",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "[unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 41,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 42,
+      "text": "G.I.R.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 43,
+      "text": "RECORDED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "EX-36",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "text": "160-8594-27",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 46,
+      "text": "JUL 22 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 47,
+      "text": "FDM/clb",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 48,
+      "text": "117-0",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 50,
+      "text": "60 AUG 4 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "text": "COPIES DESTROYED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 52,
+      "text": "270 NOV 18 1964",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

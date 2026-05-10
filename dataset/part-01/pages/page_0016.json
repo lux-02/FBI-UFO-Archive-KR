@@ -7,18 +7,184 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "typed_official_document",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 16 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0016-l0003",
+    "page_0016-l0007",
+    "page_0016-l0019",
+    "page_0016-l0023",
+    "page_0016-l0030",
+    "page_0016-l0031",
+    "page_0016-l0033"
+  ],
+  "lineCount": 33,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "August 5, 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "[REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 4,
+      "text": "Omaha, Nebraska",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "67c",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
+      "text": "Dear [REDACTED] 67c flying discs",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "I wish to acknowledge receipt of your letter postmarked July 10, 1947, together with its enclosure.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Inasmuch as the information which you furnished is of interest to the War Department I have taken the liberty of furnishing it to that agency for their consideration.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 13,
+      "text": "Sincerely yours,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
+      "text": "John Edgar Hoover",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Director",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 18,
+      "text": "COMMUNICATIONS SECTION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "[unclear] 1947 P.M.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 20,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 21,
+      "text": "WVC:mjp:rb",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "62-83894",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "text": "[unclear] OF JUSTICE",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 24,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 25,
+      "text": "RECORDED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "&",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "INDEXED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "text": "EX-6",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "text": "62-83894-51",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "text": "131 [unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 31,
+      "text": "jpc/L",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 32,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 33,
+      "text": "[unclear] 12 28 PM '47",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
     }
   ],
-  "blockCount": 5
+  "blockCount": null
 }

@@ -7,19 +7,192 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "manual_review",
-  "translationReadiness": "ready",
-  "pageType": "typed_official_document",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level NORMALIZED review by codex. Approved as page source candidate.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 26 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0049-l0004"
+  ],
+  "lineCount": 37,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "page_normalized",
-      "text": "July 10, 1947\n\nSan Marcos, Texas\n\nI wish to acknowledge receipt of your Western Union telegram dated July 7, 1947. Your interest in making this information available to me is greatly appreciated.\n\nInasmuch as the contents of your telegram appear to be of interest to the War Department only, I have taken the liberty of making the information furnished by you available to that Department.\n\nSincerely yours,\nJohn Edgar Hoover\nDirector"
+      "text": "July 10, 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "San Marcos, Texas",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "Dear [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
+      "text": "I wish to acknowledge receipt of your Western Union telegram",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "dated July 7, 1947. Your interest in making this information available",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "to me is greatly appreciated.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "Inasmuch as the contents of your telegram appear to be of",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "interest to the War Department only, I have taken the liberty of",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "making the information furnished by you available to that Department.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Sincerely yours,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 16,
+      "text": "John Edgar Hoover",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Director",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 19,
+      "text": "cc - San Antonio",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "NOTE: The telegram referred to \"flying discs.\"",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 22,
+      "text": "RECORDED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "text": "INDEXED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "EX-64 89",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "62-83894-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "F B I",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "51 JUL 28 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
+      "text": "COMMUNICATIONS SECTION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "text": "MAILED 2",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "text": "JUL 14 1947 P.M.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 33,
+      "text": "FEDERAL BUREAU OF INVESTIGATION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "U. S. DEPARTMENT OF JUSTICE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
+      "text": "WVC:mn",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 37,
+      "text": "AUG 11 1947",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 1
+  "blockCount": null
 }

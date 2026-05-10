@@ -7,18 +7,242 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "typed_official_document",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 38 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0036-l0002",
+    "page_0036-l0006",
+    "page_0036-l0027"
+  ],
+  "lineCount": 45,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "STANDARD FORM NO. 64",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
+      "text": "TO : D.M.LADD DATE: July 7, 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "9:50 PM",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "FROM : [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 7,
+      "text": "SUBJECT: FLYING DISCS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "Miscellaneous",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "SAC Weeks called from New Orleans on the matter discussed in the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "attached teletype. He wanted to know what policy the Bureau was following",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "in connection with reports concerning these \"flying discs\" which were being",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "received.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
+      "text": "I told Mr. Weeks that, unless advised to the contrary, he should, in the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "particular case at hand, allow G-2 to handle and not take any jurisdiction for the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "FBI. He was told the Bureau would be interested in being kept advised of develop-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "ments, and in copies of the photographs he said G-2 would make of the object",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "found, but that he should not allow himself to be jockeyed into a position where",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "investigative responsibility, if any were entailed, would fall on us. Mr. Weeks said",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "text": "he would so handle unless I called him back immediately with instructions for",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "specific action.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 24,
+      "text": "As you will recall, I called you concerning the foregoing.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "RECORDED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "KCH:h",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "3 OCT 2 19472/2",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 28,
+      "text": "Mr. Tolson",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "text": "Mr. W. A. Tamm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "text": "Mr. Clegg",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "text": "Mr. Glavin",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "Mr. Ladd",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "Mr. Nichols",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "Mr. Rosen",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "text": "Mr. Tracy",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "text": "Mr. Carson",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 37,
+      "text": "Mr. Egan",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "text": "Mr. Gurnea",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Mr. Harbo",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "Mr. Mohr",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
+      "text": "Mr. Pennington",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 42,
+      "text": "Mr. Quinn Tamm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 43,
+      "text": "Tele. Room",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "Mr. Nease",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "text": "Miss Holmes",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

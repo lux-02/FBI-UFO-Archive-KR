@@ -6,11 +6,12 @@
   "pageId": "page_0009",
   "source": {
     "pdfPath": "docs/ufo1.pdf",
-    "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+    "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
   },
   "status": "reviewed",
   "approvalStatus": "not_approved",
-  "exportedAt": "2026-05-10T03:13:50.215Z",
+  "exportedAt": "2026-05-10T14:28:13.026Z",
   "unitCount": 8,
   "sourceLineCount": 23,
   "excludedLineCount": 2,
@@ -104,12 +105,12 @@
         "text": "HEADQUARTERS FOURTH AIR FORCE\nOffice of the Assistant Chief of Staff, A-2\nIntelligence\nHamilton Field, California"
       },
       "translation": {
-        "text": "제4공군 사령부\nA-2 참모차장실\n정보부\n캘리포니아주 해밀턴 필드",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "text": "제4공군 사령부\n참모차장실, A-2\n정보\n해밀턴 필드, 캘리포니아",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null
@@ -170,11 +171,11 @@
       },
       "translation": {
         "text": "4AFDA\n333.5 ID\n1947년 8월 12일",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null
@@ -213,11 +214,11 @@
       },
       "translation": {
         "text": "제목: \"비행 디스크\" 조사",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null
@@ -266,12 +267,12 @@
         "text": "TO: Special Agent in Charge, U. S. Department of Justice, Suite 426,\n111 Sutter Street, San Francisco, California."
       },
       "translation": {
-        "text": "수신: 캘리포니아주 샌프란시스코 서터 스트리트 111, 426호, 미국 법무부 담당 특별 요원.",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "text": "수신: 미국 법무부 담당 특별 요원, 스위트 426,\n111 서터 스트리트, 샌프란시스코, 캘리포니아.",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null
@@ -320,12 +321,12 @@
         "text": "Forwarded herewith is information copy of statement and newspaper\nclipping re subject."
       },
       "translation": {
-        "text": "제목과 관련한 진술서 및 신문 스크랩의 정보용 사본을 동봉하여 전달함.",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "text": "본 건과 관련하여 진술서 및 신문\n스크랩 정보 사본을 첨부합니다.",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null
@@ -407,12 +408,12 @@
         "text": "2 Incls:\n1. Statement of [REDACTED]\ndtd 30 Jul 47.\n2. Newspaper clipping,\ndtd 5 Jul 47."
       },
       "translation": {
-        "text": "2개 첨부 문서:\n1. [삭제 처리됨]의 진술서\n일자 47년 7월 30일.\n2. 신문 스크랩,\n일자 47년 7월 5일.",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "text": "첨부 문서 2개:\n1. [삭제 처리됨] 진술서\n1947년 7월 30일자.\n2. 신문 스크랩,\n1947년 7월 5일자.",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null
@@ -473,11 +474,11 @@
       },
       "translation": {
         "text": "WILLIAM R. GRAHAM\n항공대 소령\nDeputy AC of S, A-2",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": true,
         "overrideReason": "Avoid expanding the source acronym AC of S in a signature block."
@@ -537,12 +538,12 @@
         "text": "FEDERAL BUREAU OF INVESTIGATION\nAUG 17 1947\nSAN FRANCISCO"
       },
       "translation": {
-        "text": "연방수사국\n1947년 8월 17일\n샌프란시스코",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "text": "연방 수사국\n1947년 8월 17일\n샌프란시스코",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null

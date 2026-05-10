@@ -7,18 +7,149 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "handwritten_correspondence_or_note",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_SECOND_PASS; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "12 permanent_unresolved line(s) excluded under SRC-896. 10 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0042-l0002",
+    "page_0042-l0005",
+    "page_0042-l0006",
+    "page_0042-l0010",
+    "page_0042-l0011",
+    "page_0042-l0012",
+    "page_0042-l0013",
+    "page_0042-l0014",
+    "page_0042-l0015",
+    "page_0042-l0016",
+    "page_0042-l0017",
+    "page_0042-l0022"
+  ],
+  "lineCount": 22,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "J per 4-4400",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "[REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 3,
+      "text": "670",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "July 20",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "1947",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 6,
+      "text": "J. Edgar Hoover",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 7,
+      "text": "M.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "W",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "8",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "Dear Sir,",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Reading about Kenneth Arnold",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 12,
+      "text": "those flying saucers. I got a brain-",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 13,
+      "text": "storm. Maybe there is someone that is",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 14,
+      "text": "manufacturing a contraption that could",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 15,
+      "text": "be sent up by Remote Control. And",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 16,
+      "text": "could be used against us.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 17,
+      "text": "[REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 18,
+      "text": "670",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "RECORDED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "INDEXED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "text": "62-83894-34",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "JUL 31 1947",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

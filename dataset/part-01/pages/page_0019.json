@@ -7,18 +7,268 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "teletype_or_wire_message",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0019-l0008",
+    "page_0019-l0023",
+    "page_0019-l0029",
+    "page_0019-l0030",
+    "page_0019-l0032",
+    "page_0019-l0040",
+    "page_0019-l0049"
+  ],
+  "lineCount": 50,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "FEDERAL BUREAU OF INVESTIGATION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "U. S. DEPARTMENT OF JUSTICE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "COMMUNICATIONS SECTION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "AUG 11 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
+      "text": "TELETYPE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "Mr. [unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Mr. E. A. Tamm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "Mr. Clegg",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Mr. Glavin",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Mr. Ladd",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "Mr. Nichols",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Mr. Rosen",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Mr. Tracy",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Mr. Egan",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Mr. Gurnea",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "Mr. Harbo",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "Mr. Mohr",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "Mr. Pennington",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "text": "Mr. Quinn Tamm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "Mr. Nease",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "text": "[unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 24,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 25,
+      "text": "FBI PORTLAND        8-11-47       1-17 PM PST       KAM",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 27,
+      "text": "DIRECTOR        U R G E N T",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
+      "text": "FLYING DISCS. SECURITY MATTER DASH X. ONE [REDACTED] FOREMR NAVY ",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 30,
+      "text": "PILOT AND PRESENTLY [REDACTED] MYRTLE CREEK, [REDACTED] OREGON, REPORTS ",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 31,
+      "text": "SEEING A MYSTERIOUS OBJECT ON TWO OCASIONS THE EVENING OF AUGUST SIXTH b7c",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "WMILE FLYING AT ABOUT FIVE THOUSAND FEET ABOVE MYRTLE CREEK. HATFIELD TO ",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 33,
+      "text": "BE INTERVIEWED.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
+      "text": "BOBBITT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 37,
+      "text": "END",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "text": "5-18 PM OK FBI WASH DC GAR",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 39,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 40,
+      "text": "OCT 1 1947 [unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 41,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 42,
+      "text": "EX-60",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 43,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 44,
+      "text": "RECORDED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "text": "INDEXED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 46,
+      "text": "62-83894-49",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 47,
+      "text": "35 AUG 18 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 48,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 49,
+      "text": "[unclear] G.L.R.D.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 50,
+      "text": "5-R7",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 5
+  "blockCount": null
 }

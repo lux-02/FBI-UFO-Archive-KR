@@ -7,18 +7,291 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "military_or_attached_report",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_SECOND_PASS; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "11 permanent_unresolved line(s) excluded under SRC-896. 31 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0035-l0001",
+    "page_0035-l0002",
+    "page_0035-l0007",
+    "page_0035-l0009",
+    "page_0035-l0025",
+    "page_0035-l0026",
+    "page_0035-l0028",
+    "page_0035-l0037",
+    "page_0035-l0044",
+    "page_0035-l0046",
+    "page_0035-l0049"
+  ],
+  "lineCount": 53,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "UNIDENTIFIED OBJECT",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "text": "WILLIAMS FIELD, CHANDLER,",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 3,
+      "text": "ARIZONA.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "7 July 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
+      "text": "MEMORANDUM FOR THE OFFICER IN CHARGE:",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "1. On 1 July 1947, Lt William O. McGinty, USN, 195803, P-80",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 10,
+      "text": "Student, Williams Field, Chandler, Arizona, was interviewed by",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "this Agent, and stated in substance: That on 30 June 1947, at about",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "0910, MST, he was flying at 25,000 feet over Grand Canyon, Arizona, in",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "a P-80 type aircraft. He stated that he was heading south towards Williams",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Field, Arizona, when he saw two round objects going at inconceivable",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "speeds, straight down. He further stated that his reactions were to",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "turn away from the objects. He further stated that one of the uniden-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "tifiable objects followed the other seconds apart. He further stated",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "that due to the speed of the objects, he could only see that they were",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "circular, and that they were possible light gray in color. He further",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "stated that in his opinion that the objects were approximately",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "text": "eight feet in diameter. In conclusion, he stated that the objects",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "would have probably hit the ground approximately twenty-five miles",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "text": "south of the South Rim of Grand Canyon, Arizona.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 25,
+      "text": "AGENT'S NOTE: Lt McGinty gave his permanent address as N.A.M.T.C.,",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 26,
+      "text": "Point Hagu, Port Hueneme, Calif.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
+      "text": "2. On 1 July 1947, Captain Malcolm G. Armstrong, O-734168,",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 29,
+      "text": "Instructor, Single Engine, Williams Field, Chandler, Arizona, was",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "text": "interviewed by this Agent and stated in substance: That his brother,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "text": "1st Lt E. B. Armstrong, stationed at Hq, 10th AAF, Brooks AAF, Texas",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "had related to him that he saw a formation of unexplainable objects",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "in the vicinity of Lake Mead, Nev. Captain Armstrong, further stated",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "that his brother stated the objects were heading south, and were at",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "text": "approximately 10,000 feet altitude.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 37,
+      "text": "AGENT'S NOTE: Captain Armstrong could not give too much information",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 38,
+      "text": "on the objects that his brother had seen. Lt. E. B. Armstrong can be",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 39,
+      "text": "contacted at Hq, 10th AAF, Brooks Field, Texas for further information.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 41,
+      "text": "REGRADED UNCLASSIFIED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 42,
+      "text": "ON NOV 0 6 1978",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 43,
+      "text": "BY DEP CDR USAINSCOM FOI/PO",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "AUTH Para 1-603 DOD 5200",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 45,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 46,
+      "text": "Lynn C. Aldrich, Special Agent, CIC-AAF, FOIRC",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 47,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 48,
+      "text": "THIS IS A TRUE COPY",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "text": "JOHN K. ORR, Major, A.C.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 50,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 51,
+      "text": "62-83874-38X",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 52,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 53,
+      "text": "19",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

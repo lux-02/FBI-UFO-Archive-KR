@@ -7,18 +7,164 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "teletype_or_wire_message",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 22 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0046-l0008",
+    "page_0046-l0010",
+    "page_0046-l0014",
+    "page_0046-l0015",
+    "page_0046-l0017"
+  ],
+  "lineCount": 28,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "U. S. DEPARTMENT OF JUSTICE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "COMMUNICATIONS SECTION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "AUG 1 4 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "TELETYPE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
+      "text": "FBI SEATTLE 8-14-47 5-15 PM FB",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "DIRECTOR ROUTINE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "FLYING DISCS SIGHTED BY [REDACTED] TACOMA",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 9,
+      "text": "WASHINGTON, SM X. REURTEL INSTANT DATE. PLEASE BE ADVISED THAT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "[REDACTED] DID NOT ADMIT TO [REDACTED] THAT HIS STORY WAS A HOAX BUT ONLY",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 11,
+      "text": "STATED THAT IF QUESTIONED BY AUTHORITIES HE WAS GOING TO SAY IT WAS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "A HOAX BECAUSE HE DID NOT WANT ANY FURTHER TROUBLE OVER THE MATTER.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "COMPLETE REPORT NOW EN ROUTE TO BUREAU AMSD, WHICH INDICATES 67C",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "PROBABLY [REDACTED] MADE THE ANONYMOUS PHONE CALL IN THE",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 15,
+      "text": "HOPE OF BULDING UP THEIR STORY THROUGH PUBLICITY TO A POINT WHERE",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 16,
+      "text": "THEY COULD MAKE A PROFITABLE DEAL WITH FANTASY MAGAZINE, CHICAGO",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "ILLINOIS. [REDACTED] WILL NOT BE REINTERVIEWED UNLESS",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 18,
+      "text": "ADVISED TO THE CONTRARY BY THE BUREAU.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "WILCOX",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "A AND HOLD PLS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "text": "9-16 PM OK FBI WASH DC GAR",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "3 AUG 26 1947 252",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "text": "RECORDED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "INDEXED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "18",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "I AUG 15 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "G. I. R. C: Mr. Fletcher",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "text": "EX-67",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

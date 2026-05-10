@@ -7,18 +7,629 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "newspaper_clipping_with_attachment_area",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_SECOND_PASS; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 105 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0025-l0001",
+    "page_0025-l0007",
+    "page_0025-l0077"
+  ],
+  "lineCount": 125,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "Norfolk Ledger-",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Date 7-9-47",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
+      "text": "Flying Disc 'Bigger Than Automobile' Photographed",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "By Youth Who Is Amazed Because No One Else Saw It",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
+      "text": "BY GEORGE HEBERT",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 8,
+      "text": "The flying disc was lots bigger",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "than an automobile,\" and 15-year-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "old Bill Turrentine of 410 West",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Fourteenth Street doesn't under-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "stand why almost everybody in",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "Norfolk didn't see it.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
+      "text": "In fact, when he came to the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Ledger-Dispatch with a photograph",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "he had taken of the object, he",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "wanted to know why the newspa-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "pers hadn't already taken a pic-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "ture of it. \"I thought your photo-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "text": "graphers were fast,\" he told a re-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "porter.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 24,
+      "text": "few seconds later didn't look any-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "thing like saucers.\"",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "Looked Like Football",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "The boy stuck to his football",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "text": "comparison, explaining that the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "text": "object was sort of rounded, more",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "text": "oval than disc-like, and that though",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "text": "it wobbled in its northeastward",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "flight it was traveling very rapidly,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "about 600 miles an hour.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
+      "text": "He guessed that the altitude of",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "text": "the thing was about 5,000 feet,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 37,
+      "text": "just below the clouds. In color it",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "text": "was \"gray, almost black,\" and",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 39,
+      "text": "looked like a \"burned crisp,\" or",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 41,
+      "text": "(Editor's Note: Although the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 42,
+      "text": "Ledger-Dispatch has had many re-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 43,
+      "text": "ports of flying discs and saucers in",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "recent days, no other person re-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "text": "ported seeing the object which Tur-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 46,
+      "text": "rentine photographed.)",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 47,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 48,
+      "text": "However, Bill said he had done",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "text": "one fast moving himself shortly",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 50,
+      "text": "before noon Tuesday, when he",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "text": "stood on his front porch and saw",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 52,
+      "text": "the large gray object, \"rocking",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 53,
+      "text": "and spinning like a football\" and",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 54,
+      "text": "coming from the southwest.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 55,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 56,
+      "text": "\"I had just returned from Sum-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 57,
+      "text": "mer school classes at Maury,\" he",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 58,
+      "text": "said, and with all the talk about",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 59,
+      "text": "\"flying saucers,\" had gone out",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 60,
+      "text": "with his camera to see if he could",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 61,
+      "text": "get anything.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 62,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 63,
+      "text": "\"I don't see why they call them",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 64,
+      "text": "flying saucers,\" he said. \"The big",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 65,
+      "text": "one I took a picture of and the two",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 66,
+      "text": "little ones that came behind it a",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 67,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 68,
+      "text": "maybe a rock or stone. The edges",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 69,
+      "text": "glittered, he said, and seemed to be",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 70,
+      "text": "trailing dust. Neither it nor the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 71,
+      "text": "two which followed made any",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 72,
+      "text": "sound.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 73,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 74,
+      "text": "Bill said he wasn't very sur-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 75,
+      "text": "prised when he saw the object,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 76,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 77,
+      "text": "NORFOLK BOY AND PHOTO OF DISC—Bill Turrentine, 15, (righ",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 78,
+      "text": "and staff reporter George Herbert (left) of the \"lucky\"",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 79,
+      "text": "circumstances which enabled him to take the photograph at f",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 80,
+      "text": "disc. However, the boy said the object pictured here is",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 81,
+      "text": "looked and moved more like a football, being rounded and oval, rath",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 82,
+      "text": "than disc-like. Bill took this picture from the porch of his home",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 83,
+      "text": "410 West Fourteenth Street between 11 o'clock and noon Tuesda",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 84,
+      "text": "said the \"flying football\" shown here was followed by two small",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 85,
+      "text": "ones, all moving at about 600 miles an hour and he guessed they we",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 86,
+      "text": "about 5,000 feet high, just below the clouds. The photograph reprodu",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 87,
+      "text": "ed here is an enlargement made by Photo Craftsmen. In the fo",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 88,
+      "text": "ground of young Turrentine's picture is the porch rail of his home.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 89,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 90,
+      "text": "but \"almost killed myself\" getting",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 91,
+      "text": "shots of it with his camera, set at",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 92,
+      "text": "1/100th of a second.\"",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 93,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 94,
+      "text": "He called his 18-year-old sister,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 95,
+      "text": "Josephine, to come and look, but",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 96,
+      "text": "apparently she didn't believe him.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 97,
+      "text": "As the \"flying football\" passed",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 98,
+      "text": "over, Bill said he took three shots",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 99,
+      "text": "of it, but when he hurriedly devel-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 100,
+      "text": "oped the film, after legging it to",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 101,
+      "text": "Sidney Road for a vial of developer,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 102,
+      "text": "only one negative came out well",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 103,
+      "text": "enough for reproduction.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 104,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 105,
+      "text": "He showed a reporter a contact",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 106,
+      "text": "print he had made himself, and",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 107,
+      "text": "the picture reproduced here is an",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 108,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 109,
+      "text": "enlargement made by Photo Crafts-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 110,
+      "text": "men.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 111,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 112,
+      "text": "Photo experts of this firm are",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 113,
+      "text": "convinced that the boy did a fine",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 114,
+      "text": "job with the old camera he was",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 115,
+      "text": "using. Having closely examined",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 116,
+      "text": "the negative, they said the only",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 117,
+      "text": "flaw was in the kind of film, which",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 118,
+      "text": "perhaps didn't bring out enough",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 119,
+      "text": "detail. They pointed out, however,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 120,
+      "text": "in view of the fact that Bill's photo-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 121,
+      "text": "graph, with the object partly af-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 122,
+      "text": "forded by the front porch rail and",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 123,
+      "text": "the trees, was certainly the best",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 124,
+      "text": "one taken since the mysterious",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 125,
+      "text": "discs were first reported.",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 5
+  "blockCount": null
 }

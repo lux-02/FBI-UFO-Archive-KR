@@ -7,18 +7,291 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "typed_official_document",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "9 permanent_unresolved line(s) excluded under SRC-896. 37 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0044-l0010",
+    "page_0044-l0012",
+    "page_0044-l0013",
+    "page_0044-l0022",
+    "page_0044-l0029",
+    "page_0044-l0037",
+    "page_0044-l0045",
+    "page_0044-l0047",
+    "page_0044-l0052"
+  ],
+  "lineCount": 53,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "STANDARD FORM NO. 64",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
+      "text": "TO : D. M. LADD",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "FROM : G. Fitch",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "SUBJECT: FLYING DISKS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "DATE: 7/10/47",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "At request of Brigadier General George F. Schulgen, Chief of",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 11,
+      "text": "the Requirements Intelligence Branch of Army Air Corps Intelligence,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Special Agent [REDACTED] discussed the above captioned matter with him",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 13,
+      "text": "on July 9, 1947. General Schulgen indicated to [REDACTED] that the Air Corps",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 14,
+      "text": "has taken the attitude that every effort must be undertaken in order to run down",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "and ascertain whether or not the flying disks are a fact and, if so, to learn",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "all about them. According to General Schulgen, the Air Corps Intelligence is",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "utilizing all of their scientists in order to ascertain whether or not such a",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "phenomenon could in fact occur. He stated that this research is being conducted",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "with the thought that the flying objects might be a celestial phenomenon and with",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "the view that they might be a foreign body mechanically devised and controlled.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 22,
+      "text": "General Schulgen also indicated to [REDACTED] that all Air Corps",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 23,
+      "text": "installations have been alerted to run out each reported sighting to obtain all",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "possible data to assist in this research project. In passing, General Schulgen",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "stated that an Air Corps pilot who believed that he saw one of these objects was",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "thoroughly interrogated by General Schulgen and scientists, as well as a psy-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "chologist, and the pilot was adamant in his claim that he saw a flying disk.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
+      "text": "General Schulgen advised [REDACTED] that the possibility exists that",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 30,
+      "text": "the first reported sightings of the so-called flying disks were fallacious and",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "text": "prompted by individuals seeking personal publicity, or were reported for political",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "reasons. He stated that if this was so, subsequent sightings might be the result",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "of a mass hysteria. He pointed out that the thought exists that the first reported",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "sightings might have been by individuals of communist sympathies with the view to",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "text": "causing hysteria and fear of a secret Russian weapon.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 37,
+      "text": "General Schulgen indicated to [REDACTED] that he is desirous of",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 38,
+      "text": "having all the angles covered in this matter. He stated that reports of his",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 39,
+      "text": "scientists and findings of the various Air Corps installations will be available",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "in his office. He advised that to complete the picture he desired the assistance",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
+      "text": "of the Federal Bureau of Investigation in locating and questioning the individuals",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 42,
+      "text": "who first sighted the so-called flying disks in order to ascertain whether or not",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 43,
+      "text": "they are sincere in their statements that they saw these disks, or whether their",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "statements were prompted by personal desire for publicity or political reasons.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "text": "General Schulgen assured [REDACTED] that there are no War Department or Navy",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 46,
+      "text": "Department research projects presently being conducted which could in any way be",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 47,
+      "text": "tied up with the flying disks. General Schulgen indicated to [REDACTED] that",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 48,
+      "text": "if the Bureau would cooperate with him in this matter, he would offer all the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "text": "facilities of his office as to results obtained in the effort to identify and",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 50,
+      "text": "run down this matter.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 52,
+      "text": "[REDACTED] advised General Schulgen that his request would be made",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 53,
+      "text": "known to the Bureau and an answer made available to him as soon as possible.",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

@@ -7,18 +7,424 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "typed_official_document",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "11 permanent_unresolved line(s) excluded under SRC-896. 60 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0038-l0016",
+    "page_0038-l0039",
+    "page_0038-l0041",
+    "page_0038-l0045",
+    "page_0038-l0048",
+    "page_0038-l0054",
+    "page_0038-l0057",
+    "page_0038-l0062",
+    "page_0038-l0064",
+    "page_0038-l0068",
+    "page_0038-l0076"
+  ],
+  "lineCount": 79,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "STANDARD FORM NO. 64",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Office Memorandum UNITED STATES GOVERNMENT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
+      "text": "TO : D. M. IADD",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "FROM : E. G. Fitch",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "SUBJECT: FLYING DISCS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "DATE: 7/24/47",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "Mr. Tolson",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Mr. E. A. Tamm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Mr. Clegg",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "Mr. Coffey",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Mr. Slavin",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Mr. Ladd",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Mr. [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Mr. Rosen",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "Mr. Tracy",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "Mr. Mohr",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "Mr. Carson",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "text": "Mr. Hendon",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "Mr. Mumford",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "text": "Mr. Jones",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "Mr. Quinn Tamm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "Tele. Room",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "Mr. Nease",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "Miss Beaton",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "text": "Miss Gandy",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 30,
+      "text": "Reference is made to my memorandum to you in the above captioned",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "text": "matter dated July 10, 1947, indicating that Brigadier General George F.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "Schulgen of the Army Air Corps Intelligence had requested that the Bureau",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "cooperate with the Army Air Corps Intelligence in connection with the above",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "captioned matter. The Director noted on the referenced memorandum, \"I",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "text": "would do it but before agreeing to it we must insist upon full access to",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "text": "discs recovered. For instance in the La. case the Army grabbed it and would",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 37,
+      "text": "not let us have it for cursory examination.\"",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 39,
+      "text": "[REDACTED] has recontacted",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 40,
+      "text": "General Schulgen and advised him in connection with the Director's notation.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
+      "text": "General Schulgen indicated to [REDACTED] that he desired to assure Mr.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 42,
+      "text": "Hoover of complete cooperation in this matter and stated that he would issue",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 43,
+      "text": "instructions to the field directing that all cooperation be furnished to the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "FBI and that all discs recovered be made available for the examination by",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "text": "the FBI Agents. General Schulgen pointed out to [REDACTED] that he will",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 46,
+      "text": "from time to time make the results of the studies of his scientists available",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 47,
+      "text": "to the Bureau for the assistance of the FBI Field Offices. General Schulgen",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 48,
+      "text": "indicated to [REDACTED] that there has been a decrease in the reported",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 49,
+      "text": "sightings of the discs which might be because of the fact that it has lost much of",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 50,
+      "text": "its publicity value. He indicated, however, that he believed it necessary to",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "text": "follow this matter through to determine as near as possible if discs were in",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 52,
+      "text": "fact seen and to determine their origin.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 53,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 54,
+      "text": "General Schulgen inquired of [REDACTED] the method by which the",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 55,
+      "text": "Bureau would make the information obtained from the Bureau's inquiries, known",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 56,
+      "text": "to the Air Corps, in the Field as well as at the War Department level. Mr.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 57,
+      "text": "[REDACTED] pointed out to General Schulgen that the best procedure appeared to",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 58,
+      "text": "be through the regular established channels. It was pointed out to General",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 59,
+      "text": "Schulgen that the Bureau Field Offices maintain close liaison with the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 60,
+      "text": "Intelligence Divisions of the various Armies as well as close liaison with the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 61,
+      "text": "Intelligence Division of the War Department. General Schulgen indicated that he",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 62,
+      "text": "would be satisfied to receive information through [REDACTED] means.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 63,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 64,
+      "text": "General Schulgen indicated to [REDACTED] that he believed that there",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 65,
+      "text": "was a possibility that this entire matter might have been started by subversive",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 66,
+      "text": "individuals for the purpose of creating a mass hysteria. He suggested that the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 67,
+      "text": "Bureau keep this in mind in any interviews conducted regarding reported sightings.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 68,
+      "text": "General Schulgen stated to [REDACTED] that he would make available to the Bureau",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 69,
+      "text": "all information in the possession of the Air Corps regarding the sightings which",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 70,
+      "text": "were first reported so that the Bureau could conduct some investigation regarding",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 71,
+      "text": "these individuals to ascertain their motives for reporting that they had observed",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 72,
+      "text": "flying discs. When General Schulgen makes the information available regarding",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 73,
+      "text": "these individuals, it will be promptly brought to your attention.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 74,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 75,
+      "text": "SEP 30 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 76,
+      "text": "[unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 77,
+      "text": "252",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 78,
+      "text": "COPIES DESTROYED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 79,
+      "text": "270 NOV 18 1964",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

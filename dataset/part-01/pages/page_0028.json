@@ -7,18 +7,150 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "teletype_or_wire_message",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 19 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0028-l0008",
+    "page_0028-l0023",
+    "page_0028-l0025",
+    "page_0028-l0026"
+  ],
+  "lineCount": 26,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "I",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "PAGE TWO",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
+      "text": "WERE KILLED. THE WRECKAGE WAS SCREENED BY AAF INTELLIGENCE FROM",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "MCCHORD FIELD. THE TACOMA NEWS TRIBUNE AND THROUGH THEM THE UNITED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "PRESS PUT OUT A STORY THE PLANE WAS CARRYING PARTS OF A DISC WHICH",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "HAD STRUCK A BOAT OWNED BY HAROLD DAHL AND FRED CRISMAN , TACOMA, WN.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "b7c [REDACTED] ADVISED THAT TODAYS ISSUE OF THE OREGONIAN CARRIES A UP STOR",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 9,
+      "text": "STATING THAT DAHL DENIES SAYING THE METAL FRAGMENTS HE FURNISHED WERE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "FROM A DISC, AND ANALYSIS OF THE FRAGMENTS SHOWS THEM TO BE FROM A",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "TACOMA SLAG MILL. NO AAF INTELLIGENCE PERSONNEL AVAILABLE PORTLAND.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "NO RECENT SUBSTANTIVE REPORTS OF FLYING DISCS IN THE PORTLAND AREA.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "SEATTLE VERIFY AT MCCHORD FIELD AND SAN FRANCISCO VERIFY AT AAF",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "HDQRTS. SF, SUBMITTING TELETYPE SUMMARIES TO THE BUREAU. NO FURTHER",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "INVESTIGATION PORTLAND.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 17,
+      "text": "BOBBITT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 19,
+      "text": "END AND ACK",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "WA 0157AM OK FBI WA DW",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "text": "SE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "S OK FBI SE KLS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "text": "SF OK FBI SF NCW CC Mr. Ladd.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 24,
+      "text": "DVIMSC",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "8/6/47",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 26,
+      "text": "[unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

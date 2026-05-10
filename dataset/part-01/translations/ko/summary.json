@@ -11,21 +11,21 @@
   },
   "status": "reviewed",
   "approvalStatus": "not_approved",
-  "exportedAt": "2026-05-10T03:13:50.215Z",
+  "exportedAt": "2026-05-10T14:28:13.026Z",
   "sourceScope": "line_audit_IMAGE_MATCHED_units_only",
   "translationMethod": {
-    "draftProvider": "gemini_cli",
-    "draftModel": "gemini-3-pro-preview",
+    "draftProvider": "gemini_api",
+    "draftModel": "gemini-2.5-flash",
     "promptVersion": "gemini3_ko_translation_draft_v1",
     "review": "Codex source-faithfulness review with recorded overrides"
   },
   "counts": {
-    "pageCount": 16,
-    "unitCount": 110,
-    "sourceLineCount": 418,
-    "excludedLineCount": 19,
-    "reviewedUnitCount": 110,
-    "overrideCount": 11
+    "pageCount": 63,
+    "unitCount": 490,
+    "sourceLineCount": 1737,
+    "excludedLineCount": 321,
+    "reviewedUnitCount": 490,
+    "overrideCount": 12
   },
   "paths": {
     "units": "translations/ko/units.json",
@@ -34,6 +34,17 @@
     "pages": "translations/ko/pages/"
   },
   "pages": [
+    {
+      "page": 1,
+      "pageId": "page_0001",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 2,
+      "sourceLineCount": 2,
+      "excludedLineCount": 0,
+      "jsonPath": "translations/ko/pages/page_0001.json",
+      "txtPath": "translations/ko/pages/page_0001.txt"
+    },
     {
       "page": 2,
       "pageId": "page_0002",
@@ -178,6 +189,182 @@
       "txtPath": "translations/ko/pages/page_0014.txt"
     },
     {
+      "page": 15,
+      "pageId": "page_0015",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 3,
+      "sourceLineCount": 60,
+      "excludedLineCount": 7,
+      "jsonPath": "translations/ko/pages/page_0015.json",
+      "txtPath": "translations/ko/pages/page_0015.txt"
+    },
+    {
+      "page": 16,
+      "pageId": "page_0016",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 9,
+      "sourceLineCount": 16,
+      "excludedLineCount": 7,
+      "jsonPath": "translations/ko/pages/page_0016.json",
+      "txtPath": "translations/ko/pages/page_0016.txt"
+    },
+    {
+      "page": 17,
+      "pageId": "page_0017",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 14,
+      "sourceLineCount": 34,
+      "excludedLineCount": 9,
+      "jsonPath": "translations/ko/pages/page_0017.json",
+      "txtPath": "translations/ko/pages/page_0017.txt"
+    },
+    {
+      "page": 18,
+      "pageId": "page_0018",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 4,
+      "sourceLineCount": 10,
+      "excludedLineCount": 1,
+      "jsonPath": "translations/ko/pages/page_0018.json",
+      "txtPath": "translations/ko/pages/page_0018.txt"
+    },
+    {
+      "page": 19,
+      "pageId": "page_0019",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 12,
+      "sourceLineCount": 32,
+      "excludedLineCount": 7,
+      "jsonPath": "translations/ko/pages/page_0019.json",
+      "txtPath": "translations/ko/pages/page_0019.txt"
+    },
+    {
+      "page": 20,
+      "pageId": "page_0020",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 9,
+      "sourceLineCount": 15,
+      "excludedLineCount": 6,
+      "jsonPath": "translations/ko/pages/page_0020.json",
+      "txtPath": "translations/ko/pages/page_0020.txt"
+    },
+    {
+      "page": 21,
+      "pageId": "page_0021",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 10,
+      "sourceLineCount": 34,
+      "excludedLineCount": 3,
+      "jsonPath": "translations/ko/pages/page_0021.json",
+      "txtPath": "translations/ko/pages/page_0021.txt"
+    },
+    {
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 13,
+      "sourceLineCount": 34,
+      "excludedLineCount": 9,
+      "jsonPath": "translations/ko/pages/page_0022.json",
+      "txtPath": "translations/ko/pages/page_0022.txt"
+    },
+    {
+      "page": 23,
+      "pageId": "page_0023",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 6,
+      "sourceLineCount": 47,
+      "excludedLineCount": 3,
+      "jsonPath": "translations/ko/pages/page_0023.json",
+      "txtPath": "translations/ko/pages/page_0023.txt"
+    },
+    {
+      "page": 24,
+      "pageId": "page_0024",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 6,
+      "sourceLineCount": 11,
+      "excludedLineCount": 8,
+      "jsonPath": "translations/ko/pages/page_0024.json",
+      "txtPath": "translations/ko/pages/page_0024.txt"
+    },
+    {
+      "page": 25,
+      "pageId": "page_0025",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 18,
+      "sourceLineCount": 105,
+      "excludedLineCount": 3,
+      "jsonPath": "translations/ko/pages/page_0025.json",
+      "txtPath": "translations/ko/pages/page_0025.txt"
+    },
+    {
+      "page": 26,
+      "pageId": "page_0026",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 7,
+      "sourceLineCount": 14,
+      "excludedLineCount": 10,
+      "jsonPath": "translations/ko/pages/page_0026.json",
+      "txtPath": "translations/ko/pages/page_0026.txt"
+    },
+    {
+      "page": 27,
+      "pageId": "page_0027",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 13,
+      "sourceLineCount": 38,
+      "excludedLineCount": 12,
+      "jsonPath": "translations/ko/pages/page_0027.json",
+      "txtPath": "translations/ko/pages/page_0027.txt"
+    },
+    {
+      "page": 28,
+      "pageId": "page_0028",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 6,
+      "sourceLineCount": 19,
+      "excludedLineCount": 4,
+      "jsonPath": "translations/ko/pages/page_0028.json",
+      "txtPath": "translations/ko/pages/page_0028.txt"
+    },
+    {
+      "page": 29,
+      "pageId": "page_0029",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 11,
+      "sourceLineCount": 33,
+      "excludedLineCount": 14,
+      "jsonPath": "translations/ko/pages/page_0029.json",
+      "txtPath": "translations/ko/pages/page_0029.txt"
+    },
+    {
+      "page": 30,
+      "pageId": "page_0030",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 8,
+      "sourceLineCount": 32,
+      "excludedLineCount": 6,
+      "jsonPath": "translations/ko/pages/page_0030.json",
+      "txtPath": "translations/ko/pages/page_0030.txt"
+    },
+    {
       "page": 31,
       "pageId": "page_0031",
       "status": "reviewed",
@@ -187,6 +374,105 @@
       "excludedLineCount": 1,
       "jsonPath": "translations/ko/pages/page_0031.json",
       "txtPath": "translations/ko/pages/page_0031.txt"
+    },
+    {
+      "page": 32,
+      "pageId": "page_0032",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 9,
+      "sourceLineCount": 31,
+      "excludedLineCount": 3,
+      "jsonPath": "translations/ko/pages/page_0032.json",
+      "txtPath": "translations/ko/pages/page_0032.txt"
+    },
+    {
+      "page": 35,
+      "pageId": "page_0035",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 9,
+      "sourceLineCount": 31,
+      "excludedLineCount": 11,
+      "jsonPath": "translations/ko/pages/page_0035.json",
+      "txtPath": "translations/ko/pages/page_0035.txt"
+    },
+    {
+      "page": 36,
+      "pageId": "page_0036",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 7,
+      "sourceLineCount": 38,
+      "excludedLineCount": 3,
+      "jsonPath": "translations/ko/pages/page_0036.json",
+      "txtPath": "translations/ko/pages/page_0036.txt"
+    },
+    {
+      "page": 37,
+      "pageId": "page_0037",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 7,
+      "sourceLineCount": 14,
+      "excludedLineCount": 21,
+      "jsonPath": "translations/ko/pages/page_0037.json",
+      "txtPath": "translations/ko/pages/page_0037.txt"
+    },
+    {
+      "page": 38,
+      "pageId": "page_0038",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 16,
+      "sourceLineCount": 60,
+      "excludedLineCount": 11,
+      "jsonPath": "translations/ko/pages/page_0038.json",
+      "txtPath": "translations/ko/pages/page_0038.txt"
+    },
+    {
+      "page": 39,
+      "pageId": "page_0039",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 5,
+      "sourceLineCount": 6,
+      "excludedLineCount": 1,
+      "jsonPath": "translations/ko/pages/page_0039.json",
+      "txtPath": "translations/ko/pages/page_0039.txt"
+    },
+    {
+      "page": 40,
+      "pageId": "page_0040",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 5,
+      "sourceLineCount": 18,
+      "excludedLineCount": 3,
+      "jsonPath": "translations/ko/pages/page_0040.json",
+      "txtPath": "translations/ko/pages/page_0040.txt"
+    },
+    {
+      "page": 41,
+      "pageId": "page_0041",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 14,
+      "sourceLineCount": 29,
+      "excludedLineCount": 22,
+      "jsonPath": "translations/ko/pages/page_0041.json",
+      "txtPath": "translations/ko/pages/page_0041.txt"
+    },
+    {
+      "page": 42,
+      "pageId": "page_0042",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 4,
+      "sourceLineCount": 10,
+      "excludedLineCount": 12,
+      "jsonPath": "translations/ko/pages/page_0042.json",
+      "txtPath": "translations/ko/pages/page_0042.txt"
     },
     {
       "page": 43,
@@ -200,6 +486,160 @@
       "txtPath": "translations/ko/pages/page_0043.txt"
     },
     {
+      "page": 44,
+      "pageId": "page_0044",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 11,
+      "sourceLineCount": 37,
+      "excludedLineCount": 9,
+      "jsonPath": "translations/ko/pages/page_0044.json",
+      "txtPath": "translations/ko/pages/page_0044.txt"
+    },
+    {
+      "page": 45,
+      "pageId": "page_0045",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 8,
+      "sourceLineCount": 19,
+      "excludedLineCount": 3,
+      "jsonPath": "translations/ko/pages/page_0045.json",
+      "txtPath": "translations/ko/pages/page_0045.txt"
+    },
+    {
+      "page": 46,
+      "pageId": "page_0046",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 6,
+      "sourceLineCount": 22,
+      "excludedLineCount": 5,
+      "jsonPath": "translations/ko/pages/page_0046.json",
+      "txtPath": "translations/ko/pages/page_0046.txt"
+    },
+    {
+      "page": 47,
+      "pageId": "page_0047",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 10,
+      "sourceLineCount": 22,
+      "excludedLineCount": 9,
+      "jsonPath": "translations/ko/pages/page_0047.json",
+      "txtPath": "translations/ko/pages/page_0047.txt"
+    },
+    {
+      "page": 48,
+      "pageId": "page_0048",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 10,
+      "sourceLineCount": 26,
+      "excludedLineCount": 3,
+      "jsonPath": "translations/ko/pages/page_0048.json",
+      "txtPath": "translations/ko/pages/page_0048.txt"
+    },
+    {
+      "page": 49,
+      "pageId": "page_0049",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 11,
+      "sourceLineCount": 26,
+      "excludedLineCount": 1,
+      "jsonPath": "translations/ko/pages/page_0049.json",
+      "txtPath": "translations/ko/pages/page_0049.txt"
+    },
+    {
+      "page": 50,
+      "pageId": "page_0050",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 8,
+      "sourceLineCount": 33,
+      "excludedLineCount": 8,
+      "jsonPath": "translations/ko/pages/page_0050.json",
+      "txtPath": "translations/ko/pages/page_0050.txt"
+    },
+    {
+      "page": 51,
+      "pageId": "page_0051",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 5,
+      "sourceLineCount": 34,
+      "excludedLineCount": 2,
+      "jsonPath": "translations/ko/pages/page_0051.json",
+      "txtPath": "translations/ko/pages/page_0051.txt"
+    },
+    {
+      "page": 52,
+      "pageId": "page_0052",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 5,
+      "sourceLineCount": 16,
+      "excludedLineCount": 0,
+      "jsonPath": "translations/ko/pages/page_0052.json",
+      "txtPath": "translations/ko/pages/page_0052.txt"
+    },
+    {
+      "page": 53,
+      "pageId": "page_0053",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 7,
+      "sourceLineCount": 32,
+      "excludedLineCount": 16,
+      "jsonPath": "translations/ko/pages/page_0053.json",
+      "txtPath": "translations/ko/pages/page_0053.txt"
+    },
+    {
+      "page": 54,
+      "pageId": "page_0054",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 4,
+      "sourceLineCount": 11,
+      "excludedLineCount": 4,
+      "jsonPath": "translations/ko/pages/page_0054.json",
+      "txtPath": "translations/ko/pages/page_0054.txt"
+    },
+    {
+      "page": 55,
+      "pageId": "page_0055",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 11,
+      "sourceLineCount": 36,
+      "excludedLineCount": 10,
+      "jsonPath": "translations/ko/pages/page_0055.json",
+      "txtPath": "translations/ko/pages/page_0055.txt"
+    },
+    {
+      "page": 56,
+      "pageId": "page_0056",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 6,
+      "sourceLineCount": 11,
+      "excludedLineCount": 4,
+      "jsonPath": "translations/ko/pages/page_0056.json",
+      "txtPath": "translations/ko/pages/page_0056.txt"
+    },
+    {
+      "page": 57,
+      "pageId": "page_0057",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 5,
+      "sourceLineCount": 27,
+      "excludedLineCount": 6,
+      "jsonPath": "translations/ko/pages/page_0057.json",
+      "txtPath": "translations/ko/pages/page_0057.txt"
+    },
+    {
       "page": 58,
       "pageId": "page_0058",
       "status": "reviewed",
@@ -209,6 +649,83 @@
       "excludedLineCount": 1,
       "jsonPath": "translations/ko/pages/page_0058.json",
       "txtPath": "translations/ko/pages/page_0058.txt"
+    },
+    {
+      "page": 59,
+      "pageId": "page_0059",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 5,
+      "sourceLineCount": 25,
+      "excludedLineCount": 4,
+      "jsonPath": "translations/ko/pages/page_0059.json",
+      "txtPath": "translations/ko/pages/page_0059.txt"
+    },
+    {
+      "page": 60,
+      "pageId": "page_0060",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 9,
+      "sourceLineCount": 38,
+      "excludedLineCount": 5,
+      "jsonPath": "translations/ko/pages/page_0060.json",
+      "txtPath": "translations/ko/pages/page_0060.txt"
+    },
+    {
+      "page": 61,
+      "pageId": "page_0061",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 7,
+      "sourceLineCount": 17,
+      "excludedLineCount": 7,
+      "jsonPath": "translations/ko/pages/page_0061.json",
+      "txtPath": "translations/ko/pages/page_0061.txt"
+    },
+    {
+      "page": 65,
+      "pageId": "page_0065",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 9,
+      "sourceLineCount": 58,
+      "excludedLineCount": 5,
+      "jsonPath": "translations/ko/pages/page_0065.json",
+      "txtPath": "translations/ko/pages/page_0065.txt"
+    },
+    {
+      "page": 66,
+      "pageId": "page_0066",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 8,
+      "sourceLineCount": 28,
+      "excludedLineCount": 0,
+      "jsonPath": "translations/ko/pages/page_0066.json",
+      "txtPath": "translations/ko/pages/page_0066.txt"
+    },
+    {
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 7,
+      "sourceLineCount": 15,
+      "excludedLineCount": 2,
+      "jsonPath": "translations/ko/pages/page_0067.json",
+      "txtPath": "translations/ko/pages/page_0067.txt"
+    },
+    {
+      "page": 68,
+      "pageId": "page_0068",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "unitCount": 1,
+      "sourceLineCount": 13,
+      "excludedLineCount": 0,
+      "jsonPath": "translations/ko/pages/page_0068.json",
+      "txtPath": "translations/ko/pages/page_0068.txt"
     }
   ],
   "notes": [

@@ -7,18 +7,79 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "handwritten_correspondence_or_note",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_SECOND_PASS; body excluded from public dataset until further review.",
+  "sourceLayer": "line_audit",
+  "translationReadiness": "ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "All 13 source-bearing line(s) IMAGE_MATCHED. Ready for translation handoff.",
   "excludedLineIds": [],
-  "lineCount": 1,
+  "lineCount": 13,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "Mr. J. Edgar Hoover",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Wash. D.C.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "Doesn't it seem wisest",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "for you to forbid papers",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "(no not forbid - but ask",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "The co-operation of all",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "papers to keep all news of those",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "cases out - J. Life News",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "RECORDED 62-834-22",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "43",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "JUL 14 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "cc Chicago",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "7-18-47 we",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

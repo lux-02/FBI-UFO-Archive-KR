@@ -7,18 +7,232 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "typed_official_document",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "21 permanent_unresolved line(s) excluded under SRC-896. 14 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0037-l0002",
+    "page_0037-l0005",
+    "page_0037-l0009",
+    "page_0037-l0011",
+    "page_0037-l0012",
+    "page_0037-l0013",
+    "page_0037-l0014",
+    "page_0037-l0015",
+    "page_0037-l0016",
+    "page_0037-l0017",
+    "page_0037-l0018",
+    "page_0037-l0020",
+    "page_0037-l0021",
+    "page_0037-l0022",
+    "page_0037-l0023",
+    "page_0037-l0024",
+    "page_0037-l0025",
+    "page_0037-l0026",
+    "page_0037-l0027",
+    "page_0037-l0029",
+    "page_0037-l0030"
+  ],
+  "lineCount": 35,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "STANDARD FORM NO. 64",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 3,
+      "text": "TO : DIRECTOR, FBI",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "FROM : SAC, EL PASO",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "SUBJECT: [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 6,
+      "text": "FLYING OBJECTS IN AIR",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "DATE: July 22, 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "67C",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "New Mexico on several occasions to report that she has received information",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 10,
+      "text": "concerning flying objects passing through the air. Some of the reports that she",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "has received concern light objects seen at night which have allegedly been follow-",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 12,
+      "text": "ed by explosions. She advised that one of such objects was reported by [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 13,
+      "text": "[REDACTED] who works near Canjilon, New Mexico. She claims that 67C",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 14,
+      "text": "others were seen near Park View and Tierra Amarilla, New Mexico.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 15,
+      "text": "[REDACTED] called attention to clippings from various newspapers 67C",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 16,
+      "text": "concerning \"disc-like\" objects seen in New Mexico and other parts of the country.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 17,
+      "text": "[REDACTED] claims to be a student of radio waves and ray forms, and",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 18,
+      "text": "contends that the above mentioned objects may be missiles similar to those appear-67",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 19,
+      "text": "ing over Sweden some time ago.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "[REDACTED] has discussed the above with officials of the Atomic",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 21,
+      "text": "Energy Commission, and has written the Secretary of War and other government 67C",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 22,
+      "text": "officials concerning her theories. [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 23,
+      "text": "[REDACTED] for the A.E.C., has advised that officials at Los Alamos consider",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 24,
+      "text": "[REDACTED] unreliable and possibly not well balanced mentally. She has mentioned to",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 25,
+      "text": "agents of this office that she was struck by lightning when a child.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 26,
+      "text": "On July 15, [REDACTED] came to the Santa Fe resident agency and 67C",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 27,
+      "text": "advised that she had written to WALTER WINCHELL, promising him a story in connection",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 28,
+      "text": "with the \"flying discs.\"",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "text": "67C The foregoing information is being submitted to the Bureau, inasmuch as",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 30,
+      "text": "[REDACTED] has written to several government officials and Mr. WINCHELL.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 31,
+      "text": "62-0-3594c",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "FTN:GH",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "RECORDED 62-83894-37",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "INDEXED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "text": "34",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

@@ -4,11 +4,11 @@ This directory contains public-facing OCR and Korean translation datasets derive
 
 ## Status
 
-- **part-01** (`ufo1.pdf`, 69 pages) — pilot, line-audit closure complete (2026-05-10).
-  - 95.7% of source-bearing lines closed against image evidence.
-  - 19 lines marked permanent_unresolved (physical obstruction, cropping, stamps).
-  - Page-level breakdown: 5 READY · 11 PARTIAL_READY (line audit), with the remaining pages available as page-level review records.
-  - Korean translation export: 110 reviewed units across 16 line-audit pages, not final owner-approved.
+- **part-01** (`ufo1.pdf`, 69 pages) — OCR + translation reprocess complete (2026-05-10).
+  - 1,737 source-bearing lines promoted through conservative image-match closure.
+  - 321 lines marked permanent_unresolved and excluded from translation body text.
+  - Page-level breakdown: 9 READY · 54 PARTIAL_READY · 6 NOT_READY.
+  - Korean translation export: 490 reviewed units across 63 pages, not final owner-approved.
 - **part-02** (`ufo2.pdf`, 79 pages) — OCR + translation export complete (2026-05-10).
   - 2,859 source-bearing lines promoted through conservative image-match closure.
   - 721 lines marked permanent_unresolved and excluded from translation body text.
@@ -117,14 +117,14 @@ dataset/
 
 | Part | `line_audit` | `manual_review` | `no_text` | `draft_only` | Translation source policy |
 |---:|---:|---:|---:|---:|---|
-| 01 | 16 | 8 | 3 | 42 | Line-audit/manual reviewed pages only |
+| 01 | 69 | 0 | 0 | 0 | `IMAGE_MATCHED` lines only |
 | 02 | 79 | 0 | 0 | 0 | `IMAGE_MATCHED` lines only |
 | 03 | 111 | 0 | 0 | 0 | `IMAGE_MATCHED` lines only |
 | 04 | 77 | 0 | 0 | 0 | `IMAGE_MATCHED` lines only |
 | 05 | 74 | 0 | 0 | 0 | `IMAGE_MATCHED` lines only |
 | 06 | 129 | 0 | 0 | 0 | `IMAGE_MATCHED` lines only |
 
-Parts 02-06 use line-level closure for every page. Only `IMAGE_MATCHED` lines are translation source; unresolved lines are retained as excluded source-line records.
+Parts 01-06 use line-level closure for every page. Only `IMAGE_MATCHED` lines are translation source; unresolved lines are retained as excluded source-line records.
 
 ## Korean Translation Status
 

@@ -7,18 +7,132 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "typed_official_document",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 15 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0067-l0019",
+    "page_0067-l0024"
+  ],
+  "lineCount": 24,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "Mr. J. Edgar Hoover",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Wash. D.C.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
+      "text": "Doesn't it seem wisest for you to forbid papers - (No not forbid - but ask",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "the co-operation of all papers) to keep all news of those discs out of the news",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "until you are sure just what they are & where from.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "It seems to us with all the enemies we have, even within our borders,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "it could be something far more important than may seem at first. I had 2 sons",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "in this war & another who over-did for his America - & we do want it really",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "protected from danger from now on. Enough are dead & maimed - with-out losing out",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "now as it easily could be. Why have the papers carried that story if reporters",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "were made to see how much more sensible not to report - it except to the F.B.I.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
+      "text": "There is too much of danger ahead anyway -",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Hastily",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 19,
+      "text": "/s/ [REDACTED] b7c",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 20,
+      "text": "Chicago -",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 22,
+      "text": "TRUE COPY",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 24,
+      "text": "62-93894-22",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

@@ -6,11 +6,12 @@
   "pageId": "page_0014",
   "source": {
     "pdfPath": "docs/ufo1.pdf",
-    "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+    "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
   },
   "status": "reviewed",
   "approvalStatus": "not_approved",
-  "exportedAt": "2026-05-10T03:13:50.215Z",
+  "exportedAt": "2026-05-10T14:28:13.026Z",
   "unitCount": 4,
   "sourceLineCount": 5,
   "excludedLineCount": 0,
@@ -48,12 +49,12 @@
         "text": "CONFIDENTIAL"
       },
       "translation": {
-        "text": "기밀",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "text": "대외비",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null
@@ -92,11 +93,11 @@
       },
       "translation": {
         "text": "증거물 I",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null
@@ -135,11 +136,11 @@
       },
       "translation": {
         "text": "증거물 II",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null
@@ -188,12 +189,12 @@
         "text": "CONFIDENTIAL\nEXHIBIT # 1+2"
       },
       "translation": {
-        "text": "기밀\n증거물 # 1+2",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "text": "대외비\n증거물 # 1+2",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null

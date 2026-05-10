@@ -7,18 +7,317 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "teletype_or_wire_message",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "12 permanent_unresolved line(s) excluded under SRC-896. 38 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0027-l0005",
+    "page_0027-l0010",
+    "page_0027-l0034",
+    "page_0027-l0035",
+    "page_0027-l0038",
+    "page_0027-l0040",
+    "page_0027-l0042",
+    "page_0027-l0043",
+    "page_0027-l0044",
+    "page_0027-l0045",
+    "page_0027-l0046",
+    "page_0027-l0056"
+  ],
+  "lineCount": 57,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "FEDERAL BUREAU OF INVESTIGATION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "U. S. DEPARTMENT OF JUSTICE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "COMMUNICATIONS SECTION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "AUG 6 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "[unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 6,
+      "text": "TELETYPE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "b7c",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "[REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Mr. Clegg...............",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "Mr. Glavin..............",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Mr. Ladd................",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Mr. Nichols.............",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Mr. Rosen...............",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Mr. Tracy...............",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "Mr. Egan................",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "Mr. Gurnea..............",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "Mr. Harbo...............",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "text": "Mr. Mohr................",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "Mr. Pennington..........",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "text": "Mr. Quinn Tamm..........",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "Mr. Nease...............",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "Miss Gandy..............",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 27,
+      "text": "FBI PORTLAND      8-5-47      8-50 PM            HHS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
+      "text": "DIRECTOR AND SACS SEATTLE AND SAN FRANCISCO   U R G E N T",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
+      "text": "FLYING DISCS, SM DASH X.  RE TELEPHONE CALL FROM MR. LADD, ONE PM",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "TODAY REQUESTING TELETYPE SUMMARY CONCERNING NEWSPAPER REPORTS OF",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "RECENT REPORTED FLYING DISCS IN PORTLAND AREA AND A REPORTED CONFERENCE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "OF ARMY OFFICIALS IN PORTLAND CONCERNING FLYING DISCS.  [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 35,
+      "text": "[REDACTED] THE OREGONIAN, ADVISED THAT A CAPTAIN",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 36,
+      "text": "WILLIAM L. DAVIDSON AND LT. FRANK M. BROWN OF FOURTH AAF HEADQUARTERS,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 37,
+      "text": "SAN FRANCISCO WERE IN PORTLAND JULY TWENTYSEVEN LAST AND INTERVIEWED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "text": "[REDACTED] AN EXPERIENCED PILOT, WHO HAD REPORTED JUNE FOURTEEN b7c",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 39,
+      "text": "LAST SEEING A FORMATION OF TEN FLYING DISCS OVER BAKERS-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "FIELD , CALIF.  ACCORDING TO [REDACTED] THEY HAD ALSO INTERVIEWED",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 41,
+      "text": "FOLLOWING FOUR EXPERIENCED PILOTS WHO WERE AMONG FIRST WHO REPORTED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 42,
+      "text": "SEEING DISCS - [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 43,
+      "text": "[REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 44,
+      "text": "[REDACTED] TO ASCERTAIN THE",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 45,
+      "text": "RECORDED 62-83894-4[unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 46,
+      "text": "PURPOSE OF THE INTERVEWS [REDACTED] CONTACTED MAJOR GENERAL TWINING -9",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 47,
+      "text": "INDEXED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 48,
+      "text": "OF WRIGHT FIELD, OHIO BY PHONE AT ALBUQUERQUE, NM, AND FROM HIM b7c",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "text": "GAINED THE IMPRESSION THAT THE AAF INSTITUTED THIS INVESTIGATION TO",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 50,
+      "text": "EX-50",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "text": "WASH OUT THE DISC REPORTS, SINCE THEY ARE DEFINITELY NOT OF AAF ORIGIN",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 52,
+      "text": "ON FRIDAY, AUGUST FIRST, THE PLANE IN WHICH AAF INVESTIGATORS CAPTAIN",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 53,
+      "text": "DAVIDSON AND LT. BROWN WERE RIDING, CRASHED AT KELSO, WASH. AND BOTH",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 54,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 55,
+      "text": "COPIES DESTROYED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 56,
+      "text": "[unclear] NOV 10 1964",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 57,
+      "text": "81 OCT 2 - 1947",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

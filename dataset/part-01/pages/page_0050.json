@@ -7,19 +7,268 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "manual_review",
-  "translationReadiness": "ready",
-  "pageType": "typed_official_document",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level NORMALIZED review by codex. Approved as page source candidate.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 33 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0050-l0008",
+    "page_0050-l0009",
+    "page_0050-l0010",
+    "page_0050-l0012",
+    "page_0050-l0013",
+    "page_0050-l0014",
+    "page_0050-l0015",
+    "page_0050-l0038"
+  ],
+  "lineCount": 49,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "page_normalized",
-      "text": "Westport, Connecticut\n\nYour letter dated July 27, 1947, together with enclosures, has been received and I want to thank you for submitting the letter you mentioned to me.\n\nSincerely yours,\nJohn Edgar Hoover\nDirector"
+      "text": "W",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "X-57",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "RECORDED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "INDEXED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "28",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "July 23, 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "[REDACTED] 67c",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Westport, Connecticut",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 10,
+      "text": "Dear [REDACTED] 67c",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Your letter dated July 17, 1947,",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 13,
+      "text": "together with enclosures, has been received",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 14,
+      "text": "and I want to thank you for submitting the",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 15,
+      "text": "letter you mentioned to me.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 16,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Sincerely yours,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 19,
+      "text": "John Edgar Hoover",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "Director.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 22,
+      "text": "COMMUNICATIONS SECTION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "text": "MAILED 2",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "JUL 25 1947 P.M.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "FEDERAL BUREAU OF INVESTIGATION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "U. S. DEPARTMENT OF JUSTICE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
+      "text": "62-85894-29",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 30,
+      "text": "Mr. Tolson",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "text": "Mr. E. A. Tamm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "Mr. Clegg",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "Mr. Glavin",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "Mr. Ladd",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "text": "Mr. Nichols",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "text": "Mr. Rosen",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 37,
+      "text": "Mr. Tracy",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "text": "Mr. [unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Mr. Gurnea",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "Mr. Harbo",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
+      "text": "Mr. Mohr",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 42,
+      "text": "Mr. Pennington",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 43,
+      "text": "Mr. Quinn Tamm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "Mr. Tele. Room",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "text": "Mr. Nease",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 46,
+      "text": "Miss Gandy",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 47,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 48,
+      "text": "BHMapib",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "text": "510C11.04/163",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 1
+  "blockCount": null
 }

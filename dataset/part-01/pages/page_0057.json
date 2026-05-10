@@ -7,18 +7,200 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "teletype_or_wire_message",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_SECOND_PASS; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 27 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0057-l0012",
+    "page_0057-l0013",
+    "page_0057-l0014",
+    "page_0057-l0017",
+    "page_0057-l0018",
+    "page_0057-l0019"
+  ],
+  "lineCount": 35,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "FEDERAL BUREAU OF INVESTIGATION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "U. S. DEPARTMENT OF JUSTICE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "COMMUNICATIONS SECTION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "JUL 16 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "TELETYPE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "7-16-47 10 15 A",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "URGENT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "FLI SEATTLE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "DIRECTOR",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "RE FLYING DISKS. MRS. [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 13,
+      "text": "SEATTLE, REPORTED FLYING DISK HAD LANDED ON [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 14,
+      "text": "ABOUT NINE FORTY TWO PM LAST NIGHT, THAT IT WAS BURNING AT [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 15,
+      "text": "IMMEDIATELY EXTINGUISHED. SHE ALSO ADVISED OHI, AND DISK FELL SHORT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "DISTANCE FROM THEIR OFFICES. AGENTS IMMEDIATELY DISPATCHED TO SCENE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "AND RECOVERED DISK TAKEN OHI OFFICES AND EXAMINED BY NAVY [unclear] AND",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 18,
+      "text": "ELECTRONICS [REDACTED] EXPERTS AND AGENTS. DISK DESCRIBED AS ABOUT",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 19,
+      "text": "TWENTY EIGHT INCH [REDACTED] CIRCULAR PIECE THREE SIXTEENTH INCH PLYWOOD",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 20,
+      "text": "CUPPED UP ON TWO SIDES AND HELD THIS POSITION BY WIRE ACROSS ITS CENTER.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "text": "LACK NEWLY PAINTED LIGHT GRAY OUTSIDE AND RED INSIDE, AND INSIDE OF DISK",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "PRINTED LETTERS IN WHITE PAINT AS FOLLOWS QUOTE U S S A UNQUOTE,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "text": "ALSO QUOTE E Y R UNQUOTE, WHICH WOULD APPEAR TO BE EYE PRINTED BACKWARD",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "AND A HAMMER AND SICKLE. MOUNTED ON PIECES OF BAKELITE IN THE CENTER",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "OF THE INSIDE OF THE DISK WERE TWO RADIO TUBES, WHICH WERE WIRED UP",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "AND ALSO SO MOUNTED WAS ABOUT A QUART TYPE CYLINDRICAL SHAPED OIL CAN",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "TO WHICH WAS FITTED A SHORT PIECE OF RUBBER TUBING RUNNING FROM CAN",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "text": "TO ENTRANCE TO A PIECE OF ONE INCH PIPE ABOUT FOURTEEN INCHES LONG.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "text": "THE PIPE EXTENDED THROUGH THE DISK AND AT THE OUTER END OF THE PIPE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "text": "WAS ABOUT A SIX INCH PIECE OF CLOTH, WHICH WAS WOUND ABOUT AND STUCK",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "text": "INTO THE END OF THE PIPE. THE ENDS OF THIS CLOTH WERE CHARRED FROM",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "BURNING. THE CLOTH WAS SATURATED WITH SOME SUBSTANCE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "58 AUG 1 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "PAGE 137",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "text": "cc: Mr. Ladd",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

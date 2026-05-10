@@ -7,18 +7,18 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
+  "sourceLayer": "line_audit",
   "translationReadiness": "not_ready",
-  "pageType": "teletype_or_wire_message",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "NO_SAFE_SOURCE_TEXT",
+  "pageReadinessNote": null,
   "excludedLineIds": [],
   "lineCount": 1,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "status": "blank"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

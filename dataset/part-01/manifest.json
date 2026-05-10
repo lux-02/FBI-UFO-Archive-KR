@@ -8,35 +8,32 @@
     "pageCount": 69,
     "sourceUrl": "https://vault.fbi.gov/UFO"
   },
-  "status": "pilot_ocr_and_translation_reviewed_exported",
-  "exportedAt": "2026-05-10T02:26:33.487Z",
+  "status": "line_audit_finalized",
+  "exportedAt": "2026-05-10T14:28:12.988Z",
   "lineAuditFinalState": {
-    "rebuiltAt": "2026-05-10",
-    "imageMatched": 418,
-    "structureBlank": 93,
-    "permanentUnresolved": 19,
-    "blockingOther": 0,
-    "nonBlankLines": 530,
-    "closureRatePercent": 95.7,
-    "pageReadiness": {
-      "READY": 5,
-      "PARTIAL_READY": 11,
-      "NOT_READY": 0
+    "finalizedAt": "2026-05-10T14:22:08.794Z",
+    "pageCount": 69,
+    "imageMatchedLineCount": 1737,
+    "permanentlyUnresolvedCount": 321,
+    "pageReadinessCounts": {
+      "READY": 9,
+      "PARTIAL_READY": 54,
+      "NOT_READY": 6
     }
   },
   "sourceLayerCounts": {
-    "line_audit": 16,
-    "manual_review": 8,
-    "no_text": 3,
-    "draft_only": 42
+    "line_audit": 69,
+    "manual_review": 0,
+    "no_text": 0,
+    "draft_only": 0
   },
   "pages": [
     {
       "page": 1,
       "pageId": "page_0001",
-      "sourceLayer": "manual_review",
+      "sourceLayer": "line_audit",
       "translationReadiness": "ready",
-      "pageType": "cover_or_section_divider",
+      "pageType": "unknown_or_low_text_scan",
       "txtPath": "pages/page_0001.txt",
       "jsonPath": "pages/page_0001.json"
     },
@@ -45,402 +42,259 @@
       "pageId": "page_0002",
       "sourceLayer": "line_audit",
       "translationReadiness": "ready",
-      "pageType": "low_quality_clipping_or_photocopy",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0002.txt",
-      "jsonPath": "pages/page_0002.json",
-      "translations": {
-        "ko": {
-          "status": "reviewed",
-          "approvalStatus": "not_approved",
-          "unitCount": 9,
-          "sourceLineCount": 46,
-          "excludedLineCount": 0,
-          "txtPath": "translations/ko/pages/page_0002.txt",
-          "jsonPath": "translations/ko/pages/page_0002.json"
-        }
-      }
+      "jsonPath": "pages/page_0002.json"
     },
     {
       "page": 3,
       "pageId": "page_0003",
       "sourceLayer": "line_audit",
       "translationReadiness": "ready",
-      "pageType": "low_quality_clipping_or_photocopy",
+      "pageType": "unknown_or_low_text_scan",
       "txtPath": "pages/page_0003.txt",
-      "jsonPath": "pages/page_0003.json",
-      "translations": {
-        "ko": {
-          "status": "reviewed",
-          "approvalStatus": "not_approved",
-          "unitCount": 4,
-          "sourceLineCount": 15,
-          "excludedLineCount": 0,
-          "txtPath": "translations/ko/pages/page_0003.txt",
-          "jsonPath": "translations/ko/pages/page_0003.json"
-        }
-      }
+      "jsonPath": "pages/page_0003.json"
     },
     {
       "page": 4,
       "pageId": "page_0004",
       "sourceLayer": "line_audit",
       "translationReadiness": "partial_ready",
-      "pageType": "low_quality_clipping_or_photocopy",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0004.txt",
-      "jsonPath": "pages/page_0004.json",
-      "translations": {
-        "ko": {
-          "status": "reviewed",
-          "approvalStatus": "not_approved",
-          "unitCount": 6,
-          "sourceLineCount": 54,
-          "excludedLineCount": 1,
-          "txtPath": "translations/ko/pages/page_0004.txt",
-          "jsonPath": "translations/ko/pages/page_0004.json"
-        }
-      }
+      "jsonPath": "pages/page_0004.json"
     },
     {
       "page": 5,
       "pageId": "page_0005",
       "sourceLayer": "line_audit",
       "translationReadiness": "partial_ready",
-      "pageType": "low_quality_official_document_copy",
+      "pageType": "unknown_or_low_text_scan",
       "txtPath": "pages/page_0005.txt",
-      "jsonPath": "pages/page_0005.json",
-      "translations": {
-        "ko": {
-          "status": "reviewed",
-          "approvalStatus": "not_approved",
-          "unitCount": 9,
-          "sourceLineCount": 22,
-          "excludedLineCount": 2,
-          "txtPath": "translations/ko/pages/page_0005.txt",
-          "jsonPath": "translations/ko/pages/page_0005.json"
-        }
-      }
+      "jsonPath": "pages/page_0005.json"
     },
     {
       "page": 6,
       "pageId": "page_0006",
       "sourceLayer": "line_audit",
       "translationReadiness": "partial_ready",
-      "pageType": "low_quality_official_document_copy",
+      "pageType": "unknown_or_low_text_scan",
       "txtPath": "pages/page_0006.txt",
-      "jsonPath": "pages/page_0006.json",
-      "translations": {
-        "ko": {
-          "status": "reviewed",
-          "approvalStatus": "not_approved",
-          "unitCount": 7,
-          "sourceLineCount": 26,
-          "excludedLineCount": 2,
-          "txtPath": "translations/ko/pages/page_0006.txt",
-          "jsonPath": "translations/ko/pages/page_0006.json"
-        }
-      }
+      "jsonPath": "pages/page_0006.json"
     },
     {
       "page": 7,
       "pageId": "page_0007",
       "sourceLayer": "line_audit",
       "translationReadiness": "ready",
-      "pageType": "low_quality_clipping_or_photocopy",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0007.txt",
-      "jsonPath": "pages/page_0007.json",
-      "translations": {
-        "ko": {
-          "status": "reviewed",
-          "approvalStatus": "not_approved",
-          "unitCount": 7,
-          "sourceLineCount": 42,
-          "excludedLineCount": 0,
-          "txtPath": "translations/ko/pages/page_0007.txt",
-          "jsonPath": "translations/ko/pages/page_0007.json"
-        }
-      }
+      "jsonPath": "pages/page_0007.json"
     },
     {
       "page": 8,
       "pageId": "page_0008",
       "sourceLayer": "line_audit",
       "translationReadiness": "ready",
-      "pageType": "low_quality_clipping_or_photocopy",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0008.txt",
-      "jsonPath": "pages/page_0008.json",
-      "translations": {
-        "ko": {
-          "status": "reviewed",
-          "approvalStatus": "not_approved",
-          "unitCount": 5,
-          "sourceLineCount": 21,
-          "excludedLineCount": 0,
-          "txtPath": "translations/ko/pages/page_0008.txt",
-          "jsonPath": "translations/ko/pages/page_0008.json"
-        }
-      }
+      "jsonPath": "pages/page_0008.json"
     },
     {
       "page": 9,
       "pageId": "page_0009",
       "sourceLayer": "line_audit",
       "translationReadiness": "partial_ready",
-      "pageType": "low_quality_clipping_or_photocopy",
+      "pageType": "unknown_or_low_text_scan",
       "txtPath": "pages/page_0009.txt",
-      "jsonPath": "pages/page_0009.json",
-      "translations": {
-        "ko": {
-          "status": "reviewed",
-          "approvalStatus": "not_approved",
-          "unitCount": 8,
-          "sourceLineCount": 23,
-          "excludedLineCount": 2,
-          "txtPath": "translations/ko/pages/page_0009.txt",
-          "jsonPath": "translations/ko/pages/page_0009.json"
-        }
-      }
+      "jsonPath": "pages/page_0009.json"
     },
     {
       "page": 10,
       "pageId": "page_0010",
       "sourceLayer": "line_audit",
       "translationReadiness": "partial_ready",
-      "pageType": "low_quality_clipping_or_photocopy",
+      "pageType": "unknown_or_low_text_scan",
       "txtPath": "pages/page_0010.txt",
-      "jsonPath": "pages/page_0010.json",
-      "translations": {
-        "ko": {
-          "status": "reviewed",
-          "approvalStatus": "not_approved",
-          "unitCount": 8,
-          "sourceLineCount": 16,
-          "excludedLineCount": 2,
-          "txtPath": "translations/ko/pages/page_0010.txt",
-          "jsonPath": "translations/ko/pages/page_0010.json"
-        }
-      }
+      "jsonPath": "pages/page_0010.json"
     },
     {
       "page": 11,
       "pageId": "page_0011",
       "sourceLayer": "line_audit",
       "translationReadiness": "partial_ready",
-      "pageType": "low_quality_clipping_or_photocopy",
+      "pageType": "unknown_or_low_text_scan",
       "txtPath": "pages/page_0011.txt",
-      "jsonPath": "pages/page_0011.json",
-      "translations": {
-        "ko": {
-          "status": "reviewed",
-          "approvalStatus": "not_approved",
-          "unitCount": 9,
-          "sourceLineCount": 45,
-          "excludedLineCount": 1,
-          "txtPath": "translations/ko/pages/page_0011.txt",
-          "jsonPath": "translations/ko/pages/page_0011.json"
-        }
-      }
+      "jsonPath": "pages/page_0011.json"
     },
     {
       "page": 12,
       "pageId": "page_0012",
       "sourceLayer": "line_audit",
       "translationReadiness": "partial_ready",
-      "pageType": "low_quality_clipping_or_photocopy",
+      "pageType": "unknown_or_low_text_scan",
       "txtPath": "pages/page_0012.txt",
-      "jsonPath": "pages/page_0012.json",
-      "translations": {
-        "ko": {
-          "status": "reviewed",
-          "approvalStatus": "not_approved",
-          "unitCount": 8,
-          "sourceLineCount": 23,
-          "excludedLineCount": 2,
-          "txtPath": "translations/ko/pages/page_0012.txt",
-          "jsonPath": "translations/ko/pages/page_0012.json"
-        }
-      }
+      "jsonPath": "pages/page_0012.json"
     },
     {
       "page": 13,
       "pageId": "page_0013",
       "sourceLayer": "line_audit",
       "translationReadiness": "partial_ready",
-      "pageType": "low_quality_clipping_or_photocopy",
+      "pageType": "unknown_or_low_text_scan",
       "txtPath": "pages/page_0013.txt",
-      "jsonPath": "pages/page_0013.json",
-      "translations": {
-        "ko": {
-          "status": "reviewed",
-          "approvalStatus": "not_approved",
-          "unitCount": 8,
-          "sourceLineCount": 47,
-          "excludedLineCount": 1,
-          "txtPath": "translations/ko/pages/page_0013.txt",
-          "jsonPath": "translations/ko/pages/page_0013.json"
-        }
-      }
+      "jsonPath": "pages/page_0013.json"
     },
     {
       "page": 14,
       "pageId": "page_0014",
       "sourceLayer": "line_audit",
       "translationReadiness": "ready",
-      "pageType": "diagram_or_illustration_with_labels",
+      "pageType": "unknown_or_low_text_scan",
       "txtPath": "pages/page_0014.txt",
-      "jsonPath": "pages/page_0014.json",
-      "translations": {
-        "ko": {
-          "status": "reviewed",
-          "approvalStatus": "not_approved",
-          "unitCount": 4,
-          "sourceLineCount": 5,
-          "excludedLineCount": 0,
-          "txtPath": "translations/ko/pages/page_0014.txt",
-          "jsonPath": "translations/ko/pages/page_0014.json"
-        }
-      }
+      "jsonPath": "pages/page_0014.json"
     },
     {
       "page": 15,
       "pageId": "page_0015",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "newspaper_clipping_with_attachment_area",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0015.txt",
       "jsonPath": "pages/page_0015.json"
     },
     {
       "page": 16,
       "pageId": "page_0016",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0016.txt",
       "jsonPath": "pages/page_0016.json"
     },
     {
       "page": 17,
       "pageId": "page_0017",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0017.txt",
       "jsonPath": "pages/page_0017.json"
     },
     {
       "page": 18,
       "pageId": "page_0018",
-      "sourceLayer": "manual_review",
-      "translationReadiness": "ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0018.txt",
       "jsonPath": "pages/page_0018.json"
     },
     {
       "page": 19,
       "pageId": "page_0019",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "teletype_or_wire_message",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0019.txt",
       "jsonPath": "pages/page_0019.json"
     },
     {
       "page": 20,
       "pageId": "page_0020",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0020.txt",
       "jsonPath": "pages/page_0020.json"
     },
     {
       "page": 21,
       "pageId": "page_0021",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "teletype_or_wire_message",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0021.txt",
       "jsonPath": "pages/page_0021.json"
     },
     {
       "page": 22,
       "pageId": "page_0022",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_enclosure_or_attached_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0022.txt",
       "jsonPath": "pages/page_0022.json"
     },
     {
       "page": 23,
       "pageId": "page_0023",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0023.txt",
       "jsonPath": "pages/page_0023.json"
     },
     {
       "page": 24,
       "pageId": "page_0024",
-      "sourceLayer": "manual_review",
-      "translationReadiness": "ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "typed_or_printed_document",
       "txtPath": "pages/page_0024.txt",
       "jsonPath": "pages/page_0024.json"
     },
     {
       "page": 25,
       "pageId": "page_0025",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "newspaper_clipping_with_attachment_area",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0025.txt",
       "jsonPath": "pages/page_0025.json"
     },
     {
       "page": 26,
       "pageId": "page_0026",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "teletype_or_wire_message",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0026.txt",
       "jsonPath": "pages/page_0026.json"
     },
     {
       "page": 27,
       "pageId": "page_0027",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "teletype_or_wire_message",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0027.txt",
       "jsonPath": "pages/page_0027.json"
     },
     {
       "page": 28,
       "pageId": "page_0028",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "teletype_or_wire_message",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0028.txt",
       "jsonPath": "pages/page_0028.json"
     },
     {
       "page": 29,
       "pageId": "page_0029",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0029.txt",
       "jsonPath": "pages/page_0029.json"
     },
     {
       "page": 30,
       "pageId": "page_0030",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0030.txt",
       "jsonPath": "pages/page_0030.json"
     },
@@ -449,117 +303,106 @@
       "pageId": "page_0031",
       "sourceLayer": "line_audit",
       "translationReadiness": "partial_ready",
-      "pageType": "form_or_metadata_page",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0031.txt",
-      "jsonPath": "pages/page_0031.json",
-      "translations": {
-        "ko": {
-          "status": "reviewed",
-          "approvalStatus": "not_approved",
-          "unitCount": 7,
-          "sourceLineCount": 14,
-          "excludedLineCount": 1,
-          "txtPath": "translations/ko/pages/page_0031.txt",
-          "jsonPath": "translations/ko/pages/page_0031.json"
-        }
-      }
+      "jsonPath": "pages/page_0031.json"
     },
     {
       "page": 32,
       "pageId": "page_0032",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_enclosure_or_attached_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0032.txt",
       "jsonPath": "pages/page_0032.json"
     },
     {
       "page": 33,
       "pageId": "page_0033",
-      "sourceLayer": "draft_only",
+      "sourceLayer": "line_audit",
       "translationReadiness": "not_ready",
-      "pageType": "teletype_or_wire_message",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0033.txt",
       "jsonPath": "pages/page_0033.json"
     },
     {
       "page": 34,
       "pageId": "page_0034",
-      "sourceLayer": "draft_only",
+      "sourceLayer": "line_audit",
       "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0034.txt",
       "jsonPath": "pages/page_0034.json"
     },
     {
       "page": 35,
       "pageId": "page_0035",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "military_or_attached_report",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0035.txt",
       "jsonPath": "pages/page_0035.json"
     },
     {
       "page": 36,
       "pageId": "page_0036",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0036.txt",
       "jsonPath": "pages/page_0036.json"
     },
     {
       "page": 37,
       "pageId": "page_0037",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0037.txt",
       "jsonPath": "pages/page_0037.json"
     },
     {
       "page": 38,
       "pageId": "page_0038",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0038.txt",
       "jsonPath": "pages/page_0038.json"
     },
     {
       "page": 39,
       "pageId": "page_0039",
-      "sourceLayer": "manual_review",
-      "translationReadiness": "ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0039.txt",
       "jsonPath": "pages/page_0039.json"
     },
     {
       "page": 40,
       "pageId": "page_0040",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0040.txt",
       "jsonPath": "pages/page_0040.json"
     },
     {
       "page": 41,
       "pageId": "page_0041",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_enclosure_or_attached_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0041.txt",
       "jsonPath": "pages/page_0041.json"
     },
     {
       "page": 42,
       "pageId": "page_0042",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "handwritten_correspondence_or_note",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0042.txt",
       "jsonPath": "pages/page_0042.json"
     },
@@ -568,144 +411,133 @@
       "pageId": "page_0043",
       "sourceLayer": "line_audit",
       "translationReadiness": "partial_ready",
-      "pageType": "typed_envelope_or_routing_page",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0043.txt",
-      "jsonPath": "pages/page_0043.json",
-      "translations": {
-        "ko": {
-          "status": "reviewed",
-          "approvalStatus": "not_approved",
-          "unitCount": 6,
-          "sourceLineCount": 9,
-          "excludedLineCount": 4,
-          "txtPath": "translations/ko/pages/page_0043.txt",
-          "jsonPath": "translations/ko/pages/page_0043.json"
-        }
-      }
+      "jsonPath": "pages/page_0043.json"
     },
     {
       "page": 44,
       "pageId": "page_0044",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0044.txt",
       "jsonPath": "pages/page_0044.json"
     },
     {
       "page": 45,
       "pageId": "page_0045",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0045.txt",
       "jsonPath": "pages/page_0045.json"
     },
     {
       "page": 46,
       "pageId": "page_0046",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "teletype_or_wire_message",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0046.txt",
       "jsonPath": "pages/page_0046.json"
     },
     {
       "page": 47,
       "pageId": "page_0047",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "attached_bulletin_or_instruction",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0047.txt",
       "jsonPath": "pages/page_0047.json"
     },
     {
       "page": 48,
       "pageId": "page_0048",
-      "sourceLayer": "manual_review",
-      "translationReadiness": "ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0048.txt",
       "jsonPath": "pages/page_0048.json"
     },
     {
       "page": 49,
       "pageId": "page_0049",
-      "sourceLayer": "manual_review",
-      "translationReadiness": "ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0049.txt",
       "jsonPath": "pages/page_0049.json"
     },
     {
       "page": 50,
       "pageId": "page_0050",
-      "sourceLayer": "manual_review",
-      "translationReadiness": "ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0050.txt",
       "jsonPath": "pages/page_0050.json"
     },
     {
       "page": 51,
       "pageId": "page_0051",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_enclosure_or_attached_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0051.txt",
       "jsonPath": "pages/page_0051.json"
     },
     {
       "page": 52,
       "pageId": "page_0052",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_enclosure_or_attached_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0052.txt",
       "jsonPath": "pages/page_0052.json"
     },
     {
       "page": 53,
       "pageId": "page_0053",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "teletype_or_wire_message",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0053.txt",
       "jsonPath": "pages/page_0053.json"
     },
     {
       "page": 54,
       "pageId": "page_0054",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "teletype_or_wire_message",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0054.txt",
       "jsonPath": "pages/page_0054.json"
     },
     {
       "page": 55,
       "pageId": "page_0055",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0055.txt",
       "jsonPath": "pages/page_0055.json"
     },
     {
       "page": 56,
       "pageId": "page_0056",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0056.txt",
       "jsonPath": "pages/page_0056.json"
     },
     {
       "page": 57,
       "pageId": "page_0057",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "teletype_or_wire_message",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0057.txt",
       "jsonPath": "pages/page_0057.json"
     },
@@ -714,117 +546,106 @@
       "pageId": "page_0058",
       "sourceLayer": "line_audit",
       "translationReadiness": "partial_ready",
-      "pageType": "teletype_or_wire_message",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0058.txt",
-      "jsonPath": "pages/page_0058.json",
-      "translations": {
-        "ko": {
-          "status": "reviewed",
-          "approvalStatus": "not_approved",
-          "unitCount": 5,
-          "sourceLineCount": 10,
-          "excludedLineCount": 1,
-          "txtPath": "translations/ko/pages/page_0058.txt",
-          "jsonPath": "translations/ko/pages/page_0058.json"
-        }
-      }
+      "jsonPath": "pages/page_0058.json"
     },
     {
       "page": 59,
       "pageId": "page_0059",
-      "sourceLayer": "manual_review",
-      "translationReadiness": "ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0059.txt",
       "jsonPath": "pages/page_0059.json"
     },
     {
       "page": 60,
       "pageId": "page_0060",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0060.txt",
       "jsonPath": "pages/page_0060.json"
     },
     {
       "page": 61,
       "pageId": "page_0061",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0061.txt",
       "jsonPath": "pages/page_0061.json"
     },
     {
       "page": 62,
       "pageId": "page_0062",
-      "sourceLayer": "no_text",
+      "sourceLayer": "line_audit",
       "translationReadiness": "not_ready",
-      "pageType": "photo_or_image_plate",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0062.txt",
       "jsonPath": "pages/page_0062.json"
     },
     {
       "page": 63,
       "pageId": "page_0063",
-      "sourceLayer": "no_text",
+      "sourceLayer": "line_audit",
       "translationReadiness": "not_ready",
-      "pageType": "photo_or_image_plate",
+      "pageType": "unknown_or_low_text_scan",
       "txtPath": "pages/page_0063.txt",
       "jsonPath": "pages/page_0063.json"
     },
     {
       "page": 64,
       "pageId": "page_0064",
-      "sourceLayer": "no_text",
+      "sourceLayer": "line_audit",
       "translationReadiness": "not_ready",
-      "pageType": "photo_or_image_plate",
+      "pageType": "unknown_or_low_text_scan",
       "txtPath": "pages/page_0064.txt",
       "jsonPath": "pages/page_0064.json"
     },
     {
       "page": 65,
       "pageId": "page_0065",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0065.txt",
       "jsonPath": "pages/page_0065.json"
     },
     {
       "page": 66,
       "pageId": "page_0066",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0066.txt",
       "jsonPath": "pages/page_0066.json"
     },
     {
       "page": 67,
       "pageId": "page_0067",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "typed_official_document",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "partial_ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0067.txt",
       "jsonPath": "pages/page_0067.json"
     },
     {
       "page": 68,
       "pageId": "page_0068",
-      "sourceLayer": "draft_only",
-      "translationReadiness": "not_ready",
-      "pageType": "handwritten_correspondence_or_note",
+      "sourceLayer": "line_audit",
+      "translationReadiness": "ready",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0068.txt",
       "jsonPath": "pages/page_0068.json"
     },
     {
       "page": 69,
       "pageId": "page_0069",
-      "sourceLayer": "draft_only",
+      "sourceLayer": "line_audit",
       "translationReadiness": "not_ready",
-      "pageType": "handwritten_correspondence_or_note",
+      "pageType": "low_quality_or_mixed_document",
       "txtPath": "pages/page_0069.txt",
       "jsonPath": "pages/page_0069.json"
     }
@@ -836,16 +657,16 @@
       "status": "reviewed",
       "approvalStatus": "not_approved",
       "scope": "line_audit_IMAGE_MATCHED_units_only",
-      "pageCount": 16,
-      "unitCount": 110,
-      "sourceLineCount": 418,
-      "excludedLineCount": 19,
-      "overrideCount": 11,
+      "pageCount": 63,
+      "unitCount": 490,
+      "sourceLineCount": 1737,
+      "excludedLineCount": 321,
+      "overrideCount": 12,
       "summaryPath": "translations/ko/summary.json",
       "unitsPath": "translations/ko/units.json",
       "excludedLinesPath": "translations/ko/excluded_source_lines.json",
       "pagesPath": "translations/ko/pages/",
-      "exportedAt": "2026-05-10T03:13:50.215Z"
+      "exportedAt": "2026-05-10T14:28:13.026Z"
     }
   ]
 }

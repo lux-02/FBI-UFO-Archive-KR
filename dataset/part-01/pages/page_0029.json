@@ -7,18 +7,310 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "typed_official_document",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "14 permanent_unresolved line(s) excluded under SRC-896. 33 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0029-l0001",
+    "page_0029-l0005",
+    "page_0029-l0009",
+    "page_0029-l0010",
+    "page_0029-l0015",
+    "page_0029-l0019",
+    "page_0029-l0021",
+    "page_0029-l0025",
+    "page_0029-l0027",
+    "page_0029-l0028",
+    "page_0029-l0030",
+    "page_0029-l0031",
+    "page_0029-l0035",
+    "page_0029-l0036"
+  ],
+  "lineCount": 55,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "TO : D. M. LADD DATE: August 6, 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "FROM : [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
+      "text": "SUBJECT: FLYING SAUCERS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Special Agent [REDACTED] of the Liaison Section contacted",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 10,
+      "text": "Lieutenant Colonel [REDACTED] Army Air Forces Intelligence, inquiring",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 11,
+      "text": "about an article which appeared in the West Coast newspapers recently",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "stating in substance that an airplane carrying recovered flying saucers",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "crashed in route from Portland, Oregon, to Los Angeles, California.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
+      "text": "[REDACTED] advised [REDACTED] that the only information",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 16,
+      "text": "that has been received by Headquarters of the Army Air Forces is that a",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "CIC Agent of the 4th Air Forces Headquarters, Hamilton Field, San Francisco,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "was killed in an airplane crash. The Headquarters of the Air Forces have been",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "advised that he was on a top secret mission. [REDACTED] indicated that he",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 20,
+      "text": "was under the impression that the CIC Agent was either on route to or from an",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "text": "interview with [REDACTED] who is one of the individuals who first saw one of",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 22,
+      "text": "the flying saucers.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 24,
+      "text": "RECORDED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "[REDACTED] stated that the Air Forces have no additional information",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 26,
+      "text": "and will receive none until the report is received from the 4th Air Forces.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "[REDACTED] suggested that the San Francisco Field Office contact Colonel",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 28,
+      "text": "[REDACTED] Headquarters 4th Air Forces, Hamilton Field, San Francisco, who",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 29,
+      "text": "undoubtedly would be able to furnish the details regarding this matter which",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "text": "are at this time unknown by the Headquarters of the Air Forces. [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 31,
+      "text": "pointed out to [REDACTED], however, that it was his belief that no flying",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 32,
+      "text": "saucers have been recovered but that it was merely an attempt to reinterview",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "an individual who previously had reported seeing one of the flying saucers.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
+      "text": "S[unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 36,
+      "text": "[unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 37,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 38,
+      "text": "Mr. Tolson",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Mr. E. A. Tamm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "Mr. Clegg",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
+      "text": "Mr. Glavin",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 42,
+      "text": "Mr. Ladd",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 43,
+      "text": "Mr. Nichols",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "Mr. Rosen",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "text": "Mr. Tracy",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 46,
+      "text": "Mr. Carson",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 47,
+      "text": "Mr. Egan",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 48,
+      "text": "Mr. Gurnea",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "text": "Mr. Harbo",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 50,
+      "text": "Mr. Mohr",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "text": "Mr. Pennington",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 52,
+      "text": "Mr. Quinn Tamm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 53,
+      "text": "Tele. Room",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 54,
+      "text": "Mr. Nease",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 55,
+      "text": "Miss Gandy",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

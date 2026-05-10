@@ -1,0 +1,510 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 1,
+  "page": 61,
+  "pageId": "page_0061",
+  "source": {
+    "pdfPath": "docs/ufo1.pdf",
+    "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T14:28:13.026Z",
+  "unitCount": 7,
+  "sourceLineCount": 17,
+  "excludedLineCount": 7,
+  "excludedLines": [
+    {
+      "part": 1,
+      "page": 61,
+      "pageId": "page_0061",
+      "lineId": "page_0061-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Director, FBI",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 1,
+      "page": 61,
+      "pageId": "page_0061",
+      "lineId": "page_0061-l0008",
+      "lineNumber": 8,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "On the following day, July 10, 1947, one [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 1,
+      "page": 61,
+      "pageId": "page_0061",
+      "lineId": "page_0061-l0009",
+      "lineNumber": 9,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "the North Hollywood, reported that on this morning he was at",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 1,
+      "page": 61,
+      "pageId": "page_0061",
+      "lineId": "page_0061-l0010",
+      "lineNumber": 10,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "the North Hollywood Service Station eating at which time there was",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 1,
+      "page": 61,
+      "pageId": "page_0061",
+      "lineId": "page_0061-l0014",
+      "lineNumber": 14,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "of the disc. [REDACTED] stated that he received a definite impression that",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 1,
+      "page": 61,
+      "pageId": "page_0061",
+      "lineId": "page_0061-l0015",
+      "lineNumber": 15,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "these young students either had themselves or knew of someone who had been",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 1,
+      "page": 61,
+      "pageId": "page_0061",
+      "lineId": "page_0061-l0016",
+      "lineNumber": 16,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "working for the past two weeks making this \"flying disc\". [REDACTED] was",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p01-page-0061-u001",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 61,
+      "pageId": "page_0061",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0061-l0002",
+          "page_0061-l0003",
+          "page_0061-l0004"
+        ],
+        "lineNumbers": [
+          2,
+          3,
+          4
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 61,
+            "pageId": "page_0061",
+            "lineId": "page_0061-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 61,
+            "pageId": "page_0061",
+            "lineId": "page_0061-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 61,
+            "pageId": "page_0061",
+            "lineId": "page_0061-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "Re: RECOVERY OF \"FLYING DISC\",\nNORTH HOLLYWOOD, CALIFORNIA,\nJULY 9, 1947"
+      },
+      "translation": {
+        "text": "제목: \"비행 디스크\" 회수,\n노스 할리우드, 캘리포니아,\n1947년 7월 9일",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0061-u002",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 61,
+      "pageId": "page_0061",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0061-l0006"
+        ],
+        "lineNumbers": [
+          6
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 61,
+            "pageId": "page_0061",
+            "lineId": "page_0061-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "July 17, 1947"
+      },
+      "translation": {
+        "text": "1947년 7월 17일",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0061-u003",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 61,
+      "pageId": "page_0061",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0061-l0011",
+          "page_0061-l0012",
+          "page_0061-l0013"
+        ],
+        "lineNumbers": [
+          11,
+          12,
+          13
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 61,
+            "pageId": "page_0061",
+            "lineId": "page_0061-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 61,
+            "pageId": "page_0061",
+            "lineId": "page_0061-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 61,
+            "pageId": "page_0061",
+            "lineId": "page_0061-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "considerable talk about the flying disc having been found in the vicinity.\nA number of what appeared to be young high school students were present\nand were having quite a laugh about the excitement caused by the finding"
+      },
+      "translation": {
+        "text": "인근에서 비행 디스크가 발견되었다는 이야기가 많았습니다.\n고등학생으로 보이는 여러 명의 젊은이들이 있었고\n발견으로 인한 흥분에 대해 꽤 웃고 있었습니다.",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0061-u004",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 61,
+      "pageId": "page_0061",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0061-l0017",
+          "page_0061-l0018",
+          "page_0061-l0019",
+          "page_0061-l0020"
+        ],
+        "lineNumbers": [
+          17,
+          18,
+          19,
+          20
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 61,
+            "pageId": "page_0061",
+            "lineId": "page_0061-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 61,
+            "pageId": "page_0061",
+            "lineId": "page_0061-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 61,
+            "pageId": "page_0061",
+            "lineId": "page_0061-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 61,
+            "pageId": "page_0061",
+            "lineId": "page_0061-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "unable to furnish the names of any of these young men but identified one\nof them who was making the statements as being employed in a Chevron\nService Station at the corner of Victory Boulevard and Whitsett Street.\nHe described the youngster as about sixteen years of age."
+      },
+      "translation": {
+        "text": "이 젊은이들의 이름을 알려줄 수는 없었지만,\n빅토리 대로와 윗셋 스트리트 모퉁이에 있는 쉐브론\n서비스 스테이션에서 일하는 사람 중 한 명을 지목했습니다.\n그는 그 젊은이를 약 16세라고 묘사했습니다.",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0061-u005",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 61,
+      "pageId": "page_0061",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0061-l0022",
+          "page_0061-l0023"
+        ],
+        "lineNumbers": [
+          22,
+          23
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 61,
+            "pageId": "page_0061",
+            "lineId": "page_0061-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 61,
+            "pageId": "page_0061",
+            "lineId": "page_0061-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "The above information was also furnished to the G-2 Office at\nSan Pedro, California."
+      },
+      "translation": {
+        "text": "위 정보는 캘리포니아 샌 페드로에 있는 G-2 사무실에도\n제공되었습니다.",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0061-u006",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 61,
+      "pageId": "page_0061",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0061-l0025",
+          "page_0061-l0026",
+          "page_0061-l0027"
+        ],
+        "lineNumbers": [
+          25,
+          26,
+          27
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 61,
+            "pageId": "page_0061",
+            "lineId": "page_0061-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 61,
+            "pageId": "page_0061",
+            "lineId": "page_0061-l0026",
+            "lineNumber": 26,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 61,
+            "pageId": "page_0061",
+            "lineId": "page_0061-l0027",
+            "lineNumber": 27,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "MMB:MGM\n100-9099\nENC. (3)"
+      },
+      "translation": {
+        "text": "MMB:MGM\n100-9099\n첨부 문서 (3)",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0061-u007",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 61,
+      "pageId": "page_0061",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0061-l0029"
+        ],
+        "lineNumbers": [
+          29
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 61,
+            "pageId": "page_0061",
+            "lineId": "page_0061-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "- 2 -"
+      },
+      "translation": {
+        "text": "- 2 -",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

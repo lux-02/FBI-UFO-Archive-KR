@@ -7,18 +7,159 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "typed_official_document",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 19 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0045-l0003",
+    "page_0045-l0004",
+    "page_0045-l0020"
+  ],
+  "lineCount": 29,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "Memorandum for Mr. Ladd",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "[REDACTED] also discussed this matter with [REDACTED] of [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 4,
+      "text": "[REDACTED] indicated that it was his attitude that inasmuch as it has been",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 5,
+      "text": "established that the flying disks are not the result of any Army or Navy experi-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "ments, the matter is of interest to the FBI. He stated that he was of the opinion",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "that the Bureau, if at all possible, should accede to General Schulgen's request.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "SWR:AJB",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
+      "text": "ADDENDUM",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 13,
+      "text": "I would recommend that we advise the Army that the Bureau does not believe it",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "should go into these investigations, it being noted that a great bulk of those",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "alleged discs reported found have been pranks. It is not believed that the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Bureau would accomplish anything by going into these investigations.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 18,
+      "text": "DML",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 20,
+      "text": "[unclear] we should do this",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 21,
+      "text": "7-15",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
+      "text": "I would do it but before agreeing",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "to it we must insist upon full access",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "to discs recovered. For instance in",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "the case the Army grabbed it &",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "wouldn't let us have it for cursory",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "text": "examination.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "text": "- 2 -",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

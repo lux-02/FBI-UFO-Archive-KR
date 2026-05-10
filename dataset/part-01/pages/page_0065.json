@@ -7,18 +7,368 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "typed_official_document",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 58 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0065-l0002",
+    "page_0065-l0027",
+    "page_0065-l0028",
+    "page_0065-l0047",
+    "page_0065-l0070"
+  ],
+  "lineCount": 70,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "STANDARD FORM NO. 64",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Office Men. Randum • UNITED STATES GOVERNMENT",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
+      "text": "TO : MR. LADD",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "DATE: July 10, 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "FROM :",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "67c",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "SUBJECT: FLYING SAUCERS (DISCS)",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "INFORMATION CONCERNING",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
+      "text": "67c",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Mr. Tolson",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "Mr. E. A. Tamm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Mr. Clegg",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Mr. Glavin",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Mr. Ladd",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Mr. Nichols",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "Mr. Rosen",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "Mr. Tracy",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "Mr. Carson",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "text": "Mr. Egan",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "Mr. Ouraca",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "text": "Mr. Harbo",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "Mr. Hendon",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "Mr. Pennington",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "Mr. Quinn Tamm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "Mr. [unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 28,
+      "text": "[unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 29,
+      "text": "67c",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
+      "text": "At 6:45 AM this date, SAC Hood telephonically contacted the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "Bureau and advised at approximately 11:30 PM, July 9, 1947, the office",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "in Los Angeles had received information from the Resident Agent at Burbank,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "California, that a \"flying disc\" had landed in or near Burbank and had been",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "text": "seen to burst into flame when it landed. Further, that it had been the cause",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "text": "of a fire in some woods, this fire either in Burbank or possibly in the city",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 37,
+      "text": "limits of Los Angeles, which Mr. Hood could not be certain. The fire chief",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "text": "at Burbank had called the resident agent at Burbank and told him he would",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 39,
+      "text": "hold the disc for him.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "67c",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 42,
+      "text": "Coincident with the information received from Burbank, the Los Angeles",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 43,
+      "text": "Office received calls from the newspapers requesting information. The newspapers",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "stating they had called the Army Air Force Intelligence who had stated \"we are",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "text": "not interested\". According to Mr. Hood, this comment had aroused the newspapers",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 46,
+      "text": "and they stated they intended to publish this quotation and belabor same in their",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 47,
+      "text": "first issues. Mr. Hood stated that he had refrained from making any statement",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 48,
+      "text": "to the press other than to admit possession of an object and that it was being",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "text": "turned over to military authorities in the morning (this AM), it being Mr. Hood's",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 50,
+      "text": "opinion that he did not want any quotes in the press and certainly not one to the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "text": "effect that we were not interested.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 52,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 53,
+      "text": "As described to him, Mr. Hood stated that the object was an aluminum",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 54,
+      "text": "disc about 2' in diameter weighing about ten pounds, painted with aluminum paint,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 55,
+      "text": "and having some sort of a radio tube in the center of the disc. This object was",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 56,
+      "text": "in possession of the resident agent at Burbank and would be turned over to",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 57,
+      "text": "military authorities (G-2) in Los Angeles this morning.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 58,
+      "text": "67c",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 59,
+      "text": "RECORDED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 60,
+      "text": "Mr. Hood's purpose in calling was to place the Bureau on notice regarding",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 61,
+      "text": "the above described object and any further information would be transmitted to the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 62,
+      "text": "Bureau at once.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 63,
+      "text": "FX-53",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 64,
+      "text": "Action: None indicated.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 65,
+      "text": "67c",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 66,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 67,
+      "text": "FEN:da",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 68,
+      "text": "67c",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 69,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 70,
+      "text": "160",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

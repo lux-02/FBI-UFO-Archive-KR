@@ -6,11 +6,12 @@
   "pageId": "page_0002",
   "source": {
     "pdfPath": "docs/ufo1.pdf",
-    "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+    "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
   },
   "status": "reviewed",
   "approvalStatus": "not_approved",
-  "exportedAt": "2026-05-10T03:13:50.215Z",
+  "exportedAt": "2026-05-10T14:28:13.026Z",
   "unitCount": 9,
   "sourceLineCount": 46,
   "excludedLineCount": 0,
@@ -48,12 +49,12 @@
         "text": "FROM \"THE OREGONIAN\" - Thursday, July 3, 1947"
       },
       "translation": {
-        "text": "\"THE OREGONIAN\" 출처 - 1947년 7월 3일 목요일",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "text": "“디 오레고니언”에서 발췌 - 1947년 7월 3일 목요일",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null
@@ -92,11 +93,11 @@
       },
       "translation": {
         "text": "조종사, 디스크 목격 회상.",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null
@@ -135,11 +136,11 @@
       },
       "translation": {
         "text": "딕 랭킨, 이상한 항공기에 대해 이야기하다.",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null
@@ -287,12 +288,12 @@
         "text": "More reports of \"flying flapjacks\" turned up Wednesday, one from\nno less than Dick Rankin, brother of the late Tex Rankin, and himself an\nexperienced pilot of more than 7000 hours' flying time.\nRankin, who is recovering from an old back injury received in an\nautomobile accident, came to Portland over the weekend to spend the summer.\nHe saw the \"silver saucers\" over Bakersfield, Cal., June 23, while lying\non the lawn sun bathing, he told The Oregonian.\n\"I hesitated to say much about them,\" Rankin said, \"until I noticed\nall the hullabaloo in the papers. I puzzled over their strange shape for\na while and finally concluded that they were the navy's new XF5U-1 flying\nflapjacks, which are thin and round, with twin propellers and stubby tail.\""
       },
       "translation": {
-        "text": "수요일에 \"비행 플랩잭(flying flapjacks)\"에 대한 더 많은 보고가 접수되었는데, 그중 하나는 고(故) 텍스 랭킨(Tex Rankin)의 형제이자 본인 스스로도 7,000시간 이상의 비행 경력을 가진 숙련된 조종사 딕 랭킨(Dick Rankin)의 것이었다. 자동차 사고로 입은 과거의 등 부상에서 회복 중인 랭킨은 여름을 보내기 위해 주말에 포틀랜드(Portland)로 왔다. 그는 6월 23일 캘리포니아주 베이커스필드(Bakersfield, Cal.) 상공에서 잔디밭에 누워 일광욕을 하던 중 \"은빛 접시(silver saucers)\"를 보았다고 'The Oregonian'에 말했다. 랭킨은 \"신문에서 큰 소동이 일어난 것을 알아채기 전까지는 그것들에 대해 길게 말하기가 망설여졌습니다.\"라고 말했다. \"나는 한동안 그 이상한 모양을 두고 고민하다가, 마침내 그것들이 얇고 둥글며 쌍발 프로펠러와 뭉툭한 꼬리를 가진 해군의 신형 XF5U-1 비행 플랩잭이라고 결론지었습니다.\"",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "text": "수요일에 “날아다니는 팬케이크”에 대한 보고가 더 많이 나왔는데, 그중 하나는 고 텍스 랭킨의 동생이자 7000시간 이상의 비행 경력을 가진 베테랑 조종사인 딕 랭킨으로부터 온 것이었다.\n자동차 사고로 인한 오래된 허리 부상에서 회복 중인 랭킨은 여름을 보내기 위해 주말에 포틀랜드로 왔다.\n그는 6월 23일 캘리포니아 베이커스필드 상공에서 잔디밭에 누워 일광욕을 하던 중 “은색 접시”를 보았다고 디 오레고니언에 말했다.\n랭킨은 “신문에 온통 소란스러운 것을 보기 전까지는 그것들에 대해 많이 말하기를 망설였습니다.”라고 말하며, “한동안 그것들의 이상한 모양에 대해 고민하다가 결국 그것들이 해군의 새로운 XF5U-1 비행 팬케이크라고 결론 내렸습니다. 그것들은 얇고 둥글며, 트윈 프로펠러와 뭉툭한 꼬리를 가지고 있습니다.”라고 덧붙였다.",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null
@@ -331,11 +332,11 @@
       },
       "translation": {
         "text": "XF5U-1은 단 한 대만 제작됨.",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null
@@ -516,12 +517,12 @@
         "text": "The navy and the manufacturer have announced officially that only\none such machine was built and that it never left Connecticut.\n\"These planes were flying high, maybe 8000 feet, and fairly fast,\nabout 300 or 400 miles an hour. I first counted ten of them in formation,\ngoing north. About 3:15 P.M. they returned on the reverse course, headed\nsouth, but there were only seven in the formation.\n\"They were not weaving or bobbing in formation; I couldn't make out\nthe number or location of their propellers and couldn't distinguish any\nwings or tail. They appeared almost round. They looked like pictures of\nthe navy's flying flapjack,\" Rankin said.\nRankin, who plans to spend the summer here at 634 N. W. Simpson St.\nis now able to resume a little flying for fun, but not commercially, he\nsaid. He now operates a string of auto courts, spending his winters at\nPalm Springs."
       },
       "translation": {
-        "text": "해군과 제조사는 그러한 기계가 단 한 대만 제작되었으며 코네티컷을 벗어난 적이 없다고 공식적으로 발표했다. \"이 비행기들은 아마도 8,000피트 정도로 높이 날고 있었고, 시속 약 300에서 400마일로 상당히 빨랐습니다. 나는 처음에 북쪽으로 향하는 편대에서 10대를 세었습니다. 오후 3시 15분경에 그것들은 반대 경로로 돌아와 남쪽으로 향했지만 편대에는 7대만 있었습니다. 그것들은 편대 비행 중에 지그재그로 움직이거나 위아래로 흔들리지 않았습니다. 나는 프로펠러의 수나 위치를 파악할 수 없었고 날개나 꼬리를 구별할 수 없었습니다. 그것들은 거의 둥글게 보였습니다. 해군의 비행 플랩잭 사진처럼 보였습니다.\"라고 랭킨이 말했다. 이곳 634 N. W. Simpson St.에서 여름을 보낼 계획인 랭킨은 이제 상업적인 목적은 아니지만 취미로 약간의 비행을 재개할 수 있다고 그는 말했다. 그는 현재 여러 개의 자동차 여행객용 숙소(auto courts)를 운영하고 있으며, 겨울은 팜스프링스(Palm Springs)에서 보낸다.",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "text": "해군과 제조사는 그러한 기계가 단 한 대만 제작되었으며 코네티컷을 떠난 적이 없다고 공식적으로 발표했다.\n“이 비행기들은 높이, 아마도 8000피트 상공에서 상당히 빠르게, 시속 약 300~400마일로 날고 있었습니다. 저는 처음에 열 대가 편대를 이루어 북쪽으로 가는 것을 세었습니다. 오후 3시 15분경, 그들은 반대 방향으로 돌아와 남쪽으로 향했지만, 편대에는 일곱 대만 있었습니다.\n“그들은 편대에서 흔들리거나 튀어 오르지 않았습니다. 저는 그들의 프로펠러의 수나 위치를 알아볼 수 없었고, 날개나 꼬리도 구별할 수 없었습니다. 그들은 거의 둥글게 보였습니다. 해군의 비행 팬케이크 사진처럼 보였습니다.”라고 랭킨은 말했다.\n랭킨은 N.W. 심슨 스트리트 634번지에서 여름을 보낼 계획이며, 이제는 재미로 약간의 비행을 재개할 수 있지만 상업적으로는 할 수 없다고 말했다. 그는 현재 여러 자동차 숙박 시설을 운영하며 겨울은 팜스프링스에서 보낸다.",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null
@@ -559,12 +560,12 @@
         "text": "TWO DESCRIPTIONS CHECK."
       },
       "translation": {
-        "text": "두 설명이 일치함.",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "text": "두 가지 설명 일치.",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null
@@ -756,12 +757,12 @@
         "text": "Rankin's description of the mysterious aerial objects agrees with\nthat of Kenneth Arnold, Boise, Idaho, business man, who first reported them\nover the State of Washington, except that Arnold clocked them at an estima-\nted 1200 miles an hour.\nOther reports came Wednesday from Astoria. Jack Hayes, patient in\nSt. Mary's hospital there, said he saw two of the discs Monday flying north-\nwest at a rapid speed and that they vanished behind the hills.\nMrs. Karl Reade, Fort Stevens, said she saw a disc traveling north\nover Fort Stevens Tuesday noon, and that other observers saw the same object.\nThe army at Fort Stevens and the coast guard at nearby Point Adams did\nnot see the discs.\nThe report of a Centralia, Wash., man Wednesday coincided in matter of\ntime with the original report made by Arnold. Sidney B. Gallagher of Centra-\nlia said he saw nine aluminum-hued objects flying north at 3 P.M. June 24.\nHe was working 11 miles southwest of Mineral, Wash., at the time."
       },
       "translation": {
-        "text": "신비한 공중 물체에 대한 랭킨의 설명은 워싱턴주 상공에서 처음으로 그것들을 보고했던 아이다호주 보이시(Boise, Idaho)의 사업가 케네스 아놀드(Kenneth Arnold)의 설명과 일치한다. 단, 아놀드가 그것들의 속도를 시속 1,200마일로 추정했다는 점만 제외하면 말이다. 수요일에 아스토리아(Astoria)에서도 다른 보고들이 왔다. 그곳 세인트 마리 병원(St. Mary's hospital)의 환자인 잭 헤이스(Jack Hayes)는 월요일에 빠른 속도로 북서쪽으로 날아가는 두 개의 디스크를 보았으며 그것들이 언덕 뒤로 사라졌다고 말했다. 포트 스티븐스(Fort Stevens)의 칼 리드(Karl Reade) 부인은 화요일 정오에 포트 스티븐스 상공을 북쪽으로 이동하는 디스크를 보았고, 다른 목격자들도 같은 물체를 보았다고 말했다. 포트 스티븐스의 육군과 인근 포인트 아담스(Point Adams)의 해안 경비대는 그 디스크들을 보지 못했다. 수요일에 접수된 워싱턴주 센트레일리아(Centralia, Wash.)에 사는 한 남성의 보고는 아놀드가 한 원래의 보고와 시간상으로 일치했다. 센트레일리아의 시드니 B. 갤러거(Sidney B. Gallagher)는 6월 24일 오후 3시에 알루미늄 색조의 물체 9개가 북쪽으로 날아가는 것을 보았다고 말했다. 그는 당시 워싱턴주 미네랄(Mineral, Wash.)에서 남서쪽으로 11마일 떨어진 곳에서 일하고 있었다.",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "text": "랭킨의 신비한 공중 물체에 대한 설명은 아이다호주 보이시의 사업가인 케네스 아놀드의 설명과 일치한다. 아놀드는 워싱턴주 상공에서 처음으로 이 물체들을 보고했으며, 아놀드는 이 물체들의 속도를 시속 약 1200마일로 추정했다는 점만 다르다.\n수요일에는 아스토리아에서도 다른 보고가 들어왔다. 그곳 세인트 메리 병원의 환자인 잭 헤이즈는 월요일에 두 개의 디스크가 빠른 속도로 북서쪽으로 날아가 언덕 뒤로 사라지는 것을 보았다고 말했다.\n포트 스티븐스의 칼 리드 부인은 화요일 정오에 포트 스티븐스 상공을 북쪽으로 이동하는 디스크를 보았으며, 다른 관찰자들도 같은 물체를 보았다고 말했다.\n포트 스티븐스의 육군과 인근 포인트 아담스의 해안 경비대는 그 디스크들을 보지 못했다.\n수요일 워싱턴주 센트럴리아 남성의 보고는 아놀드가 작성한 최초 보고와 시간상 일치했다. 센트럴리아의 시드니 B. 갤러거는 6월 24일 오후 3시에 아홉 개의 알루미늄색 물체가 북쪽으로 날아가는 것을 보았다고 말했다.\n그는 당시 워싱턴주 미네랄에서 남서쪽으로 11마일 떨어진 곳에서 일하고 있었다.",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null
@@ -800,11 +801,11 @@
       },
       "translation": {
         "text": "사본",
-        "reviewedAt": "2026-05-10T02:58:18.349Z",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
         "reviewer": "codex",
         "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
-        "draftProvider": "gemini_cli",
-        "draftModel": "gemini-3-pro-preview",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
         "promptVersion": "gemini3_ko_translation_draft_v1",
         "overrideApplied": false,
         "overrideReason": null

@@ -27,14 +27,14 @@ The current public dataset includes OCR output and Korean translation exports fo
 
 | Part | Source PDF | Pages | Korean reviewed units | Approval |
 |---:|---|---:|---:|---|
-| 01 | `docs/ufo1.pdf` | 69 | 110 | `not_approved` |
+| 01 | `docs/ufo1.pdf` | 69 | 490 | `not_approved` |
 | 02 | `docs/ufo2.pdf` | 79 | 722 | `not_approved` |
 | 03 | `docs/ufo3.pdf` | 111 | 895 | `not_approved` |
 | 04 | `docs/ufo4.pdf` | 77 | 708 | `not_approved` |
 | 05 | `docs/ufo5.pdf` | 74 | 780 | `not_approved` |
 | 06 | `docs/ufo6.pdf` | 129 | 1,178 | `not_approved` |
 
-The dataset currently contains 4,393 Korean translation units available for public review.
+The dataset currently contains 4,773 Korean translation units available for public review.
 
 `reviewed` means the unit has gone through source comparison and Korean translation review. `not_approved` means the text is not a final approved publication translation; it is a public review dataset artifact.
 
@@ -236,14 +236,14 @@ Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 
 | Part | Source PDF | Pages | Korean reviewed units | Approval |
 |---:|---|---:|---:|---|
-| 01 | `docs/ufo1.pdf` | 69 | 110 | `not_approved` |
+| 01 | `docs/ufo1.pdf` | 69 | 490 | `not_approved` |
 | 02 | `docs/ufo2.pdf` | 79 | 722 | `not_approved` |
 | 03 | `docs/ufo3.pdf` | 111 | 895 | `not_approved` |
 | 04 | `docs/ufo4.pdf` | 77 | 708 | `not_approved` |
 | 05 | `docs/ufo5.pdf` | 74 | 780 | `not_approved` |
 | 06 | `docs/ufo6.pdf` | 129 | 1,178 | `not_approved` |
 
-총 4,393개의 한국어 번역 unit이 공개 검토 가능한 상태로 export되어 있습니다.
+총 4,773개의 한국어 번역 unit이 공개 검토 가능한 상태로 export되어 있습니다.
 
 `reviewed`는 OCR 원문 대조와 한국어 검수를 거친 상태를 뜻합니다. `not_approved`가 붙은 항목은 최종 승인 번역본이 아니며, 공개 검토와 재사용을 위한 데이터셋 상태입니다.
 

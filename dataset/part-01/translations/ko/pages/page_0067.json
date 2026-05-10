@@ -1,0 +1,433 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 1,
+  "page": 67,
+  "pageId": "page_0067",
+  "source": {
+    "pdfPath": "docs/ufo1.pdf",
+    "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T14:28:13.026Z",
+  "unitCount": 7,
+  "sourceLineCount": 15,
+  "excludedLineCount": 2,
+  "excludedLines": [
+    {
+      "part": 1,
+      "page": 67,
+      "pageId": "page_0067",
+      "lineId": "page_0067-l0019",
+      "lineNumber": 19,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "/s/ [REDACTED] b7c",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 1,
+      "page": 67,
+      "pageId": "page_0067",
+      "lineId": "page_0067-l0024",
+      "lineNumber": 24,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "62-93894-22",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p01-page-0067-u001",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0067-l0001",
+          "page_0067-l0002"
+        ],
+        "lineNumbers": [
+          1,
+          2
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "Mr. J. Edgar Hoover\nWash. D.C."
+      },
+      "translation": {
+        "text": "J. 에드거 후버 씨\n워싱턴 D.C.",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0067-u002",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0067-l0004",
+          "page_0067-l0005",
+          "page_0067-l0006"
+        ],
+        "lineNumbers": [
+          4,
+          5,
+          6
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "Doesn't it seem wisest for you to forbid papers - (No not forbid - but ask\nthe co-operation of all papers) to keep all news of those discs out of the news\nuntil you are sure just what they are & where from."
+      },
+      "translation": {
+        "text": "당신이 그 디스크에 대한 모든 뉴스를 신문에서 금지하는 것이 가장 현명해 보이지 않습니까? (아니, 금지하는 것이 아니라 모든 신문의 협조를 요청하여) 그것들이 무엇이고 어디에서 왔는지 확실히 알 때까지 뉴스를 보도하지 않도록 말입니다.",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0067-u003",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0067-l0008",
+          "page_0067-l0009",
+          "page_0067-l0010",
+          "page_0067-l0011",
+          "page_0067-l0012",
+          "page_0067-l0013"
+        ],
+        "lineNumbers": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          },
+          {
+            "part": 1,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "It seems to us with all the enemies we have, even within our borders,\nit could be something far more important than may seem at first. I had 2 sons\nin this war & another who over-did for his America - & we do want it really\nprotected from danger from now on. Enough are dead & maimed - with-out losing out\nnow as it easily could be. Why have the papers carried that story if reporters\nwere made to see how much more sensible not to report - it except to the F.B.I."
+      },
+      "translation": {
+        "text": "우리에게는 국경 내에도 많은 적들이 있으므로, 처음 보이는 것보다 훨씬 더 중요한 일일 수도 있다고 생각합니다. 저는 이 전쟁에 두 아들을 보냈고, 또 다른 아들은 조국을 위해 너무 무리했습니다. 우리는 이제부터 조국이 위험으로부터 진정으로 보호받기를 원합니다. 이미 충분히 많은 사람들이 죽고 불구자가 되었습니다. 지금 쉽게 잃을 수도 있는 상황에서 더 이상 잃을 수는 없습니다. 기자들이 FBI에만 보고하는 것이 훨씬 더 현명하다는 것을 알게 되었다면, 왜 신문들은 그 이야기를 보도했을까요?",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0067-u004",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0067-l0015"
+        ],
+        "lineNumbers": [
+          15
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "There is too much of danger ahead anyway -"
+      },
+      "translation": {
+        "text": "어쨌든 앞으로 너무 많은 위험이 있습니다.",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0067-u005",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0067-l0017"
+        ],
+        "lineNumbers": [
+          17
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "Hastily"
+      },
+      "translation": {
+        "text": "급히",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0067-u006",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0067-l0020"
+        ],
+        "lineNumbers": [
+          20
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "Chicago -"
+      },
+      "translation": {
+        "text": "시카고 -",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p01-page-0067-u007",
+      "unitVersion": 1,
+      "part": 1,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo1.pdf",
+        "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd",
+        "lineIds": [
+          "page_0067-l0022"
+        ],
+        "lineNumbers": [
+          22
+        ],
+        "refs": [
+          {
+            "part": 1,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo1.pdf",
+            "sourceSha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
+          }
+        ],
+        "text": "TRUE COPY"
+      },
+      "translation": {
+        "text": "원본과 같음",
+        "reviewedAt": "2026-05-10T14:26:52.821Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

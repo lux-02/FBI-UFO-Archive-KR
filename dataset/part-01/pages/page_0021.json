@@ -7,18 +7,238 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "teletype_or_wire_message",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 34 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0021-l0024",
+    "page_0021-l0025",
+    "page_0021-l0035"
+  ],
+  "lineCount": 45,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "Mr. Tolson",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Mr. E. A. Tamm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "Mr. Clegg",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "Mr. Coffey",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "Mr. Glavin",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "Mr. Ladd",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "Mr. Nichols",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "Mr. Rosen",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Mr. Tracy",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "Mr. Carson",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Mr. Egan",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Mr. Hendon",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "Mr. Pennington",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Mr. Quinn Tamm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Mr. Nease",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Miss Gandy",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 18,
+      "text": "F.B.I. TELETYPE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "DECODED COPY",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 21,
+      "text": "WASH FROM SFRAN S2 8-9-47 2-50 PM KC",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
+      "text": "DIRECTOR FBI AND SACS, SEATTLE AND PORTLAND URGENT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "FLYING DISKS, SECURITY MATTER-X. LT. COL. [REDACTED] OF",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 25,
+      "text": "G2, SAN FRANCISCO, ADVISED TODAY HE HAS NO FURTHER INFORMATION",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 26,
+      "text": "AND THAT OUR SEATTLE OFFICE IS IN POSSESSION OF ALL INFORMATION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "KNOWN BY HIM AND IS HANDLING THE MATTER AT TACOMA, WASHINGTON.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "text": "KIMBALL",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 30,
+      "text": "RECORDED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "text": "G.I.R.-9",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "162-83894 4'",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "EX 45",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
+      "text": "RECEIVED 8-9-47 - 8:15 AM EDST AUG 12 1947",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 36,
+      "text": "SACS SEATTLE AND PORTLAND ADVISED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 37,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 38,
+      "text": "If the intelligence contained in the above message is to be disseminated",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 39,
+      "text": "outside the Bureau it is suggested that it be suitably paraphrased in",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "order to protect the Bureau's coding systems.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 42,
+      "text": "53 AUG 18 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 43,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 44,
+      "text": "b7c",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "text": "5-P",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 6
+  "blockCount": null
 }

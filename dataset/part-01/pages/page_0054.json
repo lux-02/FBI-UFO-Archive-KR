@@ -7,18 +7,98 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "teletype_or_wire_message",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 11 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0054-l0003",
+    "page_0054-l0005",
+    "page_0054-l0008",
+    "page_0054-l0009"
+  ],
+  "lineCount": 15,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "---PAGE TWO---",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "SIXTEENTHS OF AN INCH THICK, AND MACHINE TOOLED, AND SOME FRAGMENTS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "INDICATED THEY WERE BURNED AND [REDACTED] APPEARED TO HAVE BEEN",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 4,
+      "text": "SUBJECTED TO TERRIFIC HEAT. THESE SCIENTISTS ARE TREATING THIS MATTER",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "AS CLASSIFIED INFORMATION. MR. [REDACTED] AT WEST RINDGE, N.H.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 6,
+      "text": "IS ALSO ENDEAVORING TO COLLECT ADDITIONAL FRAGMENTS AND HAS STATED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "THAT THE FIRE CHIEF AT WEST RINDGE HAS ALSO SEVERAL FRAGMENTS IN HIS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "POSSESSION. [REDACTED] INDICATED THAT THE [REDACTED] RESIDENCE IS SEVEN",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 9,
+      "text": "TO EIGHT HUNDRED FEET EAST OF THE RAILROAD TRACKS. [REDACTED] STATED",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 10,
+      "text": "HE WILL MAKE THE RESULTS OF M I T RESEARCH AVAILABLE IF SIGNIFICANT.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "OPINIONS OF SCIENTISTS AS SET FORTH ABOVE SUGGEST POSSIBLE MILITARY",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "INTEREST. MILITARY AUTHORITIES AT BOSTON HAVE NOT BEEN NOTIFIED.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "SOUCY",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "HOLD",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "cc - Mr. Ladd",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 2
+  "blockCount": null
 }

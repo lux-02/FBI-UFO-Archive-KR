@@ -7,18 +7,172 @@
     "pdfPath": "docs/ufo1.pdf",
     "sha256": "c813e10e633f440918cb31dfe11ac7caa35113d91c5f6edcea44fd90fc0e71cd"
   },
-  "sourceLayer": "draft_only",
-  "translationReadiness": "not_ready",
-  "pageType": "typed_official_document",
-  "pageRecommendation": null,
-  "pageReadinessNote": "Page-level status is NEEDS_ORIGINAL_CHECK; body excluded from public dataset until further review.",
-  "excludedLineIds": [],
-  "lineCount": 1,
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 15 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0020-l0001",
+    "page_0020-l0003",
+    "page_0020-l0006",
+    "page_0020-l0010",
+    "page_0020-l0016",
+    "page_0020-l0017"
+  ],
+  "lineCount": 31,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "needs_review"
+      "text": "STANDARD FORM NO. 64",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "TO : D. M. Ladd",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "DATE: August 1, 1947",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "FROM : J. P. Coyne",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "SUBJECT: MRS. [REDACTED] b7c",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 11,
+      "text": "INFORMANT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 13,
+      "text": "There is attached hereto a letter received from the captioned",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "individual postmarked July 12, 1947, concerning \"flying saucers.\"",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 16,
+      "text": "There is also attached a letter of acknowledgement to [REDACTED] b7c",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 17,
+      "text": "together with a letter to the War Department for approval.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 18,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 19,
+      "text": "It is recommended that the letter to the War Department be",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "forwarded to the Liaison Section for transmittal to that agency. [handwritten: Done S]",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 22,
+      "text": "Attachments [handwritten: handled separately]",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "text": "WVC:mjp",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 25,
+      "text": "RECORDED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "INDEXED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "62 - 83894 48",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "text": "G.I.R - 28",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "text": "[handwritten: pf]",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
+      "text": "50 SEP 30 1947 [handwritten: 252]",
+      "status": "image_matched"
     }
   ],
-  "blockCount": 6
+  "blockCount": null
 }
