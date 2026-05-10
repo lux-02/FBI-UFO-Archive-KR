@@ -1,0 +1,233 @@
+---
+import Layout from "@/components/Layout.astro";
+import {
+  formatPage,
+  getPublishedDatasetParts,
+  getReaderPart,
+  getReaderPageImage,
+  getReaderPagesForPart,
+  getTranslationPage,
+  type ArchivePartSummary,
+  type PublicSourcePage,
+  type PublicTranslationPage,
+} from "@/lib/public-dataset";
+
+export async function getStaticPaths() {
+  return getPublishedDatasetParts()
+    .filter((part) => part.hasReader)
+    .flatMap((part) =>
+      getReaderPagesForPart(part.part).map((page) => ({
+        params: {
+          part: part.partLabel,
+          page: formatPage(page.page),
+        },
+        props: {
+          partEntry: part,
+          pageNumber: page.page,
+          sourcePage: page.sourcePage,
+          translationPage: getTranslationPage(part.part, page.page),
+        },
+      })),
+    );
+}
+
+interface Props {
+  partEntry: ArchivePartSummary;
+  pageNumber: number;
+  sourcePage: PublicSourcePage | undefined;
+  translationPage: PublicTranslationPage | undefined;
+}
+
+const { partEntry, pageNumber, sourcePage, translationPage } = Astro.props;
+const partNo = partEntry.partLabel;
+const readerPart = getReaderPart(partEntry.part);
+if (!readerPart) {
+  throw new Error(`Reader part not found: ${partEntry.slug}`);
+}
+const pages = getReaderPagesForPart(partEntry.part);
+const pageIndex = pages.findIndex((page) => page.page === pageNumber);
+const previousPage = pageIndex > 0 ? pages[pageIndex - 1] : undefined;
+const nextPage = pageIndex >= 0 && pageIndex < pages.length - 1 ? pages[pageIndex + 1] : undefined;
+const pageImage = getReaderPageImage(partEntry.part, pageNumber);
+const pageLabel = formatPage(pageNumber);
+const sourceOcrText = (sourcePage?.lines ?? [])
+  .map((line) => line.text?.trim())
+  .filter(Boolean)
+  .join("\n")
+  .trim();
+---
+
+<Layout title={`Part ${partNo} p. ${pageLabel}`}>
+  <div class="mb-5 flex flex-wrap items-center justify-between gap-3">
+    <nav class="text-xs text-[var(--color-text-muted)]">
+      <a href="/" class="hover:underline">TERMINAL</a>
+      <span class="mx-1">›</span>
+      <a href={`/archive/${partEntry.slug}`} class="hover:underline">FILE {partNo}</a>
+      <span class="mx-1">›</span>
+      <span>PAGE {pageLabel}</span>
+    </nav>
+    <a
+      href={`/archive/${partEntry.slug}`}
+      class="icon-nav-button icon-nav-button--index"
+      aria-label={`Part ${partNo} 페이지 목록으로 이동`}
+      title={`Part ${partNo} 페이지 목록`}
+    >
+      <svg
+        class="icon-nav-glyph"
+        viewBox="0 0 24 24"
+        aria-hidden="true"
+        focusable="false"
+      >
+        <path d="M8 6h12" />
+        <path d="M8 12h12" />
+        <path d="M8 18h12" />
+        <path d="M4 6h.01" />
+        <path d="M4 12h.01" />
+        <path d="M4 18h.01" />
+      </svg>
+      <span class="icon-nav-label">FILE INDEX</span>
+    </a>
+  </div>
+
+  <section class="grid gap-6 lg:grid-cols-[minmax(20rem,32rem)_minmax(0,1fr)]">
+    <aside class="scan-panel order-1 h-fit p-4 text-sm leading-7 text-[var(--color-text-secondary)] lg:sticky lg:top-4">
+      {
+        pageImage ? (
+          <div class="scan-frame scan-stage mb-4 p-2">
+            <a href={pageImage.url} target="_blank" rel="noopener noreferrer" class="block">
+              <img
+                src={pageImage.url}
+                alt={pageImage.alt}
+                loading="lazy"
+                decoding="async"
+                class="max-h-[76vh] w-full bg-[var(--color-surface-sunken)] object-contain grayscale"
+              />
+            </a>
+            {
+              previousPage ? (
+                <a
+                  href={`/archive/${partEntry.slug}/page-${formatPage(previousPage.page)}`}
+                  class="scan-page-nav scan-page-nav--prev"
+                  aria-label={`이전 페이지 ${formatPage(previousPage.page)}로 이동`}
+                  title={`이전 페이지 ${formatPage(previousPage.page)}`}
+                >
+                  <svg
+                    viewBox="0 0 24 24"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <path d="M15 5 8 12l7 7" />
+                  </svg>
+                </a>
+              ) : null
+            }
+            {
+              nextPage ? (
+                <a
+                  href={`/archive/${partEntry.slug}/page-${formatPage(nextPage.page)}`}
+                  class="scan-page-nav scan-page-nav--next"
+                  aria-label={`다음 페이지 ${formatPage(nextPage.page)}로 이동`}
+                  title={`다음 페이지 ${formatPage(nextPage.page)}`}
+                >
+                  <svg
+                    viewBox="0 0 24 24"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <path d="m9 5 7 7-7 7" />
+                  </svg>
+                </a>
+              ) : null
+            }
+          </div>
+        ) : (
+          <div class="scan-frame scan-stage mb-4 min-h-64 p-4 text-xs leading-6 text-[var(--color-text-muted)]">
+            스캔 이미지를 불러올 수 없습니다.
+            {
+              previousPage ? (
+                <a
+                  href={`/archive/${partEntry.slug}/page-${formatPage(previousPage.page)}`}
+                  class="scan-page-nav scan-page-nav--prev"
+                  aria-label={`이전 페이지 ${formatPage(previousPage.page)}로 이동`}
+                  title={`이전 페이지 ${formatPage(previousPage.page)}`}
+                >
+                  <svg
+                    viewBox="0 0 24 24"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <path d="M15 5 8 12l7 7" />
+                  </svg>
+                </a>
+              ) : null
+            }
+            {
+              nextPage ? (
+                <a
+                  href={`/archive/${partEntry.slug}/page-${formatPage(nextPage.page)}`}
+                  class="scan-page-nav scan-page-nav--next"
+                  aria-label={`다음 페이지 ${formatPage(nextPage.page)}로 이동`}
+                  title={`다음 페이지 ${formatPage(nextPage.page)}`}
+                >
+                  <svg
+                    viewBox="0 0 24 24"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <path d="m9 5 7 7-7 7" />
+                  </svg>
+                </a>
+              ) : null
+            }
+          </div>
+        )
+      }
+    </aside>
+
+    <ol class="order-2 space-y-4">
+      {
+        translationPage ? (
+        translationPage.units.map((unit) => (
+          <li
+            id={unit.id}
+            class="document-sheet p-4"
+            data-source={`Part ${String(unit.part).padStart(2, "0")}, p. ${formatPage(unit.page)}, ${unit.source.lineIds.join(", ")}`}
+          >
+            <p class="mb-4 leading-loose text-[var(--color-text-primary)]">{unit.translation.text}</p>
+            <details class="source-peek">
+              <summary class="source-peek-trigger" aria-label="원문 대조 펼치기">
+                <span class="source-peek-preview">{unit.source.text}</span>
+              </summary>
+              <p class="source-peek-body">
+                {unit.source.text}
+              </p>
+            </details>
+          </li>
+        ))
+        ) : (
+          <li class="document-sheet p-4">
+            <p class="leading-7 text-[var(--color-text-secondary)]">
+              한국어 복원본이 없는 페이지입니다.
+            </p>
+            {
+              sourceOcrText ? (
+                <details open class="source-peek">
+                  <summary class="source-peek-trigger" aria-label="원문 대조 접기">
+                    <span class="source-peek-preview">{sourceOcrText}</span>
+                  </summary>
+                  <p class="source-peek-body">
+                    {sourceOcrText}
+                  </p>
+                </details>
+              ) : (
+                <p class="mt-4 border-t border-[var(--color-border-subtle)] pt-3 text-xs leading-6 text-[var(--color-text-muted)]">
+                  원문 텍스트가 없습니다.
+                </p>
+              )
+            }
+          </li>
+        )
+      }
+    </ol>
+  </section>
+</Layout>

@@ -12,7 +12,6 @@ build/
 .vercel/
 .wrangler/
 pagefind/
-public/source-cache/
 public/pagefind/
 coverage/
 
@@ -29,15 +28,10 @@ coverage/
 CLAUDE.md
 AGENTS.md
 
-# === App harness ===
-# The Astro reader is still under local development and is excluded from the
-# current public dataset release. Publish OCR/translation data first.
-astro.config.mjs
-tsconfig.json
-package.json
-pnpm-lock.yaml
-src/
-public/
+# === Static web app deploy inputs ===
+# Keep the Astro app and prebuilt reader scan assets in git for static hosting.
+# `public/source-cache/` is part of the deployed reader because page views load
+# WebP scans from that directory.
 
 # === Maintainer workflow docs ===
 # Keep agent orchestration and local workflow details private for now; the
@@ -49,6 +43,7 @@ WORKFLOW.md
 # Working data and operational rules. The exported public dataset under
 # `dataset/` is what is published.
 scripts/*
+!scripts/sync-page-images.mjs
 data/ocr/
 data/translations/
 scripts/ocr/

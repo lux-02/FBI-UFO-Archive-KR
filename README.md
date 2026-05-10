@@ -85,6 +85,23 @@ shasum -a 256 docs/ufo5.pdf
 
 ---
 
+## Static Web App Deployment
+
+The repository includes an Astro static reader app. Vercel deployment uses the checked-in app source and prebuilt reader scan images.
+
+Recommended Vercel settings:
+
+| Setting | Value |
+|---|---|
+| Framework Preset | Astro |
+| Install Command | `pnpm install` |
+| Build Command | `pnpm build` |
+| Output Directory | `dist` |
+
+Reader scan images are served from `public/source-cache/{sha256}/page_NNNN.reader.webp`. These WebP files are deploy inputs, not runtime-generated files. Source PDFs and OCR working data are not included in deployment.
+
+---
+
 ## Data Principles
 
 - Preserve traceability to the original PDF part and page.
@@ -201,6 +218,23 @@ shasum -a 256 docs/ufo3.pdf
 shasum -a 256 docs/ufo4.pdf
 shasum -a 256 docs/ufo5.pdf
 ```
+
+---
+
+## 정적 웹앱 배포
+
+이 저장소에는 Astro 기반 정적 리더 웹앱이 포함됩니다. Vercel 배포는 저장소에 포함된 앱 소스와 사전 생성된 리더용 스캔 이미지를 사용합니다.
+
+권장 Vercel 설정:
+
+| 설정 | 값 |
+|---|---|
+| Framework Preset | Astro |
+| Install Command | `pnpm install` |
+| Build Command | `pnpm build` |
+| Output Directory | `dist` |
+
+리더 스캔 이미지는 `public/source-cache/{sha256}/page_NNNN.reader.webp`에서 제공됩니다. 이 WebP 파일은 런타임 생성물이 아니라 배포 입력입니다. 원본 PDF와 OCR 작업 데이터는 배포에 포함하지 않습니다.
 
 ---
 

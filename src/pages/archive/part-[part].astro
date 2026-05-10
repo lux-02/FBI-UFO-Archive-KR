@@ -1,0 +1,96 @@
+---
+import Layout from "@/components/Layout.astro";
+import {
+  formatPage,
+  getPublishedDatasetParts,
+  getReaderPart,
+  getReaderPagesForPart,
+  getTranslationPagesForPart,
+  parsePartSlug,
+  type ArchivePartSummary,
+  type ReaderPageIndexEntry,
+  type PublicTranslationSummary,
+} from "@/lib/public-dataset";
+
+export async function getStaticPaths() {
+  return getPublishedDatasetParts()
+    .filter((part) => part.hasReader)
+    .map((part) => ({
+      params: { part: part.partLabel },
+      props: {
+        partEntry: part,
+        pages: getReaderPagesForPart(part.part),
+        translationPages: getTranslationPagesForPart(part.part),
+      },
+    }));
+}
+
+interface Props {
+  partEntry: ArchivePartSummary;
+  pages: ReaderPageIndexEntry[];
+  translationPages: PublicTranslationSummary["pages"];
+}
+
+const { partEntry, pages, translationPages } = Astro.props;
+const partNo = partEntry.partLabel;
+const part = getReaderPart(parsePartSlug(partEntry.slug));
+if (!part) {
+  throw new Error(`Reader part not found: ${partEntry.slug}`);
+}
+---
+
+<Layout title={`Part ${partNo}`}>
+  <nav class="mb-4 text-xs text-[var(--color-text-muted)]">
+    <a href="/" class="hover:underline">TERMINAL</a>
+    <span class="mx-1">›</span>
+    <span>FILE {partNo}</span>
+  </nav>
+
+  <header class="dossier-card mb-6 p-5">
+    <div class="mb-4 flex flex-wrap items-center gap-2">
+      <span class="lcd-label">FILE {partNo}</span>
+      <span class="source-label">원본 {pages.length}쪽</span>
+      <span class="stamp-label">한국어 {translationPages.length}쪽</span>
+    </div>
+    <div>
+      <div class="terminal-index mb-1">PAGE INDEX</div>
+      <h1 class="mb-2 text-2xl font-semibold">{partEntry.titleKo}</h1>
+    </div>
+  </header>
+
+  <ol class="archive-frame">
+    {
+      pages.map((page) => {
+        const statusClass = page.translationPage
+          ? page.translationPage.excludedLineCount > 0
+            ? "hold-label"
+            : "source-label"
+          : "stale-label";
+        const statusText = page.translationPage
+          ? page.translationPage.excludedLineCount > 0
+            ? "판독 보류"
+            : "한국어 복원"
+          : "원본만";
+
+        return (
+        <li class="ledger-row">
+          <a
+            href={`/archive/${partEntry.slug}/page-${formatPage(page.page)}`}
+            class="grid grid-cols-[7rem_1fr] items-center gap-x-3 px-4 py-3 text-sm hover:bg-[var(--color-surface-sunken)] sm:grid-cols-[8rem_1fr]"
+          >
+            <span class="font-mono text-[var(--color-text-primary)]">PAGE {formatPage(page.page)}</span>
+            <span
+              class:list={[
+                statusClass,
+                "w-fit justify-self-end",
+              ]}
+            >
+              {statusText}
+            </span>
+          </a>
+        </li>
+        );
+      })
+    }
+  </ol>
+</Layout>

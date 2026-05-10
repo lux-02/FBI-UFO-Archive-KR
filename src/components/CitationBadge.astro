@@ -1,0 +1,19 @@
+---
+interface Props {
+  part: number;
+  page: number;
+  blockId?: string | undefined;
+}
+
+const { part, page } = Astro.props;
+const partLabel = String(part).padStart(2, "0");
+const pageLabel = String(page).padStart(4, "0");
+const compact = `Part ${partLabel}, p. ${pageLabel}`;
+---
+
+<span
+  class="evidence-tag"
+  title={compact}
+>
+  {compact}
+</span>

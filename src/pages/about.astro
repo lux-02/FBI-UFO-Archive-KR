@@ -1,0 +1,137 @@
+---
+import Layout from "@/components/Layout.astro";
+import { getPublishedDatasetParts } from "@/lib/public-dataset";
+
+const parts = getPublishedDatasetParts();
+const translatedParts = parts.filter((part) => part.translationSummary);
+const pendingParts = parts.filter((part) => !part.translationSummary);
+const totalSourcePages = parts.reduce((sum, part) => sum + part.source.pageCount, 0);
+const translatedPages = translatedParts.reduce(
+  (sum, part) => sum + (part.translationSummary?.counts.pageCount ?? 0),
+  0,
+);
+const reviewedUnits = translatedParts.reduce(
+  (sum, part) => sum + (part.translationSummary?.counts.reviewedUnitCount ?? 0),
+  0,
+);
+const firstTranslatedPart = translatedParts[0];
+const lastTranslatedPart = translatedParts[translatedParts.length - 1];
+const firstPendingPart = pendingParts[0];
+const lastPendingPart = pendingParts[pendingParts.length - 1];
+const translatedRangeLabel =
+  firstTranslatedPart && lastTranslatedPart
+    ? `Part ${firstTranslatedPart.partLabel}-${lastTranslatedPart.partLabel}`
+    : "공개 대기";
+const pendingRangeLabel =
+  firstPendingPart && lastPendingPart
+    ? `Part ${firstPendingPart.partLabel}-${lastPendingPart.partLabel}`
+    : "없음";
+const formatNumber = (value: number) => value.toLocaleString("ko-KR");
+---
+
+<Layout title="소개">
+  <section class="archive-frame mb-6 p-5">
+    <div class="mb-3 flex flex-wrap items-center gap-2">
+      <span class="lcd-label">ABOUT</span>
+      <span class="source-label">UNOFFICIAL ARCHIVE</span>
+    </div>
+    <h1 class="terminal-title mb-4 text-3xl font-semibold leading-tight sm:text-5xl">
+      FBI UFO <br />ARCHIVE KR
+    </h1>
+    <p class="max-w-3xl text-sm leading-7 text-[var(--color-text-secondary)]">
+      FBI Vault에 공개된 UFO 관련 PDF를 한국어 독자가 원본 스캔과 함께 읽을 수 있도록
+      정리한 비공식 기록물 아카이브입니다. 이 프로젝트는 외계 생명체나 특정 사건의
+      진위를 주장하지 않으며, 공개 원문을 읽고 대조하기 쉽게 만드는 데 목적이 있습니다.
+    </p>
+  </section>
+
+  <div class="grid gap-4 lg:grid-cols-[minmax(0,1fr)_20rem]">
+    <section class="archive-frame p-5">
+      <h2 class="terminal-title mb-3 text-lg text-[var(--color-text-primary)]">PROJECT SCOPE</h2>
+      <div class="terminal-rule mb-4"></div>
+      <div class="space-y-4 text-sm leading-7 text-[var(--color-text-secondary)]">
+        <p>
+          공개 데이터셋은 FBI Vault의 UFO 관련 PDF를 대상으로 한 OCR 추출본과 한국어
+          번역 검수본으로 구성됩니다. 각 번역 단위는 원본 PDF의 Part, page, source line으로
+          되돌아갈 수 있도록 매핑을 보존합니다.
+        </p>
+        <p>
+          원본 PDF는 이 저장소에 포함하지 않습니다. 원문 이미지는 FBI Vault에서 직접 확인하며,
+          로컬 검증이 필요한 경우 <code>data/sources.json</code>의 URL, SHA-256, 페이지 수를
+          기준으로 대조합니다.
+        </p>
+        <p>
+          판독이 불확실한 OCR 라인, 삭제·검열·훼손된 영역은 추정으로 메우지 않습니다.
+          번역문은 원문에 없는 사실, 분위기, 결론을 추가하지 않는 기록물 톤을 기준으로 합니다.
+        </p>
+      </div>
+    </section>
+
+    <aside class="archive-frame p-5">
+      <h2 class="terminal-title mb-3 text-lg text-[var(--color-text-primary)]">STATUS</h2>
+      <div class="terminal-rule mb-4"></div>
+      <div class="space-y-2 text-xs text-[var(--color-text-muted)]">
+        <div class="terminal-data-line">
+          <span>PDF FILES</span>
+          <span>{parts.length}</span>
+        </div>
+        <div class="terminal-data-line">
+          <span>SOURCE PAGES</span>
+          <span>{formatNumber(totalSourcePages)}</span>
+        </div>
+        <div class="terminal-data-line">
+          <span>KR RESTORED</span>
+          <span>{translatedRangeLabel}</span>
+        </div>
+        <div class="terminal-data-line">
+          <span>KR PAGES</span>
+          <span>{formatNumber(translatedPages)}</span>
+        </div>
+        <div class="terminal-data-line">
+          <span>KR UNITS</span>
+          <span>{formatNumber(reviewedUnits)}</span>
+        </div>
+        <div class="terminal-data-line terminal-data-line--warn">
+          <span>PENDING</span>
+          <span>{pendingRangeLabel}</span>
+        </div>
+      </div>
+    </aside>
+  </div>
+
+  <section class="archive-frame mt-4 p-5">
+    <h2 class="terminal-title mb-3 text-lg text-[var(--color-text-primary)]">DATA PRINCIPLES</h2>
+    <div class="terminal-rule mb-4"></div>
+    <div class="grid gap-3 text-sm leading-7 text-[var(--color-text-secondary)] md:grid-cols-2">
+      <p>원본 PDF의 Part와 page 추적 가능성을 유지합니다.</p>
+      <p>원문에 없는 사실, 분위기, 결론을 추가하지 않습니다.</p>
+      <p>판독 불가 영역은 확정 문장으로 복원하지 않습니다.</p>
+      <p>OCR 확정 라인과 미확정 라인을 분리합니다.</p>
+      <p>한국어 번역은 과장된 해석이나 클릭베이트 표현을 피합니다.</p>
+      <p>원본 PDF의 저작권 또는 공개 상태를 이 저장소가 단정하지 않습니다.</p>
+    </div>
+  </section>
+
+  <section class="archive-frame mt-4 p-5">
+    <h2 class="terminal-title mb-3 text-lg text-[var(--color-text-primary)]">LINKS</h2>
+    <div class="terminal-rule mb-4"></div>
+    <div class="flex flex-wrap gap-2">
+      <a
+        href="https://vault.fbi.gov/UFO"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="icon-nav-button"
+      >
+        FBI Vault
+      </a>
+      <a
+        href="https://github.com/lux-02/FBI-UFO-Archive-KR"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="icon-nav-button"
+      >
+        GitHub
+      </a>
+    </div>
+  </section>
+</Layout>

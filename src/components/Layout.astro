@@ -1,0 +1,65 @@
+---
+import "@/styles/global.css";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description } = Astro.props;
+const siteName = "Public Vault Terminal · 한국어";
+const fullDescription =
+  description ?? "FBI Vault UFO PDF를 원본 스캔과 한국어 복원본으로 읽습니다.";
+---
+
+<!doctype html>
+<html lang="ko" data-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title} · {siteName}</title>
+    <meta name="description" content={fullDescription} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  </head>
+  <body class="archive-shell min-h-screen flex flex-col">
+    <header class="terminal-header text-[var(--color-text-primary)]">
+      <div class="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3">
+        <a href="/" class="flex min-w-0 items-center gap-3 font-semibold">
+          <span class="lcd-label">PUBLIC VAULT</span>
+          <span class="terminal-title truncate text-sm">UFO ARCHIVE KR</span>
+        </a>
+        <nav class="flex shrink-0 gap-3 font-mono text-xs text-[var(--color-text-primary)]">
+          <a href="/search" class="hover:underline">SEARCH</a>
+          <a href="/about" class="hover:underline">ABOUT</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="flex-1 mx-auto w-full max-w-6xl px-4 py-8">
+      <slot />
+    </main>
+
+    <footer
+      class="border-t border-[var(--color-border-subtle)] bg-[var(--color-surface-sunken)] px-4 py-6 text-xs text-[var(--color-text-muted)]"
+    >
+      <div class="mx-auto flex max-w-6xl flex-wrap items-center gap-x-3 gap-y-1">
+        <span>비공식 한국어 아카이브</span>
+        <span aria-hidden="true">·</span>
+        <a
+          href="https://vault.fbi.gov/UFO"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="underline">FBI Vault</a
+        >
+        <span aria-hidden="true">·</span>
+        <a
+          href="https://github.com/lux-02/FBI-UFO-Archive-KR"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="underline">GitHub</a
+        >
+      </div>
+    </footer>
+  </body>
+</html>

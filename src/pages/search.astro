@@ -1,0 +1,74 @@
+---
+import Layout from "@/components/Layout.astro";
+import CitationBadge from "@/components/CitationBadge.astro";
+import { formatPage, getAllTranslationUnits, partSlug } from "@/lib/public-dataset";
+
+const units = getAllTranslationUnits();
+---
+
+<Layout title="검색">
+  <h1 class="text-xl font-semibold mb-4">검색</h1>
+
+  <label class="mb-4 block">
+    <span class="mb-2 block text-xs font-mono text-[var(--color-text-muted)]">검색어</span>
+    <input
+      id="dataset-search"
+      type="search"
+      placeholder="예: 비행접시, memorandum, July 1947"
+      class="w-full rounded-md border border-[var(--color-border-subtle)] bg-[var(--color-surface-raised)] px-3 py-2 text-sm text-[var(--color-text-primary)] outline-none focus:border-[var(--color-border-strong)]"
+    />
+  </label>
+
+  <p id="search-count" class="mb-4 text-xs text-[var(--color-text-muted)]">
+    {units.length}개 결과
+  </p>
+
+  <ol id="search-results" class="space-y-3">
+    {
+      units.map((unit) => {
+        const haystack = `${unit.translation.text} ${unit.source.text} ${unit.id}`;
+        return (
+          <li
+            class="search-item rounded-md border border-[var(--color-border-subtle)] bg-[var(--color-surface-raised)] p-4"
+            data-search-text={haystack.toLocaleLowerCase("ko-KR")}
+          >
+            <div class="mb-2 flex flex-wrap items-center justify-between gap-2">
+              <a href={`/archive/${partSlug(unit.part)}/page-${formatPage(unit.page)}#${unit.id}`}>
+                <CitationBadge part={unit.part} page={unit.page} blockId={unit.source.lineIds.join(", ")} />
+              </a>
+            </div>
+            <p class="line-clamp-3 text-sm leading-7 text-[var(--color-text-primary)]">
+              {unit.translation.text}
+            </p>
+            <details class="mt-2 text-xs text-[var(--color-text-muted)]">
+              <summary class="cursor-pointer hover:underline">OCR 원문</summary>
+              <p class="mt-2 line-clamp-2 font-mono leading-6">
+                {unit.source.text}
+              </p>
+            </details>
+          </li>
+        );
+      })
+    }
+  </ol>
+
+  <script>
+    const input = document.querySelector("#dataset-search");
+    const count = document.querySelector("#search-count");
+    const items = Array.from(document.querySelectorAll(".search-item"));
+
+    function updateSearch() {
+      const query = input instanceof HTMLInputElement ? input.value.trim().toLocaleLowerCase("ko-KR") : "";
+      let visible = 0;
+      for (const item of items) {
+        const text = item instanceof HTMLElement ? item.dataset.searchText ?? "" : "";
+        const show = query.length === 0 || text.includes(query);
+        item.toggleAttribute("hidden", !show);
+        if (show) visible += 1;
+      }
+      if (count) count.textContent = `${visible}개 결과`;
+    }
+
+    input?.addEventListener("input", updateSearch);
+  </script>
+</Layout>
