@@ -1,0 +1,80 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 9,
+  "page": 17,
+  "pageId": "page_0017",
+  "source": {
+    "pdfPath": "docs/ufo9.pdf",
+    "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 8 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0017-l0004"
+  ],
+  "lineCount": 12,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "SECURITY INFORMATION - CONFIDENTIAL",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "He stated that he had been accompanied on",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "his fishing trip by [REDACTED] Kokomo, Indiana. Dr. [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 5,
+      "text": "had no further information concerning instant planes or the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "objects dropped by them.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "No further inquiries are contemplated in this",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "matter. However, if additional information is received",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "by this Bureau, you will be promptly advised.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "SECURITY INFORMATION - CONFIDENTIAL",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

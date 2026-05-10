@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 9,
+  "page": 55,
+  "pageId": "page_0055",
+  "source": {
+    "pdfPath": "docs/ufo9.pdf",
+    "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T16:54:14.013Z",
+  "unitCount": 1,
+  "sourceLineCount": 1,
+  "excludedLineCount": 5,
+  "excludedLines": [
+    {
+      "part": 9,
+      "page": 55,
+      "pageId": "page_0055",
+      "lineId": "page_0055-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "obtain a better view of these objects. However, recent attempts",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 9,
+      "page": 55,
+      "pageId": "page_0055",
+      "lineId": "page_0055-l0002",
+      "lineNumber": 2,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "in this regard have indicated that when the pilot in the jet",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 9,
+      "page": 55,
+      "pageId": "page_0055",
+      "lineId": "page_0055-l0003",
+      "lineNumber": 3,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "approaches the object it invariably fades from view.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 9,
+      "page": 55,
+      "pageId": "page_0055",
+      "lineId": "page_0055-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "RECOMMENDATION:",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 9,
+      "page": 55,
+      "pageId": "page_0055",
+      "lineId": "page_0055-l0009",
+      "lineNumber": 9,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "- 3 -",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p09-page-0055-u001",
+      "unitVersion": 1,
+      "part": 9,
+      "page": 55,
+      "pageId": "page_0055",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo9.pdf",
+        "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe",
+        "lineIds": [
+          "page_0055-l0007"
+        ],
+        "lineNumbers": [
+          7
+        ],
+        "refs": [
+          {
+            "part": 9,
+            "page": 55,
+            "pageId": "page_0055",
+            "lineId": "page_0055-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          }
+        ],
+        "text": "None. The foregoing is for your information."
+      },
+      "translation": {
+        "text": "없음. 위 내용은 귀하의 정보용입니다.",
+        "reviewedAt": "2026-05-10T16:54:03.534Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 9,
+  "page": 36,
+  "pageId": "page_0036",
+  "source": {
+    "pdfPath": "docs/ufo9.pdf",
+    "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 4 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0036-l0003",
+    "page_0036-l0004"
+  ],
+  "lineCount": 9,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "2.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "he has written. If I were handling this, I should turn his letter over",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 4,
+      "text": "to the FBI or some other investigating agency to see if he knews anything",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 5,
+      "text": "more.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
+      "text": "F.Y.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "August 4, 1952",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

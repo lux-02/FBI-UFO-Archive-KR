@@ -1,0 +1,51 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 9,
+  "page": 10,
+  "pageId": "page_0010",
+  "source": {
+    "pdfPath": "docs/ufo9.pdf",
+    "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 3 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0010-l0006"
+  ],
+  "lineCount": 6,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "set II",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "UFO",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "sec 6",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
+      "text": "187 1998",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    }
+  ],
+  "blockCount": null
+}

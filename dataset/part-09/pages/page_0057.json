@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 9,
+  "page": 57,
+  "pageId": "page_0057",
+  "source": {
+    "pdfPath": "docs/ufo9.pdf",
+    "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 3 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0057-l0002",
+    "page_0057-l0003",
+    "page_0057-l0004"
+  ],
+  "lineCount": 7,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "He stated that he had been accompanied on",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "his fishing trip by [REDACTED], Kokomo, Indiana.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 3,
+      "text": "Dr. [REDACTED] had no further information concerning",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 4,
+      "text": "instant planes or the objects dropped by them.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
+      "text": "The above is furnished for your information.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "No further inquiries are contemplated.",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

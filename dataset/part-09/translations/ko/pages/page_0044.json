@@ -1,0 +1,437 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 9,
+  "page": 44,
+  "pageId": "page_0044",
+  "source": {
+    "pdfPath": "docs/ufo9.pdf",
+    "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T16:54:14.013Z",
+  "unitCount": 3,
+  "sourceLineCount": 26,
+  "excludedLineCount": 3,
+  "excludedLines": [
+    {
+      "part": 9,
+      "page": 44,
+      "pageId": "page_0044",
+      "lineId": "page_0044-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Office Memrandum • UNITED STATES GOVERNMENT",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 9,
+      "page": 44,
+      "pageId": "page_0044",
+      "lineId": "page_0044-l0003",
+      "lineNumber": 3,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "FROM : [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 9,
+      "page": 44,
+      "pageId": "page_0044",
+      "lineId": "page_0044-l0010",
+      "lineNumber": 10,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED], Jersey Shore, Pa.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p09-page-0044-u001",
+      "unitVersion": 1,
+      "part": 9,
+      "page": 44,
+      "pageId": "page_0044",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo9.pdf",
+        "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe",
+        "lineIds": [
+          "page_0044-l0002"
+        ],
+        "lineNumbers": [
+          2
+        ],
+        "refs": [
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          }
+        ],
+        "text": "TO : A. H. Belmont DATE: July 31, 1952"
+      },
+      "translation": {
+        "text": "수신: A. H. 벨몬트 날짜: 1952년 7월 31일",
+        "reviewedAt": "2026-05-10T16:54:03.534Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p09-page-0044-u002",
+      "unitVersion": 1,
+      "part": 9,
+      "page": 44,
+      "pageId": "page_0044",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo9.pdf",
+        "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe",
+        "lineIds": [
+          "page_0044-l0004",
+          "page_0044-l0005",
+          "page_0044-l0006",
+          "page_0044-l0007",
+          "page_0044-l0008",
+          "page_0044-l0009"
+        ],
+        "lineNumbers": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "refs": [
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          }
+        ],
+        "text": "SUBJECT: UNUSUAL FLASHES DURING\nELECTRICAL STORM, JERSEY SHORE, PA.\nJULY 28, 1952\nCOMPLAINANT\nFLYING SAUCERS\nAt 2:15 AM on July 31, 1952,"
+      },
+      "translation": {
+        "text": "제목: 1952년 7월 28일 펜실베이니아주 저지 쇼어에서 발생한\n뇌우 중 특이한 섬광\n고발인\n비행접시\n1952년 7월 31일 오전 2시 15분,",
+        "reviewedAt": "2026-05-10T16:54:03.534Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p09-page-0044-u003",
+      "unitVersion": 1,
+      "part": 9,
+      "page": 44,
+      "pageId": "page_0044",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo9.pdf",
+        "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe",
+        "lineIds": [
+          "page_0044-l0011",
+          "page_0044-l0012",
+          "page_0044-l0013",
+          "page_0044-l0014",
+          "page_0044-l0015",
+          "page_0044-l0016",
+          "page_0044-l0017",
+          "page_0044-l0018",
+          "page_0044-l0019",
+          "page_0044-l0020",
+          "page_0044-l0021",
+          "page_0044-l0022",
+          "page_0044-l0023",
+          "page_0044-l0024",
+          "page_0044-l0025",
+          "page_0044-l0026",
+          "page_0044-l0027",
+          "page_0044-l0028",
+          "page_0044-l0029"
+        ],
+        "lineNumbers": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ],
+        "refs": [
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0024",
+            "lineNumber": 24,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0026",
+            "lineNumber": 26,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0027",
+            "lineNumber": 27,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0028",
+            "lineNumber": 28,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          }
+        ],
+        "text": "telephonically advised that in the early morning of\n7-28-52, during a severe electrical storm in the area\nof his residence, he had observed seven unusual flashes in the\nsky, each flash being accompanied by a loud report.\nComplainant, who appeared to be under the influence\nof intoxicants, called as a result of recent newspaper stories\nregarding phenomena allegedly observed during past week in\nthis country.\nBureau indices contain no information identifiable\nwith the complainant.\nAction:\nFile.\nJ.H.Hadad\nRECORDED - 34\nEX. - 8\nINDEXED - 34\n62-93834-287\nJUL 31 1952\n65 AUG 7 1952"
+      },
+      "translation": {
+        "text": "전화로 7월 28일 새벽, 거주지 인근의 심한 뇌우 중에 하늘에서 7개의 특이한 섬광을 목격했으며, 각 섬광에는 큰 소리가 동반되었다고 알렸다.\n술에 취한 것으로 보이는 고발인은 지난주 이 나라에서 목격되었다고 주장되는 현상에 대한 최근 신문 기사 때문에 전화했다.\n국(Bureau) 색인에는 고발인과 관련된 정보가 없다.\n조치:\n파일.\nJ.H.하다드\n기록됨 - 34\nEX. - 8\n색인됨 - 34\n62-93834-287\n1952년 7월 31일\n65 1952년 8월 7일",
+        "reviewedAt": "2026-05-10T16:54:03.534Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

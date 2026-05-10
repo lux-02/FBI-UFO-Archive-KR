@@ -44,6 +44,11 @@ This directory contains public-facing OCR and Korean translation datasets derive
   - 471 lines marked permanent_unresolved and excluded from translation body text.
   - Page-level breakdown: 4 READY · 57 PARTIAL_READY · 5 NOT_READY.
   - Korean translation export: 585 reviewed units across 61 pages, not final owner-approved.
+- **part-09** (`ufo9.pdf`, 67 pages) — OCR + translation export complete (2026-05-10).
+  - 1,449 source-bearing lines promoted through conservative image-match closure.
+  - 404 lines marked permanent_unresolved and excluded from translation body text.
+  - Page-level breakdown: 1 READY · 64 PARTIAL_READY · 2 NOT_READY.
+  - Korean translation export: 501 reviewed units across 65 pages, not final owner-approved.
 
 ## Disclaimer
 
@@ -115,6 +120,10 @@ dataset/
     manifest.json
     pages/
     translations/ko/
+  part-09/
+    manifest.json
+    pages/
+    translations/ko/
 ```
 
 ## Content Conventions
@@ -141,8 +150,9 @@ dataset/
 | 06 | 129 | 0 | 0 | 0 | `IMAGE_MATCHED` lines only |
 | 07 | 84 | 0 | 0 | 0 | `IMAGE_MATCHED` lines only |
 | 08 | 66 | 0 | 0 | 0 | `IMAGE_MATCHED` lines only |
+| 09 | 67 | 0 | 0 | 0 | `IMAGE_MATCHED` lines only |
 
-Parts 01-08 use line-level closure for every page. Only `IMAGE_MATCHED` lines are translation source; unresolved lines are retained as excluded source-line records.
+Parts 01-09 use line-level closure for every page. Only `IMAGE_MATCHED` lines are translation source; unresolved lines are retained as excluded source-line records.
 
 ## Korean Translation Status
 
@@ -172,6 +182,9 @@ This export now includes reviewed Korean translation data for:
 - `dataset/part-08/translations/ko/summary.json`
 - `dataset/part-08/translations/ko/units.json`
 - `dataset/part-08/translations/ko/pages/page_NNNN.{txt,json}`
+- `dataset/part-09/translations/ko/summary.json`
+- `dataset/part-09/translations/ko/units.json`
+- `dataset/part-09/translations/ko/pages/page_NNNN.{txt,json}`
 The translation input is limited to `IMAGE_MATCHED` source lines. Unresolved OCR lines are listed in each part's `excluded_source_lines.json` and are intentionally not translated as confirmed body text.
 
 The current Korean export is `reviewed` / `not_approved`: suitable for public inspection and dataset review, but not labeled as final approved publication text.
@@ -201,6 +214,9 @@ FBI-UFO-Archive-KR Project. (2026). FBI UFO Archive KR — Public OCR + Translat
 Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 
 FBI-UFO-Archive-KR Project. (2026). FBI UFO Archive KR — Public OCR + Translation Dataset, part-08.
+Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
+
+FBI-UFO-Archive-KR Project. (2026). FBI UFO Archive KR — Public OCR + Translation Dataset, part-09.
 Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 ```
 

@@ -1,0 +1,152 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 9,
+  "page": 57,
+  "pageId": "page_0057",
+  "source": {
+    "pdfPath": "docs/ufo9.pdf",
+    "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T16:54:14.013Z",
+  "unitCount": 2,
+  "sourceLineCount": 3,
+  "excludedLineCount": 3,
+  "excludedLines": [
+    {
+      "part": 9,
+      "page": 57,
+      "pageId": "page_0057",
+      "lineId": "page_0057-l0002",
+      "lineNumber": 2,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "his fishing trip by [REDACTED], Kokomo, Indiana.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 9,
+      "page": 57,
+      "pageId": "page_0057",
+      "lineId": "page_0057-l0003",
+      "lineNumber": 3,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "Dr. [REDACTED] had no further information concerning",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 9,
+      "page": 57,
+      "pageId": "page_0057",
+      "lineId": "page_0057-l0004",
+      "lineNumber": 4,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "instant planes or the objects dropped by them.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p09-page-0057-u001",
+      "unitVersion": 1,
+      "part": 9,
+      "page": 57,
+      "pageId": "page_0057",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo9.pdf",
+        "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe",
+        "lineIds": [
+          "page_0057-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 9,
+            "page": 57,
+            "pageId": "page_0057",
+            "lineId": "page_0057-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          }
+        ],
+        "text": "He stated that he had been accompanied on"
+      },
+      "translation": {
+        "text": "그는 동행했다고 진술했다.",
+        "reviewedAt": "2026-05-10T16:54:03.534Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p09-page-0057-u002",
+      "unitVersion": 1,
+      "part": 9,
+      "page": 57,
+      "pageId": "page_0057",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo9.pdf",
+        "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe",
+        "lineIds": [
+          "page_0057-l0006",
+          "page_0057-l0007"
+        ],
+        "lineNumbers": [
+          6,
+          7
+        ],
+        "refs": [
+          {
+            "part": 9,
+            "page": 57,
+            "pageId": "page_0057",
+            "lineId": "page_0057-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          },
+          {
+            "part": 9,
+            "page": 57,
+            "pageId": "page_0057",
+            "lineId": "page_0057-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo9.pdf",
+            "sourceSha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
+          }
+        ],
+        "text": "The above is furnished for your information.\nNo further inquiries are contemplated."
+      },
+      "translation": {
+        "text": "위 내용은 귀하의 정보 제공을 위해 제공됩니다.\n더 이상의 문의는 고려되지 않습니다.",
+        "reviewedAt": "2026-05-10T16:54:03.534Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}
