@@ -1,0 +1,217 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 2,
+  "page": 11,
+  "pageId": "page_0011",
+  "source": {
+    "pdfPath": "docs/ufo2.pdf",
+    "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T05:45:09.581Z",
+  "unitCount": 3,
+  "sourceLineCount": 5,
+  "excludedLineCount": 4,
+  "excludedLines": [
+    {
+      "part": 2,
+      "page": 11,
+      "pageId": "page_0011",
+      "lineId": "page_0011-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 11,
+      "pageId": "page_0011",
+      "lineId": "page_0011-l0004",
+      "lineNumber": 4,
+      "sourceStatus": "NEEDS_IMAGE_CHECK",
+      "sourceText": "MAY",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 11,
+      "pageId": "page_0011",
+      "lineId": "page_0011-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "NEEDS_IMAGE_CHECK",
+      "sourceText": "[unclear]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 11,
+      "pageId": "page_0011",
+      "lineId": "page_0011-l0009",
+      "lineNumber": 9,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Mr. Edgar Hoover",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p02-page-0011-u001",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 11,
+      "pageId": "page_0011",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0011-l0003"
+        ],
+        "lineNumbers": [
+          3
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 11,
+            "pageId": "page_0011",
+            "lineId": "page_0011-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "WOODSTOCK"
+      },
+      "translation": {
+        "text": "우드스톡",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0011-u002",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 11,
+      "pageId": "page_0011",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0011-l0006",
+          "page_0011-l0007"
+        ],
+        "lineNumbers": [
+          6,
+          7
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 11,
+            "pageId": "page_0011",
+            "lineId": "page_0011-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 11,
+            "pageId": "page_0011",
+            "lineId": "page_0011-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "ILL.\nUNITED STATES POSTAGE 3 CENTS 3"
+      },
+      "translation": {
+        "text": "일리노이\n미국 우편 요금 3센트 3",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0011-u003",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 11,
+      "pageId": "page_0011",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0011-l0010",
+          "page_0011-l0011"
+        ],
+        "lineNumbers": [
+          10,
+          11
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 11,
+            "pageId": "page_0011",
+            "lineId": "page_0011-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 11,
+            "pageId": "page_0011",
+            "lineId": "page_0011-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "F.B.I.\nWashington, D.C."
+      },
+      "translation": {
+        "text": "F.B.I.\n워싱턴 D.C.",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

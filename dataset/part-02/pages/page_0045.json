@@ -1,0 +1,80 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 2,
+  "page": 45,
+  "pageId": "page_0045",
+  "source": {
+    "pdfPath": "docs/ufo2.pdf",
+    "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "unknown_or_low_text_scan",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 8 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0045-l0001"
+  ],
+  "lineCount": 12,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "CENTER LINE, MICH.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "text": "JUL 7",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "10-AM",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
+      "text": "AIR MAIL",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "UNITED STATES OF AMERICA",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Mr. J. Edgar Hoover",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "Washington, D.C.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Personal Attention.",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

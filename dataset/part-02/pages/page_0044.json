@@ -1,0 +1,95 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 2,
+  "page": 44,
+  "pageId": "page_0044",
+  "source": {
+    "pdfPath": "docs/ufo2.pdf",
+    "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 9 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0044-l0003",
+    "page_0044-l0006",
+    "page_0044-l0008"
+  ],
+  "lineCount": 14,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "NEW YORK, N.Y.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "JUL 11",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "930PM",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 4,
+      "text": "1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
+      "text": "UNITED STATES POSTAGE",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 7,
+      "text": "GRAND CENTRAL",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "STATION",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 9,
+      "text": "3 CENTS 3",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Mr. J. Edgar Hoover, Director",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Federal Bureau of Investigation",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "U.S. Dept. of Justice Bldg.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Washington, D. C.",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

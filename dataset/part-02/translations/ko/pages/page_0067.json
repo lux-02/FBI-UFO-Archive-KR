@@ -1,0 +1,877 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 2,
+  "page": 67,
+  "pageId": "page_0067",
+  "source": {
+    "pdfPath": "docs/ufo2.pdf",
+    "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T05:45:09.581Z",
+  "unitCount": 14,
+  "sourceLineCount": 30,
+  "excludedLineCount": 7,
+  "excludedLines": [
+    {
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "lineId": "page_0067-l0027",
+      "lineNumber": 27,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "333.5/1208-1 1st Ind 4AFDA",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "lineId": "page_0067-l0043",
+      "lineNumber": 43,
+      "sourceStatus": "NEEDS_IMAGE_CHECK",
+      "sourceText": "[unclear]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "lineId": "page_0067-l0046",
+      "lineNumber": 46,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "U. S. DE[unclear] OF JUSTICE",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "lineId": "page_0067-l0048",
+      "lineNumber": 48,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "SAN FF[unclear] [unclear]ORNIA",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "lineId": "page_0067-l0049",
+      "lineNumber": 49,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "ROUTED TO FILE [unclear]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "lineId": "page_0067-l0051",
+      "lineNumber": 51,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "lineId": "page_0067-l0053",
+      "lineNumber": 53,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "62-83894-97",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p02-page-0067-u001",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0067-l0001",
+          "page_0067-l0002",
+          "page_0067-l0003"
+        ],
+        "lineNumbers": [
+          1,
+          2,
+          3
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "SIGAK 000 ALASKA COMMUNICATION SYSTEM, SIGNAL CORPS ACSAD\nSeattle 4, Washington\n19 August 1947"
+      },
+      "translation": {
+        "text": "SIGAK 000 알래스카 통신 시스템, 통신대 ACSAD\n워싱턴주 시애틀 4\n1947년 8월 19일",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0067-u002",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0067-l0005"
+        ],
+        "lineNumbers": [
+          5
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "Subject: Matters of National Interest"
+      },
+      "translation": {
+        "text": "제목: 국가적 관심 사안",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0067-u003",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0067-l0007",
+          "page_0067-l0008",
+          "page_0067-l0009"
+        ],
+        "lineNumbers": [
+          7,
+          8,
+          9
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "To: Commanding General\nFourth Air Force\nSan Francisco, California"
+      },
+      "translation": {
+        "text": "수신: 사령관\n제4공군\n캘리포니아주 샌프란시스코",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0067-u004",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0067-l0011",
+          "page_0067-l0012",
+          "page_0067-l0013"
+        ],
+        "lineNumbers": [
+          11,
+          12,
+          13
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "The attached letter has been received from the NCOIC of\nthe Alaska Communication System station at Bethel, Alaska.\nIt is submitted for your information."
+      },
+      "translation": {
+        "text": "첨부된 서신은 알래스카주 베델에 있는 알래스카 통신 시스템 기지의\nNCOIC로부터 접수되었습니다.\n참고용으로 제출합니다.",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0067-u005",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0067-l0015"
+        ],
+        "lineNumbers": [
+          15
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "For the Commanding Officer:"
+      },
+      "translation": {
+        "text": "사령관 대리:",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0067-u006",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0067-l0017",
+          "page_0067-l0018",
+          "page_0067-l0019",
+          "page_0067-l0020"
+        ],
+        "lineNumbers": [
+          17,
+          18,
+          19,
+          20
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "/s/ Svend C. Hansen\nSVEND C. HANSEN\nCaptain, Signal Corps\nActing Executive"
+      },
+      "translation": {
+        "text": "/s/ 스벤 C. 한센\n스벤 C. 한센\n통신대 대위\n행정관 대리",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0067-u007",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0067-l0022",
+          "page_0067-l0023",
+          "page_0067-l0024",
+          "page_0067-l0025"
+        ],
+        "lineNumbers": [
+          22,
+          23,
+          24,
+          25
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0024",
+            "lineNumber": 24,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "1 Incl\nCy ltr fr NCOIC\nat Bethel to Hq,\nACS, Seattle"
+      },
+      "translation": {
+        "text": "첨부 문서 1부\n베델 NCOIC가\n시애틀 ACS 본부로\n보낸 서신 사본",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0067-u008",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0067-l0029"
+        ],
+        "lineNumbers": [
+          29
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "HQ FOURTH AIR FORCE, Hamilton Field, California, 23 August 1947."
+      },
+      "translation": {
+        "text": "제4공군 본부, 캘리포니아주 해밀턴 필드, 1947년 8월 23일.",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0067-u009",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0067-l0031",
+          "page_0067-l0032"
+        ],
+        "lineNumbers": [
+          31,
+          32
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0031",
+            "lineNumber": 31,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0032",
+            "lineNumber": 32,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "TO: Special Agent In Charge, FBI, U. S. Department of Justice, Room 422,\nFederal Office Building, San Francisco, California."
+      },
+      "translation": {
+        "text": "수신: 캘리포니아주 샌프란시스코 연방청사 422호실, 미국 법무부 FBI 담당 특별 요원.",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0067-u010",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0067-l0034"
+        ],
+        "lineNumbers": [
+          34
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0034",
+            "lineNumber": 34,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "Forwarded for your information."
+      },
+      "translation": {
+        "text": "참고용으로 전달합니다.",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0067-u011",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0067-l0036",
+          "page_0067-l0037",
+          "page_0067-l0038"
+        ],
+        "lineNumbers": [
+          36,
+          37,
+          38
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0036",
+            "lineNumber": 36,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0037",
+            "lineNumber": 37,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0038",
+            "lineNumber": 38,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "DONALD L. SPRINGER\nLt. Colonel, GSC\nAC of S, A-2"
+      },
+      "translation": {
+        "text": "도널드 L. 스프링어\n육군 중령, GSC\n정보참모차장, A-2",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0067-u012",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0067-l0040",
+          "page_0067-l0041"
+        ],
+        "lineNumbers": [
+          40,
+          41
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0040",
+            "lineNumber": 40,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0041",
+            "lineNumber": 41,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "1 Incl\nn/c"
+      },
+      "translation": {
+        "text": "첨부 문서 1부\n변경 없음",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0067-u013",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0067-l0045"
+        ],
+        "lineNumbers": [
+          45
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0045",
+            "lineNumber": 45,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "FEDERAL BUREAU OF INVESTIGATION"
+      },
+      "translation": {
+        "text": "연방수사국",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0067-u014",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0067-l0047"
+        ],
+        "lineNumbers": [
+          47
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0047",
+            "lineNumber": 47,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "SEP 2 1947"
+      },
+      "translation": {
+        "text": "1947년 9월 2일",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

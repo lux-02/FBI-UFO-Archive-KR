@@ -1,0 +1,435 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 2,
+  "page": 47,
+  "pageId": "page_0047",
+  "source": {
+    "pdfPath": "docs/ufo2.pdf",
+    "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T05:45:09.581Z",
+  "unitCount": 5,
+  "sourceLineCount": 15,
+  "excludedLineCount": 8,
+  "excludedLines": [
+    {
+      "part": 2,
+      "page": 47,
+      "pageId": "page_0047",
+      "lineId": "page_0047-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Federal Bure Of Investigation",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 47,
+      "pageId": "page_0047",
+      "lineId": "page_0047-l0002",
+      "lineNumber": 2,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Washington D. C.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 47,
+      "pageId": "page_0047",
+      "lineId": "page_0047-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] my mother in law",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 47,
+      "pageId": "page_0047",
+      "lineId": "page_0047-l0007",
+      "lineNumber": 7,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "which dropped in street in front b7c",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 47,
+      "pageId": "page_0047",
+      "lineId": "page_0047-l0008",
+      "lineNumber": 8,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "of our house at [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 47,
+      "pageId": "page_0047",
+      "lineId": "page_0047-l0013",
+      "lineNumber": 13,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "size of a silver dollar and [unclear]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 47,
+      "pageId": "page_0047",
+      "lineId": "page_0047-l0018",
+      "lineNumber": 18,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "83894",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 47,
+      "pageId": "page_0047",
+      "lineId": "page_0047-l0023",
+      "lineNumber": 23,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "[unclear] In the mean time, a boy picked",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p02-page-0047-u001",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 47,
+      "pageId": "page_0047",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0047-l0003",
+          "page_0047-l0004"
+        ],
+        "lineNumbers": [
+          3,
+          4
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "Gentlemen:\nOn July 7th 1947, 10:30 P.M."
+      },
+      "translation": {
+        "text": "여러분께:\n1947년 7월 7일, 오후 10시 30분",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0047-u002",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 47,
+      "pageId": "page_0047",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0047-l0006"
+        ],
+        "lineNumbers": [
+          6
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "and I witnessed a flaming object"
+      },
+      "translation": {
+        "text": "그리고 저는 불타는 물체를 목격했습니다",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0047-u003",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 47,
+      "pageId": "page_0047",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0047-l0009",
+          "page_0047-l0010",
+          "page_0047-l0011",
+          "page_0047-l0012"
+        ],
+        "lineNumbers": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "Omaha Nebr.\nUpon examination, the object\nwas solid and had form of round\ncircular disc, approximately the"
+      },
+      "translation": {
+        "text": "네브래스카주 오마하.\n조사 결과, 그 물체는\n고체였으며 둥근\n원형 디스크 형태였고, 대략",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0047-u004",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 47,
+      "pageId": "page_0047",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0047-l0014",
+          "page_0047-l0015",
+          "page_0047-l0016",
+          "page_0047-l0017"
+        ],
+        "lineNumbers": [
+          14,
+          15,
+          16,
+          17
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "1/4\" thick, burning with extreme\nheat.\nRECORDED\nINDEXED"
+      },
+      "translation": {
+        "text": "두께 1/4인치, 극심한\n열을 내며 타고 있었습니다.\n기록됨\n색인됨",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0047-u005",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 47,
+      "pageId": "page_0047",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0047-l0019",
+          "page_0047-l0020",
+          "page_0047-l0021",
+          "page_0047-l0022"
+        ],
+        "lineNumbers": [
+          19,
+          20,
+          21,
+          22
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 47,
+            "pageId": "page_0047",
+            "lineId": "page_0047-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "98\nThe World Herald Newspaper\nwas notified and reporter was\nsent out."
+      },
+      "translation": {
+        "text": "98\n월드 헤럴드 신문사에\n통보되었고 기자가\n파견되었습니다.",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 2,
+  "page": 53,
+  "pageId": "page_0053",
+  "source": {
+    "pdfPath": "docs/ufo2.pdf",
+    "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "unknown_or_low_text_scan",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 2 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0053-l0001",
+    "page_0053-l0002",
+    "page_0053-l0006"
+  ],
+  "lineCount": 6,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "lots [unclear] disenfec[unclear]nt on han[unclear]..",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Or else something might happen",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 3,
+      "text": "to us in the United States.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "From:",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "    a freind",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    }
+  ],
+  "blockCount": null
+}

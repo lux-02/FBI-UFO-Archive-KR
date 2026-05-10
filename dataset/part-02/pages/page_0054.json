@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 2,
+  "page": 54,
+  "pageId": "page_0054",
+  "source": {
+    "pdfPath": "docs/ufo2.pdf",
+    "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 7 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0054-l0001",
+    "page_0054-l0010"
+  ],
+  "lineCount": 10,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "[POSTMARK]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "text": "NEW BRUNSWICK",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "JUL 5",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "2 PM",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "N. J.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "The F.B.I.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Washington",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "District of Colombia",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    }
+  ],
+  "blockCount": null
+}

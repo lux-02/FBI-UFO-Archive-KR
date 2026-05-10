@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 2,
+  "page": 53,
+  "pageId": "page_0053",
+  "source": {
+    "pdfPath": "docs/ufo2.pdf",
+    "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T05:45:09.581Z",
+  "unitCount": 2,
+  "sourceLineCount": 2,
+  "excludedLineCount": 3,
+  "excludedLines": [
+    {
+      "part": 2,
+      "page": 53,
+      "pageId": "page_0053",
+      "lineId": "page_0053-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "lots [unclear] disenfec[unclear]nt on han[unclear]..",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 53,
+      "pageId": "page_0053",
+      "lineId": "page_0053-l0002",
+      "lineNumber": 2,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Or else something might happen",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 53,
+      "pageId": "page_0053",
+      "lineId": "page_0053-l0006",
+      "lineNumber": 6,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "    a freind",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p02-page-0053-u001",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 53,
+      "pageId": "page_0053",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0053-l0003"
+        ],
+        "lineNumbers": [
+          3
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 53,
+            "pageId": "page_0053",
+            "lineId": "page_0053-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "to us in the United States."
+      },
+      "translation": {
+        "text": "미국에 있는 우리에게.",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0053-u002",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 53,
+      "pageId": "page_0053",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0053-l0005"
+        ],
+        "lineNumbers": [
+          5
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 53,
+            "pageId": "page_0053",
+            "lineId": "page_0053-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "From:"
+      },
+      "translation": {
+        "text": "발신:",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

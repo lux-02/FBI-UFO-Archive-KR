@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 2,
+  "page": 16,
+  "pageId": "page_0016",
+  "source": {
+    "pdfPath": "docs/ufo2.pdf",
+    "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T05:45:09.581Z",
+  "unitCount": 1,
+  "sourceLineCount": 1,
+  "excludedLineCount": 0,
+  "excludedLines": [],
+  "units": [
+    {
+      "id": "TU-p02-page-0016-u001",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 16,
+      "pageId": "page_0016",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0016-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 16,
+            "pageId": "page_0016",
+            "lineId": "page_0016-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "Sharp-Eyed Sight Disks, but Only a Saw Blade Is Found"
+      },
+      "translation": {
+        "text": "예리한 눈으로 디스크를 목격했으나, 발견된 것은 톱날뿐",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

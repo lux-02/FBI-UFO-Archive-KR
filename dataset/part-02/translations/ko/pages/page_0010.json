@@ -1,0 +1,360 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 2,
+  "page": 10,
+  "pageId": "page_0010",
+  "source": {
+    "pdfPath": "docs/ufo2.pdf",
+    "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T05:45:09.581Z",
+  "unitCount": 3,
+  "sourceLineCount": 16,
+  "excludedLineCount": 6,
+  "excludedLines": [
+    {
+      "part": 2,
+      "page": 10,
+      "pageId": "page_0010",
+      "lineId": "page_0010-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "them - [unclear] information -",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 10,
+      "pageId": "page_0010",
+      "lineId": "page_0010-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 10,
+      "pageId": "page_0010",
+      "lineId": "page_0010-l0006",
+      "lineNumber": 6,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Milwaukee, Wis. [REDACTED] b7c",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 10,
+      "pageId": "page_0010",
+      "lineId": "page_0010-l0010",
+      "lineNumber": 10,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "next war will end all - Doesn't [unclear]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 10,
+      "pageId": "page_0010",
+      "lineId": "page_0010-l0011",
+      "lineNumber": 11,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "ready in these latest events -",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 10,
+      "pageId": "page_0010",
+      "lineId": "page_0010-l0022",
+      "lineNumber": 22,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "2. [unclear]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p02-page-0010-u001",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 10,
+      "pageId": "page_0010",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0010-l0002",
+          "page_0010-l0003",
+          "page_0010-l0004"
+        ],
+        "lineNumbers": [
+          2,
+          3,
+          4
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 10,
+            "pageId": "page_0010",
+            "lineId": "page_0010-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 10,
+            "pageId": "page_0010",
+            "lineId": "page_0010-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 10,
+            "pageId": "page_0010",
+            "lineId": "page_0010-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "Now this woman may only be\nguessing but it should not be passed\nup - The name she gave me -"
+      },
+      "translation": {
+        "text": "이제 이 여자는 추측만 하고 있을 수도 있지만 그냥 넘어가서는 안 됩니다 - 그녀가 제게 알려준 이름은 -",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0010-u002",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 10,
+      "pageId": "page_0010",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0010-l0007",
+          "page_0010-l0008",
+          "page_0010-l0009"
+        ],
+        "lineNumbers": [
+          7,
+          8,
+          9
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 10,
+            "pageId": "page_0010",
+            "lineId": "page_0010-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 10,
+            "pageId": "page_0010",
+            "lineId": "page_0010-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 10,
+            "pageId": "page_0010",
+            "lineId": "page_0010-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "Why do we wait till we are destroyed or\nnearly so before we act -\nIf we aren't ready in 3 seconds the"
+      },
+      "translation": {
+        "text": "왜 우리는 파괴되거나 거의 그렇게 될 때까지 기다렸다가 행동하는가 -\n만약 우리가 3초 안에 준비되지 않는다면",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0010-u003",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 10,
+      "pageId": "page_0010",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0010-l0012",
+          "page_0010-l0013",
+          "page_0010-l0014",
+          "page_0010-l0015",
+          "page_0010-l0016",
+          "page_0010-l0017",
+          "page_0010-l0018",
+          "page_0010-l0019",
+          "page_0010-l0020",
+          "page_0010-l0021"
+        ],
+        "lineNumbers": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 10,
+            "pageId": "page_0010",
+            "lineId": "page_0010-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 10,
+            "pageId": "page_0010",
+            "lineId": "page_0010-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 10,
+            "pageId": "page_0010",
+            "lineId": "page_0010-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 10,
+            "pageId": "page_0010",
+            "lineId": "page_0010-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 10,
+            "pageId": "page_0010",
+            "lineId": "page_0010-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 10,
+            "pageId": "page_0010",
+            "lineId": "page_0010-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 10,
+            "pageId": "page_0010",
+            "lineId": "page_0010-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 10,
+            "pageId": "page_0010",
+            "lineId": "page_0010-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 10,
+            "pageId": "page_0010",
+            "lineId": "page_0010-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 10,
+            "pageId": "page_0010",
+            "lineId": "page_0010-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "Let our war dept. take notice - Its no time\nto sleep - We should secretly draft men - have\nall our guns set for a moments notice -\nWe must be ready. But can we afford\nto wait if Russia plans destroying\nus in one shot? Why not let her\nhave it and have it in big doses\nfirst - Thats the only way I can\nsee us coming out of it at all -\nSincerely"
+      },
+      "translation": {
+        "text": "우리 전쟁부가 주목하게 하십시오 - 잠잘 시간이 아닙니다 - 우리는 비밀리에 병력을 징집해야 합니다 - 모든 총을 즉시 발사할 수 있도록 준비해야 합니다 - 우리는 준비되어 있어야 합니다. 하지만 러시아가 단 한 방에 우리를 파괴할 계획이라면 기다릴 여유가 있을까요? 왜 그녀가 먼저 대량으로 당하게 하지 않는 겁니까 - 그것이 제가 보기에 우리가 이 상황에서 벗어날 수 있는 유일한 방법입니다 -\n진심으로",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

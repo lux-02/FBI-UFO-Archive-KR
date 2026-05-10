@@ -1,0 +1,314 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 2,
+  "page": 44,
+  "pageId": "page_0044",
+  "source": {
+    "pdfPath": "docs/ufo2.pdf",
+    "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T05:45:09.581Z",
+  "unitCount": 5,
+  "sourceLineCount": 9,
+  "excludedLineCount": 3,
+  "excludedLines": [
+    {
+      "part": 2,
+      "page": 44,
+      "pageId": "page_0044",
+      "lineId": "page_0044-l0003",
+      "lineNumber": 3,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "930PM",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 44,
+      "pageId": "page_0044",
+      "lineId": "page_0044-l0006",
+      "lineNumber": 6,
+      "sourceStatus": "NEEDS_IMAGE_CHECK",
+      "sourceText": "UNITED STATES POSTAGE",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 2,
+      "page": 44,
+      "pageId": "page_0044",
+      "lineId": "page_0044-l0008",
+      "lineNumber": 8,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "STATION",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p02-page-0044-u001",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 44,
+      "pageId": "page_0044",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0044-l0001",
+          "page_0044-l0002"
+        ],
+        "lineNumbers": [
+          1,
+          2
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "NEW YORK, N.Y.\nJUL 11"
+      },
+      "translation": {
+        "text": "뉴욕, N.Y.\n7월 11일",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0044-u002",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 44,
+      "pageId": "page_0044",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0044-l0004"
+        ],
+        "lineNumbers": [
+          4
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "1947"
+      },
+      "translation": {
+        "text": "1947",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0044-u003",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 44,
+      "pageId": "page_0044",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0044-l0007"
+        ],
+        "lineNumbers": [
+          7
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "GRAND CENTRAL"
+      },
+      "translation": {
+        "text": "그랜드 센트럴",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0044-u004",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 44,
+      "pageId": "page_0044",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0044-l0009"
+        ],
+        "lineNumbers": [
+          9
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "3 CENTS 3"
+      },
+      "translation": {
+        "text": "3 센트 3",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p02-page-0044-u005",
+      "unitVersion": 1,
+      "part": 2,
+      "page": 44,
+      "pageId": "page_0044",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo2.pdf",
+        "sha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509",
+        "lineIds": [
+          "page_0044-l0011",
+          "page_0044-l0012",
+          "page_0044-l0013",
+          "page_0044-l0014"
+        ],
+        "lineNumbers": [
+          11,
+          12,
+          13,
+          14
+        ],
+        "refs": [
+          {
+            "part": 2,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          },
+          {
+            "part": 2,
+            "page": 44,
+            "pageId": "page_0044",
+            "lineId": "page_0044-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo2.pdf",
+            "sourceSha256": "bee6e1c542fce6a70b55b83b93cc311ad3a13842d6e2ca9001b2c69e4aa58509"
+          }
+        ],
+        "text": "Mr. J. Edgar Hoover, Director\nFederal Bureau of Investigation\nU.S. Dept. of Justice Bldg.\nWashington, D. C."
+      },
+      "translation": {
+        "text": "J. 에드거 후버 국장님\n연방수사국\n미국 법무부 건물\n워싱턴 D.C.",
+        "reviewedAt": "2026-05-10T05:44:50.252Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}
