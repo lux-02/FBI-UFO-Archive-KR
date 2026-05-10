@@ -1,0 +1,433 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 3,
+  "page": 89,
+  "pageId": "page_0089",
+  "source": {
+    "pdfPath": "docs/ufo3.pdf",
+    "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T07:31:16.224Z",
+  "unitCount": 7,
+  "sourceLineCount": 10,
+  "excludedLineCount": 7,
+  "excludedLines": [
+    {
+      "part": 3,
+      "page": 89,
+      "pageId": "page_0089",
+      "lineId": "page_0089-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "FROM: WDGS, US BRANCH [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 3,
+      "page": 89,
+      "pageId": "page_0089",
+      "lineId": "page_0089-l0006",
+      "lineNumber": 6,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "SUBJECT: [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 3,
+      "page": 89,
+      "pageId": "page_0089",
+      "lineId": "page_0089-l0009",
+      "lineNumber": 9,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "a. Copy of unsigned telegram received by HQ AAF 9 July 1947, in which it is indicated that [REDACTED] Illinois may have information concerning the origin of the \"flying saucers\".",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 3,
+      "page": 89,
+      "pageId": "page_0089",
+      "lineId": "page_0089-l0011",
+      "lineNumber": 11,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "c. Map with indications as to proximity of the locations where the flying saucers were reported to have been seen in relation to [REDACTED], Ill.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 3,
+      "page": 89,
+      "pageId": "page_0089",
+      "lineId": "page_0089-l0014",
+      "lineNumber": 14,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "2. In view of the fact/the observation of the flying saucers was made corresponds closely with the date of the unsigned telegram, and considering the proximity of [REDACTED] to the points where the objects were observed, it is requested that [REDACTED] be investigated to determine whether or not he has information pertaining to the origin of Flying Saucers.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 3,
+      "page": 89,
+      "pageId": "page_0089",
+      "lineId": "page_0089-l0017",
+      "lineNumber": 17,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "memo [unclear] 7/21/47 [unclear]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 3,
+      "page": 89,
+      "pageId": "page_0089",
+      "lineId": "page_0089-l0021",
+      "lineNumber": 21,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "130 36 AUG 18 1947",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p03-page-0089-u001",
+      "unitVersion": 1,
+      "part": 3,
+      "page": 89,
+      "pageId": "page_0089",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo3.pdf",
+        "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d",
+        "lineIds": [
+          "page_0089-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 3,
+            "page": 89,
+            "pageId": "page_0089",
+            "lineId": "page_0089-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          }
+        ],
+        "text": "Office Memorandum • UNITED STATES GOVERNMENT"
+      },
+      "translation": {
+        "text": "사무 메모 • 미합중국 정부",
+        "reviewedAt": "2026-05-10T07:31:08.393Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p03-page-0089-u002",
+      "unitVersion": 1,
+      "part": 3,
+      "page": 89,
+      "pageId": "page_0089",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo3.pdf",
+        "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d",
+        "lineIds": [
+          "page_0089-l0003",
+          "page_0089-l0004"
+        ],
+        "lineNumbers": [
+          3,
+          4
+        ],
+        "refs": [
+          {
+            "part": 3,
+            "page": 89,
+            "pageId": "page_0089",
+            "lineId": "page_0089-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 89,
+            "pageId": "page_0089",
+            "lineId": "page_0089-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          }
+        ],
+        "text": "TO: FBI\nDATE: 16 July 47"
+      },
+      "translation": {
+        "text": "수신: FBI\n날짜: 47년 7월 16일",
+        "reviewedAt": "2026-05-10T07:31:08.393Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p03-page-0089-u003",
+      "unitVersion": 1,
+      "part": 3,
+      "page": 89,
+      "pageId": "page_0089",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo3.pdf",
+        "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d",
+        "lineIds": [
+          "page_0089-l0008"
+        ],
+        "lineNumbers": [
+          8
+        ],
+        "refs": [
+          {
+            "part": 3,
+            "page": 89,
+            "pageId": "page_0089",
+            "lineId": "page_0089-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          }
+        ],
+        "text": "1. Attached hereto:"
+      },
+      "translation": {
+        "text": "1. 본 문서에 첨부된 내용:",
+        "reviewedAt": "2026-05-10T07:31:08.393Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p03-page-0089-u004",
+      "unitVersion": 1,
+      "part": 3,
+      "page": 89,
+      "pageId": "page_0089",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo3.pdf",
+        "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d",
+        "lineIds": [
+          "page_0089-l0010"
+        ],
+        "lineNumbers": [
+          10
+        ],
+        "refs": [
+          {
+            "part": 3,
+            "page": 89,
+            "pageId": "page_0089",
+            "lineId": "page_0089-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          }
+        ],
+        "text": "b. Copy of a report on flying saucers which were observed by four witnesses while in flight in two airplanes over southern Wisconsin."
+      },
+      "translation": {
+        "text": "b. 위스콘신 남부 상공에서 두 대의 비행기로 비행 중이던 네 명의 목격자가 관측한 비행접시에 대한 보고서 사본.",
+        "reviewedAt": "2026-05-10T07:31:08.393Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p03-page-0089-u005",
+      "unitVersion": 1,
+      "part": 3,
+      "page": 89,
+      "pageId": "page_0089",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo3.pdf",
+        "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d",
+        "lineIds": [
+          "page_0089-l0012"
+        ],
+        "lineNumbers": [
+          12
+        ],
+        "refs": [
+          {
+            "part": 3,
+            "page": 89,
+            "pageId": "page_0089",
+            "lineId": "page_0089-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          }
+        ],
+        "text": "that the time"
+      },
+      "translation": {
+        "text": "그 시간",
+        "reviewedAt": "2026-05-10T07:31:08.393Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p03-page-0089-u006",
+      "unitVersion": 1,
+      "part": 3,
+      "page": 89,
+      "pageId": "page_0089",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo3.pdf",
+        "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d",
+        "lineIds": [
+          "page_0089-l0016"
+        ],
+        "lineNumbers": [
+          16
+        ],
+        "refs": [
+          {
+            "part": 3,
+            "page": 89,
+            "pageId": "page_0089",
+            "lineId": "page_0089-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          }
+        ],
+        "text": "EX-66"
+      },
+      "translation": {
+        "text": "EX-66",
+        "reviewedAt": "2026-05-10T07:31:08.393Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p03-page-0089-u007",
+      "unitVersion": 1,
+      "part": 3,
+      "page": 89,
+      "pageId": "page_0089",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo3.pdf",
+        "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d",
+        "lineIds": [
+          "page_0089-l0018",
+          "page_0089-l0019",
+          "page_0089-l0020"
+        ],
+        "lineNumbers": [
+          18,
+          19,
+          20
+        ],
+        "refs": [
+          {
+            "part": 3,
+            "page": 89,
+            "pageId": "page_0089",
+            "lineId": "page_0089-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 89,
+            "pageId": "page_0089",
+            "lineId": "page_0089-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 89,
+            "pageId": "page_0089",
+            "lineId": "page_0089-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          }
+        ],
+        "text": "EX-66\nRECORDED 162-83894-58\nINDEXED"
+      },
+      "translation": {
+        "text": "EX-66\n기록됨 162-83894-58\n색인 처리됨",
+        "reviewedAt": "2026-05-10T07:31:08.393Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

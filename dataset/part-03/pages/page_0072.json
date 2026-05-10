@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 3,
+  "page": 72,
+  "pageId": "page_0072",
+  "source": {
+    "pdfPath": "docs/ufo3.pdf",
+    "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 6 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0072-l0002",
+    "page_0072-l0006",
+    "page_0072-l0007"
+  ],
+  "lineCount": 12,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "He advised that he did not observe any evidence of motion such as",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "vapor or trails, etc. and could hear no noise over the noise of his",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 3,
+      "text": "own ship.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "Investigation in the vicinity of Myrtle Creek, Oregon, has",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "failed to reveal any other person sighting the objects reported by",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 7,
+      "text": "[REDACTED] No further investigation is being conducted. b7C",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "PJM:KB",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "62-1531",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "-2-",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

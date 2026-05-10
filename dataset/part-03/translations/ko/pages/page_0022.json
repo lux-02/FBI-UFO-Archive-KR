@@ -1,0 +1,348 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 3,
+  "page": 22,
+  "pageId": "page_0022",
+  "source": {
+    "pdfPath": "docs/ufo3.pdf",
+    "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T07:31:16.224Z",
+  "unitCount": 4,
+  "sourceLineCount": 14,
+  "excludedLineCount": 4,
+  "excludedLines": [
+    {
+      "part": 3,
+      "page": 22,
+      "pageId": "page_0022",
+      "lineId": "page_0022-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Some are Problems and a lots of other",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 3,
+      "page": 22,
+      "pageId": "page_0022",
+      "lineId": "page_0022-l0006",
+      "lineNumber": 6,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "I just think I would ask",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 3,
+      "page": 22,
+      "pageId": "page_0022",
+      "lineId": "page_0022-l0012",
+      "lineNumber": 12,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] b/c",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 3,
+      "page": 22,
+      "pageId": "page_0022",
+      "lineId": "page_0022-l0017",
+      "lineNumber": 17,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "[unclear] 4 54 PM '50",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p03-page-0022-u001",
+      "unitVersion": 1,
+      "part": 3,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo3.pdf",
+        "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d",
+        "lineIds": [
+          "page_0022-l0002",
+          "page_0022-l0003",
+          "page_0022-l0004",
+          "page_0022-l0005"
+        ],
+        "lineNumbers": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "refs": [
+          {
+            "part": 3,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          }
+        ],
+        "text": "things which look off color to\nme. Of course R.A. is a hot bed of\nCults etc. For this to be read by the\nPublic is rather startling."
+      },
+      "translation": {
+        "text": "제게는 색깔이 이상해 보이는 것들입니다. 물론 R.A.는 사이비 종교 등의 온상입니다. 이것이 대중에게 읽힌다는 것은 다소 놀라운 일입니다.",
+        "reviewedAt": "2026-05-10T07:31:08.393Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p03-page-0022-u002",
+      "unitVersion": 1,
+      "part": 3,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo3.pdf",
+        "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d",
+        "lineIds": [
+          "page_0022-l0007",
+          "page_0022-l0008",
+          "page_0022-l0009",
+          "page_0022-l0010",
+          "page_0022-l0011"
+        ],
+        "lineNumbers": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "refs": [
+          {
+            "part": 3,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          }
+        ],
+        "text": "about this. I do not believe it\nmyself. How could Germany and\nJapan do anything now they were\nthey are policed and guarded?\nSincerely"
+      },
+      "translation": {
+        "text": "이것에 대해. 저는 개인적으로 믿지 않습니다. 독일과 일본이 경찰과 경비의 감시를 받고 있는데 지금 무엇을 할 수 있겠습니까? 진심으로",
+        "reviewedAt": "2026-05-10T07:31:08.393Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p03-page-0022-u003",
+      "unitVersion": 1,
+      "part": 3,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo3.pdf",
+        "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d",
+        "lineIds": [
+          "page_0022-l0013",
+          "page_0022-l0014",
+          "page_0022-l0015",
+          "page_0022-l0016"
+        ],
+        "lineNumbers": [
+          13,
+          14,
+          15,
+          16
+        ],
+        "refs": [
+          {
+            "part": 3,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          }
+        ],
+        "text": "World War I Nurse oversea for\nthree years and member of our local\nPost A. Legion here.\nINTERNAL SECURITY"
+      },
+      "translation": {
+        "text": "3년간 해외 파병된 제1차 세계대전 간호사이자 이곳 지역 재향군인회 회원.\n내부 보안",
+        "reviewedAt": "2026-05-10T07:31:08.393Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p03-page-0022-u004",
+      "unitVersion": 1,
+      "part": 3,
+      "page": 22,
+      "pageId": "page_0022",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo3.pdf",
+        "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d",
+        "lineIds": [
+          "page_0022-l0018"
+        ],
+        "lineNumbers": [
+          18
+        ],
+        "refs": [
+          {
+            "part": 3,
+            "page": 22,
+            "pageId": "page_0022",
+            "lineId": "page_0022-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          }
+        ],
+        "text": "2"
+      },
+      "translation": {
+        "text": "2",
+        "reviewedAt": "2026-05-10T07:31:08.393Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

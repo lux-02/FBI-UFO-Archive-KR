@@ -1,0 +1,95 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 3,
+  "page": 5,
+  "pageId": "page_0005",
+  "source": {
+    "pdfPath": "docs/ufo3.pdf",
+    "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 6 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0005-l0001",
+    "page_0005-l0007",
+    "page_0005-l0011",
+    "page_0005-l0014"
+  ],
+  "lineCount": 14,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "([REDACTED]) .COPY",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "saw it.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "This statement is made voluntarily and freely, in response",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "to the request of Mr. Brown and Captain Davidson, who called on me",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "this morning.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "/s/ [unclear]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Subscribed and sworn to before me, a notary public, this 12th",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "day of July, 1947.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "[REDACTED] bl",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 12,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
+      "text": "\\...[REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    }
+  ],
+  "blockCount": null
+}

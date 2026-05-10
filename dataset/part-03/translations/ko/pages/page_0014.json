@@ -1,0 +1,402 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 3,
+  "page": 14,
+  "pageId": "page_0014",
+  "source": {
+    "pdfPath": "docs/ufo3.pdf",
+    "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-10T07:31:16.224Z",
+  "unitCount": 5,
+  "sourceLineCount": 14,
+  "excludedLineCount": 6,
+  "excludedLines": [
+    {
+      "part": 3,
+      "page": 14,
+      "pageId": "page_0014",
+      "lineId": "page_0014-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "FEDERAL BUREAU OF INVESTIGATION",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 3,
+      "page": 14,
+      "pageId": "page_0014",
+      "lineId": "page_0014-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "NEEDS_IMAGE_CHECK",
+      "sourceText": "TELEMETER",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 3,
+      "page": 14,
+      "pageId": "page_0014",
+      "lineId": "page_0014-l0010",
+      "lineNumber": 10,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "CISCO UNABLE TO VERIFY. LT. COL. [REDACTED] A-TWO HAMILTON",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 3,
+      "page": 14,
+      "pageId": "page_0014",
+      "lineId": "page_0014-l0016",
+      "lineNumber": 16,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "ETYPE. SPRINGER WILL BE CONTACTED UPON HIS RETURN AND [unclear] BUREAU",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 3,
+      "page": 14,
+      "pageId": "page_0014",
+      "lineId": "page_0014-l0018",
+      "lineNumber": 18,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "[unclear] KIMBALL",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 3,
+      "page": 14,
+      "pageId": "page_0014",
+      "lineId": "page_0014-l0019",
+      "lineNumber": 19,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "RECORD 62-83894-91",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p03-page-0014-u001",
+      "unitVersion": 1,
+      "part": 3,
+      "page": 14,
+      "pageId": "page_0014",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo3.pdf",
+        "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d",
+        "lineIds": [
+          "page_0014-l0002",
+          "page_0014-l0003",
+          "page_0014-l0004"
+        ],
+        "lineNumbers": [
+          2,
+          3,
+          4
+        ],
+        "refs": [
+          {
+            "part": 3,
+            "page": 14,
+            "pageId": "page_0014",
+            "lineId": "page_0014-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 14,
+            "pageId": "page_0014",
+            "lineId": "page_0014-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 14,
+            "pageId": "page_0014",
+            "lineId": "page_0014-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          }
+        ],
+        "text": "U. S. DEPARTMENT OF JUSTICE\nCOMMUNICATIONS SECTION\nAUG 6 1947"
+      },
+      "translation": {
+        "text": "미 법무부\n통신과\n1947년 8월 6일",
+        "reviewedAt": "2026-05-10T07:31:08.393Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p03-page-0014-u002",
+      "unitVersion": 1,
+      "part": 3,
+      "page": 14,
+      "pageId": "page_0014",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo3.pdf",
+        "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d",
+        "lineIds": [
+          "page_0014-l0006",
+          "page_0014-l0007",
+          "page_0014-l0008",
+          "page_0014-l0009"
+        ],
+        "lineNumbers": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "refs": [
+          {
+            "part": 3,
+            "page": 14,
+            "pageId": "page_0014",
+            "lineId": "page_0014-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 14,
+            "pageId": "page_0014",
+            "lineId": "page_0014-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 14,
+            "pageId": "page_0014",
+            "lineId": "page_0014-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 14,
+            "pageId": "page_0014",
+            "lineId": "page_0014-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          }
+        ],
+        "text": "WASHINGTON FROM SFRAN S5 8-6-47 12-09 PM\nDIRECTOR URGENT\nFLYING DISCS, SM - X. RE PORTLAND TELETYPE REFERENCING PHONE CALL\nFROM MR. LADD AT BUREAU ONE PM AUGUST FIFTH LAST. A-TWO SAN FRAN-"
+      },
+      "translation": {
+        "text": "워싱턴 발 SFRAN S5 8-6-47 오후 12:09\n국장 긴급\n비행 디스크, SM - X. 포틀랜드 텔레타이프 참조, 지난 8월 5일 오후 1시 국의 LADD 씨로부터 온 전화 관련. A-2 샌프란-",
+        "reviewedAt": "2026-05-10T07:31:08.393Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p03-page-0014-u003",
+      "unitVersion": 1,
+      "part": 3,
+      "page": 14,
+      "pageId": "page_0014",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo3.pdf",
+        "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d",
+        "lineIds": [
+          "page_0014-l0011",
+          "page_0014-l0012",
+          "page_0014-l0013",
+          "page_0014-l0014",
+          "page_0014-l0015"
+        ],
+        "lineNumbers": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "refs": [
+          {
+            "part": 3,
+            "page": 14,
+            "pageId": "page_0014",
+            "lineId": "page_0014-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 14,
+            "pageId": "page_0014",
+            "lineId": "page_0014-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 14,
+            "pageId": "page_0014",
+            "lineId": "page_0014-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 14,
+            "pageId": "page_0014",
+            "lineId": "page_0014-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          },
+          {
+            "part": 3,
+            "page": 14,
+            "pageId": "page_0014",
+            "lineId": "page_0014-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          }
+        ],
+        "text": "FIELD, IN CHARGE OF INVESTIGATION BY A-TWO IS THOUGHT BY A-TWO\nTO BE RETURNING FROM KELSO, WASHINGTON AREA HAVING GONE TO KELSO\nUPON LEARNING OF DEATHS OF AAF INVESTIGATORS MENTIONED IN REFERENCE\nTELETYPE. HE PLANNED, UPON DEPARTURE, TO OBTAIN RESULTS OF AAF\nINVESTIGATORS OR REINTERVIEW PERSONS MENTIONED IN REFERENCED TEL-"
+      },
+      "translation": {
+        "text": "필드, A-2에 의한 조사를 담당하고 있으며, A-2는 그가 워싱턴 주 켈소 지역에서 돌아오는 중이라고 생각함. 그는 참조 텔레타이프에 언급된 AAF 조사관들의 사망 소식을 듣고 켈소로 갔음. 그는 출발 시 AAF 조사관들의 결과를 입수하거나 참조 텔레타이프에 언급된 인물들을 재면담할 계획이었음-",
+        "reviewedAt": "2026-05-10T07:31:08.393Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p03-page-0014-u004",
+      "unitVersion": 1,
+      "part": 3,
+      "page": 14,
+      "pageId": "page_0014",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo3.pdf",
+        "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d",
+        "lineIds": [
+          "page_0014-l0017"
+        ],
+        "lineNumbers": [
+          17
+        ],
+        "refs": [
+          {
+            "part": 3,
+            "page": 14,
+            "pageId": "page_0014",
+            "lineId": "page_0014-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          }
+        ],
+        "text": "ADVISED."
+      },
+      "translation": {
+        "text": "통보받음.",
+        "reviewedAt": "2026-05-10T07:31:08.393Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p03-page-0014-u005",
+      "unitVersion": 1,
+      "part": 3,
+      "page": 14,
+      "pageId": "page_0014",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo3.pdf",
+        "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d",
+        "lineIds": [
+          "page_0014-l0020"
+        ],
+        "lineNumbers": [
+          20
+        ],
+        "refs": [
+          {
+            "part": 3,
+            "page": 14,
+            "pageId": "page_0014",
+            "lineId": "page_0014-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo3.pdf",
+            "sourceSha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+          }
+        ],
+        "text": "EX-56"
+      },
+      "translation": {
+        "text": "EX-56",
+        "reviewedAt": "2026-05-10T07:31:08.393Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-pro",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

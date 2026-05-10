@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 3,
+  "page": 90,
+  "pageId": "page_0090",
+  "source": {
+    "pdfPath": "docs/ufo3.pdf",
+    "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 12 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0090-l0003",
+    "page_0090-l0007",
+    "page_0090-l0010"
+  ],
+  "lineCount": 15,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "72 371",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "C",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "Received AFBIK-CO",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 4,
+      "text": "9 July 47",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "ML PD",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "NEWYORK NY JUL 5",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "MAJOR PAUL [REDACTED] GAYNOR",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 8,
+      "text": "AAF HQTS WASHDC",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "FOR FURTHER DETAILS CONCERNING FLYING DISKS SUGGEST",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "IMMEDIATE CONTACT OF [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 11,
+      "text": "ILLINOIS WHO MAY HAVE IMPORTANT INFORMATION CONCERNING",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "THEIR ORIGIN",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "UNSIGNED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "651P.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "ENCLOSURE",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

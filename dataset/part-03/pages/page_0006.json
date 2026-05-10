@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 3,
+  "page": 6,
+  "pageId": "page_0006",
+  "source": {
+    "pdfPath": "docs/ufo3.pdf",
+    "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 11 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0006-l0005",
+    "page_0006-l0016"
+  ],
+  "lineCount": 16,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "COPY",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "Chart to which reference is",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "made on page six, statement",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "of [REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 6,
+      "text": "b6",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "This design portrays the movements of the object to",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "which reference is made in the attached statement. At",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "all times the object appeared as black. Positions (1), (2)",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "and (3) show the jerky, rising motion. Position (4) is where",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "the object rolled, presenting its edge to me. It then",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "followed the dotted line, rolling over the top of the maneuver",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "and disappearing at position (5).",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 16,
+      "text": "[REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    }
+  ],
+  "blockCount": null
+}

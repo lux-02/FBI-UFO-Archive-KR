@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 3,
+  "page": 77,
+  "pageId": "page_0077",
+  "source": {
+    "pdfPath": "docs/ufo3.pdf",
+    "sha256": "9a3db3235a87e685beaa3157957308074b7bfca707f92742f177cdf7b68e2c5d"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 13 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0077-l0010",
+    "page_0077-l0012"
+  ],
+  "lineCount": 15,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "July 10 - )",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Gentlemen -",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "Enclosed I have a",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "clipping which speaks",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "for itself. I had",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "nothing better to do",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "so I tried to decide",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "it for a file. If",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "my Record",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "RECORDED 62-83894-61X",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 11,
+      "text": "INDEXED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "[unclear] 34 JUL 14 1947",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 13,
+      "text": "1 ENCL.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "file - please",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "read one.",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}
