@@ -1,8 +1,12 @@
-# FBI UFO OCR + Korean Translation Dataset
+# FBI UFO Archive KR — OCR, Korean Translation Dataset, and Web Reader
 
 An unofficial public dataset containing OCR output and reviewed Korean translation exports derived from UFO-related PDFs published on the [FBI Vault](https://vault.fbi.gov/UFO).
 
-This project is not affiliated with the U.S. FBI or the U.S. government, and it does not represent any official position or conclusion. The source PDFs are public materials available from FBI Vault. This dataset is a derivative reading and review aid; it does not add claims, tone, or conclusions that are not present in the source documents.
+It also includes a static Astro web reader for browsing the public dataset in Korean with source-page traceability.
+
+Production reader app: [ufo.n2f.site](https://ufo.n2f.site)
+
+This project is not affiliated with the U.S. FBI or the U.S. government, and it does not represent any official position or conclusion. The source PDFs are public materials available from FBI Vault. This dataset and reader are derivative reading and review aids; they do not add claims, tone, or conclusions that are not present in the source documents.
 
 ---
 
@@ -12,6 +16,7 @@ This project is not affiliated with the U.S. FBI or the U.S. government, and it 
 |---|---|---|
 | Source manifest | `data/sources.json` | FBI Vault URL, SHA-256, and page count for 16 PDFs |
 | Public OCR and translation dataset | `dataset/` | Part 01-06 OCR and Korean translation exports complete |
+| Static web reader | `src/`, `public/` | Deployed at [ufo.n2f.site](https://ufo.n2f.site) |
 | Source PDFs | Not included | Verify directly through FBI Vault |
 
 The current public dataset includes OCR output and Korean translation exports for Part 01-06. Part 07-16 are pending.
@@ -69,11 +74,12 @@ Each translation unit preserves part/page/source-line mappings. OCR lines that h
 
 ## How to Use
 
-1. Read [`dataset/README.md`](dataset/README.md) for detailed dataset status and conventions.
-2. Check each part's `manifest.json` for source PDF hash, page count, and export status.
-3. Read OCR source text in `dataset/part-XX/pages/page_NNNN.{txt,json}`.
-4. Read Korean translations in `dataset/part-XX/translations/ko/`.
-5. Compare against source page images by opening the PDFs directly from [FBI Vault UFO](https://vault.fbi.gov/UFO).
+1. Open the web reader at [ufo.n2f.site](https://ufo.n2f.site).
+2. Read [`dataset/README.md`](dataset/README.md) for detailed dataset status and conventions.
+3. Check each part's `manifest.json` for source PDF hash, page count, and export status.
+4. Read OCR source text in `dataset/part-XX/pages/page_NNNN.{txt,json}`.
+5. Read Korean translations in `dataset/part-XX/translations/ko/`.
+6. Compare against source page images by opening the PDFs directly from [FBI Vault UFO](https://vault.fbi.gov/UFO).
 
 If you download the source PDFs locally, verify them against `data/sources.json`.
 
@@ -85,6 +91,85 @@ shasum -a 256 docs/ufo4.pdf
 shasum -a 256 docs/ufo5.pdf
 shasum -a 256 docs/ufo6.pdf
 ```
+
+---
+
+## Web Reader App
+
+The web reader is a static Astro app that reads only the public dataset and source manifest checked into this repository.
+
+| Route | Purpose |
+|---|---|
+| `/` | Archive shelf for the 16 FBI Vault UFO parts |
+| `/archive/part-XX` | Part-level page list and translation progress |
+| `/archive/part-XX/page-NNNN` | Page-level Korean translation with source metadata |
+| `/search` | Client-side search over public Korean translation units |
+| `/about` | Project, source, and dataset policy notes |
+
+Reader data sources:
+
+- `dataset/part-XX/manifest.json`
+- `dataset/part-XX/pages/page_NNNN.{txt,json}`
+- `dataset/part-XX/translations/ko/`
+- `data/sources.json`
+- `public/source-cache/{sha256}/page_NNNN.reader.webp` when a reader scan image is available
+
+The app does not require source PDFs at runtime. Private OCR workspaces, raw model logs, crop evidence, `.env`, and original `docs/*.pdf` files are not part of the public reader deployment.
+
+---
+
+## Local Development
+
+```sh
+pnpm install
+pnpm dev
+pnpm check
+pnpm build
+pnpm preview
+pnpm pdfs:download --dry-run
+```
+
+Useful commands:
+
+| Command | Description |
+|---|---|
+| `pnpm dev` | Start the Astro development server |
+| `pnpm check` | Run Astro/TypeScript diagnostics |
+| `pnpm build` | Build the static reader into `dist/` |
+| `pnpm preview` | Preview the built static reader locally |
+| `pnpm pdfs:download --dry-run` | Verify local source PDF hashes against `data/sources.json` |
+
+---
+
+## Deployment
+
+The production reader is deployed on Vercel as a static Astro site.
+
+| Setting | Value |
+|---|---|
+| Production URL | [https://ufo.n2f.site](https://ufo.n2f.site) |
+| Framework preset | Astro |
+| Install command | `pnpm install` |
+| Build command | `pnpm build` |
+| Output directory | `dist` |
+
+The deployment allow-list is controlled by `.vercelignore`. Public deploy inputs are limited to the app source, public static assets, `data/sources.json`, and `dataset/`.
+
+Deploy inputs:
+
+- `astro.config.mjs`, `package.json`, `pnpm-lock.yaml`, `tsconfig.json`
+- `src/**`
+- `public/**`
+- `data/sources.json`
+- `dataset/**`
+
+Excluded from deployment:
+
+- `docs/*.pdf`
+- `.env`
+- `.claude/`, `CLAUDE.md`, `AGENTS.md`
+- `data/ocr/`, `data/translations/`
+- OCR/translation automation scripts and raw review artifacts
 
 ---
 
@@ -120,11 +205,15 @@ Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 
 ---
 
-# FBI UFO OCR + Korean Translation Dataset 한국어 안내
+# FBI UFO Archive KR — OCR, Korean Translation Dataset, and Web Reader 한국어 안내
 
 [FBI Vault](https://vault.fbi.gov/UFO)에 공개된 UFO 관련 PDF를 대상으로 OCR 추출본과 한국어 번역 검수본을 정리하는 비공식 공개 데이터셋입니다.
 
-이 저장소는 미국 FBI 또는 미국 정부와 무관하며, 어떤 공식 입장이나 결론을 대변하지 않습니다. 원본 PDF는 FBI Vault에서 확인할 수 있는 공개 자료입니다. 이 데이터셋은 원본 문서를 읽고 검토하기 쉽게 만든 파생 데이터이며, 원문에 없는 사실, 분위기, 결론을 추가하지 않는 것을 원칙으로 합니다.
+공개 데이터셋을 한국어로 탐색할 수 있는 Astro 기반 정적 웹 리더도 함께 제공합니다.
+
+프로덕션 리더 앱: [ufo.n2f.site](https://ufo.n2f.site)
+
+이 저장소는 미국 FBI 또는 미국 정부와 무관하며, 어떤 공식 입장이나 결론을 대변하지 않습니다. 원본 PDF는 FBI Vault에서 확인할 수 있는 공개 자료입니다. 이 데이터셋과 리더는 원본 문서를 읽고 검토하기 쉽게 만든 파생 산출물이며, 원문에 없는 사실, 분위기, 결론을 추가하지 않는 것을 원칙으로 합니다.
 
 ---
 
@@ -134,6 +223,7 @@ Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 |---|---|---|
 | PDF 출처 매니페스트 | `data/sources.json` | 16개 PDF의 FBI Vault URL, SHA-256, 페이지 수 |
 | 공개 OCR/번역 데이터셋 | `dataset/` | Part 01-06 OCR/한국어 번역 export 완료 |
+| 정적 웹 리더 | `src/`, `public/` | [ufo.n2f.site](https://ufo.n2f.site)에 배포 |
 | 원본 PDF | 저장소에 미포함 | FBI Vault에서 직접 확인 |
 
 현재 공개 데이터셋에는 Part 01-06의 OCR 추출 결과와 한국어 번역 결과물이 포함되어 있습니다. Part 07-16은 아직 처리 전입니다.
@@ -191,11 +281,12 @@ dataset/
 
 ## 사용 방법
 
-1. [`dataset/README.md`](dataset/README.md)에서 데이터셋 상태와 규칙을 확인합니다.
-2. 각 part의 `manifest.json`에서 원본 PDF 해시, 페이지 수, 번역 export 상태를 확인합니다.
-3. OCR 원문은 `dataset/part-XX/pages/page_NNNN.{txt,json}`에서 확인합니다.
-4. 한국어 번역은 `dataset/part-XX/translations/ko/`에서 확인합니다.
-5. 원본 이미지는 [FBI Vault UFO](https://vault.fbi.gov/UFO)에서 PDF를 직접 열어 대조합니다.
+1. 웹 리더는 [ufo.n2f.site](https://ufo.n2f.site)에서 확인합니다.
+2. [`dataset/README.md`](dataset/README.md)에서 데이터셋 상태와 규칙을 확인합니다.
+3. 각 part의 `manifest.json`에서 원본 PDF 해시, 페이지 수, 번역 export 상태를 확인합니다.
+4. OCR 원문은 `dataset/part-XX/pages/page_NNNN.{txt,json}`에서 확인합니다.
+5. 한국어 번역은 `dataset/part-XX/translations/ko/`에서 확인합니다.
+6. 원본 이미지는 [FBI Vault UFO](https://vault.fbi.gov/UFO)에서 PDF를 직접 열어 대조합니다.
 
 원본 PDF를 내려받아 로컬에서 검증하려면 `data/sources.json`의 URL과 SHA-256 값을 기준으로 확인하세요.
 
@@ -207,6 +298,85 @@ shasum -a 256 docs/ufo4.pdf
 shasum -a 256 docs/ufo5.pdf
 shasum -a 256 docs/ufo6.pdf
 ```
+
+---
+
+## 웹 리더 앱
+
+웹 리더는 저장소에 공개된 dataset과 source manifest만 읽는 정적 Astro 앱입니다.
+
+| Route | 역할 |
+|---|---|
+| `/` | 16개 FBI Vault UFO part를 보여주는 아카이브 홈 |
+| `/archive/part-XX` | part별 페이지 목록과 번역 진행 상태 |
+| `/archive/part-XX/page-NNNN` | 페이지별 한국어 번역과 source metadata |
+| `/search` | 공개 한국어 번역 unit 대상 클라이언트 검색 |
+| `/about` | 프로젝트, 출처, 데이터셋 정책 안내 |
+
+리더 데이터 소스:
+
+- `dataset/part-XX/manifest.json`
+- `dataset/part-XX/pages/page_NNNN.{txt,json}`
+- `dataset/part-XX/translations/ko/`
+- `data/sources.json`
+- 리더용 스캔 이미지가 있는 경우 `public/source-cache/{sha256}/page_NNNN.reader.webp`
+
+앱은 런타임에 원본 PDF를 필요로 하지 않습니다. 비공개 OCR 작업 폴더, 모델 원본 로그, crop evidence, `.env`, 원본 `docs/*.pdf` 파일은 공개 리더 배포에 포함하지 않습니다.
+
+---
+
+## 로컬 개발
+
+```sh
+pnpm install
+pnpm dev
+pnpm check
+pnpm build
+pnpm preview
+pnpm pdfs:download --dry-run
+```
+
+주요 명령:
+
+| 명령 | 설명 |
+|---|---|
+| `pnpm dev` | Astro 개발 서버 실행 |
+| `pnpm check` | Astro/TypeScript 진단 실행 |
+| `pnpm build` | 정적 리더를 `dist/`로 빌드 |
+| `pnpm preview` | 빌드 결과를 로컬에서 미리보기 |
+| `pnpm pdfs:download --dry-run` | `data/sources.json` 기준으로 로컬 PDF 해시 검증 |
+
+---
+
+## 배포
+
+프로덕션 리더는 Vercel의 정적 Astro 사이트로 배포합니다.
+
+| 설정 | 값 |
+|---|---|
+| Production URL | [https://ufo.n2f.site](https://ufo.n2f.site) |
+| Framework preset | Astro |
+| Install command | `pnpm install` |
+| Build command | `pnpm build` |
+| Output directory | `dist` |
+
+배포 allow-list는 `.vercelignore`에서 관리합니다. 공개 배포 입력은 앱 소스, 공개 static asset, `data/sources.json`, `dataset/`으로 제한합니다.
+
+배포 포함:
+
+- `astro.config.mjs`, `package.json`, `pnpm-lock.yaml`, `tsconfig.json`
+- `src/**`
+- `public/**`
+- `data/sources.json`
+- `dataset/**`
+
+배포 제외:
+
+- `docs/*.pdf`
+- `.env`
+- `.claude/`, `CLAUDE.md`, `AGENTS.md`
+- `data/ocr/`, `data/translations/`
+- OCR/번역 자동화 스크립트와 원본 검수 산출물
 
 ---
 
