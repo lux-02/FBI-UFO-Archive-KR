@@ -1,0 +1,63 @@
+.DS_Store
+.omx/
+
+# === Node / build artifacts ===
+node_modules/
+dist/
+build/
+.next/
+.astro/
+.cache/
+.vercel/
+.wrangler/
+pagefind/
+public/source-cache/
+public/pagefind/
+coverage/
+
+# === Secrets ===
+.env
+.env.*
+!.env.example
+
+# === Personal harness — not for distribution ===
+# Project rules, schemas, migrations, planning, research, agent entry points.
+# These are personal tooling that produces the public artifacts but is not
+# itself part of the published project.
+.claude/
+CLAUDE.md
+AGENTS.md
+
+# === Local app scaffold / maintainer workflow — not in dataset release ===
+package.json
+pnpm-lock.yaml
+astro.config.mjs
+tsconfig.json
+src/
+scripts/
+WORKFLOW.md
+AGENT_ORCHESTRATION.md
+
+# === Operational pipeline — not for distribution ===
+# Working data and operational rules. The exported public dataset under
+# `dataset/` is what is published.
+data/ocr/
+data/translations/
+scripts/ocr/
+scripts/translation/
+scripts/dataset/
+scripts/verify-baseline-schemas.mjs
+scripts/verify-content.mjs
+
+# === Original PDFs ===
+# Re-downloadable from FBI Vault. Use scripts/download-pdfs.mjs.
+docs/*.pdf
+!docs/.gitkeep
+
+# === Editor / OS local files ===
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.example.json
+*.swp
+Thumbs.db
