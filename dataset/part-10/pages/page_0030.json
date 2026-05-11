@@ -8,25 +8,17 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 12 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0030-l0009",
-    "page_0030-l0011",
-    "page_0030-l0015",
-    "page_0030-l0020",
-    "page_0030-l0028",
-    "page_0030-l0030",
-    "page_0030-l0032"
-  ],
-  "lineCount": 32,
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 48,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Office Mem",
-      "status": "image_matched"
+      "text": "Office Mem... UNITED ... GOVERNMENT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -34,8 +26,8 @@
     },
     {
       "lineNumber": 3,
-      "text": "TO : DIRECTOR, FBI (62-83894)",
-      "status": "image_matched"
+      "text": "TO : DIRECTOR, FBI (62-83894) DATE: MARCH 21, 1952",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -49,32 +41,32 @@
     },
     {
       "lineNumber": 6,
-      "status": "blank"
+      "text": "[REDACTED] INFORMANT",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
-      "text": "INFORMANT",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
-      "status": "blank"
+      "text": "Mr. [REDACTED] an artist living at [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
-      "text": "Mr. [REDACTED], an artist living at [REDACTED], Chicago, Illinois ([REDACTED]) advised SA [REDACTED] on March 11, 1952 that he saw a flying disc at 9:00 AM on March 6, 1952.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Chicago, Illinois [REDACTED] advised SA [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
-      "status": "blank"
+      "text": "on March 11, 1952 that he saw a flying disc at 9:00 AM on March",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "[REDACTED] stated that he was looking out of a window at his home which window faces south, when he saw a flying disc at approximately 7,000 feet above Fullerton Avenue. The angle of elevation of the disc above the horizon was about 45 degrees. The disc came out of a cloud in the east, stopped and hung motionless in mid-air for a split second, then flew due south at great speed.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "6, 1952.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
@@ -82,100 +74,176 @@
     },
     {
       "lineNumber": 13,
-      "text": "He described the disc as approximately six feet in diameter, circular, white in color with a bluish tinge. The disc, he said, appeared to have been constructed out of a metal similar to aluminum. He also stated that he saw no exhaust, lights, or heard no sound connected with its movements. He noted nothing on it as to how it could maintain its even flight and believed it to have been radio controlled. He said it disappeared out of sight in approximately three seconds, estimating the speed at 600-700 miles per hour or more. He said it went so fast it appeared to flutter. When the disc disappeared from sight it was about the size of a golf ball on the southern horizon.",
-      "status": "image_matched"
+      "text": "[REDACTED] stated that he was looking out of a window at his home",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 14,
-      "status": "blank"
+      "text": "which window faces south, when he saw a flying disc at approximately",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
-      "text": "[REDACTED] made a sketch of the disc and the sketch and the above information were furnished to the local office of the Office of Special Investigations.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "7,000 feet above Fullerton Avenue. The angle of elevation of the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
-      "status": "blank"
+      "text": "disc above the horizon was about 45 degrees. The disc came out",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "text": "MAT:BJB",
-      "status": "image_matched"
+      "text": "of a cloud in the east, stopped and hung motionless in mid-air",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "status": "blank"
+      "text": "for a split second, then flew due south at great speed.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 20,
+      "text": "He described the disc as approximately six feet in diameter, circular,",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
+      "text": "white in color with a bluish tinge. The disc, he said, appeared to",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 22,
+      "text": "have been constructed out of a metal similar to aluminum. He also",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 23,
+      "text": "stated that he saw no exhaust, lights, or heard no sound connected",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 24,
+      "text": "with its movements. He noted nothing on it as to how it could maintain",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 25,
+      "text": "its even flight and believed it to have been radio controlled. He",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 26,
+      "text": "said it disappeared out of sight in approximately three seconds,",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 27,
+      "text": "estimating the speed at 600-700 miles per hour or more. He said it",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 28,
+      "text": "went so fast it appeared to flutter. When the disc disappeared from",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 29,
+      "text": "sight it was about the size of a golf ball on the southern horizon.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
+      "text": "[REDACTED] made a sketch of the disc and the sketch and the above",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 32,
+      "text": "information were furnished to the local office of the Office of",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 33,
+      "text": "Special Investigations.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
+      "text": "MHT:BJB",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 36,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 37,
       "text": "RECORDED - 79",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 38,
       "text": "INDEXED - 79",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 39,
       "text": "EX-125",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 40,
       "status": "blank"
     },
     {
-      "lineNumber": 23,
-      "text": "62-93894-90",
-      "status": "image_matched"
+      "lineNumber": 41,
+      "text": "62-83894-27",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 42,
       "text": "MAR 25 1952",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 43,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 44,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 45,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 46,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 47,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 48,
       "text": "57 APR 1 1952",
       "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 28,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 29,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 30,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 31,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 32,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
     }
   ],
   "blockCount": null

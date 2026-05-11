@@ -8,13 +8,11 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 26 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0033-l0023"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 28,
   "lines": [
     {
@@ -129,8 +127,7 @@
     {
       "lineNumber": 23,
       "text": "VAN PAREND THE VEHICLE HOUSING THE RADAR SEFA PAREND IN AN ATTEMPT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,

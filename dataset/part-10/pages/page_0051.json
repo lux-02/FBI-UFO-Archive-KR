@@ -8,14 +8,12 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 10 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0051-l0008"
-  ],
-  "lineCount": 16,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 15,
   "lines": [
     {
       "lineNumber": 1,
@@ -51,14 +49,13 @@
     },
     {
       "lineNumber": 8,
-      "text": "[unclear] to be a star.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "to be a star.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "2000:F-82 reports clear sailing and no restrictions to visibility,",
-      "status": "image_matched"
+      "text": "2000: F-82 reports clear sailing and no restrictions to visibility,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
@@ -76,20 +73,15 @@
     },
     {
       "lineNumber": 13,
-      "text": "the Radar Site by Radar Personnel.",
-      "status": "image_matched"
+      "text": "the Radar Site by Radar Personnel. (B-2)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "(B-2)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
       "status": "blank"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "text": "SOURCE: Personnel as in \"C\" above.",
       "status": "image_matched"
     }

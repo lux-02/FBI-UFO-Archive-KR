@@ -8,15 +8,12 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 35 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0018-l0028",
-    "page_0018-l0035"
-  ],
-  "lineCount": 37,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 48,
   "lines": [
     {
       "lineNumber": 1,
@@ -40,22 +37,20 @@
     },
     {
       "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "TELETYPE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "text": "FBI LOUISVILLE",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 7,
-      "text": "5-26-52",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
-      "text": "12-37 PM CDST",
+      "text": "FBI LOUISVILLE",
       "status": "image_matched"
     },
     {
@@ -65,145 +60,190 @@
     },
     {
       "lineNumber": 10,
-      "text": "DEFERRED",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 11,
-      "text": "RE FLYING SAUCERS, INFORMATION CONCERNING. THREE WOMEN SAW ASTRANGE",
+      "text": "5-26-52",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "OBJECTS FLOATING IN SKY OVER ASHLAND , KY. AT EIGHT FIFTY PM, EST,",
+      "text": "DEFERRED",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "MAY TWENTY FIVE LAST FOR TWO OR THREE MINUTES. OBJECTS DESCRIBED AS",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 14,
-      "text": "LOOKING LIKE LARGE OYSTERS WITH FISHTAILS FLOATING LOW LIKE A CLOUD.",
+      "text": "12-37 PM CDST",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "THEY WERE OVAL IN SHAPE AND ACCORDING TO OBSERVERS COULD HAVE BEEN",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 16,
-      "text": "BALLOONS. THEY CAME IN OVER ASHLAND FROM THE NORTH, CIRCLED AND WENT",
-      "status": "image_matched"
+      "text": "Mr. Gavin",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "text": "BACK IN THE OPPOSITE DIRECTION. ABOVE INFORMATION FOR BUREAU. NO",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "ACTION HERE.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "text": "MLONE",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "text": "ACK AND HOLD",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "text": "1-33PM OK FBI WA",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "41",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "text": "JUN 18 1952",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "text": "RECORDED - 5",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "text": "162-23884-275",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "text": "JUN. 3. 1952",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "text": "[EX-83]",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 29,
       "text": "Mr. Harbo",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 18,
       "text": "Mr. Rosen",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 19,
       "text": "Mr. Tracy",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 20,
       "text": "Mr. Laughlin",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 21,
       "text": "Mr. Mohr",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 22,
       "text": "Tele. Room",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
-      "text": "MRP Jr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 23,
+      "text": "MRP Jr. Neiman",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 24,
       "text": "Miss Gandy",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
-      "text": "5-Fh",
+      "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
+      "text": "RE FLYING SAUCERS, INFORMATION CONCERNING. THREE WOMEN SAW ASTRANGE",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "OBJECTS FLOATING IN SKY OVER ASHLAND , KY. AT EIGHT FIFTY PM, EST,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "text": "MAY TWENTY FIVE LAST FOR TWO OR THREE MINUTES. OBJECTS DESCRIBED AS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "text": "LOOKING LIKE LARGE OYSTERS WITH FISHTAILS FLOATING LOW LIKE A CLOUD.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "text": "THEY WERE OVAL IN SHAPE AND ACCORDING TO OBSERVERS COULD HAVE BEEN",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "text": "BALLOONS. THEY CAME IN OVER ASHLAND FROM THE NORTH, CIRCLED AND WENT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "BACK IN THE OPPOSITE DIRECTION. ABOVE INFORMATION FOR BUREAU. NO",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "ACTION HERE.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "MLONE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
+      "text": "ACK AND HOLD",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 37,
+      "text": "1-33PM OK FBI WA",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "text": "- 41",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 39,
+      "text": "JUN 18 1952",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 41,
+      "text": "RECORDED - 5",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 42,
+      "text": "[unclear] 162-23884-275",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 43,
+      "text": "JUN. 3. 1952",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "22",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 45,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 46,
+      "text": "5-FH",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 47,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 48,
+      "text": "[EX-831]",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

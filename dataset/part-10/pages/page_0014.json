@@ -8,110 +8,90 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "unknown_or_low_text_scan",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 3 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0014-l0003",
-    "page_0014-l0004",
-    "page_0014-l0005",
-    "page_0014-l0006",
-    "page_0014-l0007",
-    "page_0014-l0009",
-    "page_0014-l0012",
-    "page_0014-l0014",
-    "page_0014-l0015",
-    "page_0014-l0016"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 16,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "672",
-      "status": "image_matched"
+      "text": "[unclear] indicated that [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
-      "status": "blank"
+      "text": "[unclear] Police were",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 3,
-      "text": "[unclear] indicated that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] the Police have always",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 4,
-      "text": "[unclear] police were",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] Proving Grounds. In all",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 5,
-      "text": "[unclear] have always",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] investigation as a result of",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 6,
-      "text": "[unclear] Proving Grounds. In all",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 7,
-      "text": "[unclear] as a result of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
-      "status": "blank"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 10,
       "status": "blank"
     },
     {
+      "lineNumber": 10,
+      "text": "[unclear] by [unclear]",
+      "status": "needs_image_check"
+    },
+    {
       "lineNumber": 11,
-      "text": "Several checks of the automobile",
-      "status": "image_matched"
+      "text": "Several checks of the [unclear] apparently indicated a",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 12,
-      "text": "[unclear] to conclude that something was observed in the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "negative reaction. It is safe to conclude that something was observed in the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "text": "sky. A thorough examination of the witness suggests that it's unlikely he",
-      "status": "image_matched"
+      "text": "sky. A thorough examination of the witness suggests that it is unlikely he",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "could have made up a story. His reported observations are \"ero-dynamically",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "could have made up his story. His reported observations are aero-dynamically",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
-      "text": "possible and follow a logical sequence. Impossible at the moment to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "possible and fall into a logical sequence. Impossible at the moment to",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
-      "text": "identify object or its origin. Therefore, possibly \"ours\".",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "identify object or its origin. [unclear] possibly \"ours\".",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

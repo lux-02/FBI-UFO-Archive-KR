@@ -8,40 +8,35 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 43 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0005-l0001",
-    "page_0005-l0009"
-  ],
-  "lineCount": 51,
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 13,
   "lines": [
     {
       "lineNumber": 1,
-      "text": ". cloudy, NNW wind - twelve (12) miles per hour; winds aloft at one",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "cloudy, WNW wind... twelve (12) miles per hour; w...ds aloft at one thousand (1000) feet, NW - sixteen (16) miles per hour.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "thousand (1000) feet, NW - sixteen (16) miles per hour.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 3,
       "status": "blank"
     },
     {
+      "lineNumber": 3,
+      "text": "5. On 10 May 1952 Mr. LOUIS E. CORBIN was interviewed at radio station WFBR in Baltimore, Maryland, and stated in substance as follows:",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 4,
-      "text": "5. On 10 May 1952 Mr. LOUIS E. CORBIN was interviewed at radio",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
-      "text": "station WFBR in Baltimore, Maryland, and stated in substance as follows:",
-      "status": "image_matched"
+      "text": "Mr. CORBIN advised that he had received information in the latter part of April to the effect that a DONALD F. STEWART, residing at [REDACTED], had, while accompanied by Mr. GEORGE S. TYLER III, observed a strange appearing aircraft on 29 March 1952. Mr. CORBIN indicated that the source of his information had been a newspaper reporter for one of the local newspapers, whose name he did not divulge. CORBIN related that he had for some time been interested in the \"flying saucer situation\", and that it had been his intention to write a documentary program for broadcast concerning that subject. He said further that inasmuch as the above incident was the first one to be brought to his attention within that area, he determined to investigate it.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
@@ -49,225 +44,35 @@
     },
     {
       "lineNumber": 7,
-      "text": "Mr. CORBIN advised that he had received information in the",
-      "status": "image_matched"
+      "text": "On 24 April 1952 CORBIN interviewed Mr. DONALD F. STEWART and ascertained that he was employed as a clerk by the Baltimore & Ohio Railroad. He further ascertained that the date of observation was 29 March 1952; place, Ritchie Highway near the harness track; time, 10:45 PM; weather, clear; moon and stars out; approximate length of observation, two (2) minutes; estimated altitude, two hundred (200) feet. CORBIN obtained the details of the incident and set them down in a chronological order, a photostatic reproduction of the information obtained in that interview is being forwarded as an inclosure to this report. CORBIN also interviewed Mr. GEORGE S. TYLER III relative to the above incident and made a similar writing, a photostatic reproduction of which is being forwarded as an inclosure to this report.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
-      "text": "latter part of April to the effect that a DONALD F. STEWART, residing",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 9,
-      "text": "at [REDACTED] , had, while accompanied by",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "CORBIN advised the writer that he was acquainted with the editor of a civilian intelligence bulletin, Mr. ULICS LOUIS AYOSS, to whom he communicated the above information. Mr. CORBIN further advised that he would not release any of the information publicly and did not intend to do so until such time as the authorities completed investigation of the incident. CORBIN related that when he had called the Anne Arundel County Police they had informed him that they had had numerous reports of that nature but had passed them off as harmless. CORBIN stated that he had had a friend of his, RAYMOND FOX, conduct a scientific examination of STEWART's automobile for the purpose of determining any unusual characteristics which might have been present. CORBIN advised that he was not a reserve CIC officer; however, he related that he had been an intelligence officer with the staff of General GEORGE S. PATTON in Europe and that he presently holds an inactive reserve commission as lieutenant colonel, 0-375086.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "Mr. GEORGE S. TYLER III, observed a strange appearing aircraft on",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 11,
-      "text": "29 March 1952. Mr. CORBIN indicated that the source of his information",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "had been a newspaper reporter for one of the local newspapers, whose",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "name he did not divulge. CORBIN related that he had for some time been",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 14,
-      "text": "interested in the \"flying saucer situation\", and that it had been his",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "text": "intention to write a documentary program for broadcast concerning that",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "text": "subject. He said further that inasmuch as the above incident was the",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 17,
-      "text": "first one to be brought to his attention within that area, he determined",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "to investigate it.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 20,
-      "text": "On 24 April 1952 CORBIN interviewed Mr. DONALD F. STEWART and",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "text": "ascertained that he was employed as a clerk by the Baltimore & Ohio",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "Railroad. He further ascertained that the date of observation was",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "text": "29 March 1952; place, Ritchie Highway near the harness track; time,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "text": "10:45 PM; weather, clear; moon and stars out; approximate length of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "text": "observation, two (2) minutes; estimated altitude, two hundred (200)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "text": "feet. CORBIN obtained the details of the incident and set them down",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "text": "in a chronological order. A photostatic reproduction of the information",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
-      "text": "obtained in that interview is being forwarded as an inclosure to this",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 29,
-      "text": "report. CORBIN also interviewed Mr. GEORGE S. TYLER III relative to the",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
-      "text": "above incident and made a similar writing, a photostatic reproduction of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 31,
-      "text": "which is being forwarded as an inclosure to this report.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 33,
-      "text": "CORBIN advised the writer that he was acquainted with the",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 34,
-      "text": "editor of a civilian intelligence bulletin, Mr. ULIUS LOUIS AMOSS, to",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 35,
-      "text": "whom he communicated the above information. Mr. CORBIN further advised",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 36,
-      "text": "that he would not release any of the information publicly and did not",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "text": "intend to do so until such time as the authorities completed investiga-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 38,
-      "text": "tion of the incident. CORBIN related that when he had called the Anne",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 39,
-      "text": "Arundel County Police they had informed him that they had had numerous",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "reports of that nature but had passed them off as harmless. CORBIN",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
-      "text": "stated that he had had a friend of his, RAYMOND FOX, conduct a scientific",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "text": "examination of STEWART'S automobile for the purpose of determining any",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "unusual characteristics which might have been present. CORBIN advised",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "text": "that he was not a reserve CIC officer; however, he related that he had",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
-      "text": "been an intelligence officer with the staff of General GEORGE S. PATTON",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
-      "text": "in Europe and that he presently holds an inactive reserve commission as",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 47,
-      "text": "Lieutenant Colonel, 0-375036.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 49,
       "text": "3",
       "status": "image_matched"
     },
     {
-      "lineNumber": 50,
+      "lineNumber": 12,
       "status": "blank"
     },
     {
-      "lineNumber": 51,
-      "text": "SECURITY INFORMATION - CONFIDENTIAL",
-      "status": "image_matched"
+      "lineNumber": 13,
+      "text": "SECURITY INFORMATION - [REDACTED]",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

@@ -8,14 +8,12 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 26 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0048-l0002"
-  ],
-  "lineCount": 37,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 36,
   "lines": [
     {
       "lineNumber": 1,
@@ -24,9 +22,8 @@
     },
     {
       "lineNumber": 2,
-      "text": "111th OIC Detachment, FA 18, P.O. Box 379, Knoxville, Te 18800",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "111th CIC Detachment, FA [unclear], P.O. Box 379, Knoxville, Te[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 3,
@@ -34,162 +31,157 @@
     },
     {
       "lineNumber": 4,
-      "text": "OBJECTS SIGHTED OVER OAK RIDGE,",
-      "status": "image_matched"
+      "text": "OBJECTS SIGHTED OVER OAK RIDGE, [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
-      "text": "TENNESSEE",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 6,
       "status": "blank"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 6,
       "text": "(In compliance with letter AJACI-360.33 General, dated 15 November 1950,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
-      "text": "Headquarters, Third Army, Subject: Unconventional Aircraft, the following",
-      "status": "image_matched"
+      "lineNumber": 7,
+      "text": "Headquarters, Third Army, Subject; Unconventional Aircraft, the following",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 8,
       "text": "is submitted.)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 9,
       "status": "blank"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 10,
       "text": "A. Location and Time of Sighting: On 1247 hours on 20 December 1950.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "status": "blank"
     },
     {
-      "lineNumber": 13,
-      "text": "B. Weather at Time of Sighting: At 1200 hours on 20 December 1950; Ceiling -",
-      "status": "image_matched"
+      "lineNumber": 12,
+      "text": "B. Weather at time of Sighting: At 1200 hours on 20 December 1950; Ceiling -",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 13,
       "text": "2700 feet; broken overcast; Seven miles visibility; Temperature - 37 degrees",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 14,
       "text": "F; Dew Point - 31 degrees; and Wind - Calm.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "status": "blank"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 16,
       "text": "C. Names, Occupations, and Addresses of Witnesses: Personnel of the 663rd",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 17,
       "text": "AC &C Squadron, and the 5th AN Fighter Squadron, McGhee Tyson Airport,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 18,
       "text": "Knoxville, Tennessee.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 19,
       "status": "blank"
+    },
+    {
+      "lineNumber": 20,
+      "text": "D. Photographs of Objects, if available: None",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
-      "text": "D. Photographs of Objects, if available: None.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 22,
       "text": "E. Object Sighted: The radar log of the 663rd AN and C Squadron, McGhee Tyson",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 23,
       "text": "Airport, Knoxville, Tennessee contained the following entry: \"20 December",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
-      "text": "1950. 1247 hours. Small paint in area (Oak Ridge Controlled Area). Very",
-      "status": "image_matched"
+      "lineNumber": 24,
+      "text": "1950. 1247 hours. Small paint in area (Oak Ridge Controlled Area). Very,",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 25,
       "text": "very slow. Made perfect intercept (with F-82 Fighter aircraft) and orbit",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 26,
       "text": "surrounding small smoke cloud.\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 27,
       "status": "blank"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 28,
       "text": "F. Any other pertinent information: This report is made because of its",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 29,
       "text": "possible aid in determining the identity of the numerous unidentified",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 30,
       "text": "objects sighted over Oak Ridge, Tennessee.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 31,
       "status": "blank"
     },
     {
-      "lineNumber": 33,
-      "text": "SOURCE: Personnel of 663rd AC &W Squadron, McGhee Tyson, Knoxville,",
-      "status": "image_matched"
+      "lineNumber": 32,
+      "text": "SOURCE: Personnel of 663rd AC &W, Squadron, McGhee Tyson, Knoxville,",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 33,
       "text": "Tennessee, and the log of the 663rd AC&W Squadron.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 34,
       "status": "blank"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 35,
       "text": "62-83894-265",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 36,
       "text": "ENCLOSURE",
       "status": "image_matched"
     }

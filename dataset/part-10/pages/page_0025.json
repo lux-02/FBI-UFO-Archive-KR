@@ -8,36 +8,22 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "11 permanent_unresolved line(s) excluded under SRC-896. 17 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0025-l0001",
-    "page_0025-l0002",
-    "page_0025-l0006",
-    "page_0025-l0007",
-    "page_0025-l0008",
-    "page_0025-l0009",
-    "page_0025-l0013",
-    "page_0025-l0016",
-    "page_0025-l0017",
-    "page_0025-l0034",
-    "page_0025-l0035"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 35,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "whatever means [unclear]wer these objects [unclear] they may attain",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Whatever means [unclear] these objects posse[unclear] they may attain",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
       "text": "speeds far in excess of our latest rockets. [unclear] will be futile",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 3,
@@ -56,26 +42,22 @@
     {
       "lineNumber": 6,
       "text": "anything but friendly intentions, also, they may be restrict-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
       "text": "ed as to the distance they may approach the earth without [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 8,
       "text": "danger. It is also my belief that given an opportunity, they",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "will approach an earthly object, at high altitude, as close as",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "will approach an earthly object, at high altitude, as close",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
@@ -93,9 +75,8 @@
     },
     {
       "lineNumber": 13,
-      "text": "will be unable to establish contact with the earth without [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "will be unable to establish contact with the earth without",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
@@ -109,14 +90,12 @@
     {
       "lineNumber": 16,
       "text": "Taking the earth at an age of two billion years, having suff-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "text": "ered worldly catastrophes, and set-backs, we may be as [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "ered worldly catastrophies, and set-backs, we may be as",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
@@ -125,8 +104,8 @@
     },
     {
       "lineNumber": 19,
-      "text": "equal age without catastrophes.",
-      "status": "image_matched"
+      "text": "equal age without catastrophies.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
@@ -168,8 +147,8 @@
     },
     {
       "lineNumber": 28,
-      "text": "established in business, it is my desire to enter the field of",
-      "status": "image_matched"
+      "text": "established in business, it is my desire toenter the field of",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
@@ -197,14 +176,12 @@
     {
       "lineNumber": 34,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 35,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

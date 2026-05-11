@@ -8,13 +8,11 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 39 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0050-l0002"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 49,
   "lines": [
     {
@@ -24,23 +22,21 @@
     },
     {
       "lineNumber": 2,
-      "text": "111th CIC Detachment, 1 # 8, P.O. Box 379, Knoxville, Tennessee",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 3,
       "status": "blank"
     },
     {
+      "lineNumber": 3,
+      "text": "111th CIC Detachment, 1 # 8, P.O. Box 379, Knoxville, Tennessee",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 4,
-      "text": "OBJECTS SIGHTED OVER OAK RIDGE,",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
-      "text": "TENNESSEE",
-      "status": "image_matched"
+      "text": "OBJECTS SIGHTED OVER OAK RIDGE, TENNESSEE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -58,8 +54,8 @@
     },
     {
       "lineNumber": 9,
-      "text": "letter to his Commanding Officer on 17 January 1951, Subject: Report of",
-      "status": "image_matched"
+      "text": "letter to his Commanding Officer on 17 January 1951, Subject; Report of",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
@@ -72,8 +68,8 @@
     },
     {
       "lineNumber": 12,
-      "text": "\"In compliance with telephone instructions from the ADCC 17 January",
-      "status": "image_matched"
+      "text": "1. In compliance with telephone instructions from the ADCC 17 January",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
@@ -82,8 +78,8 @@
     },
     {
       "lineNumber": 14,
-      "text": "Time",
-      "status": "image_matched"
+      "text": "Time: Date-16 January 1951",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
@@ -102,8 +98,8 @@
     },
     {
       "lineNumber": 18,
-      "text": "stars at the time. As observed the object seemed to be approximately",
-      "status": "image_matched"
+      "text": "stars at the time, as observed the object seemed to be approximately",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
@@ -127,8 +123,8 @@
     },
     {
       "lineNumber": 23,
-      "text": "(AN/CPS-11 in the approximate area of the observed object; however",
-      "status": "image_matched"
+      "text": "(AN/CPS-11 in the approximate area of the observed object; however,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
@@ -142,8 +138,8 @@
     },
     {
       "lineNumber": 26,
-      "text": "1925:Object still apparently descending, F-82 scrambled to attempt",
-      "status": "image_matched"
+      "text": "1925: Object still apparently descending, F-82 scrambled to attempt",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
@@ -156,8 +152,8 @@
     },
     {
       "lineNumber": 29,
-      "text": "1930:Similar object observed 15 to 20 miles east of station; seems to be",
-      "status": "image_matched"
+      "text": "1930: Similar object observed 15 to 20 miles east of station; seems to be",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 30,
@@ -170,13 +166,13 @@
     },
     {
       "lineNumber": 32,
-      "text": "1935:AF 7177 (Locally homed and piloted by assigned sq officer) C-45",
-      "status": "image_matched"
+      "text": "1935: AF 7177 (Locally homed and piloted by assigned sq officer) C-45",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
-      "text": "enroute CHA to TYS, requested fixed to steer to TYS - A/C fired",
-      "status": "image_matched"
+      "text": "enroute CHA to tys, requested fixed to steer to tys - A/C fixed",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 34,
@@ -194,8 +190,8 @@
     },
     {
       "lineNumber": 37,
-      "text": "1945:AF 7177 sighted subject object and reported it to be a star.",
-      "status": "image_matched"
+      "text": "1945: AF 7177 sighted subject object and reported it to be a star.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 38,
@@ -203,8 +199,8 @@
     },
     {
       "lineNumber": 39,
-      "text": "1945:F-82 orbiting S/E corner of Oak Ridge Area no electronic or visual",
-      "status": "image_matched"
+      "text": "1945: F-82 orbiting S/E corner of Oak Ridge Area no electronic or visual",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 40,
@@ -217,8 +213,8 @@
     },
     {
       "lineNumber": 42,
-      "text": "1946:Visual observation reported by Oak Ridge Ground Observers, 12 miles",
-      "status": "image_matched"
+      "text": "1946: Visual observation reported by Oak ridge Ground Observers, 12 miles",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
@@ -246,13 +242,13 @@
     },
     {
       "lineNumber": 48,
-      "text": "1955:Oak Ridge Patrol Headquarters reports that observed object determined",
-      "status": "image_matched"
+      "text": "1955: Oak Ridge Patrol Headquarters reports that observed object determined",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 49,
-      "text": "(to be a star).",
-      "status": "image_matched"
+      "text": "(to be a star)",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

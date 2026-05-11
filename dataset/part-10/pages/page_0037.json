@@ -8,55 +8,42 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 6 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0037-l0001",
-    "page_0037-l0002",
-    "page_0037-l0003",
-    "page_0037-l0004",
-    "page_0037-l0005",
-    "page_0037-l0006"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 13,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "If you can give me as re",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "If you can't give me no",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
       "text": "information about the flying",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
       "text": "saucers, I would appreciate",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
       "text": "it. I somehow believe that the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
       "text": "army is trying to cover something.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "This \"Commanly\" story just doesn't",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "The commonly story just doesn't",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
@@ -65,32 +52,33 @@
     },
     {
       "lineNumber": 8,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 9,
       "text": "I truly admire the F.B.I.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
-      "text": "and would love to become",
-      "status": "image_matched"
+      "lineNumber": 9,
+      "text": "and someday hope to become",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 10,
       "text": "a member of this fine organization.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "text": "Thank you very much.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 12,
       "text": "Yours Truly;",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

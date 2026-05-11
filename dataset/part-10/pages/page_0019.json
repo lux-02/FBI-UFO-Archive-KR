@@ -8,40 +8,35 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 48 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0019-l0003",
-    "page_0019-l0058",
-    "page_0019-l0059"
-  ],
-  "lineCount": 59,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 56,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "UNI",
-      "status": "image_matched"
+      "text": "[unclear] Unclassified",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
-      "status": "blank"
+      "text": "2040 7/7/77",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "[unclear] 2040 7/9/72",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 4,
       "status": "blank"
     },
     {
+      "lineNumber": 4,
+      "text": "Date: May 15, 1952",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 5,
-      "text": "Date: May 13, 1952",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
@@ -50,22 +45,22 @@
     },
     {
       "lineNumber": 7,
-      "text": " The Inspector General",
+      "text": "The Inspector General",
       "status": "image_matched"
     },
     {
       "lineNumber": 8,
-      "text": " Department of the Air Force",
+      "text": "Department of the Air Force",
       "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": " The Pentagon",
+      "text": "The Pentagon",
       "status": "image_matched"
     },
     {
       "lineNumber": 10,
-      "text": " Washington 25, D. C.",
+      "text": "Washington 25, D. C.",
       "status": "image_matched"
     },
     {
@@ -79,7 +74,7 @@
     },
     {
       "lineNumber": 13,
-      "text": " Federal Bureau of Investigation",
+      "text": "Federal Bureau of Investigation",
       "status": "image_matched"
     },
     {
@@ -93,12 +88,12 @@
     },
     {
       "lineNumber": 16,
-      "text": " IN VICINITY OF SAVANNAH RIVER PLANT",
+      "text": "IN VICINITY OF SAVANNAH RIVER PLANT",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": " ATOMIC ENERGY COMMISSION",
+      "text": "ATOMIC ENERGY COMMISSION",
       "status": "image_matched"
     },
     {
@@ -107,7 +102,7 @@
     },
     {
       "lineNumber": 19,
-      "text": " The Savannah Office of this Bureau has been",
+      "text": "The Savannah Office of this Bureau has been",
       "status": "image_matched"
     },
     {
@@ -152,8 +147,8 @@
     },
     {
       "lineNumber": 28,
-      "text": "direction. At approximately 11:10 pm a similar object",
-      "status": "image_matched"
+      "text": "direction. At approximately 11:10 p.m. a similar object",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
@@ -181,7 +176,7 @@
     },
     {
       "lineNumber": 34,
-      "text": " The disks were described by the above-mentioned",
+      "text": "The disks were described by the above-mentioned",
       "status": "image_matched"
     },
     {
@@ -250,64 +245,47 @@
     },
     {
       "lineNumber": 48,
-      "text": "RECORDED - 36",
-      "status": "image_matched"
+      "text": "RECORDED - 38",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 49,
-      "text": "INDEXED - 36",
-      "status": "image_matched"
+      "text": "INDEXED - 38 62-83894-336",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 50,
-      "text": "62-83894-235",
-      "status": "image_matched"
+      "text": "SECURITY [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 51,
-      "text": "SECURITY INFORMATION",
-      "status": "image_matched"
+      "text": "COMM - FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 52,
-      "text": "COMM - FB",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 53,
       "text": "MAY 15 1952",
       "status": "image_matched"
     },
     {
-      "lineNumber": 54,
-      "text": "MAILED 25",
-      "status": "image_matched"
+      "lineNumber": 53,
+      "text": "MAILED 26",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 55,
+      "lineNumber": 54,
       "status": "blank"
     },
     {
-      "lineNumber": 56,
+      "lineNumber": 55,
       "text": "69 MAY 29 1952",
       "status": "image_matched"
     },
     {
-      "lineNumber": 57,
-      "text": "EHM:aov",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 58,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 59,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 56,
+      "text": "EHM:awv",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

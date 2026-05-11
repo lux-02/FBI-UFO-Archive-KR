@@ -8,25 +8,17 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 37 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0010-l0001",
-    "page_0010-l0017",
-    "page_0010-l0030",
-    "page_0010-l0035",
-    "page_0010-l0041",
-    "page_0010-l0042"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 52,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "AT GLENN B E. MARYLAND",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "AT GLENN B[unclear]E, MARYLAND",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
@@ -103,9 +95,8 @@
     },
     {
       "lineNumber": 17,
-      "text": "16. Mr. WILLIAM ROKLECKE, Jr., employee of Howard Johnson Restaurant,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "16. Mr. WILLIAM ROKIECKE, Jr., employee of Howard Johnson Restaurant,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
@@ -168,8 +159,7 @@
     {
       "lineNumber": 30,
       "text": "Anne Arundale Police Department of such an incident.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 31,
@@ -191,9 +181,8 @@
     },
     {
       "lineNumber": 35,
-      "text": "[REDACTED] was interviewed at 1030",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] was interviewed at 1030 b7c",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 36,
@@ -221,15 +210,13 @@
     },
     {
       "lineNumber": 41,
-      "text": "viewed on 11 May 1952 and stated that [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "viewed on 11 May 1952 and stated that",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 42,
-      "text": "[REDACTED] he believes the story is made up.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] he believes the story is made up. b7c",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 43,

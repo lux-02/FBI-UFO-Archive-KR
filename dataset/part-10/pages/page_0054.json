@@ -8,19 +8,17 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 19 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0054-l0020"
-  ],
-  "lineCount": 20,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 21,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "DEC - 8 1950",
-      "status": "image_matched"
+      "text": "DEC 8 1950",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -29,94 +27,96 @@
     },
     {
       "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "FBI, RICHMOND 12-8-50 12-09 PM",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 5,
       "text": "DIRECTOR URGENT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
       "text": "RE FLYING SAUCERS. THIS OFFICE VERY CONFIDENTIALLY ADVISED BY ARMY",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "text": "INTELLIGENCE, RICHMOND, THAT THEY HAVE BEEN PUT ON IMMEDIATE HIGH",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "text": "ALERT FOR ANY DATA WHATSOEVER CONCERNING FLYING SAUCERS. CIC HERE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "STATES BACKGROUND OF INSTRUCTIONS NOT AVAILABLE FROM AIR FORCE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "INTELLIGENCE, WHO ARE NOT AWARE OF REASON FOR ALERT LOCALLY,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "BUT ANY INFORMATION WHATSOEVER MUST BE TELEPHONED BY THEM IMMEDIATELY",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "TO AIR FORCE INTELLIGENCE. CIC ADVISES DATA STRICTLY CONFIDENTIAL",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "text": "AND SHOULD NOT BE DISSEMINATED.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
-      "text": "62-33844-262",
-      "status": "image_matched"
+      "lineNumber": 14,
+      "text": "62-83894-262",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "text": "AUERBACH DEC 13 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
       "text": "RECORDED - 81",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "text": "END ACK",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "text": "EX. 46",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 19,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 20,
       "text": "12-11 PM OK FBI WA NRJ",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
-      "text": "65 DEC 191950",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "text": "cc [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 21,
+      "text": "65 DEC 19 1950",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

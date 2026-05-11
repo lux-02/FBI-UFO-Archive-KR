@@ -8,27 +8,22 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 18 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0012-l0001",
-    "page_0012-l0002"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 28,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "records at the gare reflected that the car had bee serviced on 23",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "records at the garage reflected that the car had been serviced on 23",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
       "text": "April, 8 December, 18 December 1951; and 31 January, 20 March, and 8",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -42,8 +37,8 @@
     },
     {
       "lineNumber": 5,
-      "text": "that the car had been repainted. Mr. ISENDOCK stated that the car was",
-      "status": "image_matched"
+      "text": "that the car had been repainted. Mr. ISENHOCK stated that the car was",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -131,8 +126,8 @@
     },
     {
       "lineNumber": 24,
-      "text": "CLOSED",
-      "status": "image_matched"
+      "text": "C L O S E D",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
@@ -149,8 +144,8 @@
     },
     {
       "lineNumber": 28,
-      "text": "SECURITY INFORMATION - CONFIDENTIAL",
-      "status": "image_matched"
+      "text": "SECURITY INFORMATION - [REDACTED]",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

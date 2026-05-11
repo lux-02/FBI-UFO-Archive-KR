@@ -8,21 +8,17 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 46 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0007-l0001",
-    "page_0007-l0028"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 53,
   "lines": [
     {
       "lineNumber": 1,
       "text": "STEWART stated that when the aircraft ca. to rest above his",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -46,8 +42,8 @@
     },
     {
       "lineNumber": 6,
-      "text": "(3) minutes and then turned on its edge, thereby presenting its flat",
-      "status": "image_matched"
+      "text": "(3) minutes and then turned on its side, thereby presenting its flat",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
@@ -66,8 +62,8 @@
     },
     {
       "lineNumber": 10,
-      "text": "traveling, as approximately three and one-half (3½) miles from his",
-      "status": "image_matched"
+      "text": "traveling, as approximately three and one-half (3 1/2) miles from his",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
@@ -156,8 +152,7 @@
     {
       "lineNumber": 28,
       "text": "[REDACTED] Mr. STEWART informed the writer that he was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
@@ -277,8 +272,8 @@
     },
     {
       "lineNumber": 53,
-      "text": "SECURITY INFORMATION - CONFIDENTIAL",
-      "status": "image_matched"
+      "text": "SECURITY INFORMATION - [REDACTED]",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

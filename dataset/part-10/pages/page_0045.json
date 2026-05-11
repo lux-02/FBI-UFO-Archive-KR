@@ -8,18 +8,12 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 41 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0045-l0003",
-    "page_0045-l0026",
-    "page_0045-l0028",
-    "page_0045-l0031",
-    "page_0045-l0050"
-  ],
-  "lineCount": 53,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 48,
   "lines": [
     {
       "lineNumber": 1,
@@ -33,9 +27,8 @@
     },
     {
       "lineNumber": 3,
-      "text": "mission or the reve [unclear] sion of its contents in",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "mission or the revelation of its contents in",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -67,220 +60,193 @@
     },
     {
       "lineNumber": 10,
-      "text": "TO:",
-      "status": "image_matched"
+      "text": "TO: Mr. William G. Frey",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "Mr. William G. Frey",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
       "text": "Assistant to the AF Plant",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 12,
       "text": "Representative for Security",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 13,
       "text": "Office of the AF Plant Representative",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 14,
       "text": "Air Material Command",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "text": "NEPA Division",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 16,
       "text": "Fairchild Engine and Airplane Corporation",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 17,
       "text": "Post Office Box E",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 18,
       "text": "Oak Ridge, Tennessee",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 19,
       "status": "blank"
     },
     {
+      "lineNumber": 20,
+      "text": "1. On December 18, 1950, at sometime between 0820 and 0830, the",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 21,
-      "text": "1.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "On December 18, 1950, at sometime between 0820 and 0830, the",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
       "text": "following NEPA employees were riding in a vehicle on the Turn-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 22,
       "text": "pike within the Controlled Area toward the NEPA Project approx-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 23,
       "text": "imately one mile short of the \"Y\" cutoff to White Wing entrance",
       "status": "image_matched"
     },
     {
+      "lineNumber": 24,
+      "text": "and Y-12:",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 25,
+      "text": "[REDACTED] 66",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 26,
-      "text": "and [unclear].",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 27,
-      "status": "blank"
+      "text": "2. The passengers, with the exception of [REDACTED] who did not",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 28,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 29,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 30,
-      "text": "2.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 31,
-      "text": "The passengers, with the exception of [REDACTED], who did not",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 32,
       "text": "attempt to participate in the viewing, observed a light emanating",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 29,
       "text": "in the shape of a circle, of an intensity much greater than that",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 30,
       "text": "of a bright moon, through the windshield of the vehicle. The",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 31,
       "text": "viewers had the impression that there was form in connection with",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 32,
       "text": "the light rather than merely a point source. The light was white",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 33,
       "text": "in appearance and did not show any signs of refraction into a band",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 34,
       "text": "or continuous spectrum. It appeared to be from 15 to 30 degrees",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 35,
       "text": "elevated above the horizontal and on an azimuth between west and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 36,
       "text": "northwest, and appeared to be traveling in a northwesterly direction.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 37,
       "text": "The impression of its traveling is due to the fact that the object",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 38,
       "text": "appeared to diminish considerably in size during the approximate",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 39,
       "text": "thirty seconds during which it was viewed. The vehicle remained",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 40,
       "text": "in motion and in following the course of the road, changed its rel-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 41,
       "text": "ative position so that the object was viewed during the last few",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 42,
       "text": "seconds from the side windows. As the vehicle proceeded down the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 43,
       "text": "road a near-by ridge obstructed the view of the object, and although",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
+      "lineNumber": 44,
       "text": "the vehicle completed the turn toward K-25 at the \"Y\" intersection",
       "status": "image_matched"
     },
     {
-      "lineNumber": 49,
+      "lineNumber": 45,
       "status": "blank"
     },
     {
-      "lineNumber": 50,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 46,
+      "text": "CONFIDENTIAL",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 51,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 52,
+      "lineNumber": 47,
       "text": "Fairchild Engine and Airplane Corporation",
       "status": "image_matched"
     },
     {
-      "lineNumber": 53,
+      "lineNumber": 48,
       "text": "NEPA Division, P. O. Box 415, Oak Ridge, Tenn.",
       "status": "image_matched"
     }

@@ -8,119 +8,114 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 14 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0040-l0001",
-    "page_0040-l0002",
-    "page_0040-l0003",
-    "page_0040-l0016"
-  ],
-  "lineCount": 28,
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 45,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Office Memoradum • UNITED STATES GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "TO : MR. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "FROM : MR. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "TO : MR. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
+      "text": "FROM : MR. [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 5,
       "text": "SUBJECT: FLYING SAUCERS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
       "status": "blank"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "text": "DATE: February 26, 1951",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
-      "status": "blank"
-    },
-    {
       "lineNumber": 8,
-      "text": "It is recommended the attached article which",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 9,
-      "text": "appeared in Look magazine January, 1951, be filed in",
-      "status": "image_matched"
+      "text": "Tolson",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "captioned case for information purposes.",
-      "status": "image_matched"
+      "text": "Ladd",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "status": "blank"
+      "text": "Clegg",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "Attachment",
-      "status": "image_matched"
+      "text": "Glavin",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "status": "blank"
+      "text": "Nichols",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "EHM:gmu",
-      "status": "image_matched"
+      "text": "Rosen",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
-      "status": "blank"
+      "text": "Tracy",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Harbo",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "status": "blank"
+      "text": "Belmont",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": "ENCLOSURE ATTACHED",
-      "status": "image_matched"
+      "text": "Mohr",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
-      "status": "blank"
+      "text": "Tele. Room",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "text": "6.I.R.-7",
-      "status": "image_matched"
+      "text": "Nease",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
-      "text": "5-EHM",
-      "status": "image_matched"
+      "text": "Gandy",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
@@ -128,31 +123,110 @@
     },
     {
       "lineNumber": 23,
-      "text": "162-83794-266",
+      "text": "It is recommended the attached article which",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "text": "MAR 6 1951",
+      "text": "appeared in Look magazine January, 1951, be filed in",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "status": "blank"
+      "text": "captioned case for information purposes.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 26,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 27,
+      "text": "Attachment",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
+      "text": "EHM:gmu",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
+      "text": "G.I.R.-7",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 32,
+      "text": "5-EHM W",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 33,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 34,
+      "text": "W",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 35,
+      "text": "1 ENCL",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 36,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 37,
+      "text": "ENCLOSURE ATTACHED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 39,
+      "text": "162-83794-266",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "MAR 6 1951",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
+      "text": "1",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 43,
       "text": "RECORDED - 9 EX-56",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 44,
       "status": "blank"
     },
     {
-      "lineNumber": 28,
-      "text": "65 MAR14 1951",
-      "status": "image_matched"
+      "lineNumber": 45,
+      "text": "65 MAR 14 1951",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

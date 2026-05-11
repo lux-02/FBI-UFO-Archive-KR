@@ -8,23 +8,12 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0044-l0009",
-    "page_0044-l0013",
-    "page_0044-l0016",
-    "page_0044-l0017",
-    "page_0044-l0018",
-    "page_0044-l0019",
-    "page_0044-l0021",
-    "page_0044-l0022",
-    "page_0044-l0038",
-    "page_0044-l0042"
-  ],
-  "lineCount": 42,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 41,
   "lines": [
     {
       "lineNumber": 1,
@@ -67,175 +56,161 @@
     {
       "lineNumber": 9,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
-      "status": "blank"
+      "text": "[REDACTED] were riding in the front",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
-      "text": "were riding in the front",
-      "status": "image_matched"
+      "text": "seat; [REDACTED] were in the rear.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 12,
-      "text": "seat;",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "[REDACTED] was in the rear.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 14,
       "status": "blank"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 13,
       "text": "At approximately 0827, while riding southwest on the turnpike",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 14,
       "text": "just outside the restricted area, [REDACTED] sighted a very bright",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 15,
+      "text": "reflection through the windshield of the car. [REDACTED] who was sit-",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 16,
+      "text": "ing beside [REDACTED] and whose attention was attracted by [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
-      "text": "reflection through the windshield of the car. [REDACTED] who was sit-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] looking at the sky, sighted the same reflection, [REDACTED] then",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
-      "text": "ting beside [REDACTED] and whose attention was attracted by [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 19,
-      "text": "[REDACTED] looking at the sky, sighted the same reflection. [REDACTED] then",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 20,
       "text": "called the attention of the remaining occupants of the car to the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 19,
       "text": "reflection. Of these, [REDACTED] also sighted the reflection,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 20,
       "text": "but [REDACTED] did not sight it.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 21,
       "status": "blank"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 22,
       "text": "The reflection was visible through the front windshield of the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 23,
       "text": "car only for a moment because, shortly thereafter, the road turned to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 24,
       "text": "the right. The corresponding turn of the car so placed the relative",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 25,
       "text": "position of the reflection that it could not be seen through the left",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 26,
       "text": "front window, which was frosted. The windshield, however, was not",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 27,
       "text": "frosted and permitted excellent vision.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 28,
       "status": "blank"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 29,
       "text": "The object appeared only as the bright reflection of the sun from",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 30,
       "text": "an apparently metal surface, such as might be expected from an aircraft",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 31,
       "text": "at a great distance. No accurate estimate of the objects size or range",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 32,
       "text": "could be made from the observation. It appeared to be west-southwest",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 33,
       "text": "of Oak Ridge Townsite at an angle of elevation of about 25 degrees from",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 34,
       "text": "the level.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 35,
       "status": "blank"
+    },
+    {
+      "lineNumber": 36,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 37,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 38,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 39,
       "status": "blank"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 39,
       "text": "CERTIFIED TRUE COPY:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 40,
       "status": "blank"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 41,
       "text": "WILLIAM B. GRAY, SAC, Knoxville, T",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

@@ -8,29 +8,22 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 40 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0008-l0001",
-    "page_0008-l0010",
-    "page_0008-l0017",
-    "page_0008-l0025",
-    "page_0008-l0054"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 54,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "above incident he [unclear] been engaged in distributing [unclear]paign literature",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "above incident he d been engaged in distributing paign literature",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "with reference to the above campaigning in Glenn Burnie, Maryland, and",
-      "status": "image_matched"
+      "text": "with reference to the above campaigning in Glen Bu..ie, Maryland, and",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -44,8 +37,8 @@
     },
     {
       "lineNumber": 5,
-      "text": "questions without hesitation and when subjected to questioning, did",
-      "status": "image_matched"
+      "text": "questions without hesitation and when subjected to requestioning, did",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -67,9 +60,8 @@
     },
     {
       "lineNumber": 10,
-      "text": "8. Mr. LOUIS GITEOS, [REDACTED] was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "8. Mr. LOUIS GITEOS, [REDACTED] was b7c",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
@@ -103,8 +95,7 @@
     {
       "lineNumber": 17,
       "text": "9. Miss MARY HOOVER, [REDACTED] was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
@@ -118,8 +109,8 @@
     },
     {
       "lineNumber": 20,
-      "text": "talking too much, HOOVER believes that STEWART is honest, makes a good",
-      "status": "image_matched"
+      "text": "talking too much, HOOVER believes that STEWART is honest, makes a good b7c",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
@@ -143,13 +134,12 @@
     {
       "lineNumber": 25,
       "text": "10. Mrs. LOUIS GITEOS, [REDACTED] was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 26,
-      "text": "interviewed on 10 May 1952 and stated that STEWART talks too much and",
-      "status": "image_matched"
+      "text": "interviewed on 10 May 1952 and stated that STEWART talks too much and b7c",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
@@ -284,8 +274,7 @@
     {
       "lineNumber": 54,
       "text": "SECURITY INFORMATION--[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

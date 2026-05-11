@@ -8,251 +8,270 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 42 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0021-l0002",
-    "page_0021-l0041",
-    "page_0021-l0045",
-    "page_0021-l0046"
-  ],
-  "lineCount": 46,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 53,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Mr. Ladd",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 2,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 3,
-      "text": "Mr. Clegg",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 4,
-      "text": "Mr. Glavin",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 5,
-      "text": "Mr. Harbo",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 6,
-      "text": "Mr. Rosen",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
-      "text": "Mr. Tracy",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 8,
-      "text": "Mr. Laughlin",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 9,
-      "text": "Mr. Mohr",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
-      "text": "Tele. Room",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
-      "text": "Mr. Holloman",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "Miss Gandy",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
       "text": "FEDERAL BUREAU OF INVESTIGATION",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 2,
       "text": "U. S. DEPARTMENT OF JUSTICE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 3,
       "text": "COMMUNICATIONS SECTION",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
       "text": "MAY 12 1952",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 6,
       "text": "TELETYPE",
       "status": "image_matched"
     },
     {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "Mr. Ladd",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Mr. [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 10,
+      "text": "Mr. Clegg",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Mr. Glavin",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Mr. Harbo",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "Mr. Rosen",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Mr. Tracy",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Mr. Laughlin",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Mr. Mohr",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Tele. Room",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 18,
-      "text": "FBI, SAVANNAH",
+      "text": "Mr. Holloman",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "DIRECTOR, FBI",
+      "text": "Miss Gandy",
       "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "5-12-52",
-      "status": "image_matched"
+      "text": "WE [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,
-      "text": "URGENT",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 22,
-      "text": "7-58 PM",
+      "text": "FBI, SAVANNAH",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "WE",
+      "text": "DIRECTOR, FBI",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "text": "SAVANNAH RIVER PLANT, ATOMIC ENERGY COMMISSION, FLYING DISC? AT",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 25,
-      "text": "APPROXIMATELY TEN FORTYFIVE PM, MAY TEN LAST FOUR EMPLOYEES OF",
+      "text": "5-12-52",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "DUPONT CO., EMPLOYED ON SAVANNAH RIVER PLANT NEAR ELLENTON, S. C.,",
+      "text": "URGENT",
       "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "SAW FOUR DISC SHAPED OBJECTS APPROACHING THE FOUR HUNDRED AREA FROM",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 28,
-      "text": "THE SOUTH, DISAPPEARING IN NORTHERNLY DIRECTION. AT APPROXIMATELY",
+      "text": "7-58 PM",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "ELEVEN FIVE PM, ABOVE MENTIONED EMPLOYEES SAW TWO SIMILAR OBJECTS",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 30,
-      "text": "APPROACH FROM SOUTH AND DISAPPEAR IN NORTHERNLY DIRECTION. AT",
+      "text": "SAVANNAH RIVER PLANT, ATOMIC ENERGY COMMISSION, FLYING DISC? AT",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "text": "APPROXIMATELY ELEVEN TEN PM ONE SIMILAR OBJECT APPROACHED FROM THE",
+      "text": "APPROXIMATELY TEN FORTYFIVE PM, MAY TEN LAST FOUR EMPLOYEES OF",
       "status": "image_matched"
     },
     {
       "lineNumber": 32,
-      "text": "NORTHEAST AND DISAPPEARED IN SOUTHWESTERNLY DIRECTION. ONE MORE",
-      "status": "image_matched"
+      "text": "DUPONT CO., EMPLOYED ON SAVANNAH RIVER PLANT NEAR ELLENTION, S. C.,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
-      "text": "OBJECT SIGHTED ABOUT ELEVEN FIFTEEN PM TRAVELLING FROM SOUTH TO NORTH.",
+      "text": "SAW FOUR DISC SHAPED OBJECTS APPROACHING THE FOUR HUNDRED AREA FROM",
       "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "text": "EMPLOYEES DESCRIBED OBJECTS AS BEING ABOUT FIFTEEN INCHES IN DIAMETER,",
+      "text": "THE SOUTH, DISAPPEARING IN NORTHERNLY DIRECTION. AT APPROXIMATELY",
       "status": "image_matched"
     },
     {
       "lineNumber": 35,
-      "text": "HAVING YELLOW TO GOLD COLOR. ALL OF THESE OBJECTS WERE TRAVELLING AT",
+      "text": "ELEVEN FIVE PM, ABOVE MENTIONED EMPLOYEES SAW TWO SIMILAR OBJECTS",
       "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "text": "HIGH RATE OF SPEED AT HIGH ALTITUDE WITHOUT ANY NOISE. EIGHTH OBJECT",
+      "text": "APPROACH FROM SOUTH AND DISAPPEAR IN NORTHERNLY DIRECTION. AT",
       "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "text": "WHICH APPROACHED THE FOUR HUNDRED AREA FROM NE WAS TRAVELLING AT",
+      "text": "APPROXIMATELY ELEVEN TEN PM ONE SIMILAR OBJECT APPROACHED FROM THE",
       "status": "image_matched"
     },
     {
       "lineNumber": 38,
-      "text": "ALTITUDE SO LOW IT HAD TO RISE TO PASS OVER SOME TALL TANKS IN FOUR",
+      "text": "NORTHEAST AND DISAPPEARED IN SOUTHWESTERNLY DIRECTION. ONE MORE",
       "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "text": "HUNDRED AREA. THIS OBJECT WAS ALSO FLYING AT HIGH RATE OF SPEED AND WAS",
+      "text": "OBJECT SIGHTED ABOUT ELEVEN FIFTEEN PM TRAVELLING FROM SOUTH TO NORTH.",
       "status": "image_matched"
     },
     {
       "lineNumber": 40,
-      "text": "NOISELESS. WITNESSES STATED OBSERVED OBJECTS WEAVING FROM LEFT TO RIGHT.",
+      "text": "EMPLOYEES DESCRIBED OBJECTS AS BEING ABOUT FIFTEEN INCHES IN DIAMETER,",
       "status": "image_matched"
     },
     {
       "lineNumber": 41,
-      "text": "Note See copy of tel. in action by [unclear].",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "HAVING YELLOW TO GOLD COLOR. ALL OF THESE OBJECTS WERE TRAVELLING AT",
+      "status": "image_matched"
     },
     {
       "lineNumber": 42,
-      "text": "69 MAY 20 1952",
+      "text": "HIGH RATE OF SPEED AT HIGH ALTITUDE WITHOUT ANY NOISE. EIGHTH OBJECT",
       "status": "image_matched"
     },
     {
       "lineNumber": 43,
-      "text": "MAY 20 1952",
+      "text": "WHICH APPROACHED THE FOUR HUNDRED AREA FROM NE WAS TRAVELLING AT",
       "status": "image_matched"
     },
     {
       "lineNumber": 44,
-      "text": "5-14-52",
+      "text": "ALTITUDE SO LOW IT HAD TO RISE TO PASS OVER SOME TALL TANKS IN FOUR",
       "status": "image_matched"
     },
     {
       "lineNumber": 45,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "HUNDRED AREA. THIS OBJECT WAS ALSO FLYING AT HIGH RATE OF SPEED AND WA",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 46,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "RECORDED - 38 [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 47,
+      "text": "NOISELESS. WITNESSES STATED OBSERVED OBJECTS WEAVING FROM LEFT TO RIG",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 48,
+      "text": "Note See copy of tel.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 49,
+      "text": "in action by Liaison.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "text": "69-MAY 28 1952",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 52,
+      "text": "MAY 20 1952",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 53,
+      "text": "5-[unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

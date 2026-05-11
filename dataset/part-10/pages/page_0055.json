@@ -8,16 +8,12 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 16 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0055-l0005",
-    "page_0055-l0009",
-    "page_0055-l0025"
-  ],
-  "lineCount": 25,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 28,
   "lines": [
     {
       "lineNumber": 1,
@@ -30,72 +26,70 @@
     },
     {
       "lineNumber": 3,
-      "text": "FBI WASHINGTON DC 12-5-50 4-47 PM GAR",
-      "status": "image_matched"
+      "text": "12-5-50 4-47 PM GAR",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "SAC, KNOXVILLE URGENT",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
-      "text": "DETECTION OF UNIDENTIFIED OBJCXXX OBJECTS OVER OAK RIDGE AREA, PROTECTION",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "FBI WASHINGTON DC",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
+      "text": "SAC, KNOXVILLE",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 8,
+      "text": "URGENT",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
+      "text": "DETECTION OF UNIDENTIFIED OBJCXXX OBJECTS OVER OAK RIDGE AREA, PROTECTION",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 10,
       "text": "OF VITAL INSTALLATIONS. REURTEL DECEMBER FOUR LAST REGARDING POSSIBLE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 11,
       "text": "RADAR JAMMING AT OAK RIDGE. ARRANGEMENTS SHOULD BE MADE TO OBTAIN",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 12,
       "text": "ALL FACTS CONCERNING POSSIBLE RADAR JAMMING BY IONIZATION OF PARTICLES",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
-      "text": "IN ATOXXX ATMOSRHERE. CONDUCT APPROPRIATE INVESTIGATION TO DETERMINE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 10,
-      "text": "WHETHER INCIDENT OCCURRING NORTHEAST.OF OLIVER SPRINGS, TENNESSEE,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
-      "text": "COULD HAVE HAD ANY CONNECTION WITH ALLEGED RADAR JAMMING. SUTEL ?",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "IMPORTANT DEVELOPMENTS.",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 13,
-      "status": "blank"
+      "text": "IN ATOXXX ATMOSPHERE. CONDUCT APPROPRIATE INVESTIGATION TO DETERMINE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "HOOVER",
-      "status": "image_matched"
+      "text": "WHETHER INCIDENT OCCURRING NORTHEAST OF OLIVER SPRINGS, TENNESSEE,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
-      "status": "blank"
+      "text": "COULD HAVE HAD ANY CONNECTION WITH ALLEGED RADAR JAMMING. SUTEL",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
-      "text": "END",
+      "text": "IMPORTANT DEVELOPMENTS.",
       "status": "image_matched"
     },
     {
@@ -104,21 +98,22 @@
     },
     {
       "lineNumber": 18,
-      "text": "CORRECT LAST WORD FIRST LINE PLS",
+      "text": "HOOVER",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 20,
-      "text": "PROTECTION",
+      "text": "162-83874-",
       "status": "image_matched"
     },
     {
+      "lineNumber": 20,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
       "lineNumber": 21,
-      "text": "OK'D FBI KX OLO",
+      "text": "4950 DEC 20",
       "status": "image_matched"
     },
     {
@@ -127,19 +122,32 @@
     },
     {
       "lineNumber": 23,
-      "text": "162-83874-",
+      "text": "END",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "text": "4950 DEC 20",
+      "text": "CORRECT LAST WORD FIRST LINE PLS",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "ORIGINAL COPY FILED IN",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "PROTECTION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "OK'D FBI KX OLO",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
+      "text": "ORIGINAL COPY FILED IN [unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

@@ -8,96 +8,117 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 1 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0013-l0003",
-    "page_0013-l0004",
-    "page_0013-l0005",
-    "page_0013-l0006",
-    "page_0013-l0007",
-    "page_0013-l0008",
-    "page_0013-l0009",
-    "page_0013-l0011",
-    "page_0013-l0012",
-    "page_0013-l0013"
-  ],
-  "lineCount": 13,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 21,
   "lines": [
     {
       "lineNumber": 1,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 2,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 3,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 4,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 5,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 6,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 7,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 8,
       "text": "b7c",
       "status": "image_matched"
     },
     {
-      "lineNumber": 2,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 3,
-      "text": "[unclear] 29, 1952, near",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 4,
-      "text": "[unclear] George",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 5,
-      "text": "[unclear] following:",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 6,
-      "text": "[unclear] attracted attention.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 7,
-      "text": "[unclear] a strange object",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 8,
-      "text": "[unclear] direction, it appeared",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 9,
-      "text": "[unclear] commercial airliner).",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] March 29, 1952, near",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 10,
-      "status": "blank"
+      "text": "[REDACTED] with Mr. George [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 11,
-      "text": "[unclear] two motored transport",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] the following:",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 12,
-      "text": "[unclear] the automobile. After",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] attracted attention.",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 13,
+      "text": "[unclear] a strange object",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 14,
+      "text": "[unclear] direction, it appeared",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 15,
+      "text": "[unclear] airliner).",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 16,
+      "text": "[unclear] two motored transport",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 17,
+      "text": "[unclear] the automobile. After",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 18,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 19,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 20,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 21,
+      "text": "[unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

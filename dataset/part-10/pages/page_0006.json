@@ -8,30 +8,22 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 30 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0006-l0001",
-    "page_0006-l0009",
-    "page_0006-l0016",
-    "page_0006-l0038",
-    "page_0006-l0040",
-    "page_0006-l0041"
-  ],
-  "lineCount": 44,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 41,
   "lines": [
     {
       "lineNumber": 1,
       "text": "Mr. COR [unclear], during the course of the interview, made no",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
-      "text": "mention of GEORGE or JOHN MASON, and when specifically questioned with",
-      "status": "image_matched"
+      "text": "mention of GEORGE or JOHN KASON, and when specifically questioned with",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -54,8 +46,8 @@
     },
     {
       "lineNumber": 7,
-      "text": "Maryland, were reviewed and reflected that",
-      "status": "image_matched"
+      "text": "Maryland, were reviewed and reflected that [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
@@ -63,180 +55,162 @@
     },
     {
       "lineNumber": 9,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] No information",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
-      "status": "blank"
+      "text": "concerning reports of unconvential aircraft sighted during the past",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "No information",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "concerning reports of unconventional aircraft sighted during the past",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
       "text": "two (2) years were on record at the FBI Field Office.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 12,
       "status": "blank"
     },
     {
-      "lineNumber": 15,
-      "text": "7. Mr. DONALD FRANKLIN STEWART was interviewed at his residence,",
-      "status": "image_matched"
+      "lineNumber": 13,
+      "text": "7. Mr. D'NALD FRANKLIN STEWART was interviewed at his residence,",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 14,
       "text": "[REDACTED] on 10 May 1952, and with",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 15,
       "text": "reference to the incident in instant case, he related in substance as",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 16,
       "text": "follows:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 17,
       "status": "blank"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 18,
       "text": "STEWART, accompanied by his friend, GEORGE TYLER, were returning",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 19,
       "text": "to Baltimore from Glenn Burnie, Maryland, via the Ritchie Highway, on",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 20,
       "text": "29 March 1952. They were in a 1949 Anglia Vampire, an English car, and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 21,
       "text": "were proceeding in a northerly direction, having just left a Howard",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 22,
       "text": "Johnson Restaurant adjacent to the intersection of Ritchie Highway and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 23,
       "text": "U. S. Highway #301. While approximately opposite a harness track five",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 24,
       "text": "hundred (500) yards north of the above named intersection, STEWART",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 25,
       "text": "related, he observed a strange looking aircraft appearing on the horizon",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 26,
       "text": "ahead of his automobile. STEWART described the aircraft as being a",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 27,
       "text": "flat disk with a cupola or dome in the center of one side. He described",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 28,
       "text": "the dome as having what appeared to be a small porthole on one side",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 29,
       "text": "and the shadowy outline of what appeared to be a \"hatch, similar to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 30,
       "text": "those found on a ship\". He stated that this craft approached his",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 31,
       "text": "vehicle from a northeasterly direction and hovered above his automobile.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 32,
       "status": "blank"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 33,
       "text": "He further described the object as being of a luminous silver",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 34,
       "text": "color and emitting bright lights around the edges similar to neon",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 35,
       "text": "tubing of high brilliance. He stated that at the time the incident",
       "status": "image_matched"
     },
     {
+      "lineNumber": 36,
+      "text": "occurred [REDACTED] he left the automobile and walked around the car",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 37,
+      "text": "several times [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 38,
-      "text": "occurred [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] he advised that his companion, TYLER, remained in the auto-",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 39,
-      "status": "blank"
+      "text": "mobile [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 40,
-      "text": "[REDACTED] he left the automobile and walked around the car",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 41,
-      "text": "several times [REDACTED] he advised that his companion, TYLER, remained in the auto-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 42,
-      "text": "mobile",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
       "status": "blank"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 41,
       "text": "SECURITY INFORMATION--CONFIDENTIAL",
       "status": "image_matched"
     }

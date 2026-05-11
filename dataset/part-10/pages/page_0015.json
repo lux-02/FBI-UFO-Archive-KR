@@ -10,14 +10,15 @@
   "sourceLayer": "line_audit",
   "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "NO_SAFE_SOURCE_TEXT",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
   "pageReadinessNote": null,
   "excludedLineIds": [],
   "lineCount": 1,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "blank"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

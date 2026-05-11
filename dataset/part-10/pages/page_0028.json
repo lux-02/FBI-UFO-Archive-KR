@@ -8,16 +8,12 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 16 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0028-l0002",
-    "page_0028-l0004",
-    "page_0028-l0022"
-  ],
-  "lineCount": 22,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 23,
   "lines": [
     {
       "lineNumber": 1,
@@ -26,108 +22,109 @@
     },
     {
       "lineNumber": 2,
-      "text": "TO [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
+      "text": "TO : [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 4,
+      "text": "FROM : [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 5,
       "text": "DATE: April 17, 1952",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "FROM [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 5,
+      "lineNumber": 6,
       "text": "SUBJECT: FLYING DISCS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "status": "blank"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "text": "For record purposes, it is desired to point out",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "that the April 7, 1952, issue of \"Life\" magazine contains an",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "article on page 80 entitled, \"Have We Visitors From Space?\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "written by H. B. Darrach, Jr., and Robert Ginna relating to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "the captioned matter. For further reference purposes, a copy",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "text": "of this issue of \"Life\" magazine is maintained in the Bureau",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 14,
       "text": "Library.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
-      "status": "blank"
-    },
-    {
       "lineNumber": 15,
-      "text": "KBD:rd/L",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 16,
-      "status": "blank"
+      "text": "ED:rd/L",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "text": "RECORDED - 9",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 18,
+      "text": "RECORDED - 9 123-VS-H-272",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 19,
       "text": "57 APR 28 1952",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "text": "APR 22 1952",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
-      "text": "642",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 21,
-      "text": "5-14",
-      "status": "image_matched"
+      "text": "5-1R",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
+      "text": "687",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 23,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

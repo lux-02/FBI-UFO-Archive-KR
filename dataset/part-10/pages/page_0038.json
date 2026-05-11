@@ -8,86 +8,72 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 28 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0038-l0001",
-    "page_0038-l0007",
-    "page_0038-l0008",
-    "page_0038-l0015",
-    "page_0038-l0030"
-  ],
-  "lineCount": 33,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 45,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "RECA",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
-      "text": "PRIORITY",
-      "status": "image_matched"
+      "text": "[unclear]PRIORITY [unclear] THROUGH [unclear] CHANNELS PARAPHRASE [unclear] REQUIRED",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "AF MSG",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "FROM:",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 5,
-      "text": "TO:",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 6,
-      "text": "NR:",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
-      "text": "PARAPHRASE BY REQUIRED",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 8,
-      "text": "THROUGH [unclear] CHANNELS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 9,
       "text": "FEB 13 1951",
       "status": "image_matched"
     },
     {
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
+      "text": "FROM: NEAC PEPPERELL AFB NFLD",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "TO: CSAF WASH DC",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 10,
-      "text": "NEAC PEPPERELL AFB NFLD",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 11,
-      "text": "CSAF WASH DC",
-      "status": "image_matched"
+      "text": "NR: EW 0212",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "EW 0212",
+      "text": "10 FEB 51",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "10 FEB 51",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 14,
@@ -96,100 +82,149 @@
     },
     {
       "lineNumber": 15,
-      "text": "File - Flying Saucer file",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 16,
+      "text": "File - Flying Saucer file",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 17,
+      "text": "[unclear] EH",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 18,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 19,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 20,
       "text": "ACTION: AF",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 21,
       "text": "INFO : 02, 03",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 22,
       "text": "CAF IN 97532",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 23,
       "text": "DA IN 131",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 24,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 25,
       "text": "RECORDED - 137",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 26,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 27,
       "text": "(12 Feb 51)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
-      "text": "162-858945-267",
-      "status": "image_matched"
+      "lineNumber": 28,
+      "status": "blank"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 29,
+      "text": "162-838945-267",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 30,
       "text": "MAR 8 1951",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
-      "text": "DTO: 100400Z rlsg",
-      "status": "image_matched"
+      "lineNumber": 31,
+      "text": "14",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 32,
+      "text": "DTG: 100400Z rlsg",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 33,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 34,
+      "text": "12 FEB 13'51",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
       "text": "373",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 37,
       "text": "61 MAR 15 1951",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
-      "text": "12 FEB13'51",
-      "status": "image_matched"
+      "lineNumber": 38,
+      "status": "blank"
     },
     {
-      "lineNumber": 28,
-      "text": "SA MSG FORM 22-3",
-      "status": "image_matched"
+      "lineNumber": 39,
+      "text": "DA SCO FORM 22-3",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 40,
       "text": "15 JAN 1949",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
-      "text": "CONFIDENTIAL",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 41,
+      "status": "blank"
     },
     {
-      "lineNumber": 31,
-      "text": "COPY NO.",
-      "status": "image_matched"
+      "lineNumber": 42,
+      "text": "[REDACTED]IAL",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 32,
-      "text": "28",
-      "status": "image_matched"
+      "lineNumber": 43,
+      "status": "blank"
     },
     {
-      "lineNumber": 33,
-      "text": "U. S. GOVERNMENT PRINTING OFFICE: 1949-0-830430",
-      "status": "image_matched"
+      "lineNumber": 44,
+      "text": "COPY NO. 28",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 45,
+      "text": "U. S. GOVERNMENT PRINTING OFFICE : 1949-O-839439",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

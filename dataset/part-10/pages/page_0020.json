@@ -8,21 +8,17 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 20 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0020-l0004",
-    "page_0020-l0006",
-    "page_0020-l0029"
-  ],
-  "lineCount": 29,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 31,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "SECURITY INFORMATION",
-      "status": "image_matched"
+      "text": "SECURITY INFORMATION - [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
@@ -36,8 +32,7 @@
     {
       "lineNumber": 4,
       "text": "to your office through this Bureau's liaison representative,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -47,8 +42,7 @@
     {
       "lineNumber": 6,
       "text": "desire to take in this matter. No investigation is being",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
@@ -66,100 +60,108 @@
     },
     {
       "lineNumber": 10,
-      "text": "Department of the Army",
+      "text": "    Department of the Army",
       "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": "The Pentagon",
+      "text": "    The Pentagon",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "Washington 25, D. C.",
+      "text": "    Washington 25, D. C.",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 14,
-      "text": "Attention: Chief, Intelligence Division",
+      "text": "    Attention: Chief, Intelligence Division",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 14,
       "status": "blank"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "text": "cc - Director of Naval Intelligence",
       "status": "image_matched"
     },
     {
+      "lineNumber": 16,
+      "text": "    Department of the Navy",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 17,
-      "text": "Department of the Navy",
+      "text": "    The Pentagon",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "The Pentagon",
+      "text": "    Washington 25, D. C.",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "Washington 25, D. C.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
       "status": "blank"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 20,
       "text": "cc - Captain John A. Waters",
       "status": "image_matched"
     },
     {
+      "lineNumber": 21,
+      "text": "    Director of Security",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 22,
-      "text": "Director of Security",
+      "text": "    Atomic Energy Commission",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "Atomic Energy Commission",
+      "text": "    Room 605B",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "text": "Room 605B",
+      "text": "    333 Third Street, N. W.",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "333 Third Street, N. W.",
+      "text": "    Washington, D. C.",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "Washington, D. C.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
       "status": "blank"
     },
     {
+      "lineNumber": 27,
+      "text": "BY SPECIAL MESSENGER",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
       "text": "- 2 -",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
-      "text": "SECURITY INFORMATION - CONFIDENTIAL",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
+      "text": "SECURITY INFORMATION - [unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

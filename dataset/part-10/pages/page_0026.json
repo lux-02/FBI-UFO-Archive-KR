@@ -8,22 +8,12 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "9 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0026-l0002",
-    "page_0026-l0003",
-    "page_0026-l0011",
-    "page_0026-l0012",
-    "page_0026-l0013",
-    "page_0026-l0014",
-    "page_0026-l0018",
-    "page_0026-l0028",
-    "page_0026-l0040"
-  ],
-  "lineCount": 47,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 56,
   "lines": [
     {
       "lineNumber": 1,
@@ -32,227 +22,213 @@
     },
     {
       "lineNumber": 2,
-      "text": "To: Director of Special Investigations",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": " The Inspector General",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "To: Director of Special Investigations",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": " Department of the Air Force",
-      "status": "image_matched"
+      "text": "The Inspector General",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": " The Pentagon",
+      "text": "Department of the Air Force",
       "status": "image_matched"
     },
     {
       "lineNumber": 6,
-      "text": " Washington 25, D. C.",
+      "text": "The Pentagon",
       "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "From: John Edgar Hoover, Director",
+      "text": "Washington 25, D. C.",
       "status": "image_matched"
     },
     {
       "lineNumber": 8,
-      "text": " Federal Bureau of Investigation",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 9,
-      "text": "Subject:",
+      "text": "From: John Edgar Hoover, Director",
       "status": "image_matched"
     },
     {
       "lineNumber": 10,
-      "status": "blank"
+      "text": "Federal Bureau of Investigation",
+      "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": " On May 5, 1952, [REDACTED] called at this",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 12,
-      "text": "Bureau and advised that he is General Manager of [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Subject: [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
-      "text": "[REDACTED] Netherlands.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 14,
-      "text": "He resides at [REDACTED] He is residing",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "On May 5, 1952, [REDACTED] called at this",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
+      "text": "Bureau and advised that he is General Manager of [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 16,
+      "text": "[REDACTED] Netherlands.",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 17,
+      "text": "He resides at [REDACTED]. He is residing",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 18,
       "text": "at the Victoria Hotel, New York City, until May 16, 1952,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 19,
       "text": "when he will return to Europe.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 20,
       "status": "blank"
     },
     {
-      "lineNumber": 18,
-      "text": " Mr. [REDACTED] advised that he has a considerable",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 21,
+      "text": "Mr. [REDACTED] advised that he has a considerable",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 22,
       "text": "interest in electronics and has been very much interested",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 23,
       "text": "in reports circulated during the past year or two concern-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 24,
       "text": "ing the existence of flying saucers. He feels that there",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 25,
       "text": "have been enough uncontradicted reports concerning such",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 26,
       "text": "devices to indicate that they may exist in fact. He is also",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 27,
       "text": "of the opinion that if they do exist they can be produced",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 28,
       "text": "only by the United States or Russia or perhaps by the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 29,
       "text": "Republic of Argentina.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 30,
       "status": "blank"
     },
     {
-      "lineNumber": 28,
-      "text": " Mr. [REDACTED] indicated that he has given extensive",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 31,
+      "text": "Mr. [REDACTED] indicated that he has given extensive",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 32,
       "text": "thought to the manner in which these devices could be",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 33,
       "text": "operated. He has concluded that since the disk shape is",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 34,
       "text": "not suitable for conventional aircraft it would be used",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 35,
       "text": "only because it would provide the greatest possible lifting",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 36,
       "text": "surface. It is his opinion, therefore, that one of these",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 37,
       "text": "devices could be operated only by reducing the air pressure",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 38,
       "text": "above it which would cause it to rise in the air. He",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 39,
       "text": "concedes that conventional machinery to cause such a reduction",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 40,
       "text": "of pressure would be so bulky that its weight would prevent",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 41,
       "text": "the device from leaving the ground. He concludes, therefore,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 40,
-      "text": "[unclear] VHB:rdm:rdm",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 41,
-      "status": "blank"
-    },
-    {
       "lineNumber": 42,
-      "text": "RECORDED - 65",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 43,
-      "text": "INDEXED - 65",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 44,
-      "text": "MAY 8 1952",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 45,
-      "text": "COMM - FBI",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 46,
@@ -260,8 +236,49 @@
     },
     {
       "lineNumber": 47,
-      "text": "66 MAY 17 1952:",
+      "status": "blank"
+    },
+    {
+      "lineNumber": 48,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 49,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 50,
+      "text": "RECORDED - 65",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "text": "INDEXED - 65",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 52,
+      "text": "MAILED [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 53,
+      "text": "MAY 8 1952",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 54,
+      "text": "COMM-FBI",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 55,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 56,
+      "text": "66 MAY 17 1952",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

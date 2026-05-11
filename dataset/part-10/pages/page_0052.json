@@ -8,27 +8,12 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "14 permanent_unresolved line(s) excluded under SRC-896. 33 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0052-l0006",
-    "page_0052-l0007",
-    "page_0052-l0010",
-    "page_0052-l0011",
-    "page_0052-l0014",
-    "page_0052-l0015",
-    "page_0052-l0016",
-    "page_0052-l0023",
-    "page_0052-l0026",
-    "page_0052-l0027",
-    "page_0052-l0028",
-    "page_0052-l0034",
-    "page_0052-l0042",
-    "page_0052-l0044"
-  ],
-  "lineCount": 47,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 64,
   "lines": [
     {
       "lineNumber": 1,
@@ -37,8 +22,8 @@
     },
     {
       "lineNumber": 2,
-      "text": "RECEIVED FROM C-3-1",
-      "status": "image_matched"
+      "text": "RECEIVED FROM G-2 THROUGH LIAISON CHANNELS",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -52,174 +37,156 @@
     },
     {
       "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "PRIORITY",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "text": "FROM: CGUSARAL FT RICHARDSON ALASKA FROM AROSI",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 7,
-      "text": "TO: DEPTAR WASH DO FOR ACOFS G2",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
+      "text": "FROM: CGUSARAL FT RICHARDSON ALASKA FROM ARGSI",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "TO: DEPTAR WASH DC FOR ACOFS G2",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
       "text": "DTG: 150345Z",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 13,
       "text": "15 DEC 50",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
-      "text": "Alas Air Comd reports military jet pilots via",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 14,
+      "status": "blank"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 15,
+      "text": "Alas Air Comd reports military jet pilots vic",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
       "text": "Fairbanks while over Weeks International Field at an altitude",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 17,
       "text": "of 8000 feet observed a flash of light, yellow in color at an",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 18,
       "text": "altitude between 25,000 and 30,000 feet. Horizontal",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 19,
       "text": "distance to object was aprx 50 miles. Soon after flash a",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 15,
-      "text": "dark brown smoke appeared to [unclear] or climb at an angle of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 20,
+      "text": "dark brown smoke appeared to rise or climb at an angle of",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 21,
       "text": "40 degrees. At the leading edge of the smoke at aprx 100",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 22,
       "text": "feet appeared an object either cigar shaped or a fuselage",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 23,
       "text": "without wings travelling at terrific speed. Pilots started",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 24,
       "text": "pursuit on heading of 210 degrees mag, indicating 380 at",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 25,
       "text": "a very steep climb. Pursuit continued until pilots reached",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "text": "village of Clear and lost sight of object. Meantime object",
-      "status": "image_matched"
+      "lineNumber": 26,
+      "text": "village of clear and lost sight of object. Meantime object",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 27,
       "text": "gained altitude and speed and disappeared because of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 28,
       "text": "distance of aprx 50 to 55,000 feet. Color of smoke brown,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 29,
       "text": "color of object dark and no reflection from sunlight. Pilots",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
-      "text": "are sure of shape because of perfect silhouette against the",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "text": "sun. One pilot had object in view aprx 4½ mins. First",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 27,
-      "text": "sighted at 150026Z. Coordinates 64 degs 13 mins North, 149",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 28,
-      "text": "degs 30 mins West. Lis info will be rvd when obtained.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 29,
-      "text": "162-23894",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 30,
-      "text": "NOT RECORDED",
-      "status": "image_matched"
+      "text": "assured of shape because of perfect silhouette against the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 31,
-      "text": "Classification (Cancelled)",
-      "status": "image_matched"
+      "text": "sun. One pilot had object in view aprx 4 1/2 mins. First",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
-      "text": "effective on",
-      "status": "image_matched"
+      "text": "sighted at 150026Z. Coordinates 64 degs 13 mins North, 149",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
-      "text": "under the authority",
-      "status": "image_matched"
+      "text": "degs 30 mins West. Add info will be fwd when obtained.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 34,
-      "text": "by [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 35,
-      "text": "ACTION: G2.",
-      "status": "image_matched"
+      "text": "162-83894",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 36,
-      "text": "INFO: G3, AF",
+      "text": "NOT RECORDED",
       "status": "image_matched"
     },
     {
@@ -229,55 +196,130 @@
     },
     {
       "lineNumber": 38,
-      "text": "CM IN 932",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 39,
-      "text": "(15 Dec 50) DTG: 150345Z rvk/1",
-      "status": "image_matched"
+      "text": "Classification Cancelled changed to [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 40,
-      "text": "UNCLASSIFIED BY ORDER",
-      "status": "image_matched"
+      "text": "effective on 17 OCT 1970",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 41,
-      "text": "THE SEC ARMY TAG",
-      "status": "image_matched"
+      "text": "under the authority of AFR 205-1",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 42,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "by [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 43,
-      "text": "141 DEC 15 50",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 44,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 45,
-      "text": "COPY NO.",
+      "text": "ACTION: G2.",
       "status": "image_matched"
     },
     {
+      "lineNumber": 45,
+      "status": "blank"
+    },
+    {
       "lineNumber": 46,
-      "text": "DEC 27 1950",
+      "text": "INFO: G3, AF",
       "status": "image_matched"
     },
     {
       "lineNumber": 47,
-      "text": "REPLACES DA SCO FORM 23-A, 15 JAN 48, WHICH MAY BE USED.",
+      "status": "blank"
+    },
+    {
+      "lineNumber": 48,
+      "text": "CM IN 932",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "text": "(15 Dec 50) DTG: 150345Z rvk/7",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 51,
+      "text": "DECLASSIFIED BY ORDER",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 52,
+      "text": "OF THE SEC ARMY BY TAG",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
+      "text": "PER 078-072",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 54,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 55,
+      "text": "141 DEC 15 50",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 56,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 57,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 58,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 59,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 60,
+      "text": "OCS FORM",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 61,
+      "text": "1 JAN 50",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 62,
+      "text": "DEC 27 1950",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 63,
+      "text": "COPY NO.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 64,
+      "text": "REPLACES DA SCO FORM 22-3, 18 JAN 48, WHICH MAY BE USED. U.S. GOVERNMENT PRINTING OFFICE: 1950-O-868135",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

@@ -8,28 +8,22 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 38 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0009-l0015",
-    "page_0009-l0023",
-    "page_0009-l0026",
-    "page_0009-l0041",
-    "page_0009-l0042"
-  ],
-  "lineCount": 49,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 50,
   "lines": [
     {
       "lineNumber": 1,
-      "text": ". and that the police department had many calls of inquiry but that",
-      "status": "image_matched"
+      "text": ". and that the po department had many calls of quiry but that",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "they all, with the above exception, were reports of noise and not of",
-      "status": "image_matched"
+      "text": "they all, with t above exception, were reports c. noise and not of",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -91,9 +85,8 @@
     },
     {
       "lineNumber": 15,
-      "text": "13. LOUIS LOUIS AMOSS, Colonel, USA, Retired, residing at [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "13. ULIUS LOUIS AMOSS, Colonel, USA, Retired, residing at [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 16,
@@ -133,8 +126,7 @@
     {
       "lineNumber": 23,
       "text": "reside on [REDACTED] also had informa-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 24,
@@ -148,8 +140,7 @@
     {
       "lineNumber": 26,
       "text": "AMOSS stated that the residents of [REDACTED] frequently",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 27,
@@ -178,8 +169,8 @@
     },
     {
       "lineNumber": 32,
-      "text": "Judge and Mrs. HENDERSON, Sr., and Mrs. SALLY HENDERSON SWINGTΟΝ",
-      "status": "image_matched"
+      "text": "Judge and Mrs. HENDERSON, Sr., and Mrs. SALLY B.THINGTON",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
@@ -223,47 +214,50 @@
     {
       "lineNumber": 41,
       "text": "that there was no street designated [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 42,
-      "text": "He further stated that there was only one residence on [REDACTED] and",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "and that the nearest approximation of that name was [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 43,
+      "text": "He further stated that there was only one residence on [REDACTED] and",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 44,
       "text": "that residence was presently occupied by a Mr. GEORGE REA, whom he was",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 45,
       "text": "unable to contact.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 46,
       "status": "blank"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 47,
       "text": "14. Attempts by the writer to interview individuals named in the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 48,
       "text": "preceding paragraph met with negative results.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
+      "lineNumber": 49,
       "status": "blank"
     },
     {
-      "lineNumber": 49,
-      "text": "SECURITY INFORMATION - CONFIDENTIAL",
-      "status": "image_matched"
+      "lineNumber": 50,
+      "text": "SECURITY INFORMATION - [REDACTED]",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

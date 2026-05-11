@@ -8,274 +8,85 @@
     "sha256": "387c0057dc0d8f14d4ccd7b628cad4522ce4bdf73982fb7cc6266053e6792a24"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 41 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0011-l0001",
-    "page_0011-l0002",
-    "page_0011-l0031",
-    "page_0011-l0048"
-  ],
-  "lineCount": 52,
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 16,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "20. On 11 May 1952 LOUIS F. TYLER, uncle of TYLER III,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "20. On 11 May 1952 LOUIS F. TYLER, uncle of TYLER III, [REDACTED] was interviewed and stated that he",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
-      "text": "[REDACTED] was interviewed and stated that he",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "does not believe his nephew's story. He stated that TYLER III can dream up fantastic stories at times. He believes it is a hoax and thinks his nephew was talked into telling the story. 67C",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "does not believe his nephew's story. He stated that TYLER III can",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 4,
-      "text": "dream up fantastic stories at times. He believes it is a hoax and",
-      "status": "image_matched"
+      "text": "21. At approximately 1215 hours, 11 May 1952, GEORGE S. TYLER III was reinterviewed in the presence of his father and mother, at which time TYLER stated that STEWART had seen the \"saucer\" prior to the time of meeting him and that all the information which he had given was in-formation that STEWART told him. TYLER advised that he did not see a thing and had reported the description of the aircraft as STEWART had told him. He stated that STEWART had told the sighting of the aircraft to him as they returned from Glenn Burnie, Maryland, to Baltimore, and asked him (TYLER) to affirm the report because he feared that no one would believe his story. TYLER advised that he called the newspapers, the Sun and the Post, to find out if anyone else had reported the in-cident, and was informed that several reports had been received. TYLER further stated that at first he believed the story STEWART had told him; however, he now believes that STEWART made it all up. TYLER averred that he had been in Glenn Burnie visiting friends and was waiting at a bus stop to return to Baltimore on the night of 29 March 1952, when he met STEWART who had been in Glenn Burnie posting campaign posters; that STEWART had offered to give him a ride back to Baltimore and he had accepted; that it was on the trip back to Baltimore that STEWART had related to him the sighting of the strange aircraft earlier in the evening.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "thinks his nephew was talked into telling the story.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
-      "status": "blank"
+      "text": "TYLER stated that they left Glenn Burnie at approximately 2230 hours and had driven to Baltimore without incident; that they had made no stops along the road; 67C",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "text": "21. At approximately 1215 hours, 11 May 1952, GEORGE S. TYLER III",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
-      "text": "was reinterviewed in the presence of his father and mother, at which",
-      "status": "image_matched"
+      "text": "22. STEWART was reinterviewed at approximately 1315 hours, 11 May 1952, and stated that TYLER was with him and had witnessed the incident. STEWART denied emphatically any falsehood in the story and stated that the whole thing was the absolute truth.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "time TYLER stated that STEWART had seen the \"saucer\" prior to the time",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "text": "of meeting him and that all the information which he had given was in-",
-      "status": "image_matched"
+      "text": "23. On 12 May 1952 Special Agent OLIVER R. WEATHERHOLT interviewed Mr. HAROLD B. ISENHOCK at the Griebel Motor Company, Light and Hen-rietta streets, Baltimore, Maryland. Mr. ISENHOCK stated that work was performed on STEWART's car on 8 May; that the work performed was ad-justment of brakes, installation of clutch, adjust generator, repairing or taping the wires leading from the generator, change oil, and lubri-cation. He stated that the car needed only routine repairs and there was no indication of any unusual repairs.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "formation that STEWART told him. TYLER advised that he did not see",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 12,
-      "text": "a thing and had reported the description of the aircraft as STEWART had",
-      "status": "image_matched"
+      "text": "Mr. ISENHOCK advised that STEWART had traded at the garage regularly [REDACTED] Review of the 67C",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
-      "text": "told him. He stated that STEWART had told the sighting of the aircraft",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 14,
-      "text": "to him as they returned from Glenn Burnie, Maryland, to Baltimore, and",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "text": "asked him (TYLER) to affirm the report because he feared that no one",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "text": "would believe his story. TYLER advised that he called the newspapers,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 17,
-      "text": "the Sun and the Post, to find out if anyone else had reported the in-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "cident, and was informed that several reports had been received. TYLER",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "text": "further stated that at first he believed the story STEWART had told him;",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "text": "however, he now believes that STEWART made it all up. TYLER averred that",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "text": "he had been in Glenn Burnie visiting friends and was waiting at a bus",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "stop to return to Baltimore on the night of 29 March 1952, when he met",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "text": "STEWART who had been in Glenn Burnie posting campaign posters; that",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "text": "STEWART had offered to give him a ride back to Baltimore and he had",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "text": "accepted; that it was on the trip back to Baltimore that STEWART had",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "text": "related to him the sighting of the strange aircraft earlier in the",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "text": "evening.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 29,
-      "text": "TYLER stated that they left Glenn Burnie at approximately",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
-      "text": "2230 hours and had driven to Baltimore without incident; that they",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 31,
-      "text": "had made no stops along the road; [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 32,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 33,
-      "text": "22. STEWART was reinterviewed at approximately 1315 hours, 11 May",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 34,
-      "text": "1952, and stated that TYLER was with him and had witnessed the incident.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 35,
-      "text": "STEWART denied emphatically any falsehood in the story and stated that",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 36,
-      "text": "the whole thing was the absolute truth.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 38,
-      "text": "23. On 12 May 1952 Special Agent OLIVER R. WEATHERHOLT interviewed",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 39,
-      "text": "Mr. HAROLD B. ISENHOCK at the Griebel Motor Company, Light and Hen-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "rietta streets, Baltimore, Maryland. Mr. ISENHOCK stated that work was",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
-      "text": "performed on STEWART's car on 8 May; that the work performed was ad-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "text": "justment of brakes, installation of clutch, adjust generator, repairing",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "or taping the wires leading from the generator, change oil, and lubri-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "text": "cation. He stated that the car needed only routine repairs and there",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
-      "text": "was no indication of any unusual repairs.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 47,
-      "text": "Mr. ISENHOCK advised that STEWART had traded at the garage",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "text": "regularly [REDACTED] Review of the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 49,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 50,
       "text": "9",
       "status": "image_matched"
     },
     {
-      "lineNumber": 51,
+      "lineNumber": 15,
       "status": "blank"
     },
     {
-      "lineNumber": 52,
-      "text": "SECURITY INFORMATION - CONFIDENTIAL",
-      "status": "image_matched"
+      "lineNumber": 16,
+      "text": "SECURITY INFORMATION--[REDACTED]",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null
