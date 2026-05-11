@@ -8,13 +8,11 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 46 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0053-l0032"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 56,
   "lines": [
     {
@@ -91,8 +89,8 @@
     },
     {
       "lineNumber": 16,
-      "text": "pipe or gunmetal color; and seemed to be approximately one-fourth (¼) mile",
-      "status": "image_matched"
+      "text": "pipe or gunmetal color; and seemed to be approximately one-fourth (1/4) mile",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
@@ -170,9 +168,8 @@
     },
     {
       "lineNumber": 32,
-      "text": "from eight (8) feet in diameter to a circus balloon which is about twenty-four",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "but, generally, they are similar to a cirous balloon which is about twenty-four",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
@@ -253,8 +250,8 @@
     },
     {
       "lineNumber": 49,
-      "text": "3 cc Hq. Third Army, Ft. McPherson, Ga.",
-      "status": "image_matched"
+      "text": "3 cc Hq., Third Army, Ft. McPherson, Ga.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 50,

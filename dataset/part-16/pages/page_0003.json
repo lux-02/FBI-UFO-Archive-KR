@@ -8,18 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 42 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0003-l0007",
-    "page_0003-l0039",
-    "page_0003-l0040",
-    "page_0003-l0043",
-    "page_0003-l0047"
-  ],
-  "lineCount": 47,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 59,
   "lines": [
     {
       "lineNumber": 1,
@@ -38,228 +32,267 @@
     },
     {
       "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
       "text": "16. Sound and odor:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 6,
-      "text": "17. Trail (color, length, width, persistence, etc.)",
+      "text": "None",
       "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "White trail, even throughout, brilliance faded toward the end.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
-      "text": "18. Luminosity (visible by reflection, incandescence, other - degree",
+      "text": "17. Trail (color, length, width, persistence, etc.)",
       "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "of brilliance):",
-      "status": "image_matched"
+      "text": "White trail, even throughout, brilliance faded toward the end.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "Almost as brilliant as the evening star.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 11,
-      "text": "19. Projections (fins, wings, rods, antennae, canopies, etc.):",
+      "text": "18. Luminosity (visible by reflection, incandescence, other - degree",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "None",
+      "text": "of brilliance):",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "20. Maneuvers (turns, climbs, dives, etc. - sketch of flight path):",
+      "text": "Almost as brilliant as the evening star.",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "Level flight with a slight gain of altitude.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 15,
-      "text": "21. Manner of disappearance:",
+      "text": "19. Projections (fins, wings, rods, antennae, canopies, etc.):",
       "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "Faded out very quickly and particles appeared to drop to within 200 ft",
+      "text": "None",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "of earth.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 18,
-      "text": "22. Effect on clouds:",
+      "text": "20. Maneuvers (turns, climbs, dives, etc. - sketch of flight path):",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "None",
+      "text": "Level flight with a slight gain of altitude.",
       "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "23. Additional information concerning object:",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 21,
-      "text": "None",
+      "text": "21. Manner of disappearance:",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "text": "24. Weather conditions and light at time of sighting:",
-      "status": "image_matched"
+      "text": "Burned out very quickly and particles appeared to drop to within 200 ft",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
-      "text": "Absolutely clear.",
+      "text": "of earth.",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "text": "Name and address of observer: Pvt George G. Smith",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 25,
-      "text": "\"C\" Co - 12th AIB",
+      "text": "22. Effect on clouds:",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "2d Armd Div., Cp Hood, Texas",
+      "text": "None",
       "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "Occupation and hobbies:",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 28,
-      "text": "US Army",
+      "text": "23. Additional information concerning object:",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "Comments of interrogator relative to intelligence and character of",
+      "text": "None",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "observer (check neighbors, police dept., FBI records, employer, etc.):",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 31,
-      "text": "Fair observer.",
+      "text": "24. Weather conditions and light at time of sighting:",
       "status": "image_matched"
     },
     {
       "lineNumber": 32,
-      "text": "Did observer wear glasses, especially polarized glasses at time of",
-      "status": "image_matched"
+      "text": "Absolutely Clear.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
-      "text": "sighting, or was object viewed through canopy, window, or other",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 34,
-      "text": "transparent material? None",
-      "status": "image_matched"
+      "text": "Name and address of observer: Pvt George O. Smith",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 35,
-      "text": "Pages 3 & 4 of this form not applicable to this incident.",
+      "text": "\"C\" Co - 12th AIB",
       "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "text": "CONFIDENTIAL",
+      "text": "2d Armd Div., Cp Hood, Texas",
       "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "text": "CONFIDENTIAL",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 38,
-      "text": "Interrogated by:",
+      "text": "Occupation and hobbies:",
       "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "text": "George M. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "US Army",
+      "status": "image_matched"
     },
     {
       "lineNumber": 40,
-      "text": "Captain, [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 41,
-      "text": "Hq 2d Armd Div",
+      "text": "Comments of interrogator relative to intelligence and character of",
       "status": "image_matched"
     },
     {
       "lineNumber": 42,
-      "text": "Camp Hood, Texas",
-      "status": "image_matched"
+      "text": "observer (Check neighbors, police dept., FBI records, employer, etc.):",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 44,
-      "text": "ON MAR 26 1950",
+      "text": "Fair observer.",
       "status": "image_matched"
     },
     {
       "lineNumber": 45,
-      "text": "BY DEP CDR USAIRSF",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 46,
-      "text": "AUTH Para 1-603 DO",
+      "text": "Did observer wear glasses, especially polarized glasses at time of",
       "status": "image_matched"
     },
     {
       "lineNumber": 47,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "sighting, or was object viewed through canopy, window, or other",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 48,
+      "text": "transparent material? None",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 50,
+      "text": "Pages 3 & 4 of this form not applicable to this incident.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 52,
+      "text": "Interviewed by:",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
+      "text": "CONFIDENTIAL",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 54,
+      "text": "CONFIDENTIAL",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 55,
+      "text": "[Signature]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 56,
+      "text": "GEORGE M. ALBRIGHT",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 57,
+      "text": "Captain, Inf",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 58,
+      "text": "Hq 2d Armd Div",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 59,
+      "text": "Camp Hood, Texas",
+      "status": "image_matched"
     }
   ],
   "blockCount": null

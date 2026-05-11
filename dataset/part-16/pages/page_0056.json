@@ -8,16 +8,11 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 15 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0056-l0003",
-    "page_0056-l0007",
-    "page_0056-l0022",
-    "page_0056-l0023"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 27,
   "lines": [
     {
@@ -31,9 +26,8 @@
     },
     {
       "lineNumber": 3,
-      "text": "CIC, [unclear] O. Box 379, Knoxville, Tennessee",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "CIC, [REDACTED] O. Box 379, Knoxville, Tennessee",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
@@ -50,9 +44,8 @@
     },
     {
       "lineNumber": 7,
-      "text": "[unclear]-intelligence-officer reports that leaked out, however, state that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "The intelligence-officer reports that leaked out, however, state that",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
@@ -71,8 +64,8 @@
     },
     {
       "lineNumber": 11,
-      "text": "were mistaken in their identity of it.",
-      "status": "image_matched"
+      "text": "were unmistaken in their identity of it.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
@@ -90,8 +83,8 @@
     },
     {
       "lineNumber": 15,
-      "text": "Moneymaker works the day shift.\"",
-      "status": "image_matched"
+      "text": "Moneymaker works the day shirt.\"",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
@@ -122,15 +115,13 @@
     },
     {
       "lineNumber": 22,
-      "text": "3 cc [unclear], Ft. McPherson, Ga.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "3 cc [REDACTED] Army, Ft. McPherson, Ga.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 23,
-      "text": "1 cc [unclear] AEC, Oak Ridge, Tenn.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "1 cc [REDACTED] AEC, Oak Ridge, Tenn.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 24,

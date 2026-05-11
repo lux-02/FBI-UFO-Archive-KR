@@ -8,16 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 12 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0078-l0003",
-    "page_0078-l0006",
-    "page_0078-l0019"
-  ],
-  "lineCount": 20,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 21,
   "lines": [
     {
       "lineNumber": 1,
@@ -26,14 +22,12 @@
     },
     {
       "lineNumber": 2,
-      "text": "67C",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "below the ridge of the mountain. (Note: [REDACTED] stated that for the object to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "below the ridge of the mountain. (Note: 67C stated that for the object to",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -47,73 +41,76 @@
     },
     {
       "lineNumber": 6,
-      "text": "Information on Subject - [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
-      "status": "blank"
+      "text": "Information on Subject - [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
       "text": "6. Weather and wind conditions - according to the Weather Bureau",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "at Oak Ridge, the temperature was 51 degrees and there was a nine (9) to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "twelve (12) mile an hour West wind. Visibility was unlimited.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "status": "blank"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "text": "7. Unknown",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 14,
       "status": "blank"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "text": "8. Physical Evidence - None",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
       "status": "blank"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "text": "9. Interception or identification action taken - None",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "status": "blank"
     },
     {
-      "lineNumber": 18,
-      "text": "/s/ WILLIAM M. PRICE",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 19,
-      "text": "S/A OSI",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "s/ WILLIAM M. PRICE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
+      "text": "S/A OSI",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
       "text": "Detachment Commander",
       "status": "image_matched"
     }

@@ -8,23 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 21 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0105-l0009",
-    "page_0105-l0011",
-    "page_0105-l0017",
-    "page_0105-l0025",
-    "page_0105-l0027"
-  ],
-  "lineCount": 28,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 32,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "FEDERAL BUREAU of INVESTIGATION",
-      "status": "image_matched"
+      "text": "FEDERAL BUREAU OF INVESTIGATION",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -56,14 +50,13 @@
     },
     {
       "lineNumber": 8,
-      "text": "I was able to obtain and keep in my possession. The book,\"Out",
-      "status": "image_matched"
+      "text": "I was able to obtain and keep in my possession. The book, \"Out",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "- witting Tomorrow\" seems designed to \"brain wash \" the well-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "- witting Tomorrow\" seems designed to \"brain wash\" the well-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
@@ -72,9 +65,8 @@
     },
     {
       "lineNumber": 11,
-      "text": "-quent monographs,and lessons, which are apparently an indoc-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "-quent monographs, and lessons, which are apparently an indoc-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
@@ -104,13 +96,12 @@
     {
       "lineNumber": 17,
       "text": "-come degenerates. These monographs appear to be let out to the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": "prospective convert, in small,well planned, amounts at a time.",
-      "status": "image_matched"
+      "text": "prospective convert, in small, well planned, amounts at a time.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
@@ -124,8 +115,8 @@
     },
     {
       "lineNumber": 21,
-      "text": ",and silence. I think it is their policy to go on declaring to",
-      "status": "image_matched"
+      "text": ", and silence. I think it is their policy to go on declaring to",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
@@ -134,8 +125,8 @@
     },
     {
       "lineNumber": 23,
-      "text": "this weird doctrine,(at least the one my husband met did) You",
-      "status": "image_matched"
+      "text": "this weird doctrine, (at least the one my husband met did) You",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
@@ -145,8 +136,7 @@
     {
       "lineNumber": 25,
       "text": "as dope addiction. It is my opinion, that if the communist-are",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 26,
@@ -156,13 +146,31 @@
     {
       "lineNumber": 27,
       "text": "but slightly gullible people self-hypnotized into an \"outter space\"",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 28,
-      "text": "condition, and the rebellious,nonconformist demonstrating, they",
-      "status": "image_matched"
+      "text": "condition, and the rebellious, nonconformist demonstrating, they",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 29,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 30,
+      "text": "ENCLOSURE",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 31,
+      "text": "REC-49 [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 32,
+      "text": "[unclear]RRESPOND[unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

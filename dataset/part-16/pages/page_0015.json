@@ -8,31 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "12 permanent_unresolved line(s) excluded under SRC-896. 34 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0015-l0001",
-    "page_0015-l0006",
-    "page_0015-l0008",
-    "page_0015-l0010",
-    "page_0015-l0011",
-    "page_0015-l0012",
-    "page_0015-l0014",
-    "page_0015-l0017",
-    "page_0015-l0024",
-    "page_0015-l0025",
-    "page_0015-l0058",
-    "page_0015-l0059"
-  ],
-  "lineCount": 59,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 49,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "UNRESTRICTED",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Restricted",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -50,277 +36,225 @@
     },
     {
       "lineNumber": 5,
-      "status": "blank"
+      "text": "CONFIDENTIAL Incident No. 2",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "CONFIDENTIAL Incident No. 2",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 7,
       "status": "blank"
     },
     {
+      "lineNumber": 7,
+      "text": "1. Date of Observation 30 July 48 Date of Interview 1 August 48",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 8,
-      "text": "1. Date of Observation 30 July 19 Date of Interview 1 August 19",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "2. Exact time of observation (local) 2135",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "2. Exact time of observation (local) 2134",
-      "status": "image_matched"
+      "text": "3. Place of Observation: Map, Camp Hood, 1:50000",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "3. Place of Observation: [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "(Map Coordinates) At estimated altitude 1500-2000 feet over 915.03-657.8",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "(Map Coordinates) An estimated altitude 1500-2000 feet over",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 12,
-      "text": "915.025-657.8",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 13,
       "text": "4. Position of observer (air, car, bldg, location of - give details):",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
-      "text": "In a ton truck (open) located at 912.5-655.55",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 12,
+      "text": "In 1/2 ton truck (open) located at 912.5-655.55",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 15,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 16,
+      "lineNumber": 13,
       "text": "5. What attracted attention to object:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 14,
       "text": "Bright light appearing in sky.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 18,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 19,
+      "lineNumber": 15,
       "text": "6. Number of objects and sketch of formation or grouping:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 16,
       "text": "One",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 22,
+      "lineNumber": 17,
       "text": "7. Apparent size (compare to known object, i.e., sun, moon, thumb",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 18,
       "text": "or fist at arms length):",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 19,
       "text": "Appeared to be a rocket of type unknown to observer. In length,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 25,
-      "text": "including tail, was about 1½ thumbs.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 20,
+      "text": "including tail, was about 1 1/2 thumbs.",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 21,
       "text": "8. Color of object:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
-      "text": "Fiery blue tail with mass round in shape and exceedingly brilliant",
-      "status": "image_matched"
+      "lineNumber": 22,
+      "text": "Frosty blue tail with nose round in shape and exceedingly brilliant",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 23,
       "text": "like a magnesium flare only more intense.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 24,
       "text": "9. Shape (give graphic description - compare with known object):",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
-      "text": "Shape like rocket but larger than ordinary. Appeared to have a",
-      "status": "image_matched"
+      "lineNumber": 25,
+      "text": "Shaped like rocket but larger than ordinary. Appeared to have a",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 26,
       "text": "ball-like nucleus emitting a blue-white tail.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 27,
       "text": "10. Altitude (Angle of elevation above horizon - 0 degrees at horizon,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 28,
       "text": "90 degrees overhead):",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
-      "text": "Estimated 35º.",
-      "status": "image_matched"
+      "lineNumber": 29,
+      "text": "Estimated 35°.",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 35,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 36,
+      "lineNumber": 30,
       "text": "11. Direction from observer (Angle clockwise from North):",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
-      "text": "40º magnetic azimuth (taken by compass).",
-      "status": "image_matched"
+      "lineNumber": 31,
+      "text": "40° magnetic azimuth (taken by compass).",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 38,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 39,
+      "lineNumber": 32,
       "text": "12. Distance from observer (Distance to town, bldg, etc., over",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 33,
       "text": "which object appeared to be):",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 42,
+      "lineNumber": 34,
       "text": "Estimated 3500 yards.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 35,
       "text": "13. Direction of flight of object (s):",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 45,
+      "lineNumber": 36,
       "text": "Southeast to North West.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 37,
       "text": "14. Time of sight:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
-      "text": "2-3S",
-      "status": "image_matched"
+      "lineNumber": 38,
+      "text": "2135",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 48,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 49,
+      "lineNumber": 39,
       "text": "15. Speed (time to cover given angular distance): Estimated",
       "status": "image_matched"
     },
     {
-      "lineNumber": 50,
-      "text": "2 - 2.5 seconds to cover arc about 15º",
-      "status": "image_matched"
+      "lineNumber": 40,
+      "text": "2 - 2.5 seconds to cover arc about 15°.",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 51,
+      "lineNumber": 41,
       "text": "Incl",
       "status": "image_matched"
     },
     {
-      "lineNumber": 52,
+      "lineNumber": 42,
       "status": "blank"
     },
     {
-      "lineNumber": 53,
-      "text": "REGARDED UNCLASSIFIED",
-      "status": "image_matched"
+      "lineNumber": 43,
+      "text": "REGRADED UNCLASSIFIED",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 54,
+      "lineNumber": 44,
       "text": "ON MAR 26 1979",
       "status": "image_matched"
     },
     {
-      "lineNumber": 55,
-      "text": "BY DEP OF USAINSCOM FOIC",
-      "status": "image_matched"
+      "lineNumber": 45,
+      "text": "BY DEP CIR USAINSCOM FOIC",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 56,
-      "text": "AUTH Para 1-803 DOD5200",
-      "status": "image_matched"
+      "lineNumber": 46,
+      "text": "AUTH Para 1-603 DOD5200",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 57,
+      "lineNumber": 47,
       "status": "blank"
     },
     {
-      "lineNumber": 58,
+      "lineNumber": 48,
       "text": "CONFIDENTIAL 65-58300",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 59,
-      "text": "COREstrictedIAL ENCLOSURE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 49,
+      "text": "Restricted ENCLOSURE",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

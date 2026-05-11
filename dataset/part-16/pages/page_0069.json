@@ -8,20 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "typed_or_printed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 38 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0069-l0003",
-    "page_0069-l0004",
-    "page_0069-l0014",
-    "page_0069-l0015",
-    "page_0069-l0016",
-    "page_0069-l0022",
-    "page_0069-l0032"
-  ],
-  "lineCount": 53,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 55,
   "lines": [
     {
       "lineNumber": 1,
@@ -34,20 +26,18 @@
     },
     {
       "lineNumber": 3,
-      "text": "The smoke trail had discontinued but there was a tall that had the appearance of a ribb",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "The smoke trail had discontinued but there was a tail that had the appearance of a ribb",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
       "text": "about 5 or 6 feet long. At times the tail lengthened to almost 20 feet. While hoverin",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "it had a burnt or dark brown appearance. The tail had an opalescent grayish appearanc",
-      "status": "image_matched"
+      "text": "it had a burnt or dark brown appearance. The tail had an opalescent grayish appearance",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -92,20 +82,17 @@
     {
       "lineNumber": 14,
       "text": "its direction to the southeast. At this time, [REDACTED] came along and I stopped him and asked him to observe it.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
       "text": "He was unable to see the object at first and I returned to the gatehouse to make anothe",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
       "text": "report. [REDACTED] continued his observation of the object and soon after I went into",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
@@ -134,8 +121,7 @@
     {
       "lineNumber": 22,
       "text": "About five minutes later, Capt. Zarzecki drove up and as he came down the road I remark",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
@@ -184,8 +170,7 @@
     {
       "lineNumber": 32,
       "text": "In about five more minutes, [REDACTED] and I saw it again about 20 degrees above the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 33,
@@ -275,7 +260,7 @@
     },
     {
       "lineNumber": 51,
-      "text": "     SAC, Knoxville",
+      "text": "SAC, Knoxville",
       "status": "image_matched"
     },
     {
@@ -286,6 +271,15 @@
       "lineNumber": 53,
       "text": "(Page # 2 of Inclosure # 11)",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 54,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 55,
+      "text": "65-585",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

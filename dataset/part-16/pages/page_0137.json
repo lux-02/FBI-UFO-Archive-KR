@@ -8,87 +8,77 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 28 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0137-l0002",
-    "page_0137-l0003",
-    "page_0137-l0007",
-    "page_0137-l0030",
-    "page_0137-l0032",
-    "page_0137-l0042"
-  ],
-  "lineCount": 44,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 48,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "March 19 1954.",
-      "status": "image_matched"
+      "text": "62-101030-1",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "CORDED 23",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 3,
-      "text": "DEXED 23",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 4,
       "status": "blank"
     },
     {
+      "lineNumber": 4,
+      "text": "March 19, 1954",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 5,
+      "text": "RECORDED - 23",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
+      "text": "DEXED 23",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 9,
       "text": "New York, New York",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 10,
       "status": "blank"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 11,
       "text": "Dear [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 12,
       "status": "blank"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 13,
       "text": "Your letter of March 1, 1954, has been",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
-      "text": "received, together with enclosures.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 12,
-      "text": "The thought prompting your advising me of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "the activities of your group is very much appreciated;",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 14,
-      "text": "however, I am unable to comply with your request.",
+      "text": "received, together with enclosures.",
       "status": "image_matched"
     },
     {
@@ -97,87 +87,85 @@
     },
     {
       "lineNumber": 16,
-      "text": "For your information, data appearing in FBI",
+      "text": "The thought prompting your advising me of",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "files are confidential and available for official use",
+      "text": "the activities of your group is very much appreciated;",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "only. I would like to point out that this Bureau is",
+      "text": "however, I am unable to comply with your request.",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "strictly a fact-finding agency and does not make",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 20,
-      "text": "evaluations or draw conclusions as to the character or",
+      "text": "For your information, data appearing in FBI",
       "status": "image_matched"
     },
     {
       "lineNumber": 21,
-      "text": "integrity of any individual or organization.",
+      "text": "files are confidential and available for official use",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "status": "blank"
+      "text": "only. I would like to point out that this Bureau is",
+      "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "I know you will understand the reasons for",
+      "text": "strictly a fact-finding agency and does not make",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "text": "these rules and will not infer either that we do or",
+      "text": "evaluations or draw conclusions as to the character or",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "that we do not have information relating to the",
+      "text": "integrity of any individual or organization.",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "individuals whose names you submitted to me.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
       "status": "blank"
     },
     {
+      "lineNumber": 27,
+      "text": "I know you will understand the reasons for",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 28,
-      "text": "Sincerely yours,",
+      "text": "these rules and will not infer either that we do or",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 30,
-      "text": "MAILED 4",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 31,
-      "text": "MAR 19 1954",
+      "text": "that we do not have information relating to the",
       "status": "image_matched"
     },
     {
+      "lineNumber": 30,
+      "text": "individuals whose names you submitted to me.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "status": "blank"
+    },
+    {
       "lineNumber": 32,
-      "text": "COMM.FBI",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Sincerely yours,",
+      "status": "image_matched"
     },
     {
       "lineNumber": 33,
@@ -185,58 +173,76 @@
     },
     {
       "lineNumber": 34,
-      "text": "John Edgar Hoover",
-      "status": "image_matched"
+      "text": "MAILED 4",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 35,
-      "text": "Director",
+      "text": "MAR 19 1954",
       "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "status": "blank"
+      "text": "COMM-FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 37,
-      "text": "NOTE: Neither correspondent nor his organization is identifiable",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 38,
-      "text": "in Bufiles. Bufile 62-83894 reflects that previous inquiries and",
+      "text": "John Edgar Hoover",
       "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "text": "data concerning flying saucers has been made available to OSI,",
+      "text": "Director",
       "status": "image_matched"
     },
     {
       "lineNumber": 40,
-      "text": "which agency has primary jurisdiction. A copy of incoming and",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 41,
-      "text": "copy of one of correspondent's enclosures listing the names of",
+      "text": "NOTE: Neither correspondent nor his organization is identifiable",
       "status": "image_matched"
     },
     {
       "lineNumber": 42,
-      "text": "persons whom [REDACTED] has contacted is being forwarded to OSI by",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "in Bufiles. Bufile 62-83894 reflects that previous inquiries and",
+      "status": "image_matched"
     },
     {
       "lineNumber": 43,
-      "text": "cover memorandum.",
+      "text": "data concerning flying saucers has been made available to OSI,",
       "status": "image_matched"
     },
     {
       "lineNumber": 44,
-      "text": "122",
+      "text": "which agency has primary jurisdiction. A copy of incoming and",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "text": "copy of one of correspondent's enclosures listing the names of",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 46,
+      "text": "persons whom [REDACTED] has contacted is being forwarded to OSI by",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 47,
+      "text": "cover memorandum.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 48,
+      "text": "123",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

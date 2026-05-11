@@ -8,32 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "13 permanent_unresolved line(s) excluded under SRC-896. 30 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0074-l0001",
-    "page_0074-l0003",
-    "page_0074-l0005",
-    "page_0074-l0013",
-    "page_0074-l0015",
-    "page_0074-l0017",
-    "page_0074-l0027",
-    "page_0074-l0028",
-    "page_0074-l0032",
-    "page_0074-l0033",
-    "page_0074-l0034",
-    "page_0074-l0039",
-    "page_0074-l0045"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 46,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "[REDACTED] estim[unclear]d that the object was traveling [unclear]out three (3)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "estimated that the object was traveling about three (3)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -43,8 +28,7 @@
     {
       "lineNumber": 3,
       "text": "showing the corners and the under and top side. [REDACTED] advanced on the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
@@ -53,9 +37,8 @@
     },
     {
       "lineNumber": 5,
-      "text": "[REDACTED] approach the object picked up speed slightly, proceeded across",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "At [REDACTED] approach the object picked up speed slightly, proceeded across",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
@@ -94,9 +77,8 @@
     },
     {
       "lineNumber": 13,
-      "text": "object was heading for the ridge a car driven by [REDACTED], employe",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "object was heading for the ridge a car driven by [REDACTED], emplo",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 14,
@@ -106,8 +88,7 @@
     {
       "lineNumber": 15,
       "text": "[REDACTED] called [REDACTED] attention to the object and he also",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 16,
@@ -117,8 +98,7 @@
     {
       "lineNumber": 17,
       "text": "Captain of the AEC Security Patrol [REDACTED] arrived at the scene.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
@@ -167,14 +147,12 @@
     {
       "lineNumber": 27,
       "text": "[REDACTED] and the undersigned proceeded to Solvay Gate, scene of the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 28,
       "text": "observation. A check was made of [REDACTED] estimate of distances",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
@@ -188,26 +166,23 @@
     },
     {
       "lineNumber": 31,
-      "text": "the area. There were no obstructions or hindrances to visibility noticeable",
-      "status": "image_matched"
+      "text": "the area. There were no obstructions or hindrances to visibility noticeably",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
       "text": "in the direction of Mr. Rathman [REDACTED] was brought to the scene.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 33,
       "text": "He gave substantially the same account as did [REDACTED] except to add",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 34,
       "text": "that while [REDACTED] was phoning and the object had descended to about 1500",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 35,
@@ -231,8 +206,7 @@
     {
       "lineNumber": 39,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 40,
@@ -245,8 +219,8 @@
     },
     {
       "lineNumber": 42,
-      "text": "the Air Force Radar Station at McGhee-Tyson Airport, Knoxville, Tennessee.",
-      "status": "image_matched"
+      "text": "the Air Force Radar Station at McGhee-Tyson Airport, Knoxville, Tennessee",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
@@ -261,8 +235,7 @@
     {
       "lineNumber": 45,
       "text": "Major Care produced the incident report of [REDACTED], controller;",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 46,

@@ -8,15 +8,11 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 50 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0141-l0003",
-    "page_0141-l0008",
-    "page_0141-l0011"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 58,
   "lines": [
     {
@@ -31,8 +27,7 @@
     {
       "lineNumber": 3,
       "text": "NOTE: [REDACTED] analyzes flying saucer reports using as a",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
@@ -41,8 +36,8 @@
     },
     {
       "lineNumber": 5,
-      "text": "they are caused by one or more extra-terrestrial life forms. This in",
-      "status": "image_matched"
+      "text": "they are caused by one or more extra-terrestial life forms. This in",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -56,9 +51,8 @@
     },
     {
       "lineNumber": 8,
-      "text": "I felt seems to definitely back this theory with much more unexplained",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "I fakt seems to definitely back this theory with much more unexplained",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
@@ -72,14 +66,13 @@
     },
     {
       "lineNumber": 11,
-      "text": "data that will give absolute acceptable to any theory of their origin.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "data that will give absolute, acceptable to any theory of their origin.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "Until such proof is available, and has a more or less scientific basis,",
-      "status": "image_matched"
+      "text": "Until such proof is available, and has a more or less scientific basis",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
@@ -112,8 +105,8 @@
     },
     {
       "lineNumber": 19,
-      "text": "with Venus Inferior Conjunction occurring on Sept. 3, and the 4 (known",
-      "status": "image_matched"
+      "text": "with Venus Inferior Conjunction occurring on Sept. 3, and the 4 (known)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
@@ -147,8 +140,8 @@
     },
     {
       "lineNumber": 26,
-      "text": "July 20, 1948 Arnhem, Holland. Rocketship-like object with 2 decks,",
-      "status": "image_matched"
+      "text": "July 20, 1948 Arnheim, Holland. Rocketship-like object with 2 decks,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
@@ -157,8 +150,8 @@
     },
     {
       "lineNumber": 28,
-      "text": "July 24 1948 US. Famous Chiles-Whitted observation of blue-edged",
-      "status": "image_matched"
+      "text": "July 24 1948 US. Famous Chiles-Whitted observation of a blue-edged",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
@@ -197,8 +190,8 @@
     },
     {
       "lineNumber": 36,
-      "text": "this trained observer.) (Doubt Vol. 24, p369)",
-      "status": "image_matched"
+      "text": "this trained observer.) (Doubt Vol. 24, p367)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 37,
@@ -206,8 +199,8 @@
     },
     {
       "lineNumber": 38,
-      "text": "Aug-Oct 1946 Sweden. Hundreds of rocket-like fiery objects were",
-      "status": "image_matched"
+      "text": "Aug-Oct 19'6 Sweden. Hundreds of rocket-like fiery objects were",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 39,
@@ -216,8 +209,8 @@
     },
     {
       "lineNumber": 40,
-      "text": "Nov. 12 1946 Venus Inferior Conjunction",
-      "status": "image_matched"
+      "text": "Nov. 12 1946 Venus Inferior Conjunction.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 41,
@@ -254,8 +247,8 @@
     },
     {
       "lineNumber": 48,
-      "text": "Of course, this does not explain all reports, just that an increase of",
-      "status": "image_matched"
+      "text": "Of course, this does not explain all reports, just that an increase on",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 49,
@@ -304,8 +297,8 @@
     },
     {
       "lineNumber": 58,
-      "text": "being on Feb. 18, 1942, when a tremendous explosion occurred over it.",
-      "status": "image_matched"
+      "text": "being on Feb. 18, 1948, when a tremendous explosion occurred over it.",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

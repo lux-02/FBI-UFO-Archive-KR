@@ -8,24 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "typed_or_printed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0036-l0001",
-    "page_0036-l0009",
-    "page_0036-l0021",
-    "page_0036-l0027",
-    "page_0036-l0029"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 29,
   "lines": [
     {
       "lineNumber": 1,
       "text": "These appear best when the approaching car is some distance",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -65,8 +58,7 @@
     {
       "lineNumber": 9,
       "text": "appear more real. The sun shining on a bright ring on your fin-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
@@ -126,8 +118,7 @@
     {
       "lineNumber": 21,
       "text": "ers which are due to the curveture and decorative pattern on",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
@@ -157,8 +148,7 @@
     {
       "lineNumber": 27,
       "text": "and then look through the window at the other end of the hall,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 28,
@@ -167,8 +157,7 @@
     {
       "lineNumber": 29,
       "text": "(5)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

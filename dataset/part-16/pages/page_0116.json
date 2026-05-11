@@ -8,23 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 43 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0116-l0005",
-    "page_0116-l0007",
-    "page_0116-l0031",
-    "page_0116-l0035",
-    "page_0116-l0036",
-    "page_0116-l0037",
-    "page_0116-l0039",
-    "page_0116-l0058",
-    "page_0116-l0059",
-    "page_0116-l0061"
-  ],
-  "lineCount": 62,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 64,
   "lines": [
     {
       "lineNumber": 1,
@@ -33,8 +22,8 @@
     },
     {
       "lineNumber": 2,
-      "text": "62-85557-192",
-      "status": "image_matched"
+      "text": "62-85557-1972",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -43,14 +32,12 @@
     },
     {
       "lineNumber": 4,
-      "text": "EX-107",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
-      "text": "Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "EX.-107",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -58,9 +45,8 @@
     },
     {
       "lineNumber": 7,
-      "text": "Dear [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
@@ -68,56 +54,56 @@
     },
     {
       "lineNumber": 9,
+      "text": "Dear [REDACTED]:",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
       "text": "Your letter dated August 10, 1961,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
       "text": "which was directed to Assistant Director William C.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 13,
       "text": "Sullivan of this Bureau has been called to my",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
       "text": "attention and I appreciate your furnishing the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 15,
       "text": "information contained therein. Since, however,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 16,
       "text": "this is a matter within the jurisdiction of the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 17,
       "text": "Department of the Air Force, I am taking the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 18,
       "text": "liberty of furnishing that agency a copy of your",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
-      "text": "letter.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "status": "blank"
-    },
-    {
       "lineNumber": 19,
-      "text": "Sincerely yours,",
+      "text": "letter.",
       "status": "image_matched"
     },
     {
@@ -126,215 +112,216 @@
     },
     {
       "lineNumber": 21,
-      "text": "MAILED 9",
+      "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "text": "AUG 15 1961",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "text": "COMM-FR",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
       "status": "blank"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 23,
       "text": "John Edgar Hoover",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 24,
       "text": "Director",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 25,
       "status": "blank"
     },
     {
+      "lineNumber": 26,
+      "text": "MAILED 9",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "AUG 15 1961",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 28,
+      "text": "COMM-FBI",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 29,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 30,
       "text": "JFW:fag",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 31,
       "text": "(3)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 32,
       "status": "blank"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 33,
       "text": "NOTE: Assistant Director Sullivan knows [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 34,
       "text": "a retired businessman connected with Dickinson College,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 35,
       "text": "Carlisle, as vehemently anticommunist. Bufiles",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 36,
       "text": "contain a clipping from the \"Los Angeles Times\" of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
-      "text": "4-1-61 in which [REDACTED] described as [REDACTED] Carlisle,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 36,
-      "text": "[REDACTED] listed as a council member of the John Birch Society.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 37,
-      "text": "Bufiles also indicate that [REDACTED] 1957 wrote a",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "4-1-61 in which [REDACTED], described as [REDACTED] Carlisle,",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 38,
+      "text": "is listed as a council member of the John Birch Society.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Bufiles also indicate that [REDACTED] in 1957 wrote a",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 40,
       "text": "letter to the Bureau attesting to the anticommunist",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 41,
       "text": "nature of one [REDACTED] a lecturer on whom Bufiles",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 42,
       "text": "contain no references.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 43,
       "status": "blank"
     },
     {
-      "lineNumber": 42,
-      "text": "Mr. Tolson",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "Mr. Belmont",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 44,
-      "text": "Mr. Mohr",
-      "status": "image_matched"
+      "text": "In his letter to Assistant Director Sullivan",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 45,
-      "text": "Mr. Callahan",
-      "status": "image_matched"
+      "text": "of 8-10-61 [REDACTED] pointed out that he had observed an",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 46,
-      "text": "Mr. Conrad",
-      "status": "image_matched"
+      "text": "unusual light in the sky. No action indicated by Bureau.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 47,
-      "text": "Mr. Deloach",
-      "status": "image_matched"
+      "text": "Air Force being furnished copy of [REDACTED]'s letter by",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 48,
-      "text": "Mr. Evans",
+      "text": "separate communication.",
       "status": "image_matched"
     },
     {
       "lineNumber": 49,
-      "text": "Mr. Malone",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 50,
-      "text": "Mr. Rosen",
+      "text": "Mr. Tolson",
       "status": "image_matched"
     },
     {
       "lineNumber": 51,
-      "text": "Mr. Sullivan",
+      "text": "Mr. Belmont",
       "status": "image_matched"
     },
     {
       "lineNumber": 52,
-      "text": "Mr. Tavel",
+      "text": "Mr. Mohr",
       "status": "image_matched"
     },
     {
       "lineNumber": 53,
-      "text": "Mr. Trotter",
+      "text": "Mr. Callahan",
       "status": "image_matched"
     },
     {
       "lineNumber": 54,
-      "text": "Tele. Room",
+      "text": "Mr. Conrad",
       "status": "image_matched"
     },
     {
       "lineNumber": 55,
-      "text": "Mr. Ingram",
-      "status": "image_matched"
+      "text": "Mr. DeLoach",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 56,
-      "text": "Miss Gandy",
+      "text": "Mr. Evans",
       "status": "image_matched"
     },
     {
       "lineNumber": 57,
-      "status": "blank"
+      "text": "Mr. Malone",
+      "status": "image_matched"
     },
     {
       "lineNumber": 58,
-      "text": "[REDACTED] In his letter to Assistant Director Sullivan",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. Rosen",
+      "status": "image_matched"
     },
     {
       "lineNumber": 59,
-      "text": "of 8-10-61 [REDACTED] pointed out that he had observed an",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. Sullivan",
+      "status": "image_matched"
     },
     {
       "lineNumber": 60,
-      "text": "unusual flight in the sky. No action indicated by Bureau.",
+      "text": "Mr. Tavel",
       "status": "image_matched"
     },
     {
       "lineNumber": 61,
-      "text": "Air Force being furnished copy of [REDACTED] letter by",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. Trotter",
+      "status": "image_matched"
     },
     {
       "lineNumber": 62,
-      "text": "separate communication.",
+      "text": "Tele. Room",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 63,
+      "text": "Mr. Ingram",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 64,
+      "text": "Miss Gandy",
       "status": "image_matched"
     }
   ],

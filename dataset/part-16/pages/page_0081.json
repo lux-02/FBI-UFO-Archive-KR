@@ -8,22 +8,11 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 33 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0081-l0005",
-    "page_0081-l0007",
-    "page_0081-l0009",
-    "page_0081-l0010",
-    "page_0081-l0017",
-    "page_0081-l0021",
-    "page_0081-l0023",
-    "page_0081-l0029",
-    "page_0081-l0041",
-    "page_0081-l0046"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 49,
   "lines": [
     {
@@ -46,9 +35,8 @@
     },
     {
       "lineNumber": 5,
-      "text": "On 9 November 1950, [REDACTED]), F.B.I.A.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "On 9 November, 1950, [REDACTED]), N.E.P.A.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
@@ -58,8 +46,7 @@
     {
       "lineNumber": 7,
       "text": "substantially as follows: Between 1155 and 1200 on 5 November 1950, [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
@@ -69,14 +56,12 @@
     {
       "lineNumber": 9,
       "text": "[REDACTED] has made illustrations from a vantage point at the intersection of [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
       "text": "[REDACTED], at Oak Ridge, Tennessee, and he was therefore quite",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
@@ -85,13 +70,13 @@
     },
     {
       "lineNumber": 12,
-      "text": "observation he was adjacent to house number 322 West Outer Drive and he",
-      "status": "image_matched"
+      "text": "[REDACTED] observation he was adjacent to house number 322 West Outer Drive and he",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
-      "text": "described the object as a \"wiggly, fat cell, with characteristics of a toy balloon.\"",
-      "status": "image_matched"
+      "text": "described the object as a \"wiggly, fat cell, with characteristics of a toy balloon.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
@@ -105,14 +90,13 @@
     },
     {
       "lineNumber": 16,
-      "text": "in the general vicinity above the ridge shown on the attached illustration. This",
-      "status": "image_matched"
+      "text": "in the general vicinity above the ridge shown on the attached illustration, which",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
       "text": "ridge is approximately six miles away. [REDACTED] was unable to judge the distance",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
@@ -132,8 +116,7 @@
     {
       "lineNumber": 21,
       "text": "building. [REDACTED] noticed no light or glow emitting from the object and it appeared",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
@@ -143,8 +126,7 @@
     {
       "lineNumber": 23,
       "text": "certified true notations made by [REDACTED] at the time and place of his",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 24,
@@ -171,9 +153,8 @@
     },
     {
       "lineNumber": 29,
-      "text": "on clouds. [REDACTED] explained that the object itself did not appear",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "on clouds.\" [REDACTED] explained that the object itself did not appear",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 30,
@@ -231,9 +212,8 @@
     },
     {
       "lineNumber": 41,
-      "text": "of shape. Seemed to be this side of mountain (Waldron Ridge). [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "of shape. Seemed to be this side of mountain (Waldron Ridge). Halluci-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 42,
@@ -256,9 +236,8 @@
     },
     {
       "lineNumber": 46,
-      "text": "67c [REDACTED] stated that the core (triangular shape dark portion of the illustration)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "67C [REDACTED] stated that the core (triangular shape dark portion of the illustration)",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 47,

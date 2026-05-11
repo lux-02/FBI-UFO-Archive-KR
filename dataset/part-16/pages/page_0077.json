@@ -8,20 +8,11 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 34 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0077-l0018",
-    "page_0077-l0021",
-    "page_0077-l0028",
-    "page_0077-l0030",
-    "page_0077-l0032",
-    "page_0077-l0048",
-    "page_0077-l0049",
-    "page_0077-l0050"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 51,
   "lines": [
     {
@@ -31,8 +22,8 @@
     },
     {
       "lineNumber": 2,
-      "text": "8th DISTRICT OSI",
-      "status": "image_matched"
+      "text": "8th DISTRICT OSI (IG)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -96,8 +87,8 @@
     },
     {
       "lineNumber": 16,
-      "text": "In compliance with AFCSI Ltr. No. 85, dtd 23 Oct 50 and AFOIC-CC-1",
-      "status": "image_matched"
+      "text": "In compliance with AFCSI Ltr. No. 65, dtd 23 Oct 50 and AFOIC-CC-1",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
@@ -106,9 +97,8 @@
     },
     {
       "lineNumber": 18,
-      "text": "identified flying object by [REDACTED], Oak",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "identified flying object by [REDACTED], Oak 67",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 19,
@@ -122,8 +112,7 @@
     {
       "lineNumber": 21,
       "text": "1. Description - The object observed by [REDACTED] changed shapes",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
@@ -137,8 +126,8 @@
     },
     {
       "lineNumber": 24,
-      "text": "darker gray. The object appeared to be transluscent. The mass of the",
-      "status": "image_matched"
+      "text": "darker gray. The object appeared to be translucent. The mass of the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
@@ -158,8 +147,7 @@
     {
       "lineNumber": 28,
       "text": "illustrated on the enclosure. [REDACTED] further described the core as",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
@@ -168,9 +156,8 @@
     },
     {
       "lineNumber": 30,
-      "text": "the core would be elongated also. The object disappeared while [REDACTED] was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "the core would be elongated also. The object disappeared while [REDACTED] was 67",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 31,
@@ -180,8 +167,7 @@
     {
       "lineNumber": 32,
       "text": "nor could the means of propulsion be determined. [REDACTED] made on-the-spot",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 33,
@@ -258,20 +244,17 @@
     {
       "lineNumber": 48,
       "text": "4. Location of observer - At the corner of [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 49,
       "text": "[REDACTED], Oak Ridge, Tennessee. The object appeared to be near a mountain",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 50,
-      "text": "ridge about six (6) miles distant. The object was on a compass bearing of [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "ridge about six (6) miles distant. The object was on a compass bearing of [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 51,

@@ -8,17 +8,11 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 37 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0057-l0004",
-    "page_0057-l0010",
-    "page_0057-l0039",
-    "page_0057-l0053",
-    "page_0057-l0055"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 55,
   "lines": [
     {
@@ -32,14 +26,13 @@
     },
     {
       "lineNumber": 3,
-      "text": "The following accounts of activity at the Radar Operations Section,",
-      "status": "image_matched"
+      "text": "The following accounts of activity at the Radar Operations Section, of",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
       "text": "Detachment # 2, 662nd AC & W Squadron, McGhee-Tyson Airport, Knoxville,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -68,8 +61,7 @@
     {
       "lineNumber": 10,
       "text": "appeared as per diagram (Inclosure #2). Then in rapid",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
@@ -82,8 +74,8 @@
     },
     {
       "lineNumber": 13,
-      "text": "\"Called AEC; they had no report of an Aircraft at this",
-      "status": "image_matched"
+      "text": "\"Called AEC; they had no report of an aircraft at this",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
@@ -207,8 +199,7 @@
     {
       "lineNumber": 39,
       "text": "through the area. They gave good paints (images) on the Radar Scope)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 40,
@@ -275,8 +266,7 @@
     {
       "lineNumber": 53,
       "text": "(Page # 1 of Inclosure # 1)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 54,
@@ -285,8 +275,7 @@
     {
       "lineNumber": 55,
       "text": "65-58300-13)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

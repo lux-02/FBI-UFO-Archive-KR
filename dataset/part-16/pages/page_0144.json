@@ -10,14 +10,90 @@
   "sourceLayer": "line_audit",
   "translationReadiness": "not_ready",
   "pageType": "unknown_or_low_text_scan",
-  "pageRecommendation": "NO_SAFE_SOURCE_TEXT",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
   "pageReadinessNote": null,
   "excludedLineIds": [],
-  "lineCount": 1,
+  "lineCount": 16,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "blank"
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 2,
+      "text": "36",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 3,
+      "text": "37",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 4,
+      "text": "38",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
+      "text": "39",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
+      "text": "40",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
+      "text": "41",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 8,
+      "text": "42",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
+      "text": "43",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 10,
+      "text": "44",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 11,
+      "text": "7,8",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 12,
+      "text": "23,24",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
+      "text": "25,26",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 14,
+      "text": "3,4",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "5,6",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
+      "text": "1,2",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

@@ -8,21 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 24 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0092-l0003",
-    "page_0092-l0004",
-    "page_0092-l0030",
-    "page_0092-l0031",
-    "page_0092-l0034",
-    "page_0092-l0037",
-    "page_0092-l0039",
-    "page_0092-l0042"
-  ],
-  "lineCount": 42,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 43,
   "lines": [
     {
       "lineNumber": 1,
@@ -36,14 +27,12 @@
     {
       "lineNumber": 3,
       "text": "Command, Stewart Air Field, Newburgh, New York). He called back and",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
       "text": "said their only instructions was to keep fighters on Alert Status.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -66,171 +55,169 @@
     },
     {
       "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
       "text": "\"They all traveled at a speed of between 100 and 125 miles",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "per hour. Fading and reappearing at various intervals. All but",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "one originated in the area. One did appear at 10 miles North of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "text": "Clinton and faded right at the area line. Reappearance of this",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 14,
       "text": "target or at least one on the same course 180 degrees was 8 (eight)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "text": "miles inside area. This target faded after three sweeps (Revolutions",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
       "text": "of the indicator on the Radar Scope which makes four revolutions per",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "text": "minute).",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "status": "blank"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 19,
       "text": "\"The tracks varied at time from one applicable to very light",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "text": "A/C (aircraft) up to A/C of the C-47 variety (Meaning the reflected",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 21,
       "text": "intensity of Radar waves made the target appear at first like a",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 22,
       "text": "small aircraft and then like a large one).",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 23,
       "status": "blank"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 24,
       "text": "\"We operated both on High and Low Beam and picked up the same",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
       "text": "tracks.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 26,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 27,
       "text": "\"All traveled at the same approximate speed and general",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 28,
       "text": "course. During the night this course spread from 170 degrees to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 29,
       "text": "230 degrees (magnetic compass heading).",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 30,
       "status": "blank"
     },
     {
-      "lineNumber": 30,
-      "text": "\"At 0210 E.S.T., called Captain Summers at Nobody; he called",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 31,
-      "text": "RADF, Captain Hutchinson, and received permission to release",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "\"At 0210 E.S.T., called Captain Summers at Nobody; he called",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
+      "text": "EADF, Captain Hutchinson, and received permission to release",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 33,
       "text": "fighters to normal status.\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 34,
       "status": "blank"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 35,
       "text": "AGENTS NOTES: This document was signed by Captain William Akin, the Radar",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 36,
       "text": "Controller on duty at the time of these occurrences.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
-      "status": "blank"
-    },
-    {
       "lineNumber": 37,
-      "text": "THIS IS A CERTIFIED TRUE EXTRACT COPY:",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 38,
-      "status": "blank"
+      "text": "THIS IS A CERTIFIED TRUE EXTRACT COPY:",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 39,
-      "text": "BY: /s/ Wm B Gray",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 40,
+      "text": "BY: /s/ Wm B Gray",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 41,
       "text": "SAC, Knoxville",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 42,
       "status": "blank"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 43,
       "text": "(Page # 2 of Inclosure # 1)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

@@ -8,20 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 40 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0071-l0003",
-    "page_0071-l0005",
-    "page_0071-l0007",
-    "page_0071-l0028",
-    "page_0071-l0029",
-    "page_0071-l0030",
-    "page_0071-l0056"
-  ],
-  "lineCount": 57,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 58,
   "lines": [
     {
       "lineNumber": 1,
@@ -35,8 +27,7 @@
     {
       "lineNumber": 3,
       "text": "CONFIDENTIAL",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -45,8 +36,7 @@
     {
       "lineNumber": 5,
       "text": "KNOXVILLE DETACHMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -56,8 +46,7 @@
     {
       "lineNumber": 7,
       "text": "PO Box 401",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
@@ -157,20 +146,17 @@
     {
       "lineNumber": 28,
       "text": "that of light liaison aircraft up to that of a C-47 type aircraft. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
       "text": "[REDACTED] controller at the radar station, \"scrambled\" an F-82 fighter",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 30,
       "text": "at 2330 and the fighter was airborne at 2339. [REDACTED] vectored the plane",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 31,
@@ -296,12 +282,15 @@
     },
     {
       "lineNumber": 56,
-      "text": "65-58300-136",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 57,
+      "text": "65-58300-136",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 58,
       "text": "ENCLOSURE",
       "status": "image_matched"
     }

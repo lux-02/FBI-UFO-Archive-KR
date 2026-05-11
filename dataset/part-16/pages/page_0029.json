@@ -8,22 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0029-l0001",
-    "page_0029-l0003",
-    "page_0029-l0021"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 48,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Preparing Office: 111th TC, FAO # 8, P.O. Box 379, Knoxville Tenn.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Preparing Office: 111th TC, FAO # 8, P.O. Box 379, Knox-'lle Tenn.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -32,8 +27,7 @@
     {
       "lineNumber": 3,
       "text": "Subject: OBJECTS SIGHTED OVER OAK RIDGE, TENNESSEE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -118,8 +112,7 @@
     {
       "lineNumber": 21,
       "text": "*(page 2)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
@@ -146,8 +139,8 @@
     },
     {
       "lineNumber": 27,
-      "text": "1 - 6 March 1950. Mr. Stuart Adcock reported peculiar readings on his \"Zen\"",
-      "status": "image_matched"
+      "text": "1 - 6 March 1950. Mr. Stuart Adcock reported peculiar readings on his \"Ham\"",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 28,
@@ -161,8 +154,8 @@
     },
     {
       "lineNumber": 30,
-      "text": "of Information, Subject: Unidentified Objects Over Oak Ridge",
-      "status": "image_matched"
+      "text": "of Information, Subject; Unidentified Objects Over Oak Ridge",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 31,
@@ -194,8 +187,8 @@
     },
     {
       "lineNumber": 37,
-      "text": "12 October 1950. 2347. Fighter aircraft was at the position of the radar",
-      "status": "image_matched"
+      "text": "12 October 1950. 2341. Fighter aircraft was at the position of the radar",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 38,
@@ -236,8 +229,8 @@
     },
     {
       "lineNumber": 46,
-      "text": "15 October 1950. 1517 hours. Fighter plane made unsuccessful passes at a good",
-      "status": "image_matched"
+      "text": "15 October 1950. 1511 hours. Fighter plane made unsuccessful passes at a good",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 47,

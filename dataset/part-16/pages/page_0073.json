@@ -8,155 +8,136 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "12 permanent_unresolved line(s) excluded under SRC-896. 36 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0073-l0002",
-    "page_0073-l0003",
-    "page_0073-l0024",
-    "page_0073-l0025",
-    "page_0073-l0026",
-    "page_0073-l0028",
-    "page_0073-l0029",
-    "page_0073-l0030",
-    "page_0073-l0036",
-    "page_0073-l0039",
-    "page_0073-l0040",
-    "page_0073-l0041"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 54,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "COPY",
-      "status": "image_matched"
+      "text": "C O P Y",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear]TIAL",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 3,
-      "text": "KNOXVILLE DETACHMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 4,
+      "text": "KNOXVILLE DETACHMENT",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
       "text": "8th DISTRICT OSI (IG)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
       "text": "PO BOX 401",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "text": "Knoxville, Tennessee",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "status": "blank"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "16 October 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "status": "blank"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "SUBJECT: Visual Sightings of Unidentified Flying Objects",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "over Oak Ridge, Tennessee",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "status": "blank"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 14,
       "text": "TO : District Commander",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "text": "8th District OSI (IG)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
       "text": "Maxwell AFB, Ala.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "status": "blank"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "text": "1. At 0830 16 October 1950, Mr. George Rathman, Security",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 19,
       "text": "Division, Atomic Energy Commission, Oak Ridge, Tennessee, notified",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "text": "the undersigned that visual sightings of an unidentified flying",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 21,
       "text": "object had been made by several persons at Oak Ridge. Accompanied by",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 22,
       "text": "W. B. Gray, SAC Knoxville CIC, the undersigned proceeded to Oak Ridge.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 23,
       "status": "blank"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 24,
       "text": "2. At the AEC Security Division, Oak Ridge AEC Security Patrol",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
-      "text": "the undersigned. In substance [REDACTED] was interviewed by Mr. Rathman, Mr. Gray and",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 25,
-      "text": "[REDACTED] related the following: At",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "the undersigned. In substance [REDACTED] related the following: At",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 26,
-      "text": "about 1525 EST, 15 October 1950 [REDACTED] was on duty at the Solway",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "about 1525 EST, 15 October 1950, [REDACTED] was on duty at the Solvay",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 27,
@@ -165,21 +146,18 @@
     },
     {
       "lineNumber": 28,
-      "text": "guard house with [REDACTED], attendant at the University of Tennessee",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "guard house with [REDACTED], attendant at the University of Tennes",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
       "text": "Research Farm Program, Oak Ridge. [REDACTED] happened to glance in the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 30,
       "text": "sky and called [REDACTED] attention to an object in the sky. The men observed",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 31,
@@ -209,8 +187,7 @@
     {
       "lineNumber": 36,
       "text": "about 100 miles per hour. [REDACTED] then noticed that the object had",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 37,
@@ -224,26 +201,23 @@
     },
     {
       "lineNumber": 39,
-      "text": "attached tail. At this time [REDACTED] went in the guard house and called",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "attached tail. At this time [REDACTED] went in the guard house and call",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 40,
-      "text": "the Captain of the Guard to report a falling object. [REDACTED] continued",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "the Captain of the Guard to report a falling object. [REDACTED] contin",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 41,
       "text": "to observe the object. When [REDACTED] came out of the guard house the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 42,
-      "text": "object had descended to a height of about six (6) feet and was about seventy",
-      "status": "image_matched"
+      "text": "object had descended to a height of about six (6) feet and was about sevent",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
@@ -252,8 +226,8 @@
     },
     {
       "lineNumber": 44,
-      "text": "shape of a two (2) by five (5) inch grayish colored card and attached to the",
-      "status": "image_matched"
+      "text": "shape of a two (2) by five (5) inch grayish colored card and attached to th",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 45,

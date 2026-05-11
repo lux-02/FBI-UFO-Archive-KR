@@ -8,20 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 38 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0139-l0003",
-    "page_0139-l0004",
-    "page_0139-l0006",
-    "page_0139-l0007",
-    "page_0139-l0008",
-    "page_0139-l0009",
-    "page_0139-l0060"
-  ],
-  "lineCount": 60,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 61,
   "lines": [
     {
       "lineNumber": 1,
@@ -36,43 +28,36 @@
     {
       "lineNumber": 3,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED]CE, [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
-      "text": "New group",
-      "status": "image_matched"
+      "text": "New Jersey",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 7,
       "text": "The [REDACTED] has been founded to promote",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
       "text": "better public knowledge and attitudes toward flying saucers by",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
       "text": "means of public meetings, and also to further flying saucer Research.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
@@ -110,8 +95,8 @@
     },
     {
       "lineNumber": 17,
-      "text": "within the United States.",
-      "status": "image_matched"
+      "text": "withing the United States.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
@@ -133,8 +118,8 @@
     },
     {
       "lineNumber": 22,
-      "text": "3 Discussions of Menzel, Heards, Adamski and Keyhoes",
-      "status": "image_matched"
+      "text": "3 Discussions of Menzels, Heards, Adamskis and Keyhoes",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
@@ -259,61 +244,64 @@
     },
     {
       "lineNumber": 49,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 50,
       "text": "2 Dues of .50¢ per meeting will be charged. These funds will be",
       "status": "image_matched"
     },
     {
-      "lineNumber": 50,
+      "lineNumber": 51,
       "text": "used to notify you of each meeting, and printing a group bulletin",
       "status": "image_matched"
     },
     {
-      "lineNumber": 51,
+      "lineNumber": 52,
       "text": "giving a resume of each meeting, and the planned schedule of the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 52,
+      "lineNumber": 53,
       "text": "next one.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 53,
-      "status": "blank"
-    },
-    {
       "lineNumber": 54,
-      "text": "MEMBERSHIP PRIVILEGES:",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 55,
-      "status": "blank"
+      "text": "MEMBERSHIP PRIVELEGES:",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 56,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 57,
       "text": "1 Lending library of material on all unidentified flying objects.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 57,
-      "text": "This includes all books, and more than 100 magazine articles, with",
-      "status": "image_matched"
+      "lineNumber": 58,
+      "text": "This includes all books, and more than 500 magazine articles, with",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 58,
+      "lineNumber": 59,
       "text": "clippings attached.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 59,
+      "lineNumber": 60,
       "status": "blank"
     },
     {
-      "lineNumber": 60,
+      "lineNumber": 61,
       "text": "2 Free information on all saucer [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

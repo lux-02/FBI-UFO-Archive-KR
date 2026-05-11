@@ -8,15 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 52 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0083-l0063",
-    "page_0083-l0064"
-  ],
-  "lineCount": 83,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 73,
   "lines": [
     {
       "lineNumber": 1,
@@ -34,93 +31,94 @@
     },
     {
       "lineNumber": 4,
-      "text": "CAUTION",
+      "text": "Incident Report",
       "status": "image_matched"
     },
     {
       "lineNumber": 5,
-      "text": "This document contains information affecting the",
+      "text": "AEC Patrol",
       "status": "image_matched"
     },
     {
       "lineNumber": 6,
-      "text": "National Defense of the United States",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 7,
-      "text": "Its transmission or the disclosure of its contents in",
-      "status": "image_matched"
+      "text": "C A U T I O N",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
-      "text": "any manner to an unauthorized person is prohibited",
+      "text": "This document contains information affecting the",
       "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "and may result in severe criminal penalties under",
+      "text": "National Defense of the United States",
       "status": "image_matched"
     },
     {
       "lineNumber": 10,
-      "text": "applicable Federal laws.",
+      "text": "Its transmission or the disclosure of its contents in",
       "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "status": "blank"
+      "text": "any manner to an unauthorized person is prohibited",
+      "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "Closed",
+      "text": "and may result in severe criminal penalties under",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "Date",
+      "text": "applicable Federal laws.",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "By",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 15,
-      "text": "W.R.",
+      "text": "Closed",
       "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "H.R.",
+      "text": "Date",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "status": "blank"
+      "text": "By",
+      "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "CLASSIFICATION",
+      "text": "W.R.",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 20,
-      "text": "Flying Object",
+      "text": "H.R.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 20,
       "status": "blank"
     },
     {
+      "lineNumber": 21,
+      "text": "Supplement",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 22,
-      "text": "PERSON INVOLVED",
+      "text": "Incident Report No. 1424-50",
       "status": "image_matched"
     },
     {
@@ -129,7 +127,7 @@
     },
     {
       "lineNumber": 24,
-      "text": "Trooper Lendelle Clark",
+      "text": "Date: 10/16/50",
       "status": "image_matched"
     },
     {
@@ -138,7 +136,7 @@
     },
     {
       "lineNumber": 26,
-      "text": "PERSON INVOLVED",
+      "text": "Time: 2:55 P.M.",
       "status": "image_matched"
     },
     {
@@ -147,16 +145,17 @@
     },
     {
       "lineNumber": 28,
-      "text": "Trooper Hank W. Briggs",
+      "text": "CLASSIFICATION",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "status": "blank"
+      "text": "TROOPER",
+      "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "REMARKS:",
+      "text": "LOCATION",
       "status": "image_matched"
     },
     {
@@ -165,35 +164,36 @@
     },
     {
       "lineNumber": 32,
-      "text": "Incident Report",
+      "text": "Flying Object",
       "status": "image_matched"
     },
     {
       "lineNumber": 33,
-      "text": "AEC Patrol",
+      "text": "John L. Isabell",
       "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 35,
-      "text": "Supplement",
+      "text": "Blair Gate",
       "status": "image_matched"
     },
     {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
       "lineNumber": 36,
-      "text": "Incident Report No. 1424-50",
+      "text": "PERSON INVOLVED",
       "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "status": "blank"
+      "text": "ADDRESS",
+      "status": "image_matched"
     },
     {
       "lineNumber": 38,
-      "text": "Date: 10/16/50",
+      "text": "BADGE NO.",
       "status": "image_matched"
     },
     {
@@ -202,43 +202,45 @@
     },
     {
       "lineNumber": 40,
-      "text": "Time: 2:55 P.M.",
+      "text": "Trooper Lendelle Clark",
       "status": "image_matched"
     },
     {
       "lineNumber": 41,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 42,
-      "text": "TROOPER",
+      "text": "212",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 42,
       "status": "blank"
     },
     {
+      "lineNumber": 43,
+      "text": "PERSON INVOLVED",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 44,
-      "text": "John L. Isabell",
+      "text": "ADDRESS",
       "status": "image_matched"
     },
     {
       "lineNumber": 45,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 46,
-      "text": "ADDRESS",
+      "text": "BADGE NO.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 46,
       "status": "blank"
     },
     {
+      "lineNumber": 47,
+      "text": "Trooper Hank N. Briggs",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 48,
-      "text": "ADDRESS",
+      "text": "156",
       "status": "image_matched"
     },
     {
@@ -247,7 +249,7 @@
     },
     {
       "lineNumber": 50,
-      "text": "LOCATION",
+      "text": "REMARKS:",
       "status": "image_matched"
     },
     {
@@ -256,44 +258,47 @@
     },
     {
       "lineNumber": 52,
-      "text": "Blair Gate",
+      "text": "On October 16, 1950, at approximately 2:55 P.M., Trooper Isabell stopped us at this",
       "status": "image_matched"
     },
     {
       "lineNumber": 53,
-      "status": "blank"
+      "text": "Installation and showed us an object in the north that was traveling toward the northw",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 54,
-      "text": "BADGE NO.",
-      "status": "image_matched"
+      "text": "It looked to be about 2,000 feet in the air and a white-silverish looking color, rotat",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 55,
-      "status": "blank"
+      "text": "in a counter clockwise manner. It was round in shape and going in a rather fast motio",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 56,
-      "text": "212",
+      "text": "This object was at a high altitude and seemed to come in sight and then disappear. It",
       "status": "image_matched"
     },
     {
       "lineNumber": 57,
-      "status": "blank"
+      "text": "looked about the size of a ball and round at every angle we looked at it.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 58,
-      "text": "BADGE NO.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 59,
       "status": "blank"
     },
     {
-      "lineNumber": 60,
-      "text": "156",
+      "lineNumber": 59,
+      "text": "/s/ Lendelle Clark",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 60,
+      "text": "/s/ Hank N. Briggs",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 61,
@@ -301,110 +306,60 @@
     },
     {
       "lineNumber": 62,
-      "text": "On October 16, 1950, at approximately 2:55 P.M., Trooper Isabell stopped us at this",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 63,
-      "text": "Installation and showed us an object in the north that was traveling toward the northw",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 64,
-      "text": "It looked to be about 2,000 feet in the air and a white-silverish looking color, rotat",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 65,
-      "text": "in a counter clockwise manner. It was round in shape and going in a rather fast motion",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 66,
-      "text": "This object was at a high altitude and seemed to come in sight and then disappear. It",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 67,
-      "text": "looked about the size of a ball and round at every angle we looked at it.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 68,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 69,
-      "text": "/s/ Lendelle Clark",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 70,
-      "text": "/s/ Hank W. Briggs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 71,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 72,
       "text": "DISTRIBUTION:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 73,
+      "lineNumber": 63,
       "text": "1 - Callaghan",
       "status": "image_matched"
     },
     {
-      "lineNumber": 74,
+      "lineNumber": 64,
       "text": "2 - Chief Davis' File",
       "status": "image_matched"
     },
     {
-      "lineNumber": 75,
+      "lineNumber": 65,
       "text": "3 - Mail & Rec. File",
       "status": "image_matched"
     },
     {
-      "lineNumber": 76,
+      "lineNumber": 66,
       "status": "blank"
     },
     {
-      "lineNumber": 77,
+      "lineNumber": 67,
       "text": "CERTIFIED TRUE COPY:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 78,
+      "lineNumber": 68,
       "text": "/s/ W B Gray",
       "status": "image_matched"
     },
     {
-      "lineNumber": 79,
+      "lineNumber": 69,
       "text": "SAC, Knoxville",
       "status": "image_matched"
     },
     {
-      "lineNumber": 80,
+      "lineNumber": 70,
       "status": "blank"
     },
     {
-      "lineNumber": 81,
+      "lineNumber": 71,
       "text": "AEC, Oak Ridge, Tenn., 4-12-50-5000-A170",
       "status": "image_matched"
     },
     {
-      "lineNumber": 82,
+      "lineNumber": 72,
       "status": "blank"
     },
     {
-      "lineNumber": 83,
-      "text": "65-5-8300-137",
-      "status": "image_matched"
+      "lineNumber": 73,
+      "text": "65-58300-137",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

@@ -8,23 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 9 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0064-l0001",
-    "page_0064-l0004",
-    "page_0064-l0010",
-    "page_0064-l0016"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 16,
   "lines": [
     {
       "lineNumber": 1,
       "text": "20 October 1950",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -32,19 +26,17 @@
     },
     {
       "lineNumber": 3,
-      "text": "64",
-      "status": "image_matched"
+      "text": "61",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "The attached photographs were taken in June 1947 by [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
-      "text": "of what he thought was a",
-      "status": "image_matched"
+      "text": "The attached photographs were taken in June 1947 by [REDACTED] of what he thought was a",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
@@ -69,8 +61,7 @@
     {
       "lineNumber": 10,
       "text": "On 19 October 1950, [REDACTED] stated that this object was traveling",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
@@ -98,8 +89,7 @@
     {
       "lineNumber": 16,
       "text": "(Page # 1 of Inclosure # 8)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

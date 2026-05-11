@@ -8,38 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "25 permanent_unresolved line(s) excluded under SRC-896. 18 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0024-l0004",
-    "page_0024-l0006",
-    "page_0024-l0007",
-    "page_0024-l0009",
-    "page_0024-l0011",
-    "page_0024-l0013",
-    "page_0024-l0016",
-    "page_0024-l0017",
-    "page_0024-l0019",
-    "page_0024-l0020",
-    "page_0024-l0026",
-    "page_0024-l0029",
-    "page_0024-l0032",
-    "page_0024-l0033",
-    "page_0024-l0034",
-    "page_0024-l0037",
-    "page_0024-l0039",
-    "page_0024-l0040",
-    "page_0024-l0041",
-    "page_0024-l0045",
-    "page_0024-l0046",
-    "page_0024-l0047",
-    "page_0024-l0049",
-    "page_0024-l0052",
-    "page_0024-l0053"
-  ],
-  "lineCount": 57,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 64,
   "lines": [
     {
       "lineNumber": 1,
@@ -53,287 +27,294 @@
     },
     {
       "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "16. Sound and odor:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "     [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 5,
-      "status": "blank"
+      "text": "None",
+      "status": "image_matched"
     },
     {
       "lineNumber": 6,
-      "text": "17. Trail (color, length, width, persistence, etc.)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 7,
-      "text": "     White trail aprox. 4 times the length of main body.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "17. Trail (color, length, width, persistence, etc.)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
-      "status": "blank"
+      "text": "White trail aprox. 4 times the length of main body.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "18. Luminosity (visible by reflection, incandescence, other - degree",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "text": "     of brilliance):",
-      "status": "image_matched"
+      "text": "18. Luminosity (visible by reflection, incandescence, other - degree",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "     Not as brilliant as a star.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 12,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 13,
-      "text": "19. Projections (fins, wings, rods, antennae, canopies, etc.):",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 14,
-      "text": "     None",
+      "text": "of brilliance):",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 12,
+      "text": "Not as brilliant as a star.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
       "status": "blank"
+    },
+    {
+      "lineNumber": 14,
+      "text": "19. Projections (fins, wings, rods, antennae, canopies, etc.):",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "None",
+      "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "20. Maneuvers (turns, climbs, dives, etc. - sketch of flight path):",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 17,
-      "text": "     Traveled in a horizontal flight with a slight arc.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "20. Maneuvers (turns, climbs, dives, etc. - sketch of flight path):",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "status": "blank"
+      "text": "Traveled in a horizontal flight with a slight arc.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
-      "text": "21. Manner of disappearance:",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 20,
-      "text": "     Light gradually diminished and went out.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 21,
       "status": "blank"
     },
     {
+      "lineNumber": 20,
+      "text": "21. Manner of disappearance:",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
+      "text": "Light gradually diminished and went out.",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
       "text": "22. Effect on clouds:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
-      "text": "     None",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 24,
-      "status": "blank"
+      "text": "None",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
       "text": "23. Additional information concerning object:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
-      "text": "     Observer did see falling stars but there was no comparison with object",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 27,
-      "text": "     mentioned in this report.",
-      "status": "image_matched"
+      "text": "Observer did see falling stars but there was no comparison with object",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 28,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 29,
-      "text": "24. Weather conditions and light at time of sighting:",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 30,
-      "text": "     Clear.",
+      "text": "mentioned in this report.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 29,
       "status": "blank"
+    },
+    {
+      "lineNumber": 30,
+      "text": "24. Weather conditions and light at time of sighting:",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 31,
+      "text": "Clear.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 32,
-      "text": "Name and address of observer: Sgt Chester F McNair",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 33,
-      "text": "                               \"C\"-Co - 12th AIB",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 34,
-      "text": "                               2d Armd Div., Cp Hood, Texas",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 35,
       "status": "blank"
     },
     {
+      "lineNumber": 33,
+      "text": "Name and address of observer:",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 34,
+      "text": "Sgt Chester F McNair",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 35,
+      "text": "\"C\"-Co - 12th AIB",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 36,
+      "text": "2d Armd Div., Cp Hood, Texas",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 38,
       "text": "Occupation and hobbies:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
-      "text": "     NCO - US Army.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 38,
-      "status": "blank"
-    },
-    {
       "lineNumber": 39,
-      "text": "Comments of interrogator relative to intelligence and character of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "NCO - US Army.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 40,
-      "text": "observer (check neighbors, police dept., FBI records, employer, etc.):",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 41,
-      "text": "     Fair observer, had difficulty describing his observations.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 42,
       "status": "blank"
     },
     {
+      "lineNumber": 41,
+      "text": "Comments of Interrogator relative to intelligence and character of",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "text": "observer (Check neighbors, police dept., FBI records, employer, etc.):",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 43,
-      "text": "REGRADED UNCLASSIFIED",
-      "status": "image_matched"
+      "text": "Fair observer, had difficulty describing his observations.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 44,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 45,
+      "text": "DOWNGRADED UNCLASSIFIED",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 46,
       "text": "ON MAR 26 1979",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
-      "text": "Did observer wear glasses, especially polarized glasses at time of BY CDR USAINSCOM",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 46,
-      "text": "sighting, or was object viewed through canopy, window, or other H FARA 1-603 DODS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 47,
-      "text": "transparent material? None.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "BY DEP CDR USAINSCOM",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 48,
-      "status": "blank"
+      "text": "AUTH Para 1-603 DOD 5200.1-R",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 49,
-      "text": "     Pages 3 & 4 of this form not applicable to the incident.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 50,
       "status": "blank"
     },
     {
+      "lineNumber": 50,
+      "text": "Did observer wear glasses, especially polariod glasses at time of",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 51,
-      "text": "                                                Interviewed by:",
-      "status": "image_matched"
+      "text": "sighting, or was object viewed through canopy, window, or other",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 52,
-      "text": "                                                [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "transparent material? None.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 53,
-      "text": "                                                Captain, [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 54,
-      "text": "                                                Hq 2d Armd Div",
-      "status": "image_matched"
+      "text": "Pages 3 & 4 of this form not applicable to the incident.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 55,
-      "text": "                                                Camp Hood, Texas",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 56,
-      "text": "CONFIDENTIAL",
+      "text": "Interviewed by:",
       "status": "image_matched"
     },
     {
       "lineNumber": 57,
+      "text": "[Signature]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 58,
+      "text": "GEORGE M SIEVERS",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 59,
+      "text": "Captain, Inf",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 60,
+      "text": "Hq 2d Armd Div",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 61,
+      "text": "Camp Hood, Texas",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 62,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 63,
+      "text": "CONFIDENTIAL",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 64,
       "text": "CONFIDENTIAL",
       "status": "image_matched"
     }

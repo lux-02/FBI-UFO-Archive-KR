@@ -8,48 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "30 permanent_unresolved line(s) excluded under SRC-896. 28 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0128-l0014",
-    "page_0128-l0015",
-    "page_0128-l0017",
-    "page_0128-l0018",
-    "page_0128-l0019",
-    "page_0128-l0023",
-    "page_0128-l0024",
-    "page_0128-l0028",
-    "page_0128-l0029",
-    "page_0128-l0031",
-    "page_0128-l0033",
-    "page_0128-l0034",
-    "page_0128-l0035",
-    "page_0128-l0036",
-    "page_0128-l0038",
-    "page_0128-l0041",
-    "page_0128-l0049",
-    "page_0128-l0051",
-    "page_0128-l0052",
-    "page_0128-l0053",
-    "page_0128-l0057",
-    "page_0128-l0058",
-    "page_0128-l0059",
-    "page_0128-l0060",
-    "page_0128-l0061",
-    "page_0128-l0062",
-    "page_0128-l0063",
-    "page_0128-l0064",
-    "page_0128-l0065",
-    "page_0128-l0066"
-  ],
-  "lineCount": 67,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 57,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "RD-36 (6-21-55)",
-      "status": "image_matched"
+      "text": "FD-36 (6-21-55)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -67,340 +36,258 @@
     },
     {
       "lineNumber": 5,
-      "text": "Transmit the following message via AIRTEL",
-      "status": "image_matched"
+      "text": "AIRTEL",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
+      "text": "Transmit the following message via",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
       "text": "(Priority or Method of Mailing)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
       "text": "From SAC, NEW YORK (62-0-34871)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 10,
       "text": "To: BUREAU",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 11,
       "status": "blank"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 13,
       "text": "BROOKLYN 1, NY",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 14,
       "text": "MISCELLANEOUS INFORMATION CONCERNING",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 15,
       "status": "blank"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 16,
       "text": "Bureau is referred to letter dated 4/21/54 from",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
-      "text": "Director, FBI, to [REDACTED] at above address, thanking",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 15,
-      "text": "[REDACTED] for information furnished.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 16,
-      "status": "blank"
-    },
-    {
       "lineNumber": 17,
-      "text": "At 11:10 A.M., on 6/18/56, [REDACTED] telephonically",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Director, FBI, to [REDACTED] at above address, thanking",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
-      "text": "contacted SA [REDACTED] at the NYO of the FBI. Mrs.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] for information furnished.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 19,
-      "text": "[REDACTED] spoke incoherently and said that her son was on the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 20,
+      "text": "At 11:10 A.M., on 6/18/56, [REDACTED] telephonically",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 21,
+      "text": "contacted SA [REDACTED] at the NYO of the FBI. Mrs.",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 22,
+      "text": "[REDACTED] spoke incoherently and said that her son was on the",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 23,
       "text": "verge of a mental breakdown because certain people would not",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 24,
       "text": "leave him alone.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 25,
       "status": "blank"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 26,
       "text": "On 6/30/54, SA [REDACTED] had telephonically contacted",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 27,
       "text": "[REDACTED] and thanked him for some material on flying",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 28,
       "text": "saucers he had mailed to the NYO.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 29,
       "status": "blank"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 30,
       "text": "The only information that could be obtained from",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 31,
       "text": "[REDACTED] was that a [REDACTED], associated with the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 32,
       "text": "[REDACTED] Fort Lee, New Jersey, had written",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 33,
       "text": "to her son sometime in June or July, 1956. According to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 34,
       "text": "[REDACTED] the letter contained information concerning",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 35,
       "text": "saucers, but also had a cover letter which stated the FBI has",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
-      "text": "gotten after [REDACTED] who is slowly disintegrating.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 34,
-      "text": "[REDACTED] stated she does not have this letter.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 35,
-      "text": "[REDACTED] became hysterical on the phone, and stated that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 36,
-      "text": "something must be done to save her son. [REDACTED] stated",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "gotten after [REDACTED] who is slowly disintegrating.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 37,
+      "text": "[REDACTED] stated she does not have this letter.",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 38,
+      "text": "[REDACTED] became hysterical on the phone, and stated that",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 39,
+      "text": "something must be done to save her son. [REDACTED] stated",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 40,
       "text": "she would hold the FBI responsible if anything goes wrong with",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 41,
       "text": "her son. [REDACTED] talked on and on, and would not listen",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 42,
       "text": "to anything concerning the jurisdiction of the FBI.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 41,
-      "text": "The above is being sent for the information of [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 42,
-      "status": "blank"
-    },
-    {
       "lineNumber": 43,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 44,
+      "text": "The above is being sent for the information of [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 45,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 46,
       "text": "3 - Bureau (RM)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 47,
       "text": "1 - Newark (RM)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 48,
       "text": "1 - NY 62-0-34871 Mr. Mohr",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 49,
       "status": "blank"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 50,
       "text": "FRJ:mfw (#1)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
+      "lineNumber": 51,
       "text": "(6)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 49,
-      "text": "[unclear] JUN 23 [unclear] RECORDED - 52 INDEXED 52",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 50,
-      "text": "62-1010-6",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 51,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 52,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 53,
-      "text": "Mr. N[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "RECORDED - 52",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 54,
-      "text": "Mr. Reardon",
-      "status": "image_matched"
+      "text": "EX-100",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 55,
-      "text": "Mr. Belmont",
-      "status": "image_matched"
+      "text": "INDEXED - 52",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 56,
-      "text": "Mr. Mohr",
-      "status": "image_matched"
+      "text": "62-101010-6",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 57,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 58,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 59,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 60,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 61,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 62,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 63,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 64,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 65,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 66,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 67,
-      "text": "Miss Gandy",
-      "status": "image_matched"
+      "text": "JUN 29 1956",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

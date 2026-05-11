@@ -8,31 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "12 permanent_unresolved line(s) excluded under SRC-896. 26 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0110-l0001",
-    "page_0110-l0016",
-    "page_0110-l0017",
-    "page_0110-l0018",
-    "page_0110-l0020",
-    "page_0110-l0021",
-    "page_0110-l0025",
-    "page_0110-l0033",
-    "page_0110-l0038",
-    "page_0110-l0041",
-    "page_0110-l0042",
-    "page_0110-l0043"
-  ],
-  "lineCount": 47,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 55,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "UNITED STATES GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "UNITED STATES G[unclear]NMENT",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
@@ -45,77 +31,74 @@
     },
     {
       "lineNumber": 4,
-      "text": "TO : DIRECTOR, FBI DATE: 9/2/65",
-      "status": "image_matched"
+      "text": "TO : DIRECTOR, FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "status": "blank"
+      "text": "DATE: 9/2/65",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
       "text": "FROM : SAC, PITTSBURGH (62-0) (c)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "status": "blank"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "SUBJECT: NATIONAL INVESTIGATIONS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "COMMITTEE ON AERIAL PHENOMENA",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "MISCELLANEOUS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "status": "blank"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "text": "Enclosed for the Bureau are 2 copies each and for",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 14,
       "text": "Washington Field Office 2 copies each of a LHM and reliability",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "text": "memo concerning captioned organization.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
-      "status": "blank"
-    },
-    {
       "lineNumber": 16,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 17,
       "text": "[REDACTED] He furnished this information",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
       "text": "on 8/9/65 to [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 19,
@@ -125,14 +108,12 @@
     {
       "lineNumber": 20,
       "text": "SA [REDACTED] who was present at the invitation of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,
-      "text": "the event [REDACTED] had information of interest to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] in the event [REDACTED] had information of interest to",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
@@ -151,8 +132,7 @@
     {
       "lineNumber": 25,
       "text": "identifiable with captioned organization, [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 26,
@@ -184,87 +164,118 @@
     },
     {
       "lineNumber": 32,
-      "text": "2 - Bureau (Enc. 2) (RM) EX-100",
-      "status": "image_matched"
+      "text": "2 - Bureau (Enc. 2) (RM)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
-      "text": "2 - Washington ENCLOSED 2) (RM)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "EX-100",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 34,
-      "text": "2 - Pittsburgh (1 - 62-2514B)",
-      "status": "image_matched"
+      "text": "2 - Washington Field Office (Enc. 2) (RM)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 35,
-      "text": "REC-62-103581-11",
-      "status": "image_matched"
+      "text": "2 - Pittsburgh ENCLOSURE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 36,
+      "text": "(1 - 62-2514B)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
+      "text": "REC- [unclear] 62-103581-11",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 38,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 39,
       "text": "HSM/emq",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 40,
       "text": "(6)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 41,
       "text": "AGENCY [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 39,
-      "text": "REC-SEC",
-      "status": "image_matched"
+      "lineNumber": 42,
+      "text": "REC'D SECT [unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 43,
       "text": "DATE FORW. 9-14-65",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
-      "text": "DON [unclear] FORW.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 42,
-      "text": "REC'D BY [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 43,
-      "text": "[unclear] SEP 7 1965",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 44,
-      "text": "2EL 1 3 02 PM '65",
-      "status": "image_matched"
+      "text": "DCN [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 45,
+      "text": "HOW FORW. [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 46,
+      "text": "REC'D BY [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 47,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 48,
+      "text": "[unclear] SEP 7 1965",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 49,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 50,
       "text": "NAT. INT. SEC.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 51,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 52,
       "status": "blank"
     },
     {
-      "lineNumber": 47,
-      "text": "69 SEP 201965",
-      "status": "image_matched"
+      "lineNumber": 53,
+      "text": "2[unclear] 1 3 02 [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 54,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 55,
+      "text": "69 SEP 20 1965",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

@@ -8,14 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 20 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0041-l0007"
-  ],
-  "lineCount": 28,
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 33,
   "lines": [
     {
       "lineNumber": 1,
@@ -33,121 +31,144 @@
     },
     {
       "lineNumber": 4,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 5,
       "text": "Director, FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 5,
       "status": "blank"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 6,
       "text": "PROTECTION OF VITAL INSTALLATIONS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 7,
       "text": "65-58300-56",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 8,
       "text": "Reurlet 2-10-49.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 9,
       "status": "blank"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 10,
       "text": "A review of your referenced letter reflects that Dr. Lincoln La",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "text": "Paz, Meteorologist, indicated to Mr. Paul Ryan, Office of Special Investiga-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 12,
       "text": "tions, Roswell, New Mexico, that two men whom he interviewed at Kenna, New",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 13,
       "text": "Mexico apparently had some knowledge that the \"unidentified aerial",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
-      "text": "phenomena\" was not a meteorite.",
-      "status": "image_matched"
+      "lineNumber": 14,
+      "text": "phenomenon\" was not a meteorite.",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "status": "blank"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 16,
       "text": "It is believed desirable that you endeavor to ascertain the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 17,
       "text": "identity of these two individuals at Kenna, New Mexico and to interview",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 18,
       "text": "them for any information which they may be able to furnish relative to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 19,
       "text": "this matter.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 20,
       "status": "blank"
+    },
+    {
+      "lineNumber": 21,
+      "text": "EHM:EBW",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
-      "text": "EHM:EBN",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
       "status": "blank"
     },
     {
+      "lineNumber": 23,
+      "text": "File to El Paso",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 24,
+      "text": "3-2-49",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 25,
+      "text": "EHM",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 26,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 27,
+      "text": "S.I.R.-7",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
       "text": "COMMUNICATIONS SECTION",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 30,
       "text": "MAILED 15",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 31,
       "text": "FEB 24 1949 P.M.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 32,
       "text": "FEDERAL BUREAU OF INVESTIGATION",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 33,
       "text": "U. S. DEPARTMENT OF JUSTICE",
       "status": "image_matched"
     }

@@ -8,35 +8,22 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 35 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0148-l0001",
-    "page_0148-l0002",
-    "page_0148-l0007",
-    "page_0148-l0008",
-    "page_0148-l0013",
-    "page_0148-l0021",
-    "page_0148-l0029",
-    "page_0148-l0035",
-    "page_0148-l0045",
-    "page_0148-l0053"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 53,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "AUG. 24 1951 9:15 PM (Saturday) LUBBOCK, Texas. 334° Lat,102° Long.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "AUG. 24 1951 - 9:15 PM? (Saturday) LUBBOCK, Texas. 33½° Lat,102° Long.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
       "text": "Similar group of objects in same type formation crossed",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -45,8 +32,8 @@
     },
     {
       "lineNumber": 4,
-      "text": "taken showed 16 luminous objects on film.",
-      "status": "image_matched"
+      "text": "taken showed 18 luminous objects on film.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -60,14 +47,12 @@
     {
       "lineNumber": 7,
       "text": "AUG. 25 1951 9:15 PM. (Sunday) AMARILLO, Texas. 35° Lat., 106° Long.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
       "text": "2 self-luminous pinkish objects, one apparently on top",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
@@ -91,8 +76,7 @@
     {
       "lineNumber": 13,
       "text": "AUG. 25 1951 9:20 PM. (Sunday) AMARILLO, Texas. 35° Lat., 106° Long.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
@@ -129,9 +113,8 @@
     },
     {
       "lineNumber": 21,
-      "text": "SEPT 7, 1951 10:00 AM. Near Grayling, Michigan. 444° Lat,854° Long.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "SEPT 7, 1951 10:00 AM. Near Grayling, Michigan. 44½° Lat,85½ Long.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
@@ -155,13 +138,13 @@
     },
     {
       "lineNumber": 26,
-      "text": "#29 SOURCE: NY Telegram & Sun Sept 8; Grand Rapids Press",
-      "status": "image_matched"
+      "text": "SOURCE: NY Telegram & Sun Sept 8; Grand Rapids Press",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
-      "text": "Sept 7; Traverse City Record Sept. 7.",
-      "status": "image_matched"
+      "text": "#29 Sept 7; Traverse City Record Sept. 7.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 28,
@@ -169,9 +152,8 @@
     },
     {
       "lineNumber": 29,
-      "text": "SEPT 9, 1951 1:00 AM. (Sunday). Near PHOENIX, Arizona. 334°Lat,112°Lo.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "SEPT 9, 1951 1:00 AM. (Sunday). Near PHOENIX, Arizona. 33½°Lat,112°Lo.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 30,
@@ -190,8 +172,8 @@
     },
     {
       "lineNumber": 33,
-      "text": "#30 SOURCE: Phoenix Gazette Sept. 10,11: Fate Mag Jan 1952",
-      "status": "image_matched"
+      "text": "#30 SOURCE: Phoenix Gazette Sept. 10,11: Fate Mgz Jan 1952",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 34,
@@ -199,9 +181,8 @@
     },
     {
       "lineNumber": 35,
-      "text": "SEPT 10 1951 1:00 AM. (Monday). Near PHOENIX, Arizona. 334°Lat,112°Lon",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "SEPT 10 1951 1:00 AM. (Monday). Near PHOENIX, Arizona. 33½°Lat,112°Lon",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 36,
@@ -220,8 +201,8 @@
     },
     {
       "lineNumber": 39,
-      "text": "side (now resembling a diamond or brooch). It flashed",
-      "status": "image_matched"
+      "text": "side (now resembling a diamond \"bar brooch). It flashed",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 40,
@@ -240,8 +221,8 @@
     },
     {
       "lineNumber": 43,
-      "text": "#31 SOURCES: Phoenix Gazette Sept 10,11: Fate Mag. Jan 1952",
-      "status": "image_matched"
+      "text": "#31 SOURCES: Phoenix Gazette Sept 10,11: Fate Mgz. Jan 1952",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 44,
@@ -249,14 +230,13 @@
     },
     {
       "lineNumber": 45,
-      "text": "SEPT 11 1951 1:00 AM. (Tuesday). Near PHOENIX, Arizona. 334°Lat,112°Lo",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "SEPT 11 1951 1:00 AM. (Tuesday). Near PHOENIX, Arizona. 33½°Lat,112°Lo",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 46,
-      "text": "Some bright light hovered over Camelback Mountain,",
-      "status": "image_matched"
+      "text": "Same bright light hovered over Camelback Mountain,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 47,
@@ -275,8 +255,8 @@
     },
     {
       "lineNumber": 50,
-      "text": "#32 SOURCES: Phoenix Gazette Sept. 10,11: Fate Mag.Jan 1952",
-      "status": "image_matched"
+      "text": "#32 SOURCES: Phoenix Gazette Sept. 10,11: Fate Mgz.Jan 1952",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 51,
@@ -290,8 +270,7 @@
     {
       "lineNumber": 53,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

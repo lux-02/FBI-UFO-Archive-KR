@@ -8,28 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "9 permanent_unresolved line(s) excluded under SRC-896. 3 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0044-l0001",
-    "page_0044-l0004",
-    "page_0044-l0005",
-    "page_0044-l0006",
-    "page_0044-l0007",
-    "page_0044-l0008",
-    "page_0044-l0009",
-    "page_0044-l0010",
-    "page_0044-l0012"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 12,
   "lines": [
     {
       "lineNumber": 1,
       "text": "[unclear] type of air",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
@@ -43,45 +32,38 @@
     },
     {
       "lineNumber": 4,
-      "text": "[unclear] job designed to take the [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "with a pilot job designed to take the task.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "[unclear] and using tips, since neither were",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] and using [unclear], since neither were",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 6,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "available.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "text": "c. A lack of aircraft in this area at the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "a check of aircraft in this area at the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
-      "text": "time [unclear] should determine and possibly",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "time specified should determine and possibly",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
       "text": "answer this question.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "d. I would like very much to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "If possible, I'd like very much to",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
@@ -90,9 +72,8 @@
     },
     {
       "lineNumber": 12,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] W. L. [unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

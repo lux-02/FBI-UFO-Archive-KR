@@ -8,25 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0075-l0001",
-    "page_0075-l0014",
-    "page_0075-l0018",
-    "page_0075-l0019",
-    "page_0075-l0030",
-    "page_0075-l0040"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 45,
   "lines": [
     {
       "lineNumber": 1,
       "text": "\"Prior to this report, [REDACTED] we had a reoccurance of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
@@ -89,8 +81,7 @@
     {
       "lineNumber": 14,
       "text": "The strange visitor was reported to [REDACTED] at Nobody,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
@@ -109,14 +100,12 @@
     {
       "lineNumber": 18,
       "text": "[REDACTED] operating under my control and later [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 19,
-      "text": "[REDACTED] saw nothing in the area except one large flock of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "saw nothing in the area except one large flock of",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
@@ -169,13 +158,12 @@
     {
       "lineNumber": 30,
       "text": "that [REDACTED] and four civilian employees at Oak Ridge had",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 31,
-      "text": "observed a \"silver disk\" hovering over the X-25 plant in the controlled",
-      "status": "image_matched"
+      "text": "observed a \"silver disk\" hovering over the K-25 plant in the controlled",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
@@ -219,8 +207,7 @@
     {
       "lineNumber": 40,
       "text": "7. Investigation will continue 17 October at which time [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 41,

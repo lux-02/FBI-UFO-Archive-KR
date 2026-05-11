@@ -8,14 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 26 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0045-l0028"
-  ],
-  "lineCount": 40,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 39,
   "lines": [
     {
       "lineNumber": 1,
@@ -84,8 +82,8 @@
     },
     {
       "lineNumber": 15,
-      "text": "16 October 1950. 1956 to 2004 hours. MEPA Guards, Brown, Herron, and Davis,",
-      "status": "image_matched"
+      "text": "16 October 1950. 1956 to 2004 hours. NEPA Guards, Brown, Herron, and Davis,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
@@ -136,8 +134,8 @@
     },
     {
       "lineNumber": 26,
-      "text": "Mr. Fray, and the Radar Station.",
-      "status": "image_matched"
+      "text": "Mr. Frey, and the Radar Station.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
@@ -145,63 +143,57 @@
     },
     {
       "lineNumber": 28,
-      "text": "25 October 1950. [unclear] to [unclear] hours. Several small, [unclear] objects [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "25 October 1950. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
-      "text": "Radar Lodge.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
       "status": "blank"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 30,
       "text": "26 October 1950. Robert V. Lassell and five others sighted object from the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 31,
       "text": "Knoxville Airport, Knoxville, Tennessee.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 32,
       "status": "blank"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 33,
       "text": "5 November 1950. 1155 to 1200 hours. Visual sighting by Don Patrick.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 34,
       "status": "blank"
     },
     {
-      "lineNumber": 36,
-      "text": "25 May 1949. In the vicinity of Loudon, Tennessee, a flat, metallic object,",
-      "status": "image_matched"
+      "lineNumber": 35,
+      "text": "*25 May 1949. In the vicinity of Loudon, Tennessee, a flat, metallic object,",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 36,
       "text": "accompanied by \"a flapping noise\", was seen by five people",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 37,
       "text": "living in that area.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 38,
       "status": "blank"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 39,
       "text": "-2-",
       "status": "image_matched"
     }

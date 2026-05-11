@@ -8,23 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 38 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0020-l0007",
-    "page_0020-l0008",
-    "page_0020-l0010",
-    "page_0020-l0014",
-    "page_0020-l0017",
-    "page_0020-l0033",
-    "page_0020-l0034",
-    "page_0020-l0035",
-    "page_0020-l0056",
-    "page_0020-l0057"
-  ],
-  "lineCount": 59,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 62,
   "lines": [
     {
       "lineNumber": 1,
@@ -43,44 +32,40 @@
     },
     {
       "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
       "text": "16. Sound and odor:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
       "text": "None",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "status": "blank"
-    },
-    {
       "lineNumber": 7,
-      "text": "17. Trail (color, length, width, persistence, etc.)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
-      "text": "Flame like trail with ragged end.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "17. Trail (color, length, width, persistence, etc.)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "status": "blank"
+      "text": "Flame like trail with ragged end.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "18. Luminosity (visible by reflection, incandescence, other - degree",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 11,
-      "text": "of brilliance):",
-      "status": "image_matched"
+      "text": "18. Luminosity (visible by reflection, incandescence, other - degree of brilliance):",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
@@ -94,8 +79,7 @@
     {
       "lineNumber": 14,
       "text": "19. Projections (fins, wings, rods, antennae, canopies, etc.):",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
@@ -109,18 +93,16 @@
     {
       "lineNumber": 17,
       "text": "20. Manouvers (turns, climbs, dives, etc. - sketch of flight path):",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": "# 1, 3, & 4 Horizontal flight with slight gain in altitude, # 2 Almost",
-      "status": "image_matched"
+      "text": "# 1, 3, & 4 Horizontal flight with slight gain in altitude, # 2 Almost straight up.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
-      "text": "vertical.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 20,
@@ -157,13 +139,12 @@
     },
     {
       "lineNumber": 27,
-      "text": "Falling stars were observed in the course of the evening but objects",
-      "status": "image_matched"
+      "text": "Falling stars were observed in the course of the evening but objects reported on were slower moving.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 28,
-      "text": "reported on were slower moving.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 29,
@@ -181,64 +162,61 @@
     },
     {
       "lineNumber": 32,
-      "text": "Name and address of observer:",
-      "status": "image_matched"
+      "text": "Name and address of observer: 1st Edwin H. Piburn",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "CC \"D\" Co., 6[unclear]th Med Tk Bn",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 34,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "2d Armd Div., Cp Hood, Texas",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 35,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 36,
       "status": "blank"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 36,
       "text": "Occupation and hobbies:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
-      "text": "Officer, US Army",
-      "status": "image_matched"
+      "lineNumber": 37,
+      "text": "Officer, US Army.",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 38,
       "status": "blank"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 39,
       "text": "Comments of Interrogator relative to intelligence and character of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 40,
       "text": "observer (Check neighbors, police dept., FBI records, employer, etc.):",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 41,
       "text": "Excellent observer.",
       "status": "image_matched"
     },
     {
+      "lineNumber": 42,
+      "text": "[STAMP]",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 43,
-      "text": "REGRADED UNCLASSIFIED",
-      "status": "image_matched"
+      "text": "[REDACTED] UNCLASSIFIED",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 44,
@@ -261,8 +239,8 @@
     },
     {
       "lineNumber": 48,
-      "text": "Did observer wear glasses, especially polarized glasses at time of",
-      "status": "image_matched"
+      "text": "Did observer wear glasses, especially polariod glasses at time of",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 49,
@@ -276,17 +254,16 @@
     },
     {
       "lineNumber": 51,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 52,
       "text": "Pages 3 & 4 of this form not applicable to the incident.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 52,
-      "status": "blank"
-    },
-    {
       "lineNumber": 53,
-      "text": "CONFIDENTIAL",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 54,
@@ -295,28 +272,40 @@
     },
     {
       "lineNumber": 55,
-      "text": "Interviewed by:",
+      "text": "CONFIDENTIAL",
       "status": "image_matched"
     },
     {
       "lineNumber": 56,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 57,
-      "text": "Captain, [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 58,
-      "text": "3d Armd Div",
+      "text": "Interviewed by:",
       "status": "image_matched"
     },
     {
+      "lineNumber": 58,
+      "text": "[Signature]",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 59,
+      "text": "GEORGE W. SILERNA",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 60,
+      "text": "Captain, Inf",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 61,
+      "text": "2d Armd Div",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 62,
       "text": "Camp Hood, Texas",
       "status": "image_matched"
     }

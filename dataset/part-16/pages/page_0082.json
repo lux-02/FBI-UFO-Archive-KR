@@ -8,26 +8,22 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 28 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0082-l0029",
-    "page_0082-l0030",
-    "page_0082-l0031",
-    "page_0082-l0032"
-  ],
-  "lineCount": 45,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 44,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "0 (2-7-79)",
-      "status": "image_matched"
+      "text": "O (2-7-79)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "status": "blank"
+      "text": "XXXXXX",
+      "status": "image_matched"
     },
     {
       "lineNumber": 3,
@@ -41,151 +37,147 @@
     },
     {
       "lineNumber": 5,
-      "text": "XXXXXX",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 6,
       "status": "blank"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 6,
       "text": "FEDERAL BUREAU OF INVESTIGATION",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 7,
       "text": "FOIPA DELETED PAGE INFORMATION SHEET",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 8,
       "status": "blank"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 9,
       "text": "Page(s) withheld entirely at this location in the file. One or more of the following statements, where",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 10,
       "text": "indicated, explain this deletion.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "status": "blank"
     },
     {
-      "lineNumber": 13,
-      "text": "[ ] Deleted under exemption(s) ____________________________________ with no segregable",
-      "status": "image_matched"
+      "lineNumber": 12,
+      "text": "Deleted under exemption(s) __________ with no segregable",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 13,
       "text": "material available for release to you.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 14,
       "status": "blank"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Information pertained only to a third party with no reference to you or the subject of your request.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
-      "text": "[ ] Information pertained only to a third party with no reference to you or the subject of your request.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 17,
-      "status": "blank"
+      "text": "Information pertained only to a third party. Your name is listed in the title only.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": "[ ] Information pertained only to a third party. Your name is listed in the title only.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 19,
-      "status": "blank"
+      "text": "Document(s) originating with the following government agency(ies) __________,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "text": "[ ] Document(s) originating with the following government agency(ies) _______________________",
-      "status": "image_matched"
+      "text": "was/were forwarded to them for direct response to you.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
-      "text": "____________________________________, was/were forwarded to them for direct response to you.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
       "status": "blank"
     },
     {
+      "lineNumber": 22,
+      "text": "Page(s) referred for consultation to the following government agency(ies); __________",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 23,
-      "text": "Page(s) referred for consultation to the following government agency(ies): ____________________",
-      "status": "image_matched"
+      "text": "as the information originated with them. You will",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
-      "text": "____________________________________ as the information originated with them. You will",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
       "text": "be advised of availability upon return of the material to the FBI.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 25,
       "status": "blank"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 26,
       "text": "Page(s) withheld for the following reason(s):",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 27,
       "status": "blank"
+    },
+    {
+      "lineNumber": 28,
+      "text": "For your information: The following pages were referred to the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
-      "text": "[X] For your information: The following pages were referred to the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "United States Department of Energy (DOE). The DOE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 30,
-      "text": "United States Department of Energy (DOE). The DOE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "advised that deletions were made pursuant to Title",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 31,
-      "text": "advised that deletions were made pursuant to Title",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "5, United States Code, Section 552 (b)(6)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
-      "text": "5, United States Code, Section 552 (b)(6)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 33,
-      "status": "blank"
+      "text": "The following number is to be used for reference regarding these pages:",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 34,
-      "text": "[ ] The following number is to be used for reference regarding these pages:",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 35,
-      "status": "blank"
+      "text": "XXXXXX",
+      "status": "image_matched"
     },
     {
       "lineNumber": 36,
@@ -199,40 +191,35 @@
     },
     {
       "lineNumber": 38,
-      "text": "XXXXXX",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 39,
       "status": "blank"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 39,
       "text": "XXXXXXXXXXXXXXXXXXXXX",
       "status": "image_matched"
     },
     {
+      "lineNumber": 40,
+      "text": "DELETED PAGE(S)",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 41,
-      "text": "X DELETED PAGE(S) X",
-      "status": "image_matched"
+      "text": "NO DUPLICATION FEE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 42,
-      "text": "X NO DUPLICATION FEE X",
-      "status": "image_matched"
+      "text": "FOR THIS PAGE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
-      "text": "X FOR THIS PAGE X",
+      "text": "XXXXXXXXXXXXXXXXXXXXX",
       "status": "image_matched"
     },
     {
       "lineNumber": 44,
-      "text": "XXXXXXXXXXXXXXXXXXXXX",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
       "text": "Item 4",
       "status": "image_matched"
     }

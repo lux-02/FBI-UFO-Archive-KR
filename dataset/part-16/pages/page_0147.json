@@ -8,15 +8,11 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 50 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0147-l0038",
-    "page_0147-l0049",
-    "page_0147-l0059"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 59,
   "lines": [
     {
@@ -66,18 +62,18 @@
     },
     {
       "lineNumber": 10,
-      "text": "than the balloon speed, at dusk, seems to be the real saucer report,",
-      "status": "image_matched"
+      "text": "than the baloon speed, at dusk, seems to be the real saucer report,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "as none of the airports watching the balloon mention that they had any",
-      "status": "image_matched"
+      "text": "as none of the airports watching the baloon mention that they had any",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "aircraft coming in to land or intercept the balloon at Hagerstown. Also",
-      "status": "image_matched"
+      "text": "aircraft coming in to land or intercept the baloon at Hagerstown. Also",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
@@ -91,13 +87,13 @@
     },
     {
       "lineNumber": 15,
-      "text": "The activity surrounding this report resembles the Sept. 19 1950 balloon",
-      "status": "image_matched"
+      "text": "The activity surrounding this report resembles the Sept. 19 1950 ballon",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
-      "text": "that floated over Missouri 6 hours, and was followed the next day by 2",
-      "status": "image_matched"
+      "text": "that floated over Missouri 6 hours, and was followed the next day by a",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
@@ -106,18 +102,18 @@
     },
     {
       "lineNumber": 18,
-      "text": "and 1 from Tennessee; also the Feb. 13th report where a saucer was seen",
-      "status": "image_matched"
+      "text": "and 1 from Tennessee; also the F.b. 13th report where a saucer was seen",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
-      "text": "watching a balloon over Alamagordo. Apparently, they are interested in",
-      "status": "image_matched"
+      "text": "watching a baloon over Alamagordo. Apparently, they are interested in",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "text": "terrestrial balloons.",
-      "status": "image_matched"
+      "text": "terrestrial baloons.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
@@ -140,8 +136,8 @@
     },
     {
       "lineNumber": 25,
-      "text": "saucers.",
-      "status": "image_matched"
+      "text": "saucers;",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 26,
@@ -149,8 +145,8 @@
     },
     {
       "lineNumber": 27,
-      "text": "#21 Norway: A rare rocketship object. It is very doubtful the Russians",
-      "status": "image_matched"
+      "text": "#21 NORWAY; A rare rocketship object. It is very doubtful the Russians",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 28,
@@ -169,13 +165,13 @@
     },
     {
       "lineNumber": 31,
-      "text": "rocket missiles and aircraft make it doubtful whether they allow it.",
-      "status": "image_matched"
+      "text": "rocket missiles-and-aircraft make it doubtful whether they allow it.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
-      "text": "It has taken us 'only' a year to get parts of a FIG 15 from Korea as",
-      "status": "image_matched"
+      "text": "It has taken us 'only' a year to get parts of a MIG 15 from Korea as",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
@@ -205,13 +201,12 @@
     {
       "lineNumber": 38,
       "text": "although firing the over Norway does not seem neither a safe nor",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 39,
-      "text": "friendly testing procedure. This report proves a rocketship related",
-      "status": "image_matched"
+      "text": "friendly testing procedure. This report probably a rocketship related",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 40,
@@ -258,9 +253,8 @@
     },
     {
       "lineNumber": 49,
-      "text": "#22 Malone, N.Y.: Typical saucer observation, made while an airlinor",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "#22 Malone, N.Y.: Typical saucer observation, made while an airliner",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 50,
@@ -278,8 +272,8 @@
     },
     {
       "lineNumber": 53,
-      "text": "#23 Lubbock, Texas: First of 4 groups of gigantic saucers, possibly",
-      "status": "image_matched"
+      "text": "#23 Lubbock, Texas; First of 4 groups of gigantic saucers, possibly",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 54,
@@ -307,9 +301,8 @@
     },
     {
       "lineNumber": 59,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "scientist with",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

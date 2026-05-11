@@ -8,17 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 7 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0122-l0002",
-    "page_0122-l0003",
-    "page_0122-l0007",
-    "page_0122-l0008"
-  ],
-  "lineCount": 13,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 15,
   "lines": [
     {
       "lineNumber": 1,
@@ -28,14 +23,12 @@
     {
       "lineNumber": 2,
       "text": "shown to Inspector [REDACTED] of the Records and Communications",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 3,
       "text": "Division and was found not to be objectionable. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
@@ -55,14 +48,12 @@
     {
       "lineNumber": 7,
       "text": "balloons. Before leaving [REDACTED] mentioned that Mr.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
       "text": "Richard Wilson, who is known to Mr. Nichols and Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
@@ -86,6 +77,15 @@
       "lineNumber": 13,
       "text": "This is for informational purposes.",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
+      "text": "-2-",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

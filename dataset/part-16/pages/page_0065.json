@@ -8,19 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 36 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0065-l0007",
-    "page_0065-l0009",
-    "page_0065-l0010",
-    "page_0065-l0028",
-    "page_0065-l0033",
-    "page_0065-l0041"
-  ],
-  "lineCount": 50,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 51,
   "lines": [
     {
       "lineNumber": 1,
@@ -53,8 +46,7 @@
     {
       "lineNumber": 7,
       "text": "\"3. At 1900 hours, 20 June 1949, [REDACTED] stated that at approximately",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
@@ -64,14 +56,12 @@
     {
       "lineNumber": 9,
       "text": "flying from the southeast, over Oak Ridge, Tennessee. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
       "text": "first sighted the objects and called [REDACTED] attention to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
@@ -161,8 +151,7 @@
     {
       "lineNumber": 28,
       "text": "this time the objects did not appear to either gain or loose",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
@@ -185,58 +174,57 @@
     },
     {
       "lineNumber": 33,
-      "text": "\"4. At 2000 hours, 20 June 1949, [REDACTED] her",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "\"4. At 2000 hours, 20 June 1949, [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 34,
+      "text": "[REDACTED], stated that [REDACTED] her",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 35,
       "text": "neighbor, called her attention to the three flying objects sighted",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 36,
       "text": "by the Andersons at approximately 1200 hours, 19 June 1949, and that",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 37,
       "text": "she watched them for approximately 10 minutes. Mrs. White's description",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 38,
       "text": "and details regarding the objects were the same as Mr. and Mrs.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 39,
       "text": "Anderson's.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 40,
       "status": "blank"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 41,
       "text": "\"5. The witnesses of these objects are reputable people, and their",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
-      "text": "statements are considered reliable. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 42,
-      "status": "blank"
+      "text": "statements are considered reliable.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
-      "text": "CERTIFIED TRUE EXTRACT COPY:",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 44,
@@ -244,31 +232,36 @@
     },
     {
       "lineNumber": 45,
-      "text": "By: /s/ Wm B. Gray",
+      "text": "CERTIFIED TRUE EXTRACT COPY:",
       "status": "image_matched"
     },
     {
       "lineNumber": 46,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 47,
+      "text": "By: /s/ Wm B. Gray",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 48,
       "text": "SAC, Knoxville",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 48,
+      "lineNumber": 49,
       "text": "(Page # 1 of Inclosure # 9)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 49,
+      "lineNumber": 50,
       "status": "blank"
     },
     {
-      "lineNumber": 50,
-      "text": "65-578300-137",
-      "status": "image_matched"
+      "lineNumber": 51,
+      "text": "65-58300-137",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

@@ -8,24 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 52 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0068-l0001",
-    "page_0068-l0009",
-    "page_0068-l0054",
-    "page_0068-l0072",
-    "page_0068-l0074"
-  ],
-  "lineCount": 74,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 67,
   "lines": [
     {
       "lineNumber": 1,
       "text": "FIELD AREA OFFICE #8",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -62,8 +55,7 @@
     {
       "lineNumber": 9,
       "text": "Incident report No. 142-50",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
@@ -101,74 +93,76 @@
     },
     {
       "lineNumber": 17,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 18,
-      "text": "Trooper",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "text": "E. D. Rymer",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "text": "Address",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 22,
-      "text": "Location",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "text": "Kerr Hollow",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "text": "Badge No.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "text": "206",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 27,
-      "text": "Company",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
-      "text": "\"D\" Troop",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 29,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 30,
       "text": "Person Involved",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 18,
       "text": "Capt. J. J. Zarzecki",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 20,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 21,
+      "text": "Trooper",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "E. D. Rymer",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "text": "Address",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
+      "text": "Location",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "Kerr Hollow",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "text": "Badge No.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "text": "206",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "text": "Badge No.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 32,
@@ -176,208 +170,175 @@
     },
     {
       "lineNumber": 33,
-      "text": "Address",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 34,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 35,
-      "text": "Badge No.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 36,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 37,
       "text": "Company",
       "status": "image_matched"
     },
     {
+      "lineNumber": 34,
+      "text": "\"D\" Troop",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "text": "Company",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 37,
+      "status": "blank"
+    },
+    {
       "lineNumber": 38,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 39,
-      "text": "66",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 41,
-      "text": "66",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 43,
       "text": "John Moneymaker stopped at Kerr Hollow gate where I was on duty October 15, 1950,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 39,
       "text": "3:20 P.M. He and I observed what appeared to be a skywriter in the air. He was one-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 40,
       "text": "quarter of the way through a letter \"O\". The object appeared to be 12,000 to 15,000",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 41,
       "text": "feet high and east by north of the gate, approximately one mile distance from the gate.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 42,
       "text": "At this time, the size appeared to be about the size of a four or five passenger plane.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
-      "text": "The object had a smoke trail the same cross-sectional size of its body and about one-",
-      "status": "image_matched"
+      "lineNumber": 43,
+      "text": "The object had a smoke trail the same crosssectional size of its body and about one-",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 49,
+      "lineNumber": 44,
       "text": "quarter of a mile long. The smoke was grayish in color. The color of the body of the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 50,
+      "lineNumber": 45,
       "text": "object was silver metallic. The object gave off no reflection. It was dull in appear-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 51,
-      "text": "ance. When first observed it was describing an arc toward the ground. When the",
-      "status": "image_matched"
+      "lineNumber": 46,
+      "text": "ance. When first observed, it was describing an arc toward the ground. When the",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 52,
+      "lineNumber": 47,
       "text": "object failed to complete the outside loop, I went into the gate house to report its",
       "status": "image_matched"
     },
     {
-      "lineNumber": 53,
+      "lineNumber": 48,
       "text": "appearance. Up till this time I thought it to be a plane doing some skywriting. While",
       "status": "image_matched"
     },
     {
-      "lineNumber": 54,
+      "lineNumber": 49,
       "text": "I was making the phone call, [REDACTED] watched the object continue downward to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 55,
+      "lineNumber": 50,
       "text": "1,500 feet. At that altitude, a second object was noticed alongside the smoke trail.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 56,
+      "lineNumber": 51,
       "text": "The second object was the same size and shape and was about 50 feet behind the first",
       "status": "image_matched"
     },
     {
-      "lineNumber": 57,
+      "lineNumber": 52,
       "text": "object. The second object appeared to be attached to the first object's smoke trail",
       "status": "image_matched"
     },
     {
-      "lineNumber": 58,
+      "lineNumber": 53,
       "text": "with about an 80 degree forward thrust, yet the second object was moving in the same",
       "status": "image_matched"
     },
     {
-      "lineNumber": 59,
+      "lineNumber": 54,
       "text": "direction of the first object and not drawing away from the smoke trail of the first",
       "status": "image_matched"
     },
     {
-      "lineNumber": 60,
+      "lineNumber": 55,
       "text": "object the way it should have been doing according to its angle and direction. At",
       "status": "image_matched"
     },
     {
-      "lineNumber": 61,
+      "lineNumber": 56,
       "text": "this altitude, both objects changed from a bullet shape to a bladder shape. Also, at",
       "status": "image_matched"
     },
     {
-      "lineNumber": 62,
+      "lineNumber": 57,
       "text": "1500 feet both objects began pulling out of the vertical dive. During the entire",
       "status": "image_matched"
     },
     {
-      "lineNumber": 63,
+      "lineNumber": 58,
       "text": "descent, both objects diminished in size. From 1,500 feet, the angle of descent was",
       "status": "image_matched"
     },
     {
-      "lineNumber": 64,
+      "lineNumber": 59,
       "text": "about 45 degrees. At about 500 feet, the second or trailing object disappeared. The",
       "status": "image_matched"
     },
     {
-      "lineNumber": 65,
+      "lineNumber": 60,
       "text": "object continued downward to a point north of the perimeter fence over the roadway",
       "status": "image_matched"
     },
     {
-      "lineNumber": 66,
+      "lineNumber": 61,
       "text": "about 60 yards from the gatehouse toward Solway bridge. This was where the object was",
       "status": "image_matched"
     },
     {
-      "lineNumber": 67,
+      "lineNumber": 62,
       "text": "when I came out of the gatehouse. At this time, the object had diminished to about 2x5",
       "status": "image_matched"
     },
     {
-      "lineNumber": 68,
+      "lineNumber": 63,
       "text": "inches.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 69,
+      "lineNumber": 64,
       "status": "blank"
     },
     {
-      "lineNumber": 70,
-      "text": "66",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 71,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 72,
+      "lineNumber": 65,
       "text": "(Page # 1 of Inclosure # 11)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 73,
+      "lineNumber": 66,
       "status": "blank"
     },
     {
-      "lineNumber": 74,
-      "text": "65-59300-134",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 67,
+      "text": "65-58300-13",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

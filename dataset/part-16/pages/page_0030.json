@@ -8,20 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "typed_or_printed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 41 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0030-l0001"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 51,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "OK. HOMA CITY AIR MATERIEL AREA",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "OKLAHOMA CITY AIR MATERIEL AREA",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -67,8 +64,8 @@
     },
     {
       "lineNumber": 11,
-      "text": "Subject: DAN NELSON, Attorney-at-Law, 926 Perrine Building,",
-      "status": "image_matched"
+      "text": "Subject: DAN NELSON, Attorney-at-law, 926 Perrine Building,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
@@ -168,8 +165,8 @@
     },
     {
       "lineNumber": 32,
-      "text": "He received an answer dated 23 July 1947 advising him his letter had been",
-      "status": "image_matched"
+      "text": "He received an answer dated 23 July 1947 advising his letter had been",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,

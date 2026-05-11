@@ -8,46 +8,36 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 33 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0117-l0017",
-    "page_0117-l0023",
-    "page_0117-l0028",
-    "page_0117-l0031",
-    "page_0117-l0039",
-    "page_0117-l0050",
-    "page_0117-l0051",
-    "page_0117-l0053",
-    "page_0117-l0054",
-    "page_0117-l0057"
-  ],
-  "lineCount": 60,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 80,
   "lines": [
     {
       "lineNumber": 1,
+      "text": "1 - [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 2,
       "text": "1 - Liaison",
       "status": "image_matched"
     },
     {
-      "lineNumber": 2,
+      "lineNumber": 3,
       "status": "blank"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 4,
       "text": "REC-32",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "62-83557-1972",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 5,
-      "status": "blank"
+      "text": "62-82557-1972",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -101,9 +91,8 @@
     },
     {
       "lineNumber": 17,
-      "text": "Subject: [REDACTED] OF UNIDENTIFIED FLYING OBJECT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Subject: SIGHT OF UNIDENTIFIED FLYING OBJECT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
@@ -132,8 +121,7 @@
     {
       "lineNumber": 23,
       "text": "received by this Bureau from [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 24,
@@ -157,8 +145,7 @@
     {
       "lineNumber": 28,
       "text": "[REDACTED] was advised by this Bureau that the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
@@ -173,8 +160,7 @@
     {
       "lineNumber": 31,
       "text": "[REDACTED] was also advised that a copy of his",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 32,
@@ -206,27 +192,26 @@
     },
     {
       "lineNumber": 38,
-      "text": "BY COURIER SVC.",
+      "text": "Enclosure",
       "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "text": "28 AUG 1 C",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 40,
-      "text": "COMM-FBI",
+      "text": "BY COURIER SVC.",
       "status": "image_matched"
     },
     {
       "lineNumber": 41,
-      "status": "blank"
+      "text": "28 AUG 1 C",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 42,
-      "text": "Enclosure",
+      "text": "COMM-FBI",
       "status": "image_matched"
     },
     {
@@ -249,74 +234,168 @@
     },
     {
       "lineNumber": 47,
-      "text": "21 AUG 1961",
-      "status": "image_matched"
+      "text": "[unclear] DE:",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 48,
-      "status": "blank"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 49,
-      "text": "NOTE: Assistant Director Sullivan knows",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 50,
-      "text": "[REDACTED] as a retired businessman connected",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "21 AUG [unclear] 1961",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 51,
-      "text": "College, Carlisle, and vehemently anticommunist. Bufiles",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 52,
+      "text": "Tolson",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
+      "text": "Belmont",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 54,
+      "text": "Mohr",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 55,
+      "text": "Callahan",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 56,
+      "text": "Conrad",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 57,
+      "text": "DeLoach",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 58,
+      "text": "Evans",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 59,
+      "text": "Malone",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 60,
+      "text": "Rosen",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 61,
+      "text": "Sullivan",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 62,
+      "text": "Tavel",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 63,
+      "text": "Trotter",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 64,
+      "text": "Tele. Room",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 65,
+      "text": "Ingram",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 66,
+      "text": "Gandy",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 67,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 68,
+      "text": "NOTE: Assistant Director Sullivan knows [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 69,
+      "text": "as a retired businessman connected with Dickinson",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 70,
+      "text": "College, Carlisle, and vehemently anticommunist. Bufiles",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 71,
       "text": "contain a clipping from the \"Los Angeles Times\" of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 53,
-      "text": "4-1-51 in which [REDACTED] described as [REDACTED] Carlisle,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 72,
+      "text": "4-1-61 in which [REDACTED] described as [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 54,
-      "text": "[REDACTED] is listed as a council member of the John Birch Society.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 73,
+      "text": "[REDACTED] Carlisle,",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 55,
+      "lineNumber": 74,
+      "text": "is listed as a council member of the John Birch Society.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 75,
       "text": "Bufiles also indicate that Masland in 1957 wrote a",
       "status": "image_matched"
     },
     {
-      "lineNumber": 56,
-      "status": "blank"
+      "lineNumber": 76,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 57,
-      "text": "5 AUG 22 1961",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 58,
-      "text": "TELETYPE UNIT",
+      "lineNumber": 77,
+      "text": "NOTE CONTINUED ON PAGE 2",
       "status": "image_matched"
     },
     {
-      "lineNumber": 59,
+      "lineNumber": 78,
       "status": "blank"
     },
     {
-      "lineNumber": 60,
-      "text": "NOTE CONTINUED ON PAGE 2",
+      "lineNumber": 79,
+      "text": "50 AUG 22 1961",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 80,
+      "text": "TELETYPE UNIT",
       "status": "image_matched"
     }
   ],

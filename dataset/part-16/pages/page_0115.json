@@ -8,19 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0115-l0039"
-  ],
-  "lineCount": 44,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 51,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "August 10, 1961",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
@@ -28,45 +26,45 @@
     },
     {
       "lineNumber": 3,
-      "text": "Mr. William C. Sullivan",
+      "text": "August 10, 1961",
       "status": "image_matched"
     },
     {
       "lineNumber": 4,
-      "text": "Chief Inspector",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
-      "text": "Federal Bureau of Investigation",
+      "text": "Mr. William C. Sullivan",
       "status": "image_matched"
     },
     {
       "lineNumber": 6,
-      "text": "Washington, D. C.",
+      "text": "Chief Inspector",
       "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "status": "blank"
+      "text": "Federal Bureau of Investigation",
+      "status": "image_matched"
     },
     {
       "lineNumber": 8,
-      "text": "Dear Mr. Sullivan:",
+      "text": "Washington, D. C.",
       "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "status": "blank"
+      "text": "AIR FORCE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "Our company possesses a guest house on a mountain top",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 11,
-      "text": "Southwest of Carlisle.",
+      "text": "Dear Mr. Sullivan:",
       "status": "image_matched"
     },
     {
@@ -75,157 +73,190 @@
     },
     {
       "lineNumber": 13,
-      "text": "A number of us were holding a meeting Tuesday Evening,",
+      "text": "Our company possesses a guest house on a mountain top",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "August 8. It was warm and we were sitting on an",
+      "text": "Southwest of Carlisle.",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "uncovered veranda.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
       "status": "blank"
     },
     {
+      "lineNumber": 16,
+      "text": "A number of us were holding a meeting Tuesday Evening,",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 17,
-      "text": "At two minutes of ten we noted a bright light over-",
+      "text": "August 8. It was warm and we were sitting on an",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "head longitudinally but a few degrees Northwest",
+      "text": "uncovered veranda.",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "latitudinally. It moved in an East by North direction.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 20,
-      "text": "At five minutes after ten it disappeared behind the",
+      "text": "At two minutes of ten we noted a bright light over-",
       "status": "image_matched"
     },
     {
       "lineNumber": 21,
-      "text": "tree tops.",
+      "text": "head longitudinally but a few degrees Northwest",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "status": "blank"
+      "text": "latitudinally. It moved in an East by North direction.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "The night was clear, stars were plainly visible. The",
+      "text": "At five minutes after ten it disappeared behind the",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "text": "North star provided a sense of direction. The light",
+      "text": "tree tops.",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "was brighter than any star.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
       "status": "blank"
     },
     {
+      "lineNumber": 26,
+      "text": "The night was clear, stars were plainly visible. The",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 27,
-      "text": "As we followed the course of the light it seemed to",
+      "text": "North star provided a sense of direction. The light",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "text": "move a bit erratically from side to side and on a few",
+      "text": "was brighter than any star.",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "occasions seemed to jump ahead. Though all of us",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 30,
-      "text": "observed these variable movements, I recognize they",
+      "text": "As we followed the course of the light it seemed to",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "text": "could be attributed to atmospheric conditions or",
+      "text": "move a bit erratically from side to side and on a few",
       "status": "image_matched"
     },
     {
       "lineNumber": 32,
-      "text": "eye concentration.",
+      "text": "occasions seemed to jump ahead. Though all of us",
       "status": "image_matched"
     },
     {
       "lineNumber": 33,
-      "status": "blank"
+      "text": "observed these variable movements, I recognize they",
+      "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "text": "I have been at a loss as to whether to report",
+      "text": "could be attributed to atmospheric conditions or",
       "status": "image_matched"
     },
     {
       "lineNumber": 35,
-      "text": "and, if so, to whom.",
+      "text": "eye concentration.",
       "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "text": "REC-32 62-855-292",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
       "status": "blank"
     },
     {
+      "lineNumber": 37,
+      "text": "I have been at a loss as to whether to report",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 38,
-      "text": "I would like to assure you that the light observed was",
+      "text": "and, if so, to whom.",
       "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "text": "not an airplane. With the sky [unclear] of \"exotic",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "REC-32 62-8555-292",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 40,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 41,
+      "text": "I would like to assure you that the light observed was",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 42,
+      "text": "not an airplane. With the sky so full of \"exotic",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 43,
       "text": "objects\" one hesitates to report any observation today.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 44,
       "status": "blank"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 45,
       "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 46,
+      "text": "EX-107",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 47,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 48,
       "status": "blank"
     },
     {
-      "lineNumber": 44,
-      "text": "EX-107",
-      "status": "image_matched"
+      "lineNumber": 49,
+      "text": "[unclear] Air [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 50,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 51,
+      "text": "[unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

@@ -8,21 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0014-l0001",
-    "page_0014-l0020"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 30,
   "lines": [
     {
       "lineNumber": 1,
       "text": "Memorandum [unclear] to Belmont",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
@@ -114,9 +110,8 @@
     },
     {
       "lineNumber": 20,
-      "text": "could be in response to [REDACTED] to a U.S. \"Project Aquatone\"",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "could be in response [REDACTED] to a U.S. \"Project Aquatone\"",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,

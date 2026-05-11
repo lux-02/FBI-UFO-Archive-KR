@@ -8,44 +8,32 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 13 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0132-l0001",
-    "page_0132-l0002",
-    "page_0132-l0003",
-    "page_0132-l0006",
-    "page_0132-l0009",
-    "page_0132-l0011",
-    "page_0132-l0012",
-    "page_0132-l0023"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 26,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "We have also received a call from a [REDACTED] is being engaged in",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "We have also received a call from a [REDACTED] acting as agent",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
-      "text": "for George Adamski, a [REDACTED] on the subject. Her telephone number was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "for George Adamski, a [unclear] on the subject. Her telephone number was",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 3,
       "text": "given as [REDACTED]. She is",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
-      "text": "supposedly cooperating with the British Book Center, in the publicity of",
-      "status": "image_matched"
+      "text": "supposedly cooperating with the British Book Center, in the publicizing of",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -55,13 +43,12 @@
     {
       "lineNumber": 6,
       "text": "speak at our meeting this Friday April 9th. [REDACTED] has been especially",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
-      "text": "engaged in putting this meeting across, in spite of Adamski's material.",
-      "status": "image_matched"
+      "text": "energetic in putting this meeting across, in spite of Adamski's material.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
@@ -70,25 +57,22 @@
     {
       "lineNumber": 9,
       "text": "Through [REDACTED] special efforts, a Mr. [REDACTED] of the [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
-      "text": "Bronx division may send reporters to this meeting, for a possible article",
-      "status": "image_matched"
+      "text": "Bronx division may play reporters to this meeting, for a possible article",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "writeup. Other than seemed insistent that the [REDACTED] be contacted rather than",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "writeup. Other than seemed insistent that the [REDACTED] be contacted rather t",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 12,
       "text": "other newspapers, I have nothing to add to Mr. [REDACTED].",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
@@ -96,28 +80,28 @@
     },
     {
       "lineNumber": 14,
-      "text": "All information enclosed, is sent for whatever value it may have. I will",
-      "status": "image_matched"
+      "text": "All information enclosed, is sent for whatever value it may have. I w",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
-      "text": "continue sending this, until I either quit this group, or subject. It should",
-      "status": "image_matched"
+      "text": "continue sending this, until I wither quit this group, or subject. It sh",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
-      "text": "be understood at all times, that this material is purely impressions I gather",
-      "status": "image_matched"
+      "text": "be understood at all times, that this material is purely impressions I ga",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "text": "from the behavior of the persons mentioned, and is not based on any concrete",
-      "status": "image_matched"
+      "text": "from the behavior of the persons mentioned, and is not based on any concr",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": "facts I have been able to obtain. If at any time you require correspondence",
-      "status": "image_matched"
+      "text": "facts I have been able to obtain. If at any time you require corresponde",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
@@ -140,8 +124,7 @@
     {
       "lineNumber": 23,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 24,

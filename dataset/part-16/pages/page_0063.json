@@ -8,21 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 39 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0063-l0001",
-    "page_0063-l0003"
-  ],
-  "lineCount": 48,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 49,
   "lines": [
     {
       "lineNumber": 1,
       "text": "FIELD AREA OFFICE # 8",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -32,8 +28,7 @@
     {
       "lineNumber": 3,
       "text": "Knoxville, Tenn.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -94,13 +89,13 @@
     },
     {
       "lineNumber": 16,
-      "text": "and described hearing an intermittant noise resembling the blast of a jet",
-      "status": "image_matched"
+      "text": "and described bearing an intermittant noise resembling the blast of a jet",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "text": "fighter aircraft. Each noise lasted for about three and one half (3½) seconds",
-      "status": "image_matched"
+      "text": "fighter aircraft. Each noise lasted for about three and one half (3 1/2) seconds",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
@@ -202,8 +197,8 @@
     },
     {
       "lineNumber": 38,
-      "text": "The Radar crew of Detachment # 2, 662nd AC and Squadron, McGhee-Tyson",
-      "status": "image_matched"
+      "text": "The Radar crew of Detachment # 2, 662nd AC and W Squadron, McGhee-Tyson",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 39,
@@ -250,8 +245,12 @@
     },
     {
       "lineNumber": 48,
-      "text": "65-58300-134",
-      "status": "image_matched"
+      "status": "blank"
+    },
+    {
+      "lineNumber": 49,
+      "text": "65-58300-137",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

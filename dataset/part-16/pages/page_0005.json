@@ -8,16 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 24 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0005-l0004",
-    "page_0005-l0005",
-    "page_0005-l0006"
-  ],
-  "lineCount": 34,
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 33,
   "lines": [
     {
       "lineNumber": 1,
@@ -26,31 +22,26 @@
     },
     {
       "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
       "text": "Office Memorandum • UNITED STATES GOVERNMENT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
       "text": "TO : Director, FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "FROM SAC, San Antonio",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 5,
-      "text": "SUBJECT: PROTECTION OF VITAL INSTALLATIONS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 6,
       "text": "DATE: August 16, 1949",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
@@ -58,48 +49,45 @@
     },
     {
       "lineNumber": 8,
-      "text": "I am attaching hereto a number of copies of reports being received",
-      "status": "image_matched"
+      "text": "FROM: SAC, San Antonio",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "in great numbers in this office concerning the so-called flying",
-      "status": "image_matched"
+      "text": "(A)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "disks or unnatural phenomena being frequently observed around Camp",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 11,
-      "text": "Hood, Texas. This is, of course, a primary concern of the Air",
-      "status": "image_matched"
+      "text": "SUBJECT: PROTECTION OF VITAL INSTALLATIONS",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "Corps. Consequently, this office is following the practice of",
+      "text": "INDEXED - 98",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "reviewing these data and then destroying them in the event there",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 14,
-      "text": "appears to be nothing of FBI interest therein. It is pointed out",
-      "status": "image_matched"
+      "text": "I am attaching hereto a number of copies of reports being received in great numbers in this office concerning the so-called flying disks or unnatural phenomena being frequently observed around Camp Hood, Texas. This is, of course, a primary concern of the Air Corps. Consequently, this office is following the practice of reviewing these data and then destroying them in the event there appears to be nothing of FBI interest therein. It is pointed out that the filing of these would result in the rapid accumulation of very bulky files.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
-      "text": "that the filing of these would result in the rapid accumulation",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 16,
-      "text": "of very bulky files.",
-      "status": "image_matched"
+      "text": "Unless the Bureau believes this is unwise, this practice will continue.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
@@ -107,21 +95,21 @@
     },
     {
       "lineNumber": 18,
-      "text": "Unless the Bureau believes this is unwise, this practice will",
+      "text": "Encls.",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "continue.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
       "status": "blank"
     },
     {
+      "lineNumber": 20,
+      "text": "CEN:cc",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 21,
-      "text": "Encls.",
+      "text": "100-7545",
       "status": "image_matched"
     },
     {
@@ -130,58 +118,52 @@
     },
     {
       "lineNumber": 23,
-      "text": "CEN:cs",
-      "status": "image_matched"
+      "text": "G.I.R.A",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
-      "text": "100-7545",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 25,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 26,
-      "text": "G.I.R.A.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 28,
       "text": "ah",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 26,
       "status": "blank"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 27,
       "text": "RECORDED - 98",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 28,
       "text": "165-56300-72",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 29,
       "text": "AUG 22 1949",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
-      "text": "INDEXED - 98",
-      "status": "image_matched"
+      "lineNumber": 30,
+      "status": "blank"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 31,
+      "text": "INDEXED - 98",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 32,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 33,
       "text": "SEP 9 1949",
       "status": "image_matched"
     }

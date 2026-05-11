@@ -8,23 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 27 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0134-l0003",
-    "page_0134-l0004",
-    "page_0134-l0005",
-    "page_0134-l0010",
-    "page_0134-l0015",
-    "page_0134-l0016",
-    "page_0134-l0017",
-    "page_0134-l0028",
-    "page_0134-l0033",
-    "page_0134-l0046"
-  ],
-  "lineCount": 46,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 47,
   "lines": [
     {
       "lineNumber": 1,
@@ -38,20 +27,17 @@
     {
       "lineNumber": 3,
       "text": "Latest reports [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 4,
-      "text": "analyzed in [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "analyzed in Flying [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 5,
       "text": "Review, printed Since [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 6,
@@ -74,8 +60,7 @@
     {
       "lineNumber": 10,
       "text": "Pennsylvania & [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 11,
@@ -88,8 +73,8 @@
     },
     {
       "lineNumber": 13,
-      "text": "Gentlemen:",
-      "status": "image_matched"
+      "text": "Gentlemen;",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
@@ -98,20 +83,17 @@
     {
       "lineNumber": 15,
       "text": "Further to my previous letters, I am attaching a photostat of some",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
       "text": "recent correspondence with a new subscriber, MR. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
       "text": "president of [REDACTED] From some of the facts mentioned",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
@@ -164,8 +146,7 @@
     {
       "lineNumber": 28,
       "text": "His appearance within 2 weeks after mentioning to [REDACTED] that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
@@ -188,14 +169,13 @@
     },
     {
       "lineNumber": 33,
-      "text": "She has spoken to Mr. [REDACTED] several times, and mentioned that he may be",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "She has spoken to Mr. [REDACTED] several times, and mentioned that he might be",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 34,
-      "text": "able to appear at one of these business meetings, and planned for next month.",
-      "status": "image_matched"
+      "text": "able to appear at one of these business meetings, one planned for next month.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 35,
@@ -208,18 +188,17 @@
     },
     {
       "lineNumber": 37,
-      "text": "obtain information from me, or make a possible business agreement to further",
-      "status": "image_matched"
+      "text": "obtain information from me, or make a possible business agreement to further their",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 38,
-      "text": "work. I do not plan to enter any agreement, in the possibility it is only",
-      "status": "image_matched"
+      "text": "work. I do not plan to enter any agreement, in the possibility it is of a subversive nature.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 39,
-      "text": "INDEXED 162-10425",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 40,
@@ -228,13 +207,13 @@
     },
     {
       "lineNumber": 41,
-      "text": "All above material is once again, from implications I gather of the persons",
-      "status": "image_matched"
+      "text": "All above material is once again, from impressions I gather of the persons",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 42,
-      "text": "mentioned, and I do not have any concrete data to back these suspicions, or",
-      "status": "image_matched"
+      "text": "mentioned, and I do not have any concrete data to back these suspicions, and",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
@@ -243,19 +222,22 @@
     },
     {
       "lineNumber": 44,
-      "text": "18 APR 26 1954",
-      "status": "image_matched"
+      "text": "16 APR 26 1954",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 45,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 46,
       "text": "Sincerely,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 47,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

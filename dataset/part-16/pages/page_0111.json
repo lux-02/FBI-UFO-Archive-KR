@@ -8,24 +8,11 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "12 permanent_unresolved line(s) excluded under SRC-896. 25 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0111-l0008",
-    "page_0111-l0009",
-    "page_0111-l0011",
-    "page_0111-l0012",
-    "page_0111-l0014",
-    "page_0111-l0019",
-    "page_0111-l0021",
-    "page_0111-l0022",
-    "page_0111-l0024",
-    "page_0111-l0025",
-    "page_0111-l0027",
-    "page_0111-l0032"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 41,
   "lines": [
     {
@@ -64,14 +51,12 @@
     {
       "lineNumber": 8,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
       "text": "which had headquarters at [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
@@ -81,14 +66,12 @@
     {
       "lineNumber": 11,
       "text": "Pittsburgh, Pa. [REDACTED] an University of Pitts-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 12,
       "text": "burgh graduate student, and one [REDACTED] are members",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
@@ -98,8 +81,7 @@
     {
       "lineNumber": 14,
       "text": "NASA employee, one [REDACTED] (phonetic), and have",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
@@ -108,8 +90,8 @@
     },
     {
       "lineNumber": 16,
-      "text": "unidentified flying objects (UFO) which he obtains from",
-      "status": "image_matched"
+      "text": "Unidentified Flying Objects (UFO) which he obtains from",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
@@ -124,8 +106,7 @@
     {
       "lineNumber": 19,
       "text": "that [REDACTED] had seen a motion picture film",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 20,
@@ -135,14 +116,12 @@
     {
       "lineNumber": 21,
       "text": "screen. Prior to the flight of Gemini 4, [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
       "text": "informed [REDACTED] to watch out for something",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 23,
@@ -152,14 +131,12 @@
     {
       "lineNumber": 24,
       "text": "to detect UFO's. [REDACTED] furnished the infor-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 25,
       "text": "mation received from [REDACTED] to the headquarters of the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 26,
@@ -169,8 +146,7 @@
     {
       "lineNumber": 27,
       "text": "[REDACTED] have informed the source that [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 28,
@@ -195,8 +171,7 @@
     {
       "lineNumber": 32,
       "text": "secured by [REDACTED] was going to any foreign power.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 33,
@@ -204,28 +179,28 @@
     },
     {
       "lineNumber": 34,
-      "text": "This document contains neither",
-      "status": "image_matched"
+      "text": "[unclear] document contains neither [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 35,
-      "text": "conclusions of the FBI. It is",
-      "status": "image_matched"
+      "text": "[unclear] conclusions of the FBI. It is [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 36,
-      "text": "the FBI and is loaned to your",
-      "status": "image_matched"
+      "text": "[unclear] the FBI and is loaned to your [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 37,
-      "text": "contents are not to be distributed outside",
-      "status": "image_matched"
+      "text": "[unclear] contents are not to be distributed outside",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 38,
-      "text": "our agency.",
-      "status": "image_matched"
+      "text": "[unclear] agency.",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 39,

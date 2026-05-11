@@ -8,16 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 43 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0023-l0011",
-    "page_0023-l0025",
-    "page_0023-l0060"
-  ],
-  "lineCount": 66,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 51,
   "lines": [
     {
       "lineNumber": 1,
@@ -26,8 +22,8 @@
     },
     {
       "lineNumber": 2,
-      "text": "GUIDE",
-      "status": "image_matched"
+      "text": "GUIDE [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 3,
@@ -54,150 +50,158 @@
     },
     {
       "lineNumber": 8,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 9,
       "text": "2. Exact time of observation (local) 2040",
       "status": "image_matched"
     },
     {
+      "lineNumber": 9,
+      "text": "3. Place of Observation: Observation Post - Greenville Ma",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 10,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 11,
-      "text": "3. Place of Observation: Observation Post - Crossville, Md.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 12,
       "text": "(Map Coordinates) 913.3 - 858.6",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 14,
+      "lineNumber": 11,
       "text": "4. Position of observer (air, car, bldg, location of - give details):",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 12,
       "text": "Standing.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 17,
+      "lineNumber": 13,
       "text": "5. What attracted attention to object:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 14,
       "text": "Moving light.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 20,
+      "lineNumber": 15,
       "text": "6. Number of objects and sketch of formation or grouping:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 16,
       "text": "One",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 23,
+      "lineNumber": 17,
       "text": "7. Apparent size (compare to known object, i.e., sun, moon, thumb",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 18,
       "text": "or fist at arms length):",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 19,
       "text": "20 M. M. tracer ammunition.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 26,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 27,
+      "lineNumber": 20,
       "text": "8. Color of object:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 21,
       "text": "Predominantly orange with white trail.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 30,
+      "lineNumber": 22,
       "text": "9. Shape (give graphic description - compare with known object):",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 23,
       "text": "Rocket.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 33,
+      "lineNumber": 24,
       "text": "10. Altitude (Angle of elevation above horizon - 0 degrees at horizon,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 25,
       "text": "90 degrees overhead):",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 26,
       "text": "30°",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 37,
+      "lineNumber": 27,
       "text": "11. Direction from observer (Angle clockwise from North):",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 28,
       "text": "Due North.",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "text": "12. Distance from observer (Distance to town, bldg, etc., over",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "text": "which object appeared to be):",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "text": "Great distance - unestimable.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "13. Direction of flight of object (s):",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "North to South.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "14. Time of sight:",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "text": "3 to 5 seconds.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "text": "15. Speed (time to cover given angular distance):",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 37,
+      "text": "Very great speed - similar to falling star.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "text": "Final",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 39,
@@ -205,45 +209,45 @@
     },
     {
       "lineNumber": 40,
-      "text": "12. Distance from observer (Distance to town, bldg, etc., over",
+      "text": "REGRADED UNCLASSIFIED",
       "status": "image_matched"
     },
     {
       "lineNumber": 41,
-      "text": "which object appeared to be):",
+      "text": "ON MAR 26 1979",
       "status": "image_matched"
     },
     {
       "lineNumber": 42,
-      "text": "Great distance - unestimable.",
+      "text": "BY DEP CDR USAINSCOM FOIC",
       "status": "image_matched"
     },
     {
       "lineNumber": 43,
-      "status": "blank"
+      "text": "AUTH Para 1-603 DOD5200",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 44,
-      "text": "13. Direction of flight of object (s):",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 45,
-      "text": "North to South.",
+      "text": "FBI - SAN ANTONIO",
       "status": "image_matched"
     },
     {
       "lineNumber": 46,
-      "status": "blank"
+      "text": "AUG 1 6 1949",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 47,
-      "text": "14. Time of sight:",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 48,
-      "text": "3 to 5 seconds.",
+      "text": "CONFIDENTIAL",
       "status": "image_matched"
     },
     {
@@ -252,85 +256,13 @@
     },
     {
       "lineNumber": 50,
-      "text": "15. Speed (time to cover given angular distance):",
+      "text": "ENCLOSURE",
       "status": "image_matched"
     },
     {
       "lineNumber": 51,
-      "text": "Very great speed - similar to falling star.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 52,
-      "text": "Incl",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 53,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 54,
-      "text": "CONFIDENTIAL",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 55,
-      "text": "CONFIDENTIAL",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 56,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 57,
-      "text": "REGRADED UNCLASSIFIED",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 58,
-      "text": "ON MAR 26 1979",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 59,
-      "text": "BY DEP CDR USAINSCOM FOIC",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 60,
-      "text": "AUTH Para 1-503 DOD5200",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 61,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 62,
-      "text": "FBI - SAN ANTONIO",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 63,
-      "text": "AUG 16 1949",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 64,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 65,
-      "text": "65-58300",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 66,
-      "text": "ENCLOSURE",
-      "status": "image_matched"
+      "text": "65-583",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

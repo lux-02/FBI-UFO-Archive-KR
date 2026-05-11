@@ -8,33 +8,22 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 17 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0087-l0001",
-    "page_0087-l0002",
-    "page_0087-l0007",
-    "page_0087-l0008",
-    "page_0087-l0010",
-    "page_0087-l0011",
-    "page_0087-l0012",
-    "page_0087-l0023"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 28,
   "lines": [
     {
       "lineNumber": 1,
       "text": "The followin morning, upon reporting to work I confided my story",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
       "text": "to [REDACTED] stationed",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 3,
@@ -58,15 +47,13 @@
     },
     {
       "lineNumber": 7,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "67",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
       "text": "In the meantime, I learned that [REDACTED] had also",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
@@ -76,20 +63,17 @@
     {
       "lineNumber": 10,
       "text": "of [REDACTED] and Price, I telephoned [REDACTED] and",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
       "text": "asked him to relate what he had seen. [REDACTED] listened on an auxiliary",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 12,
       "text": "phone as a witness. [REDACTED] observations during the prior evening",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
@@ -143,8 +127,7 @@
     {
       "lineNumber": 23,
       "text": "[REDACTED] 67",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 24,

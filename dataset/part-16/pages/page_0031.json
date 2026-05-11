@@ -8,20 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "typed_or_printed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 13 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0031-l0001"
-  ],
-  "lineCount": 18,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 19,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "conditions, and that the objects might be either vertical or horizonal. The",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "conditions, and that the objects might be either vertical or horizontal. The",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -87,20 +84,25 @@
     },
     {
       "lineNumber": 15,
+      "text": "[Signature: Kalman D. Simon]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
       "text": "KALMAN D. SIMON",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "text": "C.I., U.S. Army",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "status": "blank"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 19,
       "text": "2",
       "status": "image_matched"
     }

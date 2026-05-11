@@ -8,39 +8,22 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "15 permanent_unresolved line(s) excluded under SRC-896. 34 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0160-l0002",
-    "page_0160-l0005",
-    "page_0160-l0007",
-    "page_0160-l0013",
-    "page_0160-l0017",
-    "page_0160-l0020",
-    "page_0160-l0023",
-    "page_0160-l0029",
-    "page_0160-l0032",
-    "page_0160-l0035",
-    "page_0160-l0038",
-    "page_0160-l0039",
-    "page_0160-l0042",
-    "page_0160-l0050",
-    "page_0160-l0060"
-  ],
-  "lineCount": 63,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 61,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "(8)",
-      "status": "image_matched"
+      "text": "(8) (8)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "#49 FEB. 23 1953. 3:5 to 3:35 PM. MONTBEN, FRANCE. 44°, 4° A",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "#49 FEB. 23 1953. 3:25 to 3:35 PM. MONTFBEN, FRANCE. 44°, 4°? A",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -55,8 +38,7 @@
     {
       "lineNumber": 5,
       "text": "radio navigator in the french air force.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -64,9 +46,8 @@
     },
     {
       "lineNumber": 7,
-      "text": "#50 FEB. 23 1953. Noontime. COOS BAY, OREGON. 43½°, 124½°. A cigar-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "#50 FEB. 23 1953. Noontime. COOS BAY, OREGON. 43 1/2°, 124 1/2°. A cigar-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
@@ -94,9 +75,8 @@
     },
     {
       "lineNumber": 13,
-      "text": "#51 FEB. 23 1953. Daytime. Near GOSHEN, OHIO. 39½°, 84°. A metallic",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "#51 FEB. 23 1953. Daytime. Near GOSHEN, OHIO. 39 1/2°, 84 1/2. A metallic",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
@@ -114,9 +94,8 @@
     },
     {
       "lineNumber": 17,
-      "text": "#53 FEB. 23 1953. Evening? SOUTHPORT, CONN. 8 Glowing saucers in a box",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "#53 FEB. 23 1953. Evening? SOUTHPORT, CONN. 8 Glowing saucers in a bo",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
@@ -129,14 +108,13 @@
     },
     {
       "lineNumber": 20,
-      "text": "#54 FEB. 23 1953. Evening. CONNEAUT, OHIO. 42°, 80½°. Strange lights",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "#54 FEB. 23 1953. Evening. CONNEAUT, OHIO. 42°, 80 1/2°. Strange light",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
-      "text": "seen here again, and also at AMHERST, OHIO. No other details available.",
-      "status": "image_matched"
+      "text": "seen here again, and also at AMHERST, OHIO. No other details availabl",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
@@ -144,208 +122,191 @@
     },
     {
       "lineNumber": 23,
-      "text": "#55 FEB. 23 1953. 4:00 P.M. NIMES, FRANCE. 44°, 4°. An unknown object",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "#55 FEB. 23 1953. 4:00 P.M. NIMES, FRANCE. 44°, 4 1/2°. An unknown obje",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
-      "text": "slowly crossed sky, leaving luminous vapor trail that was at first thin",
-      "status": "image_matched"
+      "text": "slowly crossed sky, leaving luminous vapor trail that was at first th",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 26,
       "text": "and horizontal, but later curled up in less than a minute, after",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 26,
       "text": "becoming shaped like a circle.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 27,
       "status": "blank"
     },
     {
-      "lineNumber": 29,
-      "text": "#56 FEB.23 1953. Evening. STURGEON BAY, WISCONSIN. 44½°, 87½°. Same",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 28,
+      "text": "#56 FEB.23 1953. Evening. STURGEON BAY, WISCONSIN. 44 3/4°, 87 3/4°. Same",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 29,
       "text": "bright light changing colors observed again. (See report #43)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 30,
       "status": "blank"
     },
     {
-      "lineNumber": 32,
-      "text": "#57 FEB. 24 1953. Morning. ERIE, OHIO. 42½°, 80°. Flying saucer was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 31,
+      "text": "#57 FEB. 24 1953. Morning. ERIE, OHIO. 42 1/8°, 80°. Flying saucer was",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 32,
       "text": "seen in area again, by milkman.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 33,
       "status": "blank"
     },
     {
-      "lineNumber": 35,
-      "text": "#58 FEB. 24 1953. Evening? OLEAN, NEW YORK. 42°, 78½°. A light glowing",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 34,
+      "text": "#58 FEB. 24 1953. Evening? OLEAN, NEW YORK. 42°, 78 1/2°. A light glowi",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 35,
       "text": "in sky changed color from red to orange for short time.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 36,
       "status": "blank"
+    },
+    {
+      "lineNumber": 37,
+      "text": "#59 FEB. 25 1953. 11:00 A.M. BLIDA, ALGERIA. 36 1/2°, 2 1/2°. Two unidentif",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 38,
-      "text": "#59 FEB. 25 1953. 11:00 A.M. BLIDA, ALGERIA. 36½°, 2½°. Two unidentified",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "aircraft or objects, flew noiselessly flew with great speed across sk",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 39,
-      "text": "aircraft or objects, flew noiselessly flew with great speed across sky,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "leaving a circular white vapor trail path that remained for some time",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 40,
-      "text": "leaving a circular white vapor trail path that remained for some time.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 41,
-      "status": "blank"
+      "text": "#60 FEB. 25 1953. Daytime. SERIA, BRUNEI STATE, BORNEO. 5°, 114°. A",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 42,
-      "text": "#60 FEB. 25 1953. Daytime. SERIA, BRUNEI STATE, BORNEO. 5°, 114°. A",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "circular object hovered in sky 40 minutes, left a vaportrail. (COMMEN",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
-      "text": "circular object hovered in sky 40 minutes, left a vaportrail. (COMMENT:",
-      "status": "image_matched"
+      "text": "A letter from the Education Dept. director in response to our reques",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 44,
-      "text": "A letter from the Education Dept. director in response to our request",
-      "status": "image_matched"
+      "text": "to the Borneo papers stated this was Venus shining brightly, visible",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 45,
-      "text": "to the Borneo papers stated this was Venus shining brightly, visible at",
-      "status": "image_matched"
+      "text": "noon time the next day also. The exceptional duration tends to back t",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 46,
-      "text": "noon time the next day also. The exceptional duration tends to back the",
-      "status": "image_matched"
+      "text": "conventional theories of a star or balloon, although news versions see",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 47,
-      "text": "conventional theories of a star or balloon, although new versions seem",
-      "status": "image_matched"
+      "text": "to describe a usual Rotating, circular saucer)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 48,
-      "text": "to describe a usual rotating, circular saucer)",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 49,
-      "status": "blank"
+      "text": "#61 FEB. 26 1953. Morning. PERIGEUX, FRANCE. 45°, 1°. A brilliant",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 50,
-      "text": "#61 FEB. 26 1953. Morning. PERIGEUX, FRANCE. 45°, 1°. A brilliant",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "cylindrical object, followed by a shapeless object appeared in sky. T",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 51,
-      "text": "cylindrical object, followed by a shapeless object appeared in sky. The",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 52,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 53,
       "text": "very large shapeless object moved away with great speed, noiselessly,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 54,
-      "text": "and the pole-like or cigar shaped object turned towards city and moved",
-      "status": "image_matched"
+      "lineNumber": 52,
+      "text": "and the pole-like or cigar shaped object turned towards city and move",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 55,
+      "lineNumber": 53,
       "text": "across part of sky for 1 minute. (COMMENT: This appears to be a rare",
       "status": "image_matched"
     },
     {
-      "lineNumber": 56,
+      "lineNumber": 54,
       "text": "report of a saucer seen with the cigar-shaped objects, first reported",
       "status": "image_matched"
     },
     {
-      "lineNumber": 57,
+      "lineNumber": 55,
       "text": "over Sweden in 1946. The eyewitnesses said object moved in different",
       "status": "image_matched"
     },
     {
-      "lineNumber": 58,
+      "lineNumber": 56,
       "text": "directions, and moved too fast to have been clouds of any sort.)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 59,
+      "lineNumber": 57,
       "status": "blank"
     },
     {
-      "lineNumber": 60,
-      "text": "#62 FEB. 27 1953. 6:05 AM. MONROE TOWNSHIP, OHIO. 42°, 80½°. A very",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 58,
+      "text": "#62 FEB. 27 1953. 6:05 AM. MONROE TOWNSHIP, OHIO. 42°, 80 1/2°. A very",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 61,
+      "lineNumber": 59,
       "text": "brilliant yellow white light, elliptical or eyeshaped, hovered for 2",
       "status": "image_matched"
     },
     {
-      "lineNumber": 62,
+      "lineNumber": 60,
       "text": "minutes in the western sky. It appeared about '8 inches' across,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 63,
-      "text": "and had the brilliance of a welding flame.",
-      "status": "image_matched"
+      "lineNumber": 61,
+      "text": "and had the brilliance of a welding flame, but not the color.",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

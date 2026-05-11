@@ -8,20 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0046-l0005",
-    "page_0046-l0006"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 36,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "COPY",
-      "status": "image_matched"
+      "text": "C O P Y",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -39,18 +36,16 @@
     {
       "lineNumber": 5,
       "text": "1. Statement by Robert F. Myers, Weather Section, Atomic Energy",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "   Commission, Oak Ridge, Tennessee, concerning the peculiar sighting on",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Commission, Oak Ridge, Tennessee, concerning the peculiar sighting on",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "text": "   25 May 1949.",
+      "text": "25 May 1949.",
       "status": "image_matched"
     },
     {
@@ -64,12 +59,12 @@
     },
     {
       "lineNumber": 10,
-      "text": "   Energy Commission, Oak Ridge, Tennessee, concerning \"Objects Sighted",
+      "text": "Energy Commission, Oak Ridge, Tennessee, concerning \"Objects Sighted",
       "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": "   Over Oak Ridge\" on 24 October 1950.",
+      "text": "Over Oak Ridge\" on 24 October 1950.",
       "status": "image_matched"
     },
     {
@@ -83,7 +78,7 @@
     },
     {
       "lineNumber": 14,
-      "text": "   Oak Ridge\" on 24 October 1950.",
+      "text": "Oak Ridge\" on 24 October 1950.",
       "status": "image_matched"
     },
     {
@@ -97,12 +92,12 @@
     },
     {
       "lineNumber": 17,
-      "text": "   Energy Commission, Oak Ridge, Tennessee, concerning \"Objects Sighted",
+      "text": "Energy Commission, Oak Ridge, Tennessee, concerning \"Objects Sighted",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "   Over Oak Ridge\" on 5 November 1950 and a sketch thereof.",
+      "text": "Over Oak Ridge\" on 5 November 1950 and a sketch thereof.",
       "status": "image_matched"
     },
     {
@@ -116,7 +111,7 @@
     },
     {
       "lineNumber": 21,
-      "text": "   Mr. Don Patrick at the time and place of observation.",
+      "text": "Mr. Don Patrick at the time and place of observation.",
       "status": "image_matched"
     },
     {
@@ -130,7 +125,7 @@
     },
     {
       "lineNumber": 24,
-      "text": "   October 1950.",
+      "text": "October 1950.",
       "status": "image_matched"
     },
     {
@@ -144,7 +139,7 @@
     },
     {
       "lineNumber": 27,
-      "text": "   other weather data, and the release of radioactive particles in \"Argon\".",
+      "text": "other weather data, and the release of radioactive particles in \"Argon\".",
       "status": "image_matched"
     },
     {
@@ -158,12 +153,12 @@
     },
     {
       "lineNumber": 30,
-      "text": "   Oak Ridge\" on 23 October 1950, and Geiger counter readings in that",
+      "text": "Oak Ridge\" on 23 October 1950, and Geiger counter readings in that",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "text": "   vicinity.",
+      "text": "vicinity.",
       "status": "image_matched"
     },
     {
@@ -177,7 +172,7 @@
     },
     {
       "lineNumber": 34,
-      "text": "   Ridge\" on 25 October 1950.",
+      "text": "Ridge\" on 25 October 1950.",
       "status": "image_matched"
     },
     {

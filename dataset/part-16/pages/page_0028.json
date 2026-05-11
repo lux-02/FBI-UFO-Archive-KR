@@ -8,19 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 42 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0028-l0007",
-    "page_0028-l0010",
-    "page_0028-l0017",
-    "page_0028-l0027",
-    "page_0028-l0048",
-    "page_0028-l0050"
-  ],
-  "lineCount": 62,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 65,
   "lines": [
     {
       "lineNumber": 1,
@@ -29,298 +22,305 @@
     },
     {
       "lineNumber": 2,
-      "text": "2",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
+      "text": "- 2 -",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
       "text": "16. Sound and odor:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 5,
-      "status": "blank"
-    },
-    {
       "lineNumber": 6,
-      "text": "17. Trail (color, length, width, persistence, etc.)",
+      "text": "None",
       "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "Object had a yellow trail and it appeared that there was a colored vapor trail",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
-      "text": "in the sky after the object disappeared",
+      "text": "17. Trail (color, length, width, persistence, etc.)",
       "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "status": "blank"
+      "text": "Object had a yellow trail and it appeared that there was a colored vapor trail",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "18. Luminosity (visible by reflection, incandescence, other - degree",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "in the sky after the object disappeared",
+      "status": "image_matched"
     },
     {
       "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "18. Luminosity (visible by reflection, incandescence, other - degree",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
       "text": "of brilliance):",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
       "text": "Was not very brilliant",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 15,
       "status": "blank"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 16,
       "text": "19. Projections (fins, wings, rods, antennae, canopies, etc.):",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 17,
       "text": "None",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 18,
       "status": "blank"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 19,
       "text": "20. Manouvers (turns, climbs, dives, etc. - sketch of flight path):",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 20,
       "text": "Straight flight with gradual incline",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 21,
       "status": "blank"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "text": "21. Manner of disappearance:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 23,
       "text": "Cut off like a light",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 24,
       "status": "blank"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 25,
       "text": "22. Effect on clouds:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 26,
       "text": "None",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 27,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 28,
       "text": "23. Additional information concerning object:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
-      "text": "Object had a jaggered outline, appeared to be burning up and misinterpreting",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 29,
+      "text": "Object had a jaggered outline, appeared to be burning up and disintergrating",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 30,
       "text": "Observer saw falling stars but this object had no comparison to them.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 31,
       "status": "blank"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 32,
       "text": "24. Weather conditions and light at time of sighting:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 33,
       "text": "Clear",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 34,
       "status": "blank"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 35,
       "text": "Name and address of observer:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
-      "text": "Col Joseph B. Madison",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 35,
-      "text": "SGC Co 12th AIB",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 36,
+      "text": "Cpl Joseph E. Madison",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
+      "text": "\"C\" Co 12th AIB",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 38,
       "text": "2d Armd Div",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
-      "text": "Camp Hood, Texas",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 38,
-      "status": "blank"
-    },
-    {
       "lineNumber": 39,
-      "text": "Occupation and hobbies:",
+      "text": "Camp Hood, Texas",
       "status": "image_matched"
     },
     {
       "lineNumber": 40,
-      "text": "NCO - US Army",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
       "status": "blank"
     },
     {
-      "lineNumber": 42,
-      "text": "Comments of interrogator relative to intelligence and character of",
+      "lineNumber": 41,
+      "text": "Occupation and hobbies:",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 42,
+      "text": "MOS - US Army",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
-      "text": "observer (check neighbors, police dept., FBI records, employer, etc.):",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 44,
+      "text": "Comments of Interrogator relative to intelligence and character of",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 45,
+      "text": "observer (Check neighbors, police dept., FBI records, employer, etc.):",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 46,
       "text": "Fair observer",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 47,
       "text": "REGRADED UNCLASSIFIED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
-      "text": "ON 1 MAY 1979",
-      "status": "image_matched"
+      "lineNumber": 48,
+      "text": "ON MAY 10 1979",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 49,
       "text": "BY DEP CDR USAINSCOM FOIC",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
-      "text": "AUTH Para 1-603 DOD5200",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 49,
-      "status": "blank"
-    },
-    {
       "lineNumber": 50,
-      "text": "Did observer wear glasses, especially polariod glasses at time of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "AUTH Para 1-603 DOD5200",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 51,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 52,
+      "text": "Did observer wear glasses, especially polariod glasses at time of",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
       "text": "sighting, or was object viewed through canopy, window, or other",
       "status": "image_matched"
     },
     {
-      "lineNumber": 52,
+      "lineNumber": 54,
       "text": "transparent material? None",
       "status": "image_matched"
     },
     {
-      "lineNumber": 53,
+      "lineNumber": 55,
       "text": "Pages 3 & 4 of this form not applicable to this incident.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 54,
+      "lineNumber": 56,
       "status": "blank"
     },
     {
-      "lineNumber": 55,
-      "text": "CONFIDENTIAL",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 56,
+      "lineNumber": 57,
       "text": "INTERVIEWED BY:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 57,
-      "text": "George M. Stevens",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 58,
-      "text": "Capt, Int. Off",
+      "text": "CONFIDENTIAL",
       "status": "image_matched"
     },
     {
       "lineNumber": 59,
+      "text": "[Signature]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 60,
+      "text": "GEORGE E. [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 61,
+      "text": "Capt Inf",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 62,
       "text": "Hq, 2d Armd Div",
       "status": "image_matched"
     },
     {
-      "lineNumber": 60,
+      "lineNumber": 63,
       "text": "Camp Hood, Texas",
       "status": "image_matched"
     },
     {
-      "lineNumber": 61,
+      "lineNumber": 64,
       "status": "blank"
     },
     {
-      "lineNumber": 62,
+      "lineNumber": 65,
       "text": "CONFIDENTIAL",
       "status": "image_matched"
     }

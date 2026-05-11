@@ -8,13 +8,11 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 48 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0047-l0050"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 59,
   "lines": [
     {
@@ -70,13 +68,13 @@
     },
     {
       "lineNumber": 12,
-      "text": "These inclosures are composed of witness statements; background information con-",
-      "status": "image_matched"
+      "text": "These inclosures are composed of witness statements; background information concerning",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "text": "cerning previous sightings of peculiar objects over Oak Ridge; and radar reports.",
-      "status": "image_matched"
+      "text": "previous sightings of peculiar objects over Oak Ridge; and radar reports.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
@@ -109,8 +107,8 @@
     },
     {
       "lineNumber": 20,
-      "text": "Security Branch, MEPA Division, Oak Ridge; AEC Security Patrol, Oak Ridge; FBI,",
-      "status": "image_matched"
+      "text": "Security Branch, NEPA Division, Oak Ridge; AEC Security Patrol, Oak Ridge; FBI,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
@@ -119,18 +117,18 @@
     },
     {
       "lineNumber": 22,
-      "text": "Tennessee, fail to evolve an adequate explanation for SUBJECT; however the possi-",
-      "status": "image_matched"
+      "text": "Tennessee, fail to evolve an adequate explanation for SUBJECT, however the possibilities",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
-      "text": "bilities of practical jokers, mass hysteria, balloons of any description, flights",
-      "status": "image_matched"
+      "text": "of practical jokers, mass hysteria, ballons of any description, flights",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
-      "text": "of birds (with or without cobwebs or other objects attached), falling leaves, insect",
-      "status": "image_matched"
+      "text": "of birds (with or without cobwebs or other objects attached), falling leaves, insects",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
@@ -173,13 +171,13 @@
     },
     {
       "lineNumber": 33,
-      "text": "first is that the objects are a physical phenomenon which have a scientific explan-",
-      "status": "image_matched"
+      "text": "first is that the objects are a physical phenomenon which have a scientific explanation;",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 34,
-      "text": "ation; the second is that the objects are experimental objects (from an undetermin-",
-      "status": "image_matched"
+      "text": "the second is that the objects are experimental objects (from an undetermined",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 35,
@@ -241,8 +239,8 @@
     },
     {
       "lineNumber": 47,
-      "text": "Because this object does not resemble other water \"spots\" on photograph, and",
-      "status": "image_matched"
+      "text": "Because this object does not resemble other water [unclear] the photograph, and",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 48,
@@ -251,33 +249,31 @@
     },
     {
       "lineNumber": 49,
-      "text": "first object, some officials at Atomic Energy Commission question the veracity of",
-      "status": "image_matched"
+      "text": "first object, some officials at Atomic Energy Commission question the veracity of [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 50,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 51,
       "status": "blank"
     },
     {
-      "lineNumber": 52,
+      "lineNumber": 51,
       "text": "3 cc Commanding General, Third Army",
       "status": "image_matched"
     },
     {
-      "lineNumber": 53,
+      "lineNumber": 52,
       "text": "1 cc Major Martin, G-2 Section, Third Army",
       "status": "image_matched"
     },
     {
-      "lineNumber": 54,
+      "lineNumber": 53,
       "text": "1 cc Div. AEC, Oak Ridge, Tennessee",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 54,
+      "status": "blank"
     },
     {
       "lineNumber": 55,

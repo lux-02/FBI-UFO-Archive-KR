@@ -8,21 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 57 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0168-l0001",
-    "page_0168-l0004"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 73,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "New Zealand Civilian [unclear] our investigations, that very [unclear] out to all saucer [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "New Zealand Civilian [unclear] our investigations, that were [unclear] out to all saucer [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
@@ -36,13 +32,12 @@
     {
       "lineNumber": 4,
       "text": "We also plan containing several other European, Australian, and New Zealand",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "groups recently formed and publicized, when time permits.",
-      "status": "image_matched"
+      "text": "groups recently formed and publicised, when time permits.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -98,18 +93,18 @@
     },
     {
       "lineNumber": 17,
-      "text": "Mr. DuBarry prepared and solicited the material on the subject for Mr. Keyhoe",
-      "status": "image_matched"
+      "text": "Mr. DuBarry prepared and collated the material on the subject for Mr. Keyhoe",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": "prior to his investigation, and is the author of aviation magazine and animal",
-      "status": "image_matched"
+      "text": "[unclear] his investigation, and is the author of aviation magazines and one",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 19,
-      "text": "articles in TRUE. He is at present the Associate Editor of TRUE.",
-      "status": "image_matched"
+      "text": "[unclear] article in TRUE. He is at present the Associate Editor of TRUE.",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 20,
@@ -132,8 +127,8 @@
     },
     {
       "lineNumber": 24,
-      "text": "Jerry Moore's afternoon TV show, discussing natural history, and displaying",
-      "status": "image_matched"
+      "text": "Barry Moore's afternoon TV show, discussing natural history, and displaying",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
@@ -142,8 +137,8 @@
     },
     {
       "lineNumber": 26,
-      "text": "bureaus and Intelligence departments, has given him many connections with inside",
-      "status": "image_matched"
+      "text": "bureaus and intelligence departments, has given him many connections with inside",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
@@ -161,13 +156,13 @@
     },
     {
       "lineNumber": 30,
-      "text": "1,000 in the US, distributes its own magazine, and studies many similar mysteri-",
-      "status": "image_matched"
+      "text": "1,000 in the US, distributes its own magazine; and studies many similar myster-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 31,
-      "text": "ous subjects, receiving many saucer clippings from readers. They have lent",
-      "status": "image_matched"
+      "text": "ious subjects, receiving many saucer clippings from readers. They have lent",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
@@ -223,8 +218,8 @@
     },
     {
       "lineNumber": 43,
-      "text": "8½\", for filing lengthwise on 8½\" x 11\" pages in notebooks. Each report is",
-      "status": "image_matched"
+      "text": "8\", for filing lengthwise on 8½\" x 11\" pages in notebooks. Each report is",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 44,
@@ -247,13 +242,13 @@
     },
     {
       "lineNumber": 48,
-      "text": "(2 notebooks of photos, boxes, vapor-trails), sketches (more than 10), inventors",
-      "status": "image_matched"
+      "text": "(2 notebooks of photos, hoaxes, vaportrails), sketches (more than 40), inventors",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 49,
-      "text": "(a notebook nearly fifty), magazine articles (6 notebooks), and half a dozen",
-      "status": "image_matched"
+      "text": "(1 notebook nearly fifty), magazine articles (6 notebooks), and half a dozen",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 50,
@@ -271,8 +266,8 @@
     },
     {
       "lineNumber": 53,
-      "text": "notebooks filed, each with between 60 and 70 reports in each, total number of",
-      "status": "image_matched"
+      "text": "notebooks filed, each with between 40 and 70 reports in each, total number of",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 54,
@@ -305,8 +300,8 @@
     },
     {
       "lineNumber": 60,
-      "text": "books are filed in two 4 drawer filing cabinets, with the third used only for",
-      "status": "image_matched"
+      "text": "books are filed in two 4 drawer filling cabinets, with the third used only for",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 61,
@@ -329,8 +324,8 @@
     },
     {
       "lineNumber": 65,
-      "text": "though membership is excellent in most areas, such as the northeast,",
-      "status": "image_matched"
+      "text": "though membership is excellent in most areas, it is weak in several, such as the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 66,
@@ -358,8 +353,8 @@
     },
     {
       "lineNumber": 71,
-      "text": "ENGLAND and its colonies. Coverage for the 4 areas of southern ASIA, AUSTRALIA,",
-      "status": "image_matched"
+      "text": "ENGLAND and its colonies. Coverage for the areas of southern ASIA, AUSTRALIA,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 72,

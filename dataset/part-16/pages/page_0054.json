@@ -8,16 +8,11 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 42 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0054-l0003",
-    "page_0054-l0005",
-    "page_0054-l0050",
-    "page_0054-l0051"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 55,
   "lines": [
     {
@@ -32,8 +27,7 @@
     {
       "lineNumber": 3,
       "text": "111th CIC Detachment, FAO # 8, P. O. Box 379, Knoxville, Tennessee",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -42,8 +36,7 @@
     {
       "lineNumber": 5,
       "text": "OBJECTS SIGHTED OVER OAK RIDGE, TENNESSEE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -61,8 +54,8 @@
     },
     {
       "lineNumber": 9,
-      "text": "a glow varying in color from red to green, to blue-green, to blue, and to",
-      "status": "image_matched"
+      "text": "a glow, varying in color from red to green, to blue-green, to blue, and to",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
@@ -100,8 +93,8 @@
     },
     {
       "lineNumber": 17,
-      "text": "MEPA Division, Oak Ridge, Tennessee, also saw from his residence an object",
-      "status": "image_matched"
+      "text": "NEPA Division, Oak Ridge, Tennessee, also saw from his residence an object",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
@@ -262,14 +255,12 @@
     {
       "lineNumber": 50,
       "text": "3 cc Hq., Third Army, Ft. McPherson, Ga.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 51,
       "text": "1 cc Sec. Div., AEC, Oak Ridge, Tenn.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 52,

@@ -8,22 +8,11 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 18 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0095-l0003",
-    "page_0095-l0006",
-    "page_0095-l0010",
-    "page_0095-l0016",
-    "page_0095-l0021",
-    "page_0095-l0024",
-    "page_0095-l0025",
-    "page_0095-l0028",
-    "page_0095-l0033",
-    "page_0095-l0034"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 38,
   "lines": [
     {
@@ -38,8 +27,7 @@
     {
       "lineNumber": 3,
       "text": "MEMO SAC:",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -48,14 +36,12 @@
     },
     {
       "lineNumber": 5,
-      "text": "RE: UNKNOWN OBJECT FOUND IN BACKYARD OF",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "RE: UNKNOWN OBJECT FOUND IN BACKYARD OF [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
@@ -73,8 +59,7 @@
     {
       "lineNumber": 10,
       "text": "At 6:00 P.M. this date, [REDACTED] Okla. City,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
@@ -103,8 +88,7 @@
     {
       "lineNumber": 16,
       "text": "[REDACTED] further stated in an incoherent manner that he didn't know",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
@@ -128,8 +112,7 @@
     {
       "lineNumber": 21,
       "text": "[REDACTED] further stated that the officers from the OCPD had taken the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
@@ -143,14 +126,12 @@
     {
       "lineNumber": 24,
       "text": "[REDACTED] was very difficult to understand and voluntarily furnished",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 25,
       "text": "information that he \"had been drinking some\". [REDACTED] was thanked for",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 26,
@@ -164,8 +145,7 @@
     {
       "lineNumber": 28,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
@@ -187,15 +167,13 @@
     },
     {
       "lineNumber": 33,
-      "text": "SEARCHED [unclear] INDEXED",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "SEARCHED [unclear] INDEXED [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 34,
-      "text": "SERIALIZED [unclear] FILED",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "SERIALIZED [unclear] FILED [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 35,

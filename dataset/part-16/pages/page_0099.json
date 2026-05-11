@@ -8,21 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 26 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0099-l0001",
-    "page_0099-l0005"
-  ],
-  "lineCount": 41,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 60,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "1- [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "1 - [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
@@ -39,9 +35,8 @@
     },
     {
       "lineNumber": 5,
-      "text": "Dear [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
@@ -49,94 +44,94 @@
     },
     {
       "lineNumber": 7,
+      "text": "Dear [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
       "text": "I have received your letter dated March 13,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 10,
       "text": "1961, and the interest which prompted your communicating",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 11,
       "text": "with me is indeed appreciated.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
       "status": "blank"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 13,
       "text": "This Bureau has conducted no investigation of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
       "text": "the organization about which you inquired. In addition,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 15,
       "text": "the jurisdiction and responsibilities of the FBI, strictly",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 16,
       "text": "an investigative agency of the Federal Government, do not",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 17,
       "text": "extend to furnishing evaluations or comments concerning",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 18,
       "text": "the character or integrity of any organization, publication",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 19,
       "text": "or individual. I am sure you will understand the necessity",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 20,
       "text": "for this policy and will not infer that we do or do not",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 21,
       "text": "have in our files the information you desire.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 23,
       "text": "In view of your interest in the internal",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 24,
       "text": "security of the United States, I am enclosing some",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
-      "text": "literature which you may wish to read.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "status": "blank"
-    },
-    {
       "lineNumber": 25,
-      "text": "Sincerely yours,",
+      "text": "literature which you may wish to read.",
       "status": "image_matched"
     },
     {
@@ -145,7 +140,7 @@
     },
     {
       "lineNumber": 27,
-      "text": "J. Edgar Hoover",
+      "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
@@ -154,7 +149,7 @@
     },
     {
       "lineNumber": 29,
-      "text": "Enclosures - 5",
+      "text": "J. Edgar Hoover",
       "status": "image_matched"
     },
     {
@@ -163,21 +158,21 @@
     },
     {
       "lineNumber": 31,
-      "text": "JFF:eab",
+      "text": "Enclosures - 5",
       "status": "image_matched"
     },
     {
       "lineNumber": 32,
-      "text": "(3)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
       "status": "blank"
     },
     {
+      "lineNumber": 33,
+      "text": "JFF:eab",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 34,
-      "text": "MAR 21 5 PM '61",
+      "text": "(3)",
       "status": "image_matched"
     },
     {
@@ -186,29 +181,122 @@
     },
     {
       "lineNumber": 36,
+      "text": "Tolson",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
+      "text": "Parsons",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 38,
+      "text": "Felt",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Belmont",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 40,
+      "text": "Callahan",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 41,
+      "text": "Casper",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "text": "Conrad",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 43,
+      "text": "DeLoach",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 44,
+      "text": "Evans",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 45,
+      "text": "Malone",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 46,
+      "text": "Rosen",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 47,
+      "text": "Tavel",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 48,
+      "text": "Trotter",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 49,
+      "text": "W.C. Sullivan",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "text": "Tele. Room",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
+      "text": "Ingram",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 52,
+      "text": "Gandy",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 54,
+      "text": "MAR 27 1961",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 55,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 56,
+      "text": "MAIL ROOM ☐ TELETYPE UNIT ☐",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 57,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 58,
       "text": "SEE NOTE ON YELLOW PAGE TWO.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 59,
       "status": "blank"
     },
     {
-      "lineNumber": 38,
-      "text": "MAIL ROOM",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 39,
-      "text": "TELETYPE UNIT",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 41,
+      "lineNumber": 60,
       "text": "62-103581-10",
       "status": "image_matched"
     }

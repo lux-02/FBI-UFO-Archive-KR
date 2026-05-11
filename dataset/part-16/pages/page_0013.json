@@ -8,16 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 46 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0013-l0009",
-    "page_0013-l0046",
-    "page_0013-l0052"
-  ],
-  "lineCount": 57,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 76,
   "lines": [
     {
       "lineNumber": 1,
@@ -30,272 +26,360 @@
     },
     {
       "lineNumber": 3,
-      "text": "TO : Mr. A. H. Belmont DATE: September 23, 1957",
-      "status": "image_matched"
+      "text": "TO : Mr. A. H. Belmont",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "status": "blank"
+      "text": "DATE: September 23, 1957",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "FROM : R. R. Roach",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "status": "blank"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "text": "SUBJECT: UNIDENTIFIED FLYING OBJECT REPORTED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "ON SEPTEMBER 20, 1957; INTELLIGENCE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
-      "text": "ADVISORY COMMITTEE - WATCH COMMITTEE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 10,
-      "status": "blank"
+      "text": "ADVISORY COMMITTEE - WATCH COMMITTEE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Tolson",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
+      "text": "Nichols",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Boardman",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Belmont",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Mohr",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Parsons",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 18,
+      "text": "Rosen",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 19,
+      "text": "Tamm",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 20,
+      "text": "Trotter",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
+      "text": "Nease",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 22,
+      "text": "Tele. Room",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 23,
+      "text": "Holloman",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 24,
+      "text": "Gandy",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
       "text": "The following information was obtained by Liaison",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
-      "text": "Supervisor M.W. Kuhrtz at the Intelligence Advisory Committee - Watch",
-      "status": "image_matched"
+      "lineNumber": 27,
+      "text": "Supervisor M.W. Kuhrts at the Intelligence Advisory Committee - Watch",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 28,
       "text": "Committee special meeting on September 21, 1957, relative to the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 29,
       "text": "captioned matter. The initial report in this matter was given by the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 30,
       "text": "U.S. Air Defense Command to the White House on September 20, 1957,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 31,
       "text": "reflecting that an unidentified flying object was picked up by radar",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 32,
       "text": "station at Montauk Point, Long Island, New York, at approximately",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 33,
       "text": "4 p.m., proceeding in a westward direction with an altitude of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 34,
       "text": "50,000 feet and a speed of 2,000 knots (approximately 2300 miles per",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 35,
       "text": "hour). The radar station at Montauk Point maintained an image for",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 36,
       "text": "approximately one minute, and thereafter it was picked up by a radar",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 37,
       "text": "station at Benton, Pennsylvania (Wilkes-Barre, Pennsylvania), which",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 38,
       "text": "coincided with the Montauk Point pickup and was tracked by Benton for",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 39,
       "text": "approximately 9 minutes. Thereafter, jamming was reported by several",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 40,
       "text": "radar stations westward as far as Chicago.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 41,
       "status": "blank"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 42,
       "text": "The Watch Committee at its meeting on September 21 was told",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 43,
       "text": "by the Air Defense Command that the original reports had been down-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 44,
       "text": "graded, since there was an 11-minute break in the tracking by the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
-      "text": "various radar stations, and further that weather stations in the",
-      "status": "image_matched"
+      "lineNumber": 45,
+      "text": "various radar stations, and further that weather conditions in the",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 46,
       "text": "area were of the type which have in the past produced false radar",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 47,
       "text": "\"pips\" and electronic information. Also, there were a number of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 48,
       "text": "Strategic Air Command planes in the Chicago area on a training flight.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 49,
       "text": "The Watch Committee was told that the Air Defense Command has not",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 50,
       "text": "completed its investigation of this incident; however, in any event",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 51,
       "text": "it was reported that the phenomena reported west of Buffalo, New York,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 52,
       "text": "were not related to the object as reported by Montauk Point and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 53,
       "text": "Benton, Pennsylvania.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 54,
       "status": "blank"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 55,
       "text": "The Watch Committee concluded that, \"It is highly improbable",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 56,
       "text": "that a Soviet operation is responsible for the unidentified flying",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 57,
       "text": "object reports of September, 1957.\" The Watch Committee in considering",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 58,
       "text": "this matter also concluded that there is no intelligence on Soviet",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 59,
       "text": "activities which can be related to a missile launching of this type.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 60,
       "status": "blank"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 61,
       "text": "[unclear] (7)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 62,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 63,
       "text": "1 - Mr. Belmont",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
+      "lineNumber": 64,
       "text": "1 - Mr. W.C. Sullivan",
       "status": "image_matched"
     },
     {
-      "lineNumber": 49,
+      "lineNumber": 65,
       "text": "1 - Mr. D.E. Moore",
       "status": "image_matched"
     },
     {
-      "lineNumber": 50,
+      "lineNumber": 66,
       "text": "1 - Mr. L. Whitson",
       "status": "image_matched"
     },
     {
-      "lineNumber": 51,
+      "lineNumber": 67,
       "text": "1 - Liaison Section",
       "status": "image_matched"
     },
     {
-      "lineNumber": 52,
-      "text": "55.01 [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 68,
+      "text": "55 OCT 2 1957",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 53,
+      "lineNumber": 69,
       "status": "blank"
     },
     {
-      "lineNumber": 54,
-      "text": "RECORDED - 28",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 55,
-      "text": "INDEXED - 28",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 56,
+      "lineNumber": 70,
       "text": "EX - 116",
       "status": "image_matched"
     },
     {
-      "lineNumber": 57,
+      "lineNumber": 71,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 72,
+      "text": "RECORDED - 28",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 73,
+      "text": "INDEXED - 28",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 74,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 75,
+      "text": "62-74570-18",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 76,
       "text": "18 SEP 27 1957",
       "status": "image_matched"
     }

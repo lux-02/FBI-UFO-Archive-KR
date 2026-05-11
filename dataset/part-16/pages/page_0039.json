@@ -8,15 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 35 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0039-l0030",
-    "page_0039-l0048"
-  ],
-  "lineCount": 48,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 44,
   "lines": [
     {
       "lineNumber": 1,
@@ -72,8 +69,8 @@
     },
     {
       "lineNumber": 12,
-      "text": "Deleted under exemption(s) _______________________________________ with no segregable",
-      "status": "image_matched"
+      "text": "Deleted under exemption(s) with no segregable",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
@@ -104,13 +101,13 @@
     },
     {
       "lineNumber": 19,
-      "text": "Document(s) originating with the following government agency(ies) _________________________",
-      "status": "image_matched"
+      "text": "Document(s) originating with the following government agency(ies)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "text": "____________________________________, was/were forwarded to them for direct response to you.",
-      "status": "image_matched"
+      "text": ", was/were forwarded to them for direct response to you.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
@@ -118,13 +115,13 @@
     },
     {
       "lineNumber": 22,
-      "text": "Page(s) referred for consultation to the following government agency(ies): ____________________",
-      "status": "image_matched"
+      "text": "Page(s) referred for consultation to the following government agency(ies):",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
-      "text": "____________________________________ as the information originated with them. You will",
-      "status": "image_matched"
+      "text": "as the information originated with them. You will",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
@@ -142,33 +139,30 @@
     },
     {
       "lineNumber": 27,
-      "text": "________________________________________________________________________________",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 28,
-      "text": "________________________________________________________________________________",
-      "status": "image_matched"
+      "text": "For your information: Department of the Air Force, Headquarters, Air",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
-      "text": "________________________________________________________________________________",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
-      "text": "[CHECKMARK] For your information: Department of the Air Force, Headquarters, Air",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 31,
       "text": "Force Office of Special Investigations advised that the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 30,
       "text": "attached information could be released in its entirety.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 32,
+      "text": "The following number is to be used for reference regarding these pages:",
       "status": "image_matched"
     },
     {
@@ -177,17 +171,17 @@
     },
     {
       "lineNumber": 34,
-      "text": "The following number is to be used for reference regarding these pages:",
+      "text": "XXXXXX",
       "status": "image_matched"
     },
     {
       "lineNumber": 35,
-      "text": "________________________________________________________________________________",
+      "text": "XXXXXX",
       "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "text": "________________________________________________________________________________",
+      "text": "XXXXXX",
       "status": "image_matched"
     },
     {
@@ -196,58 +190,38 @@
     },
     {
       "lineNumber": 38,
-      "text": "XXXXXX",
-      "status": "image_matched"
+      "text": "XXXXXXXXXXXXXXXXXXXX",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 39,
-      "text": "XXXXXX",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "XXXXXX",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 42,
-      "text": "XXXXXXXXXXXXXXXXXXXXX",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
       "text": "X DELETED PAGE(S) X",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 40,
       "text": "X NO DUPLICATION FEE X",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 41,
       "text": "X FOR THIS PAGE X",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
-      "text": "XXXXXXXXXXXXXXXXXXXXX",
-      "status": "image_matched"
+      "lineNumber": 42,
+      "text": "XXXXXXXXXXXXXXXXXXXX",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 43,
       "text": "Item 6",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
+      "lineNumber": 44,
       "text": "FBI/DOJ",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

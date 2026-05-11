@@ -8,17 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 40 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0114-l0002",
-    "page_0114-l0014",
-    "page_0114-l0021",
-    "page_0114-l0023"
-  ],
-  "lineCount": 51,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 60,
   "lines": [
     {
       "lineNumber": 1,
@@ -28,8 +23,7 @@
     {
       "lineNumber": 2,
       "text": "1 - [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 3,
@@ -37,240 +31,275 @@
     },
     {
       "lineNumber": 4,
-      "text": "REC-86",
-      "status": "image_matched"
+      "text": "REC-86 62-8557-1987",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "Date: September 27, 1961",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
       "text": "To: Office of Special Investigations",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 9,
       "text": "Air Force",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
       "text": "Attention: Chief, Counterintelligence Division",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 12,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 13,
       "text": "From: John Edgar Hoover, Director",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
       "text": "Subject: UNIDENTIFIED FLYING OBJECT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 16,
       "text": "SEPTEMBER 22, 1961, IN VICINITY",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 17,
       "text": "OF WASHINGTON, D. C.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 18,
       "status": "blank"
     },
     {
-      "lineNumber": 14,
-      "text": "On September 22, 1961, [REDACTED] advised this Bureau",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 19,
+      "text": "On September 22, 1961, [REDACTED],",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 20,
+      "text": "Howard University, Washington, D. C., advised this Bureau",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
       "text": "that between 2:00 a.m. and 2:25 a.m. on September 22, 1961, he",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 22,
       "text": "had observed a light which he felt could be a flying disc. He",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 23,
       "text": "explained that the light which was in the East seemed to change",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 24,
       "text": "colors and to ascend and descend. He discounted the possibility",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 25,
       "text": "that the light was from an aircraft or was a falling star.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 26,
       "status": "blank"
     },
     {
-      "lineNumber": 21,
-      "text": "The above information was furnished to Captain [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 27,
+      "text": "The above information was furnished to Captain [REDACTED],",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 28,
       "text": "Department of the Air Force, at 2:30 a.m. September 22,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 29,
       "text": "1961, by Special Agent [REDACTED] of this Bureau. We are",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 30,
       "text": "taking no further action with respect to this matter.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 31,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 32,
       "text": "JFW:akg",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 33,
       "text": "(5)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 34,
       "status": "blank"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 35,
       "text": "BY COURIER SVC.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 36,
       "text": "87 SEP 28",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 37,
       "text": "COMM-FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 38,
       "status": "blank"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 39,
       "text": "Tolson",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 40,
       "text": "Belmont",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 41,
       "text": "Mohr",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 42,
       "text": "Callahan",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 43,
       "text": "Conrad",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 44,
       "text": "DeLoach",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 45,
       "text": "Evans",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
-      "text": "Gale",
-      "status": "image_matched"
+      "lineNumber": 46,
+      "text": "Malone",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 47,
       "text": "Rosen",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 48,
       "text": "Sullivan",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 49,
       "text": "Tavel",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 50,
       "text": "Trotter",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 51,
       "text": "Tele. Room",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 52,
       "text": "Holmes",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 53,
       "text": "Gandy",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
+      "lineNumber": 54,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 55,
       "text": "OCT 3 1961",
       "status": "image_matched"
     },
     {
-      "lineNumber": 49,
-      "text": "MAIL ROOM [ ] TELETYPE UNIT [ ]",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 50,
+      "lineNumber": 56,
       "status": "blank"
     },
     {
-      "lineNumber": 51,
-      "text": "62-9559-1987",
-      "status": "image_matched"
+      "lineNumber": 57,
+      "text": "MAIL ROOM",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 58,
+      "text": "TELETYPE UNIT",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 59,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 60,
+      "text": "62-8557-1987",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

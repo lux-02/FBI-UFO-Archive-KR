@@ -8,238 +8,237 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 34 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0103-l0007",
-    "page_0103-l0030",
-    "page_0103-l0040"
-  ],
-  "lineCount": 46,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 47,
   "lines": [
     {
       "lineNumber": 1,
+      "text": "REC-43 100-0-211715",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 2,
       "text": "November 16, 1961",
       "status": "image_matched"
     },
     {
-      "lineNumber": 2,
+      "lineNumber": 3,
       "status": "blank"
     },
     {
-      "lineNumber": 3,
-      "text": "FBI",
-      "status": "image_matched"
+      "lineNumber": 4,
+      "text": "F B I",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 5,
       "text": "READING ROOM",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "19, N.",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 6,
-      "status": "blank"
+      "text": "19, '61",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "text": "Dear [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 8,
       "status": "blank"
     },
     {
+      "lineNumber": 8,
+      "text": "Dear [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
       "text": "Mr. Hoover has been called out of the city and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "asked me to acknowledge your letter to him, which was received",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "on November 13, 1961.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "status": "blank"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 14,
       "text": "Although Mr. Hoover would like to be of service,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "text": "information in FBI files must be maintained as confidential through",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
       "text": "a regulation of the Department of Justice. In this connection, the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "text": "FBI is strictly an investigative agency of the Federal Government",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "text": "and, as such, does not make evaluations nor draw conclusions",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 19,
       "text": "concerning the character or integrity of any organization, publica-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "text": "tion or individual. Please do not infer either that we do or do not",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 21,
       "text": "have data in our files relating to the subjects of your inquiries.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 23,
       "text": "In light of the foregoing, you can be assured that this",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 24,
       "text": "Bureau does not have a list of organizations of the type you discussed;",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
       "text": "however, there is enclosed a list of groups designated by the Depart-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 26,
       "text": "ment of Justice as coming within the purview of Executive Order",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 27,
       "text": "10450. The material you enclosed is being returned to you under",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 28,
       "text": "separate cover.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 29,
       "status": "blank"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 30,
       "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 31,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 32,
       "text": "Helen W. Gandy",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 33,
       "text": "Secretary",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 34,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 35,
       "status": "blank"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 36,
       "text": "MAILED 20",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
-      "text": "NOV 1 6 1961",
-      "status": "image_matched"
+      "lineNumber": 37,
+      "text": "NOV 16 1961",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 38,
       "text": "COMM-FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 39,
       "status": "blank"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 40,
       "text": "Enclosure",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 41,
       "text": "Organizations designated under Executive Order 10450",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 42,
       "text": "Mr. [REDACTED] Room 4726 (Sent Direct)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 43,
       "text": "USC Material (listed next page)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
-      "text": "TELETYPE UNIT",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "FT:baw (5)",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 44,
-      "status": "blank"
+      "text": "[unclear] TELETYPE UNIT",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 45,
-      "text": "106-C-34915",
-      "status": "image_matched"
+      "text": "EFT:baw (5)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 46,
+      "text": "106-C-34415",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 47,
       "text": "NOTE NEXT PAGE",
       "status": "image_matched"
     }

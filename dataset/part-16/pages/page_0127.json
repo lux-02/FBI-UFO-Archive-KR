@@ -8,19 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 16 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0127-l0004",
-    "page_0127-l0007",
-    "page_0127-l0009",
-    "page_0127-l0013",
-    "page_0127-l0017",
-    "page_0127-l0018"
-  ],
-  "lineCount": 27,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 30,
   "lines": [
     {
       "lineNumber": 1,
@@ -29,24 +22,22 @@
     },
     {
       "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
       "text": "TO: MR. TOLSON",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 4,
       "text": "FROM: Mr. S. J. Tracy",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "SUBJECT: [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 5,
-      "text": "DATE: 6/30/50",
-      "status": "image_matched"
+      "text": "SUBJECT: [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
@@ -54,109 +45,117 @@
     },
     {
       "lineNumber": 7,
-      "text": "Mr. [REDACTED] of the Historian's Office, Department of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "DATE: 6/30/50",
+      "status": "image_matched"
     },
     {
       "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Mr. [REDACTED] of the Historian's Office, Department of",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 10,
       "text": "Defense, telephoned and advised that he was very anxious to get some type",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 11,
       "text": "of a general statement whether \"no comment\" or otherwise for use in connection",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
       "text": "with the article he has written on flying saucers. He feels that the article",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
-      "text": "will be well rounded and will answer many questions in the minds of readers",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "if a reference is made to the FBI even though it merely states that the FBI",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 13,
-      "text": "had adopted a \"no comment\" position in connection with the subject matter in",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "will be well rounded and will answer many questions in the minds of readers.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
+      "text": "If a reference is made to the FBI even though it merely states that the FBI",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "had adopted a \"no comment\" position in connection with the subject matter in",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
       "text": "view of the fact that it seemed to be the primary responsibility of the Air",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 17,
       "text": "Force.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 17,
-      "text": "We should tell",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 18,
-      "text": "him \"No Comment\"",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 19,
-      "status": "blank"
+      "text": "We should tell",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
+      "text": "him \"No Comment\"",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 22,
       "text": "RECORDED - 74",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "text": "NI - 24",
-      "status": "image_matched"
+      "lineNumber": 23,
+      "text": "INDEXED - 74",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 24,
       "status": "blank"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 25,
+      "text": "94-48511-11",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 26,
       "text": "JUL 12 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
-      "text": "14",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
+      "lineNumber": 27,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
-      "text": "325",
+      "lineNumber": 28,
+      "text": "51 JUL 18 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
-      "text": "51 JUL 18 1950",
-      "status": "image_matched"
+      "lineNumber": 29,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 30,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

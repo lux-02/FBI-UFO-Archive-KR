@@ -8,21 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 31 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0130-l0003",
-    "page_0130-l0006",
-    "page_0130-l0009",
-    "page_0130-l0012",
-    "page_0130-l0036",
-    "page_0130-l0037",
-    "page_0130-l0042",
-    "page_0130-l0043"
-  ],
-  "lineCount": 48,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 62,
   "lines": [
     {
       "lineNumber": 1,
@@ -31,19 +22,18 @@
     },
     {
       "lineNumber": 2,
-      "text": "62-101030-15",
-      "status": "image_matched"
+      "text": "62-101030-5",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "INDEXED-62-83894-34",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "April 21, 1954",
+      "status": "image_matched"
     },
     {
       "lineNumber": 4,
-      "text": "April 21, 1954",
-      "status": "image_matched"
+      "text": "INDEXED-43 62-83894-540",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -51,217 +41,277 @@
     },
     {
       "lineNumber": 6,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 7,
       "text": "Brooklyn 1, New York",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 7,
       "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "Dear [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
-      "text": "Dear [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 10,
       "status": "blank"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 10,
       "text": "Your letter postmarked April 8, 1954, and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "text": "addressed to [REDACTED] of the FBI, has been",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 12,
       "text": "received. I appreciate your thoughtfulness in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 13,
       "text": "bringing this information to our attention.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 14,
       "status": "blank"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "text": "As a matter of convenience to you, it is",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 16,
       "text": "suggested that in the future you communicate with",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 17,
       "text": "our office at 290 Broadway, New York 7, New York.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 18,
       "status": "blank"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 19,
       "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 20,
       "status": "blank"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 21,
       "text": "John Edgar Hoover",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 22,
       "text": "Director",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 23,
       "status": "blank"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 24,
       "text": "CC--New York, with copy of incoming",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 25,
       "text": "ATTENTION SAC: Correspondent previously submitted similar data",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 26,
       "text": "on 3-1-54 which was referred to OSI by cover memorandum. His",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 27,
       "text": "letter was acknowledged 3-10-54 and he was not advised of this",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 28,
       "text": "referral. A copy of the attached letter from him is also",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 29,
       "text": "being transmitted to OSI. You will note his statement that",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 30,
       "text": "the information he furnishes is based solely on \"impressions\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 31,
       "text": "rather than concrete facts.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 32,
       "status": "blank"
     },
     {
-      "lineNumber": 34,
-      "text": "NOTE: Mail Clerk, assigned files, EOD 3-29-",
-      "status": "image_matched"
+      "lineNumber": 33,
+      "text": "NOTE: [REDACTED] Mail Clerk, assigned files, EOD 3-29-",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 34,
       "text": "GS 5. Routing Unit advised they had received previous corres-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 35,
       "text": "pondence from [REDACTED] which was sent registered mail, return",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 36,
+      "text": "receipt requested. On the last two occasions, [REDACTED] has",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 37,
-      "text": "receipt requested. On the last two occasions, [REDACTED] has",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 38,
       "text": "signed the return receipt which accounts for the manner in which",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 38,
       "text": "correspondent obtained her name.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 39,
       "status": "blank"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 40,
       "text": "Copy of incoming by cover memo to OSI.",
       "status": "image_matched"
     },
     {
+      "lineNumber": 41,
+      "status": "blank"
+    },
+    {
       "lineNumber": 42,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Tolson",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
-      "text": "BET: [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Ladd",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 44,
+      "text": "Nichols",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 45,
+      "text": "Belmont",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 46,
+      "text": "Clegg",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 47,
+      "text": "Glavin",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 48,
+      "text": "Harbo",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 49,
+      "text": "Rosen",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "text": "Tracy",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
+      "text": "Trotter",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 52,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 53,
+      "text": "Tele. Room",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 54,
+      "text": "Holloman",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 55,
+      "text": "[unclear] MAY 10 1954",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 56,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 57,
+      "text": "BET: here[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 58,
       "text": "MAY 20 1954",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
-      "text": "MAY 10 1954",
-      "status": "image_matched"
+      "lineNumber": 59,
+      "status": "blank"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 60,
       "text": "COMM - FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 61,
       "text": "APR 21 1954",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
-      "text": "MAILED",
-      "status": "image_matched"
+      "lineNumber": 62,
+      "text": "MAILED [unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

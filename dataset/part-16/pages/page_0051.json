@@ -8,14 +8,11 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 42 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0051-l0008",
-    "page_0051-l0024"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 56,
   "lines": [
     {
@@ -53,8 +50,7 @@
     {
       "lineNumber": 8,
       "text": "the shape of a bullett with a large tail.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
@@ -101,8 +97,8 @@
     },
     {
       "lineNumber": 18,
-      "text": "(2½) feet of the tail appeared more solid, but the last seventeen and one-half",
-      "status": "image_matched"
+      "text": "feet of the tail appeared more solid, but the last seventeen and one-half",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
@@ -130,9 +126,8 @@
     },
     {
       "lineNumber": 24,
-      "text": "Energy Commission Security Patrol. Mr. John [unclear]maker holds badge No. UT-1817,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Energy Commission Security Patrol. Mr. JohnMoneymaker holds badge No. UT-1817,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
@@ -170,8 +165,8 @@
     },
     {
       "lineNumber": 32,
-      "text": "radar scopes at approximately 1500 hours. Apparently the radar picture was",
-      "status": "image_matched"
+      "text": "radar scopes at approximately 1520 hours. Apparently the radar picture was",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
@@ -194,8 +189,8 @@
     },
     {
       "lineNumber": 37,
-      "text": "On 16 October 1950, at approximately 1520 hours, five persons (as yet unknown)",
-      "status": "image_matched"
+      "text": "On 16 October 1950, at approximately 1520 hours, five persons (as yet unkno",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 38,
@@ -209,8 +204,8 @@
     },
     {
       "lineNumber": 40,
-      "text": "scopes at Knoxville Airport were giving an unintelligible reading. Apparently the",
-      "status": "image_matched"
+      "text": "scopes at Knoxville Airport were giving an unintelligible reading. Apparently t",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 41,
@@ -233,8 +228,8 @@
     },
     {
       "lineNumber": 45,
-      "text": "identify an object which was reported to be hovering over K-25. Upon approaching",
-      "status": "image_matched"
+      "text": "identify an object which was reported to be hovering over K-25. Upon approachin",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 46,

@@ -8,23 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 60 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0062-l0001",
-    "page_0062-l0013",
-    "page_0062-l0019",
-    "page_0062-l0033"
-  ],
-  "lineCount": 81,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 76,
   "lines": [
     {
       "lineNumber": 1,
       "text": "FORM OR-514",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -33,191 +27,191 @@
     },
     {
       "lineNumber": 3,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 4,
       "text": "Incident Report",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 4,
       "text": "AEC PATROL",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 5,
       "status": "blank"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 6,
       "text": "C A U T I O N",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 7,
       "text": "This document contains information affecting the National Defense of the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 8,
       "text": "United States. Its transmission or thedisclosure of its contents in any manner",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 9,
       "text": "to an unauthorized person is prohibited and may result in severe criminal penalties",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 10,
       "text": "under applicable Federal Laws.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "status": "blank"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 12,
       "text": "Closed:",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 13,
       "text": "Date:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 14,
       "text": "By:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "text": "W.R.:",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "N.R.:",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "text": "W.R.:",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 18,
-      "status": "blank"
+      "text": "Incident Report No. 1424-50",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
-      "text": "Incident Report No. 1424-50",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Date 10-16-50",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "text": "Date",
-      "status": "image_matched"
+      "text": "Time 1:30 p.m.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
-      "text": "10-16-50",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "Time",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "text": "1:30 p.m.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
       "status": "blank"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 22,
       "text": "CLASSIFICATION",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 23,
       "text": "TROOPER",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 24,
       "text": "LOCATION",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 29,
+      "lineNumber": 25,
       "text": "Flying Object",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 26,
       "text": "John L. Isabell",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 27,
       "text": "Blair Gate",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 33,
+      "lineNumber": 28,
       "text": "PERSON INVOLVED",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 29,
       "text": "BADGE NO.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 36,
+      "lineNumber": 30,
       "text": "Trooper Lendelle Clark",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
-      "text": "Trooper Hank N. Briggs",
-      "status": "image_matched"
+      "lineNumber": 31,
+      "text": "Trooper Hand N. Briggs",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 32,
       "text": "212",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 33,
       "text": "156",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 34,
       "status": "blank"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 35,
       "text": "REMARKS:",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 37,
+      "text": "At approximately 1:30 P.M., October 16, 1950, while working at Blair Gate, I saw",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "text": "an object in the air over K-25 traveling in a northeast direction from the southwest.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 39,
+      "text": "It was traveling in a straight line and going very fast. The object was white or",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "silvery in color and round like a ball and was about the size of a baseball as seen",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
+      "text": "at the distance it was from me. It seemed to be very high.",
       "status": "image_matched"
     },
     {
@@ -226,81 +220,81 @@
     },
     {
       "lineNumber": 43,
-      "text": "At approximately 1:30 P.M., October 16, 1950, while working at Blair Gate, I saw",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "text": "an object in the air over K-25 traveling in a northeast direction from the southwest.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
-      "text": "It was traveling in a straight line and going very fast. The object was white or",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
-      "text": "silvery in color and round like a ball and was about the size of a baseball as seen",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 47,
-      "text": "at the distance it was from me. It seemed to be very high.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 49,
       "text": "At exactly 2\"55 P.M., October 16, 1950, this object reappeared from the northeast",
       "status": "image_matched"
     },
     {
-      "lineNumber": 50,
+      "lineNumber": 44,
       "text": "at a considerably lower altitude and traveling a lot slower than before. It stopped",
       "status": "image_matched"
     },
     {
-      "lineNumber": 51,
+      "lineNumber": 45,
       "text": "a car that was coming in the gate in order to have witnesses to what I saw. The",
       "status": "image_matched"
     },
     {
-      "lineNumber": 52,
+      "lineNumber": 46,
       "text": "occupants of the car were Troopers Lendelle Clark and Hank N. Briggs going in to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 53,
+      "lineNumber": 47,
       "text": "work. I pointed out the object to Troopers Clark and Briggs and we watched the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 54,
+      "lineNumber": 48,
       "text": "object for several minutes. This object was slowly circling in a wide circle",
       "status": "image_matched"
     },
     {
-      "lineNumber": 55,
+      "lineNumber": 49,
       "text": "and spinning very fast, that is, the object itself was spinning around and around.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 56,
+      "lineNumber": 50,
       "text": "The object drifted toward the southwest and in just a few minutes it reappeared at",
       "status": "image_matched"
     },
     {
-      "lineNumber": 57,
+      "lineNumber": 51,
       "text": "a very high altitude going back into the northeast and going very fast. We",
       "status": "image_matched"
     },
     {
-      "lineNumber": 58,
+      "lineNumber": 52,
       "text": "watched the object disappear into the northeast.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 53,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 54,
+      "text": "This information was phoned in to Headquarters immediately by the undersigned. About",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 55,
+      "text": "fifteen minutes after the object disappeared into the northeast, an F-82 Fighter",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 56,
+      "text": "plane showed up in the area where the object was last seen but appeared to be",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 57,
+      "text": "thousands of feet lower than the object which Troopers Clark, Briggs, and the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 58,
+      "text": "undersigned saw and reported.",
       "status": "image_matched"
     },
     {
@@ -309,108 +303,84 @@
     },
     {
       "lineNumber": 60,
-      "text": "This information was phoned in to Headquarters immediately by the undersigned. About",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 61,
-      "text": "fifteen minutes after the object disappeared into the northeast, an F-82 Fighter",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 62,
-      "text": "plane showed up in the area where the object was last seen but appeared to be",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 63,
-      "text": "thousands of feet lower than the object which Troopers Clark, Briggs, and the",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 64,
-      "text": "undersigned saw and reported.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 65,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 66,
       "text": "Distribution:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 67,
+      "lineNumber": 61,
       "text": "1 - Callaghan",
       "status": "image_matched"
     },
     {
-      "lineNumber": 68,
+      "lineNumber": 62,
       "text": "2 - Chief Davis' File",
       "status": "image_matched"
     },
     {
-      "lineNumber": 69,
+      "lineNumber": 63,
       "text": "3 - Mail & Rec. File",
       "status": "image_matched"
     },
     {
-      "lineNumber": 70,
+      "lineNumber": 64,
       "status": "blank"
     },
     {
-      "lineNumber": 71,
+      "lineNumber": 65,
       "text": "/s/ John L. Isabell, Trooper",
       "status": "image_matched"
     },
     {
-      "lineNumber": 72,
+      "lineNumber": 66,
       "text": "Oak Ridge Patrol Force",
       "status": "image_matched"
     },
     {
-      "lineNumber": 73,
+      "lineNumber": 67,
       "status": "blank"
     },
     {
-      "lineNumber": 74,
+      "lineNumber": 68,
       "text": "CERTIFIED TRUE COPY:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 75,
+      "lineNumber": 69,
       "text": "/s/ Wm B. Gray",
       "status": "image_matched"
     },
     {
-      "lineNumber": 76,
+      "lineNumber": 70,
       "text": "SAC, Knoxville",
       "status": "image_matched"
     },
     {
-      "lineNumber": 77,
+      "lineNumber": 71,
       "status": "blank"
     },
     {
-      "lineNumber": 78,
+      "lineNumber": 72,
       "text": "AEC, Oak Ridge, Tenn. 4/12/50",
       "status": "image_matched"
     },
     {
-      "lineNumber": 79,
+      "lineNumber": 73,
       "text": "--5,000-A17622",
       "status": "image_matched"
     },
     {
-      "lineNumber": 80,
+      "lineNumber": 74,
       "status": "blank"
     },
     {
-      "lineNumber": 81,
+      "lineNumber": 75,
       "text": "Incl. # 5",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 76,
+      "text": "[unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

@@ -8,31 +8,22 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0048-l0001",
-    "page_0048-l0002",
-    "page_0048-l0007",
-    "page_0048-l0024",
-    "page_0048-l0025",
-    "page_0048-l0029"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 40,
   "lines": [
     {
       "lineNumber": 1,
       "text": "this statement. They also believe it significant that the Air Force did not",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
       "text": "return the negative of thisprint.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -55,8 +46,7 @@
     {
       "lineNumber": 7,
       "text": "June 1947 - Mr. W. R. Pressley photographed a flying object at Oak Ridge, Tenn.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
@@ -137,14 +127,12 @@
     {
       "lineNumber": 24,
       "text": "12 October 1950 - 2341 Fighter aircraft was at the position of the radar target",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
       "text": "and made three perfect interceptions but could see nothing. (Incl.#",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 26,
@@ -162,8 +150,7 @@
     {
       "lineNumber": 29,
       "text": "13 October 1950 hours. Major L. E. Romiger, accompanied by his daughter, heard",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 30,

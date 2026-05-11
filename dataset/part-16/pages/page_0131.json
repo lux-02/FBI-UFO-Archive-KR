@@ -8,30 +8,17 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "11 permanent_unresolved line(s) excluded under SRC-896. 31 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0131-l0001",
-    "page_0131-l0005",
-    "page_0131-l0021",
-    "page_0131-l0024",
-    "page_0131-l0025",
-    "page_0131-l0031",
-    "page_0131-l0032",
-    "page_0131-l0034",
-    "page_0131-l0044",
-    "page_0131-l0046",
-    "page_0131-l0050"
-  ],
-  "lineCount": 51,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 54,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "BROOKLYN 1. N. Y.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "BROOKLYN 1, N. Y.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -44,243 +31,246 @@
     },
     {
       "lineNumber": 4,
-      "text": "analyzed in Flying Saucer",
-      "status": "image_matched"
+      "text": "analyzed in Flying [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 5,
-      "text": "Review, printed Space Age",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Review, printed Since Au[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
       "text": "April 6 1954",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "status": "blank"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "Federal Bureau of Investigation",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "Pennsylvania and 9th",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "Washington DC",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "status": "blank"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
+      "text": "Subject: Possible subversive ri[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
       "text": "Gentlemen:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 16,
       "status": "blank"
     },
     {
-      "lineNumber": 14,
-      "text": "Further to my registered letter 33520 of March 1, listing persons we",
-      "status": "image_matched"
+      "lineNumber": 17,
+      "text": "Further to my registered letter 33520 of March 1, listing persons wo[unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 15,
-      "text": "planned contacting for the new CIVILIAN SAUCER INTELLIGENCE, to discuss",
-      "status": "image_matched"
+      "lineNumber": 18,
+      "text": "planned contacting for the new CIVILIAN SAUCER INTELLIGENCE, to discuss f[unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 19,
       "text": "Saucers, I am sending a second report on membership. I have reached much",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
-      "text": "definite impressions since then, on some members, and enclose these for what",
-      "status": "image_matched"
+      "lineNumber": 20,
+      "text": "definite impressions since then, on some members, and enclose these for w[unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 21,
       "text": "they are worth.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 20,
-      "text": "From her actions, general attitudes, and methods, I am almost positive",
-      "status": "image_matched"
+      "lineNumber": 23,
+      "text": "From her actions, general attitudes, and methods, I am almost positiv[e]",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 21,
-      "text": "[REDACTED] is part of some other group, possibly subversive, investigating",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 24,
+      "text": "[REDACTED] is part of some other group, possibly subversive, investig[ating]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 25,
       "text": "the field for possible civilian information on the subject.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 26,
       "status": "blank"
     },
     {
-      "lineNumber": 24,
-      "text": "From her attitude, toward [REDACTED] and [REDACTED] her contacting me twice",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 25,
-      "text": "after I had written [REDACTED] twice after long activity, his unusual willingness",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 26,
-      "text": "to cooperate with our group, different from his previous closemouthed attitude,",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 27,
-      "text": "I am almost positive he is part of the same group, and either directs her or",
-      "status": "image_matched"
+      "text": "From her attitude, toward [REDACTED] and [REDACTED] her contacting me t[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 28,
-      "text": "the entire group in New York City. He does a great deal of travelling from",
-      "status": "image_matched"
+      "text": "after I had written [REDACTED] twice after long activity, his unusual will[ingness]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
+      "text": "to cooperate with our group, different from his previous closemouthed att[itude]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 30,
+      "text": "I am almost positive he is part of the same group, and either directs her",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 31,
+      "text": "the entire group in New York City. He does a great deal of travelling fr[om]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 32,
       "text": "New York to Washington and Baltimore, and may be some sort of courier.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 33,
       "status": "blank"
     },
     {
-      "lineNumber": 31,
-      "text": "A clipping has come in that [REDACTED] also previously listed,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 32,
-      "text": "states he is a research 'Assistante Professor' to PROFESSOR [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 33,
-      "text": "in Albuquerque, now studying 'Meteoritics'. I have nothing as to Professor",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 34,
-      "text": "[REDACTED] background other than he has given out some peculiarly mis-informed",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "A clipping has come in that [REDACTED] also previously listed,",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 35,
+      "text": "states he is a research 'Assistante Professor' to PROFESSOR [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 36,
+      "text": "in Albuquerque, now studying 'Meteoritics'. I have nothing as to Profes[sor]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
+      "text": "[REDACTED] background other than he has given out some peculiarly mis-infor[med]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 38,
       "text": "ideas on the subject in recent years.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 39,
       "status": "blank"
     },
     {
-      "lineNumber": 37,
-      "text": "These include: a widely circulated release that the Green fireballs were",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 38,
-      "text": "not 'natural' phenomena, and probably were American secret weapons; an article",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 39,
-      "text": "in People Today that saucers and fireballs were probably coming from northern",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 40,
-      "text": "Russian bases; a news release that flying saucers over Northern Japan in",
-      "status": "image_matched"
+      "text": "These include: a widely circulated release that the Green fireballs we[re]",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 41,
+      "text": "not 'natural' phenomena, and probably were American secret weapons: an a[rticle]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "text": "in People Today that saucers and fireballs were probably coming from nort[hern]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 43,
+      "text": "Russian bases: a news release that flying saucers over northern Japan i[n]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 44,
       "text": "Jan. 1953, were probably Russian guided missiles, contrary to all known",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 45,
       "text": "performances of missiles.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 46,
       "status": "blank"
     },
     {
-      "lineNumber": 44,
-      "text": "After sending [REDACTED] some special information on saucer reports,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 45,
-      "text": "he mentioned after long delay that he had been in Cambridge, Mass. Whether",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
-      "text": "or not there is a connection, PROFESSOR [REDACTED] who wrote a deliberately",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 47,
+      "text": "After sending [REDACTED] some special information on saucer rep[orts]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 48,
+      "text": "he mentioned after long delay that he had been at Cambridge, Mass. Whethe[r]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 49,
+      "text": "or not there is a connection, PROFESSOR [REDACTED], who wrote a delib[erately]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 50,
       "text": "misinformative and debunking book on flying saucers, lives near Cambridge",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
-      "text": "while working at Harvard. According to some persons who have supposedly met",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 49,
-      "text": "his daughter, they are unquestionably communists or fellow travellers. However,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 50,
-      "text": "I am not sure of the character of the persons who [unclear] must state",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 51,
+      "text": "while working at Harvard. According to some persons who have supposedly w[orked]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 52,
+      "text": "his daughter, they are unquestionably communists or fellow travellers. Ho[wever]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
+      "text": "I am not sure of the character of the persons who [unclear] and must stat[e]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 54,
       "text": "is only hearsay evidence.",
       "status": "image_matched"
     }

@@ -8,22 +8,12 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "9 permanent_unresolved line(s) excluded under SRC-896. 46 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0162-l0002",
-    "page_0162-l0003",
-    "page_0162-l0004",
-    "page_0162-l0007",
-    "page_0162-l0010",
-    "page_0162-l0027",
-    "page_0162-l0033",
-    "page_0162-l0034",
-    "page_0162-l0046"
-  ],
-  "lineCount": 63,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 61,
   "lines": [
     {
       "lineNumber": 1,
@@ -32,312 +22,293 @@
     },
     {
       "lineNumber": 2,
-      "text": "(10)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "#63 FEB. 27. Event. BRANTFORD, ONTARIO. 43 1/8°, [unclear]°. A very intense",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 3,
-      "text": "#63 FEB. 27. Event. BRANTFORD, ONTARIO. 43°. 30°. A very intense",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "bright light, much brighter than an airplane, hovered in sky 20",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "bright light, much brighter than an airplane, hovered in sky 20",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 5,
       "text": "minutes, gradually shrinking in size until disappearance.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 5,
       "status": "blank"
     },
     {
-      "lineNumber": 7,
-      "text": "#64 FEB. 28 1953. Evening. BURLINGTON, IOWA. 40°. 91°. A reddish",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 6,
+      "text": "#64 FEB. 28 1953. Evening. BURLINGTON, IOWA. 40 1/2°, 91°. A reddish",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 7,
       "text": "ball of fire or light hovered over city 45 minutes. Observed by 20.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 8,
       "status": "blank"
     },
     {
-      "lineNumber": 10,
-      "text": "#65 FEB. 28 1953. 8:25 P.M. SALEM, OREGON. 45°. 123°. A large white",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 9,
+      "text": "#65 FEB. 28 1953. 8:25 P.M. SALEM, OREGON. 45°, 123°. A large white",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 10,
       "text": "light, apparent size of a football, with a long tail, crossed sky",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "text": "and exploded, shooting out several small balls of fire, which burned",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 12,
       "text": "out in air. Local observers believed object was a firefall meteor.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 13,
       "status": "blank"
     },
     {
-      "lineNumber": 15,
-      "text": "* * * * * * * * * OVERALL SAUCER PATTERNS AND CONCLUSIONS* * * * * * * *",
-      "status": "image_matched"
+      "lineNumber": 14,
+      "text": "* * * * * *OVERALL SAUCER PATTERNS, AND CONCLUSIONS* * * * *",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "text": "#1 QUALITY OF ACTIVITY PATTERN: The classifications listed below of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 16,
       "text": "the types of objects are very approximate and doubtful, due to short",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 17,
       "text": "period of observation in most reports. A sphere may appear as a flat",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 18,
       "text": "disc when seen at great distance; a disc may appear cigar-shaped if",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 19,
       "text": "seen only edgewise, or vice-versa; A disc may resemble a sphere if",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "text": "seen 'fullface' and rotating, especially on a hazy day.",
-      "status": "image_matched"
+      "lineNumber": 20,
+      "text": "seen'fullface' and rotating, especially on a hazy day.",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 21,
       "status": "blank"
     },
     {
+      "lineNumber": 22,
+      "text": "Other than something unknown and/or strangely maneuvering was seen",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 23,
-      "text": "Other than something unknown and/or strangely maneuvering was seen,",
-      "status": "image_matched"
+      "text": "the classifications are the best that can be made under these difficul",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
-      "text": "the classifications are the best that can be made under these difficult",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
       "text": "conditions. Daytime objects are classified as well as possible by",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 25,
       "text": "shapes and night object by color, since they are rarely seen well",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
-      "text": "enough at night to describe shape. Each report is given a 1% basis in",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 26,
+      "text": "enough at night to describe shape. Each report is given a 1 1/2% basis in",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 27,
       "text": "total of reports, as more exact basis is not too useful in the very",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 28,
       "text": "approximate classifications.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 29,
       "status": "blank"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 30,
       "text": "DAYTIME REPORTS",
       "status": "image_matched"
     },
     {
+      "lineNumber": 31,
+      "text": "SAUCERS SPHERICAL CIGAR-LIKE FALLING AIRPLANE BALLOONS? STAR?",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 32,
-      "text": "SAUCERS SPHERICAL CIGAR-LIKE FALLING BALLOONS? STAR?",
-      "status": "image_matched"
+      "text": "22 =33% 2 = 3% 3 = 4 1/2% 1 = 1 1/2% 10 = 15% 1=1 1/2%",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
-      "text": "AIRPLANE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 34,
-      "text": "22 =33% 2 = 3% 3 = 4% 1 = 1% 10 = 15% 1=1%",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 35,
       "text": "(1,2,3, (39,48) (8,26,61) (42) (16,30,31 (#60)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 34,
       "text": "4,6,13, 33,34,35",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 35,
       "text": "14,17,18 45,46,47",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 36,
       "text": "20,21,22 50.)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 37,
       "text": "24,29,36",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 38,
       "text": "40,44,49",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 39,
       "text": "51,53,57,59",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 40,
       "status": "blank"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 41,
       "text": "NIGHT REPORTS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 42,
       "text": "(Only colors given as shapes are rarely seen)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 43,
       "text": "YELLOW TO RED BLUE GREEN NO COLOR GIVEN COLOR CHANGED METEOR",
       "status": "image_matched"
     },
     {
+      "lineNumber": 44,
+      "text": "5 = 7 1/2% 2 = 3% 8 = 12% 5 = 7 1/2% 5 = 7",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 45,
+      "text": "(12,19,58,62 (11, 37) (9,15,25,27,32, (26,28,41,43, (7,10",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 46,
-      "text": "5 = 7% 2 = 3% 8 = 12% 5 = 7% 5 = 7%",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "64) 38,54,63) 56) 15,23",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 47,
-      "text": "(12,19,58,62 (11, 37) (9,15,25,27,32, (26,28,41,43, (7,10,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "text": "64) 38,54,63) 56) 15,23,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 49,
       "text": "65.)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 50,
+      "lineNumber": 48,
       "status": "blank"
     },
     {
-      "lineNumber": 51,
+      "lineNumber": 49,
       "text": "#2 AMOUNT OF ACTIVITY PATTERN: These classifications are also very",
       "status": "image_matched"
     },
     {
-      "lineNumber": 52,
+      "lineNumber": 50,
       "text": "approximate, but indicate some minor trends. From a general southern",
       "status": "image_matched"
     },
     {
-      "lineNumber": 53,
-      "text": "coverage of the south last month, activity now seems about equally heavy",
-      "status": "image_matched"
+      "lineNumber": 51,
+      "text": "coverage of the south last month, activity now seems about equally hea",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 54,
+      "lineNumber": 52,
       "text": "from entire country, except continued weakness in NW. The Northeast is",
       "status": "image_matched"
     },
     {
-      "lineNumber": 55,
+      "lineNumber": 53,
       "text": "most notable in its increase from very slight activity to heaviest",
       "status": "image_matched"
     },
     {
-      "lineNumber": 56,
+      "lineNumber": 54,
       "text": "activity of all areas.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 57,
+      "lineNumber": 55,
       "status": "blank"
     },
     {
-      "lineNumber": 58,
+      "lineNumber": 56,
       "text": "NORTHWEST SOUTHWEST MIDWEST NORTHEAST SOUTHEAST",
       "status": "image_matched"
     },
     {
-      "lineNumber": 59,
+      "lineNumber": 57,
       "text": "3 reports 10 reports 12 reports 16 reports 12 reports",
       "status": "image_matched"
     },
     {
-      "lineNumber": 60,
+      "lineNumber": 58,
       "text": "(#11,50,65) (#4,6,14,20, (#26,28,42, (#1,5,7,8,9, (2,18,19,21,",
       "status": "image_matched"
     },
     {
+      "lineNumber": 59,
+      "text": "25,27,30,31, 43,46,47, 10,12,15,23, 22,32,33,34",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 60,
+      "text": "40,44.) 51,54,56, 24,37,39,45, 35,36,38,41,",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 61,
-      "text": "25,27,30,31, 43,46,47, 10,12,15,23, 22,32,33,34,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 62,
-      "text": "40,44.) 51,54,56, 24,37,39,45, 35,36,38,41.)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 63,
       "text": "57,62,64.) 53,58,63.)",
       "status": "image_matched"
     }

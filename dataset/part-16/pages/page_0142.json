@@ -8,13 +8,11 @@
     "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 12 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0142-l0005"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 13,
   "lines": [
     {
@@ -24,8 +22,8 @@
     },
     {
       "lineNumber": 2,
-      "text": "midwest, central, south, and northwest. Indiana had 3 reports in 1",
-      "status": "image_matched"
+      "text": "midwest, central south, and northwest. Indiana had 3 reports in 1",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -39,9 +37,8 @@
     },
     {
       "lineNumber": 5,
-      "text": "had 3 reports in 2 months, formerly a very weak area for observations",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "had 6 reports in 2 months, formerly a very weak area for observations",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
