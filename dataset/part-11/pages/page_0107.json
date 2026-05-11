@@ -8,29 +8,17 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 15 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0107-l0001",
-    "page_0107-l0005",
-    "page_0107-l0006",
-    "page_0107-l0008",
-    "page_0107-l0010",
-    "page_0107-l0011",
-    "page_0107-l0012",
-    "page_0107-l0026",
-    "page_0107-l0027",
-    "page_0107-l0028"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 28,
   "lines": [
     {
       "lineNumber": 1,
       "text": "[REDACTED] STATES VETERINARIAN WOULD NOT COMMIT HIMSELF BUT VET POINTED",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
@@ -44,54 +32,48 @@
     },
     {
       "lineNumber": 4,
-      "text": "VETERINARIAN STATED ANIMAL HAD HAD A TAIL BUT SAME WAS MISSING AND W",
-      "status": "image_matched"
+      "text": "VETERINARIAN STATED ANIMAL HAD HAD A TAIL BUT SAME WAS MISSING AND",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "QUESTIONING [REDACTED] ABOUT SAME. [REDACTED] SEEMED SOMEWHAT SURPRISED BUT S",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "QUESTIONING [REDACTED] ABOUT SAME [REDACTED] SEEMED SOMEWHAT SURPRISED BUT",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
       "text": "IT WAS POSSIBLY CUT OFF IN ACCIDENT. [REDACTED] ADVISED WHERE WAS BLOOD",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
-      "text": "AROUND MOUTH OF ANIMAL CAUSED BY ACCIDENT WHICH RESEMBLED HUMAN BLOO",
-      "status": "image_matched"
+      "text": "AROUND MOUTH OF ANIMAL CAUSED BY ACCIDENT WHICH RESEMBLED HUMAN BLOOD",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
       "text": "[REDACTED] FIRST THOUVHT [REDACTED] POSSIBLY TRYING TO PULL PUBLICITY GAG DUE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
-      "text": "TO RECENT NEWSPAPER STORIES BUT BELIEVED HAD THIS BEEN HIS MOTIVE",
-      "status": "image_matched"
+      "text": "TO RECENT NEWSPAPER STORIES BUT BELIEVED HAD THIS BEEN HIS MOTIVE [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
-      "text": "WOULD HAVE TIMED HIS VISIT BETTER AS THEY WERE ABLE TO PRINT ANYTHIN",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "WOULD HAVE TIMED HIS VISIT BETTER AS THEY WERE ABLE TO PRINT ANYTHING",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
       "text": "AFTER MIDNIGHT. [REDACTED] STATED NEWSPAPER WOULD POSSIBLY RUN STORY ON",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 12,
       "text": "ABOVE FACTS TODAY. ATLANTA INDICES NEGATIVE ON [REDACTED] ABOVE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
@@ -157,21 +139,18 @@
     },
     {
       "lineNumber": 26,
-      "text": "[unclear] MR. BELMONT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "SAC, MR. BELMONT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 28,
       "text": "DOM. INTEL. DIVISION",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

@@ -8,21 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 131 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0020-l0126",
-    "page_0020-l0127",
-    "page_0020-l0145",
-    "page_0020-l0146",
-    "page_0020-l0158",
-    "page_0020-l0159",
-    "page_0020-l0171",
-    "page_0020-l0172"
-  ],
-  "lineCount": 189,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 128,
   "lines": [
     {
       "lineNumber": 1,
@@ -31,436 +22,457 @@
     },
     {
       "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
       "text": "Summary of Sightings of Unknown Aerial Phenomena, 17th District OSI (Cont)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 4,
       "text": "Page 3",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "status": "blank"
-    },
-    {
       "lineNumber": 5,
-      "text": "Manner of",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
-      "text": "Disappear-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
-      "text": "ance",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 8,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 9,
-      "text": "Flash, w/no",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
-      "text": "like thunder",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 12,
-      "text": "Broke into 2",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "or 4 small",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 14,
-      "text": "fragments &",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "text": "disappeared",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 17,
-      "text": "Disappeared",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "w/greenish",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "text": "flash",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 21,
-      "text": "Disappeared",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "behind",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "text": "mountainous",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "text": "horizon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 26,
-      "text": "Broke into",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "text": "pieces",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 29,
-      "text": "Apparent",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
-      "text": "Size",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 31,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 32,
-      "text": "Apparent",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
-      "text": "Magnitude",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 34,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 35,
-      "text": "Shape",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 36,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 37,
-      "text": "Sound",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 38,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 39,
-      "text": "Duration of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "Observation",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
-      "text": "or Duration",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "text": "of Trail",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 44,
-      "text": "Trail or",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
-      "text": "Flash",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 47,
-      "text": "Color",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 49,
-      "text": "Course",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 50,
-      "text": "Horizontal",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 51,
-      "text": "or Vertical",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 52,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 53,
-      "text": "Apparent",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 54,
-      "text": "Altitude",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 55,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 56,
-      "text": "Apparent",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 57,
-      "text": "Direction",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 58,
-      "text": "of Flight",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 59,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 60,
-      "text": "General",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 61,
-      "text": "Area of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 62,
-      "text": "Occurrence",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 63,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 64,
-      "text": "Reliability",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 65,
-      "text": "of Observers",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 66,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 67,
-      "text": "Number of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 68,
-      "text": "Observers",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 69,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 70,
-      "text": "Time",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 71,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 72,
-      "text": "Date",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 73,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 74,
       "text": "Number",
       "status": "image_matched"
     },
     {
-      "lineNumber": 75,
+      "lineNumber": 7,
+      "text": "Date",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "Time",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Number of Observers",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 10,
+      "text": "Reliability of Observers",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 11,
+      "text": "General Area of Occurrence",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Apparent Direction of Flight",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
+      "text": "Apparent Altitude",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Course Horizontal or Vertical",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Color",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Trail or Duration of Observation",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Sound",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "Shape",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "Apparent Size",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 20,
+      "text": "Apparent Speed",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
+      "text": "Manner of Disappearance",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 22,
+      "text": "Evaluation",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 23,
       "status": "blank"
     },
     {
-      "lineNumber": 76,
+      "lineNumber": 24,
       "text": "12",
       "status": "image_matched"
     },
     {
-      "lineNumber": 77,
-      "text": "12 Dec 1930",
+      "lineNumber": 25,
+      "text": "10 Dec 1950",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 26,
+      "text": "1930",
       "status": "image_matched"
     },
     {
-      "lineNumber": 78,
-      "text": "2102",
-      "status": "image_matched"
+      "lineNumber": 27,
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 79,
-      "text": "5",
-      "status": "image_matched"
+      "lineNumber": 28,
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 80,
-      "text": "65",
-      "status": "image_matched"
+      "lineNumber": 29,
+      "text": "[unclear] Cremona",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 81,
-      "text": "15 miles",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 82,
-      "text": "south of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 83,
-      "text": "Cremon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 84,
-      "text": "New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 85,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 86,
+      "lineNumber": 30,
       "text": "N to S",
       "status": "image_matched"
     },
     {
-      "lineNumber": 87,
-      "status": "blank"
+      "lineNumber": 31,
+      "text": "10-15 miles",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 88,
+      "lineNumber": 32,
       "text": "Horizontal",
       "status": "image_matched"
     },
     {
-      "lineNumber": 89,
+      "lineNumber": 33,
+      "text": "Bluish-green",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 34,
+      "text": "4-5 secs",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 35,
+      "text": "None",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 36,
+      "text": "Ball",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 38,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Broke into 3 or 4 small fragments & disappeared.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 40,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 41,
       "status": "blank"
+    },
+    {
+      "lineNumber": 42,
+      "text": "14",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 43,
+      "text": "20 Dec [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 44,
+      "text": "2054",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 45,
+      "text": "4",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 46,
+      "text": "b5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 47,
+      "text": "Los Alamos, New Mexico",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 48,
+      "text": "N to S",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 49,
+      "text": "Great height descend-ing",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "text": "Descend-ing from high alt. in vertical path",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
+      "text": "Very bright green or bluish white",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 52,
+      "text": "Sev. secs",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
+      "text": "None",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 54,
+      "text": "Star",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 55,
+      "text": "Slower than falling star",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 56,
+      "text": "Disappeared behind mountains",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 57,
+      "text": "b5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 58,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 59,
+      "text": "15",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 60,
+      "text": "27 Dec [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 61,
+      "text": "0431",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 62,
+      "text": "1",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 63,
+      "text": "b5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 64,
+      "text": "Los Alamos, New Mexico",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 65,
+      "text": "N to S",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 66,
+      "text": "Descend-ed from high alt.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 67,
+      "text": "Descend-ing from high alt. in vertical path",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 68,
+      "text": "Very bright white",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 69,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 70,
+      "text": "None",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 71,
+      "text": "Diamond",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 72,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 73,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 74,
+      "text": "Disappeared w/greenish flash.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 75,
+      "text": "b5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 76,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 77,
+      "text": "16",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 78,
+      "text": "1949",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 79,
+      "text": "4 Jan",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 80,
+      "text": "1750",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 81,
+      "text": "1",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 82,
+      "text": "b5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 83,
+      "text": "Albuquerque, New Mexico",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 84,
+      "text": "SE to NW",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 85,
+      "text": "1500' 2000'",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 86,
+      "text": "Horizontal",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 87,
+      "text": "Bright white",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 88,
+      "text": "2 secs",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 89,
+      "text": "None",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 90,
-      "text": "Bright",
-      "status": "image_matched"
+      "text": "App. 2' long",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 91,
-      "text": "white",
-      "status": "image_matched"
+      "text": "Much faster than a jet",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 92,
-      "status": "blank"
+      "text": "Disappeared",
+      "status": "image_matched"
     },
     {
       "lineNumber": 93,
-      "text": "10 miles",
-      "status": "image_matched"
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 94,
@@ -468,464 +480,172 @@
     },
     {
       "lineNumber": 95,
-      "text": "Horizontal",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 96,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 97,
-      "text": "Brilliant",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 98,
-      "text": "green",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 99,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 100,
-      "text": "5 to 50",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 101,
-      "text": "from ob-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 102,
-      "text": "server",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 103,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 104,
-      "text": "E to W",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 105,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 106,
-      "text": "13",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 107,
-      "text": "12 Dec 1930",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 108,
-      "text": "1930",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 109,
-      "text": "4",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 110,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 111,
-      "text": "Los Alamos,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 112,
-      "text": "New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 113,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 114,
-      "text": "SE to NW",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 115,
-      "text": "1500'",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 116,
-      "text": "2000'",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 117,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 118,
-      "text": "Descending",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 119,
-      "text": "in vert-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 120,
-      "text": "ical path",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 121,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 122,
-      "text": "Bright",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 123,
-      "text": "white",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 124,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 125,
-      "text": "14",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 126,
-      "text": "20 Dec 1931",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 127,
-      "text": "0431",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 128,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 129,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 130,
-      "text": "Los Alamos,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 131,
-      "text": "New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 132,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 133,
-      "text": "Horizontal",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 134,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 135,
-      "text": "Bright",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 136,
-      "text": "white",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 137,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 138,
-      "text": "30 - 50",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 139,
-      "text": "above",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 140,
-      "text": "horizon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 141,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 142,
-      "text": "NW to SE",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 143,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 144,
-      "text": "15",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 145,
-      "text": "20 Dec 1931",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 146,
-      "text": "1750",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 147,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 148,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 149,
-      "text": "Albuquerque",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 150,
-      "text": "New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 151,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 152,
-      "text": "Horizontal",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 153,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 154,
-      "text": "Bright",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 155,
-      "text": "white",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 156,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 157,
-      "text": "16",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 158,
-      "text": "7 Jan 1949",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 159,
-      "text": "0310",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 160,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 161,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 162,
-      "text": "Los Alamos,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 163,
-      "text": "New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 164,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 165,
-      "text": "Horizontal",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 166,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 167,
-      "text": "Bright",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 168,
-      "text": "white",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 169,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 170,
       "text": "17",
       "status": "image_matched"
     },
     {
-      "lineNumber": 171,
-      "text": "6 Jan 1949",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 96,
+      "text": "6 Jan [unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 172,
-      "text": "1754",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 97,
+      "text": "0310",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 173,
+      "lineNumber": 98,
       "text": "1",
       "status": "image_matched"
     },
     {
-      "lineNumber": 174,
-      "text": "65",
+      "lineNumber": 99,
+      "text": "b5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 100,
+      "text": "Los Alamos, New Mexico",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 101,
+      "text": "E to W",
       "status": "image_matched"
     },
     {
-      "lineNumber": 175,
-      "text": "El Paso,",
-      "status": "image_matched"
+      "lineNumber": 102,
+      "text": "5 to 50 from ob-server",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 176,
-      "text": "Texas",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 177,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 178,
+      "lineNumber": 103,
       "text": "Horizontal",
       "status": "image_matched"
     },
     {
-      "lineNumber": 179,
+      "lineNumber": 104,
+      "text": "Brilli-ant green",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 105,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 106,
+      "text": "None",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 107,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 108,
+      "text": "High speed",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 109,
+      "text": "Disappeared behind mountainous horizon",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 110,
+      "text": "b5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 111,
       "status": "blank"
     },
     {
-      "lineNumber": 180,
-      "text": "Bright",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 181,
-      "text": "white",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 182,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 183,
+      "lineNumber": 112,
       "text": "18",
       "status": "image_matched"
     },
     {
-      "lineNumber": 184,
+      "lineNumber": 113,
       "text": "30 Jan 1954",
       "status": "image_matched"
     },
     {
-      "lineNumber": 185,
-      "text": "2000",
+      "lineNumber": 114,
+      "text": "App. 200",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 115,
+      "text": "700",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 116,
+      "text": "b5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 117,
+      "text": "El Paso, Texas",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 118,
+      "text": "NW to SE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 186,
-      "text": "1",
+      "lineNumber": 119,
+      "text": "30 - 50 above horizon",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 120,
+      "text": "Horizontal",
       "status": "image_matched"
     },
     {
-      "lineNumber": 187,
-      "text": "65",
-      "status": "image_matched"
+      "lineNumber": 121,
+      "text": "Green",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 188,
-      "text": "El Paso,",
-      "status": "image_matched"
+      "lineNumber": 122,
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 189,
-      "text": "Texas",
-      "status": "image_matched"
+      "lineNumber": 123,
+      "text": "None",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 124,
+      "text": "Ball",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 125,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 126,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 127,
+      "text": "Broke into pieces",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 128,
+      "text": "b5",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

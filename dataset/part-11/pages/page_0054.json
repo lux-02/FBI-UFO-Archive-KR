@@ -8,548 +8,590 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 96 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0054-l0026",
-    "page_0054-l0043",
-    "page_0054-l0058",
-    "page_0054-l0077",
-    "page_0054-l0094"
-  ],
-  "lineCount": 106,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 117,
   "lines": [
     {
       "lineNumber": 1,
+      "text": "CONFIDENTIAL",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Page 20",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "Summary of Sightings of Unknown Aerial Phenomena, 17th District OSI (cont)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 2,
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "Number",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 7,
       "text": "Date",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 8,
       "text": "Time",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 9,
       "text": "Number of Observers",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 10,
       "text": "Reliability of Observers",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 11,
       "text": "General Area of Occurrence",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 12,
       "text": "Apparent Direction of Flight",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 13,
       "text": "Apparent Altitude",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 14,
       "text": "Course Horizontal to Vertical",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 15,
       "text": "Color",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
-      "text": "Train or Trail",
-      "status": "image_matched"
+      "lineNumber": 16,
+      "text": "Trail or Train",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 17,
       "text": "Duration of Observation",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 18,
       "text": "Sound",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
-      "text": "Apparent Shape",
-      "status": "image_matched"
+      "lineNumber": 19,
+      "text": "Shape",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 20,
       "text": "Apparent Size",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 21,
       "text": "Apparent Speed",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
-      "text": "Manner of Disappear-ance",
-      "status": "image_matched"
+      "lineNumber": 22,
+      "text": "Manner of Disappearance",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 23,
       "text": "Evaluation",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 24,
       "status": "blank"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 25,
       "text": "105",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
-      "text": "1949",
-      "status": "image_matched"
+      "lineNumber": 26,
+      "text": "12 Aug 1949",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 23,
-      "text": "12 Aug",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
+      "lineNumber": 27,
       "text": "0446",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 27,
-      "text": "Killeen Base, Texas",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 28,
-      "text": "SE to NJ",
+      "text": "1",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "30° above horizon headed down",
-      "status": "image_matched"
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 30,
-      "text": "Headed down",
+      "text": "Killeen Base, Texas",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "text": "Reddish",
-      "status": "image_matched"
+      "text": "SE to NW",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
-      "text": "Yes",
-      "status": "image_matched"
+      "text": "30° above horizon",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
-      "text": "2 - 3 secs",
+      "text": "Headed down",
       "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "text": "Yes",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 35,
-      "text": "Fairly long streak of flame",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 36,
-      "text": "Faded away",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 38,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 39,
-      "text": "106",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "14 Aug",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
-      "text": "2135",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 44,
-      "text": "Alamogordo, New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
-      "text": "Appeared 10° - 15° above horizon appeared vertical",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
       "text": "Reddish",
       "status": "image_matched"
     },
     {
+      "lineNumber": 35,
+      "text": "Yes",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "text": "2 - 3 secs",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 37,
+      "text": "Yes",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "text": "Trail of flame",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Fairly long streak of flame",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "Good",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 41,
+      "text": "Faded away",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 42,
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 43,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 44,
+      "text": "106",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "text": "14 Aug",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 46,
+      "text": "2135",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 47,
-      "text": "2 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 49,
-      "text": "Round",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 50,
-      "text": "Larger than Venus",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 51,
-      "text": "Disappeared",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 52,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 53,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 54,
-      "text": "107",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 55,
-      "text": "20 Aug",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 56,
-      "text": "2130",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 57,
-      "text": "2",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 58,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 59,
-      "text": "Douglas, Arizona",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 60,
-      "text": "N to S",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 61,
-      "text": "8,000' - 10,000'",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 62,
-      "text": "Flat trajectory",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 63,
-      "text": "Dull orange",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 64,
-      "text": "6 - 10 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 65,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 66,
-      "text": "Round to oblong like inverted saucer",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 67,
-      "text": "About size of single engine airplane",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 68,
-      "text": "3500 to 4500 mph",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 69,
-      "text": "Disappeared in distance",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 70,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 71,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 72,
-      "text": "108",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 73,
-      "text": "21 Aug",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 74,
-      "text": "2115",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 75,
-      "text": "2150",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 76,
-      "text": "5",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 77,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 78,
-      "text": "Nogales, Arizona",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 79,
-      "text": "45° at low level 200 at high level",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 80,
-      "text": "Horizontal to earth's surface",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 81,
-      "text": "Dull orange",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 82,
-      "text": "10 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 83,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 84,
-      "text": "Round",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 85,
-      "text": "App size of volley ball",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 86,
-      "text": "10 times speed of jet planes",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 87,
-      "text": "Disappeared in space",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 88,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 89,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 90,
-      "text": "109",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 91,
-      "text": "23 Aug",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 92,
-      "text": "1345",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 93,
       "text": "1",
       "status": "image_matched"
     },
     {
-      "lineNumber": 94,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 48,
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 95,
-      "text": "Davis-Monthan AFB, Arizona",
+      "lineNumber": 49,
+      "text": "Alamogordo, New Mexico",
       "status": "image_matched"
     },
     {
-      "lineNumber": 96,
-      "text": "SW to NW",
+      "lineNumber": 50,
+      "text": ".",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
+      "text": "Appeared 25° Disappeared at 12°",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 52,
+      "text": "10 - 15° appeared vertical",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
+      "text": "Reddish orange",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 54,
+      "text": "Yes",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 55,
+      "text": "2 secs",
       "status": "image_matched"
     },
     {
-      "lineNumber": 97,
-      "text": "App. 50,000'",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 98,
-      "text": "Horizontal at 50,000'",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 99,
-      "text": "Brownish hazy color",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 100,
-      "text": "60 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 101,
+      "lineNumber": 56,
       "text": "None",
       "status": "image_matched"
     },
     {
+      "lineNumber": 57,
+      "text": "Round",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 58,
+      "text": "Larger than Venus",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 59,
+      "text": "-",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 60,
+      "text": "Disappeared",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 61,
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 62,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 63,
+      "text": "107",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 64,
+      "text": "20 Aug",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 65,
+      "text": "2130",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 66,
+      "text": "2",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 67,
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 68,
+      "text": "Douglas, Arizona",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 69,
+      "text": "N to S",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 70,
+      "text": "8,000' - 10,000'",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 71,
+      "text": "Flat trajectory",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 72,
+      "text": "None",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 73,
+      "text": "6 - 10 secs",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 74,
+      "text": "None",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 75,
+      "text": "Round to oblong like inverted saucer",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 76,
+      "text": "About size of single engine airplane",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 77,
+      "text": "3500 to 4500 mph",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 78,
+      "text": "Disappeared in distance",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 79,
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 80,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 81,
+      "text": "108",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 82,
+      "text": "21 Aug",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 83,
+      "text": "2115 2150",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 84,
+      "text": "5",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 85,
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 86,
+      "text": "Nogales, Arizona",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 87,
+      "text": ".",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 88,
+      "text": "45° at low level 90° at high level",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 89,
+      "text": "Horizontal to earth's surface",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 90,
+      "text": "Dull orange",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 91,
+      "text": "None",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 92,
+      "text": "ca 10 secs",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 93,
+      "text": "None",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 94,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 95,
+      "text": "App size of volley ball",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 96,
+      "text": "10 times speed of jet planes",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 97,
+      "text": "Disappeared in space",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 98,
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 99,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 100,
+      "text": "109",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 101,
+      "text": "23 Aug 1949",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 102,
-      "text": "Similar to triangle with round edges",
+      "text": "1345",
       "status": "image_matched"
     },
     {
       "lineNumber": 103,
-      "text": "Est. to be app 4 cf. inch when observed at 3 ft.",
+      "text": "1",
       "status": "image_matched"
     },
     {
       "lineNumber": 104,
-      "text": "Terrific rate of speed",
-      "status": "image_matched"
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 105,
-      "text": "Faded from view",
+      "text": "Davis-Monthan AFB, Arizona",
       "status": "image_matched"
     },
     {
       "lineNumber": 106,
-      "text": "65",
+      "text": "SE to NW",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 107,
+      "text": "App. 50,000",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 108,
+      "text": "Horizontal at 50,000'",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 109,
+      "text": "From-ish hazy color",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 110,
+      "text": "None",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 111,
+      "text": "ca 60 secs",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 112,
+      "text": "None",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 113,
+      "text": "Similar to triangle with round edges",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 114,
+      "text": "Est. to be app ¼ of inch when observed at 3 ft.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 115,
+      "text": "Terrific rate of speed",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 116,
+      "text": "Faded from view",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 117,
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

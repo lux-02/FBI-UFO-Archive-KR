@@ -8,22 +8,11 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "typed_or_printed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 31 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0082-l0005",
-    "page_0082-l0006",
-    "page_0082-l0007",
-    "page_0082-l0010",
-    "page_0082-l0021",
-    "page_0082-l0022",
-    "page_0082-l0033",
-    "page_0082-l0034",
-    "page_0082-l0037",
-    "page_0082-l0040"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 45,
   "lines": [
     {
@@ -47,26 +36,23 @@
     },
     {
       "lineNumber": 5,
-      "text": "on Friday, 6-4-54, he received a call from [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] on Friday, 6-4-54, he received a call from [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
       "text": "and a Mr. [REDACTED] who confirmed to him that [REDACTED] was no longer",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
-      "text": "associated with them and who asked that [REDACTED] meet with them at a",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "associated with them, and who asked that [REDACTED] meet with them at a",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
-      "text": "luncheon at the Terrace Plaza Hotel on 6-7-54.",
-      "status": "image_matched"
+      "text": "luncheon at the Terrace Plaza Hotel on 6-4-54.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
@@ -75,8 +61,7 @@
     {
       "lineNumber": 10,
       "text": "Mr. [REDACTED] in explanation of his interest in this matter, ad-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
@@ -100,8 +85,8 @@
     },
     {
       "lineNumber": 15,
-      "text": "Werner-Lowcry Company in England, and is distributed by the British",
-      "status": "image_matched"
+      "text": "Werner-Lowery Company in England, and is distributed by the British",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
@@ -131,14 +116,12 @@
     {
       "lineNumber": 21,
       "text": "istence of the flying saucer and he felt that persons such as [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
-      "text": "[REDACTED] and [REDACTED] in presenting a program such as that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] and [REDACTED] in promoting a program such as that",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 23,
@@ -191,15 +174,13 @@
     },
     {
       "lineNumber": 33,
-      "text": "To identify [REDACTED] had with him two copies",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "To identify [REDACTED] [REDACTED] had with him two copies",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 34,
       "text": "of the magazine \"Valor,\" which he stated he got from [REDACTED], this",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 35,
@@ -214,8 +195,7 @@
     {
       "lineNumber": 37,
       "text": "two issues which Mr. [REDACTED] had with him were numbers 15 and 16 of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 38,
@@ -230,8 +210,7 @@
     {
       "lineNumber": 40,
       "text": "concerning [REDACTED] in which he is identified as a truck driver",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 41,

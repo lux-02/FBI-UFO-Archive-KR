@@ -8,34 +8,22 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 19 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0103-l0001",
-    "page_0103-l0005",
-    "page_0103-l0007",
-    "page_0103-l0009",
-    "page_0103-l0013",
-    "page_0103-l0015",
-    "page_0103-l0017",
-    "page_0103-l0019",
-    "page_0103-l0022",
-    "page_0103-l0023"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 32,
   "lines": [
     {
       "lineNumber": 1,
       "text": "[REDACTED] advised the veterinarian would not",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
-      "text": "confirm it himself but the veterinarian pointed out he had",
-      "status": "image_matched"
+      "text": "com it himself but the veterinarian pointed out he had",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -50,8 +38,7 @@
     {
       "lineNumber": 5,
       "text": "pale at death. According to [REDACTED] the veterinarian",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
@@ -60,9 +47,8 @@
     },
     {
       "lineNumber": 7,
-      "text": "had questioned [REDACTED] about the missing tail, [REDACTED] had",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "had questioned [unclear] about the missing tail, [REDACTED] had",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 8,
@@ -72,8 +58,7 @@
     {
       "lineNumber": 9,
       "text": "been cut off in the accident. [REDACTED] stated there was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
@@ -92,8 +77,7 @@
     {
       "lineNumber": 13,
       "text": "At the time [REDACTED] furnished the above informa-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 14,
@@ -103,8 +87,7 @@
     {
       "lineNumber": 15,
       "text": "neither he nor any member of the [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 16,
@@ -114,8 +97,7 @@
     {
       "lineNumber": 17,
       "text": "above. [REDACTED] stated he first thought [REDACTED] had tried",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
@@ -125,8 +107,7 @@
     {
       "lineNumber": 19,
       "text": "[REDACTED] opinion if this had been [REDACTED] motive, [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 20,
@@ -141,14 +122,12 @@
     {
       "lineNumber": 22,
       "text": "after midnight. [REDACTED] informed the Atlanta Office of this",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 23,
       "text": "Bureau the [REDACTED] would probably",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 24,

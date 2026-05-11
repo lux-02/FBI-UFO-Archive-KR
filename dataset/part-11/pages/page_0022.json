@@ -10,14 +10,77 @@
   "sourceLayer": "line_audit",
   "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "NO_SAFE_SOURCE_TEXT",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
   "pageReadinessNote": null,
   "excludedLineIds": [],
-  "lineCount": 1,
+  "lineCount": 14,
   "lines": [
     {
       "lineNumber": 1,
+      "text": "CONFIDENTIAL",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 2,
       "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "Summary of Reports of Unidentified Aerial Phenomena, 19th District OSI (cont)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "Page 5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
+      "text": "| Number | Date | Time | Number of Observers | Reliability of Observers | General Area of Occurrence | Apparent Direction of Flight | Apparent Altitude | Course Horizontal to Vertical | Color | Train or Trail | Duration of Observation | Sound | Shape | Apparent Size | Apparent Speed | Manner of Disappearance |",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 8,
+      "text": "|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
+      "text": "| 23 | 17 Feb 1949 | 1900 | 1 | [REDACTED] b5 | Grants, New Mexico | Southward | | Vertical climb then leveled off Gradual ascent | White | Yes | | None | Oval | Larger than meteor | | Disappeared |",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 10,
+      "text": "| 24 | 17 Feb | | App 100 | [REDACTED] b5 | Albuquerque, New Mexico | W to E | | | Brilliant white fading to amber color | | 5 sec | None | Round swift-ing to ellipse | 1 lunar diameter | | Disappeared |",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 11,
+      "text": "| 25 | 27 Feb | 1905 | 1 | [REDACTED] b5 | Los Alamos, New Mexico | W to E | | Parallel to earth | Green-white | | 2 secs | None | | | Not as fast meteor | Disappeared abruptly |",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 12,
+      "text": "| 26 | 2 Mar | 0010 | 1 | [REDACTED] b5 | Los Alamos, New Mexico | N to S | \"Low in sky\" | Horizontal | White | | 2 secs | None | | | Very fast | Disappeared behind trees |",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 13,
+      "text": "| 27 | 5 Mar | 0159 | 1 | [REDACTED] b5 | Los Alamos, New Mexico | Straight down | | Straight down | Bright green | | | | | | | Disappeared |",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 14,
+      "text": "| 28 | 6 Mar | 2100 | 2 | [REDACTED] b5 | Camp Hood, Texas | From N 74° W N 81° W | From 60° 45' above horizon | | Blue-white light | Yes | | None | Oblong | 2' by 1' | Not known | |",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

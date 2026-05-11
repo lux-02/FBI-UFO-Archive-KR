@@ -8,17 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 29 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0060-l0008",
-    "page_0060-l0028",
-    "page_0060-l0031",
-    "page_0060-l0034"
-  ],
-  "lineCount": 37,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 36,
   "lines": [
     {
       "lineNumber": 1,
@@ -27,183 +22,171 @@
     },
     {
       "lineNumber": 2,
-      "text": "SAC, Knoxville",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 3,
-      "text": "RADAR DETECTION OF UNIDENTIFIED",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 4,
-      "text": "OBJECTS OVER OAK RIDGE, October 12,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 5,
-      "text": "15, 16, 1950",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 6,
-      "text": "PROTECTION OF VITAL INSTALLATIONS",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
-      "text": "Flying Saucers.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 8,
-      "text": "Remyte1 October 13, 1950.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 9,
-      "text": "There is being submitted herewith a copy of two reports",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
-      "text": "made by District Representative of the OSI, 8th District, U. S.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
-      "text": "Air Force, with regard to the detection of unidentified objects",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "by the means of radar, as set forth in referenced teletype. These",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "reports continue to set forth additional reports concerning",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 14,
-      "text": "unidentified objects in the air space area over Oak Ridge, Tennessee,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "text": "which to date have not been explained.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 17,
-      "text": "No investigation is being conducted by the Knoxville Office",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "in this matter, but any further information received from OSI or",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "text": "from CIC representatives will be forwarded immediately.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 21,
-      "text": "Air Mail",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "CCH:jaw",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "text": "65-475",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "text": "Enc.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 26,
       "text": "October 18, 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
+      "text": "SAC, Knoxville",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
       "text": "CONFIDENTIAL",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 6,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 7,
+      "text": "RADAR DETECTION OF UNIDENTIFIED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "OBJECTS OVER OAK RIDGE, October 12,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "15, 16, 1950",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "PROTECTION OF VITAL INSTALLATIONS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Flying Saucers",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 12,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 13,
+      "text": "Remytel October 13, 1950.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
+      "text": "There is being submitted herewith a copy of two reports",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "made by District Representative of the OSI, 8th District, U. S.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Air Force, with regard to the detection of unidentified objects",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "by the means of radar, as set forth in referenced teletype. These",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "reports continue to set forth additional reports concerning",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "unidentified objects in the air space area over Oak Ridge, Tennessee,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "text": "which to date have not been explained.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
+      "text": "No investigation is being conducted by the Knoxville Office",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "in this matter, but any further information received from OSI or",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "from CIC representatives will be forwarded immediately.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 27,
+      "text": "Air Mail",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "text": "CCH: jaw",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
-      "text": "2046",
+      "text": "65-475",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "8/31/77",
+      "text": "Enc.",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 32,
       "status": "blank"
     },
     {
+      "lineNumber": 32,
+      "text": "162-8",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 33,
-      "text": "12-8",
-      "status": "image_matched"
+      "text": "[unclear] 1950 NOV 22 [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 34,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "INITIALE ON ORIGINAL",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 35,
-      "text": "CS 1950 NOV 22",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 36,
-      "text": "INITIALS ON ORIGINAL",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "text": "55 NOV 251950",
-      "status": "image_matched"
+      "text": "55 NOV 25 1950",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

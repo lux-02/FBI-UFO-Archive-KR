@@ -8,28 +8,11 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "16 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0081-l0008",
-    "page_0081-l0009",
-    "page_0081-l0010",
-    "page_0081-l0012",
-    "page_0081-l0013",
-    "page_0081-l0020",
-    "page_0081-l0025",
-    "page_0081-l0029",
-    "page_0081-l0030",
-    "page_0081-l0031",
-    "page_0081-l0032",
-    "page_0081-l0033",
-    "page_0081-l0034",
-    "page_0081-l0035",
-    "page_0081-l0038",
-    "page_0081-l0039"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 61,
   "lines": [
     {
@@ -39,27 +22,26 @@
     },
     {
       "lineNumber": 2,
-      "text": "TO : Director, FBI DATE: 6-8-54",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 3,
-      "text": "FROM SAC, Cincinnati (100-C)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 4,
       "status": "blank"
     },
     {
+      "lineNumber": 3,
+      "text": "TO : Director, FBI",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 4,
+      "text": "DATE: 6-8-54",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 5,
-      "text": "SUBJECT: FLYING DISCS",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
-      "text": "INFORMATION CONCERNING",
-      "status": "image_matched"
+      "text": "FROM : SAC, Cincinnati (100-0)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
@@ -67,208 +49,192 @@
     },
     {
       "lineNumber": 8,
-      "text": "On 6-7-54, [REDACTED] Cincinnati 23,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "SUBJECT: [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
-      "text": "Ohio, and Mr. [REDACTED] Cincinnati 12, Ohio,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "FLYING DISCS",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "called at this office. Mr. [REDACTED] advised he is",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 11,
-      "text": "the operator of a beauty",
+      "text": "INFORMATION CONCERNING",
       "status": "image_matched"
     },
     {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
       "lineNumber": 12,
-      "text": "salon in the [REDACTED] Cincinnati, and Mr. [REDACTED] advised he is",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "On 6-7-54, [REDACTED] Cincinnati 23,",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
-      "text": "President of the [REDACTED] in Cincinnati. Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Ohio, and Mr. [REDACTED] Cincinnati 12, Ohio,",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 14,
+      "text": "called at this office. Mr. [REDACTED] advised he is the operator of a beauty",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 15,
+      "text": "salon in the [REDACTED] Cincinnati, and Mr. [REDACTED] advised he is",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 16,
+      "text": "President of the [REDACTED] in Cincinnati. Mr. [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 17,
       "text": "did all the talking for the two men and he furnished the following informa-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 18,
       "text": "tion:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 19,
       "status": "blank"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 20,
       "text": "On 6-3-54 an ad appeared in the \"Cincinnati Enquirer,\" a newspaper of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 21,
       "text": "general circulation, Cincinnati, Ohio, to the effect that on 6-11-54 a",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 22,
       "text": "program would be presented at Taft Auditorium, Cincinnati, Ohio, on \"The",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 23,
       "text": "Real Flying Saucer Story.\" The advertisement which Mr. [REDACTED] exhibited",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 24,
       "text": "disclosed no sponsor for this program and it was only noted on the ad",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 25,
       "text": "that tickets for the program sold for $2.00 per person and would be on sale",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 26,
       "text": "at the Central Ticket Office in Cincinnati.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 27,
       "status": "blank"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 28,
       "text": "Mr. [REDACTED] advised that although he belongs to no organization",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 29,
       "text": "interested in flying saucers, he has been interested in this subject and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 30,
       "text": "has been interested to the extent that he desired to know the sponsorship",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 31,
       "text": "of the program. He stated that he found out from the Central Ticket Office",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
-      "text": "that the ad had been placed by [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 30,
-      "text": "Ferndale 20, Michigan. He advised that he telephonically contacted [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 31,
-      "text": "on 6-3-54 and [REDACTED] stated that he was only the agent for renting the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 32,
-      "text": "hall and that he was acting on behalf of [REDACTED] and [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "that the ad had been placed by [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 33,
-      "text": "[REDACTED] He stated that on 6-4-54 [REDACTED] called him back and told",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Ferndale 20, Michigan. He advised that he telephonically contacted [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 34,
-      "text": "him that there had been a disagreement between [REDACTED] and [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "on 6-3-54 and [REDACTED] stated that he was only the agent for renting the",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 35,
-      "text": "[REDACTED] over [REDACTED] arrangements for the sale of tickets for the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "hall and that he was acting on behalf of [REDACTED] and [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 36,
+      "text": "[REDACTED] He stated that on 6-4-54 [REDACTED] called him back and told",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 37,
+      "text": "him that there had been a disagreement between [REDACTED] and",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 38,
+      "text": "[REDACTED] over [REDACTED] arrangements for the sale of tickets for the",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 39,
       "text": "program and the renting of the hall.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 40,
       "status": "blank"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 41,
       "text": "[REDACTED] advised that at this time [REDACTED] said nothing to discredit",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 42,
       "text": "either [REDACTED] or [REDACTED] and indicated that their disagreement only",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 43,
       "text": "concerned his placing the ad in the newspaper prior to having the tickets",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 44,
       "text": "for the program available in Cincinnati.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 43,
-      "text": "RCD:CVM",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "status": "blank"
-    },
-    {
       "lineNumber": 45,
-      "text": "CC: Los Angeles (RM)",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 46,
-      "text": "Indianapolis (RM)",
+      "text": "RCD:CVM",
       "status": "image_matched"
     },
     {
@@ -277,12 +243,12 @@
     },
     {
       "lineNumber": 48,
-      "text": "REGISTERED MAIL",
+      "text": "CC: Los Angeles (RM)",
       "status": "image_matched"
     },
     {
       "lineNumber": 49,
-      "text": "AIR MAIL SPECIAL DELIVERY",
+      "text": "Indianapolis (RM)",
       "status": "image_matched"
     },
     {
@@ -291,12 +257,12 @@
     },
     {
       "lineNumber": 51,
-      "text": "COPIES DESTROYED",
+      "text": "REGISTERED MAIL",
       "status": "image_matched"
     },
     {
       "lineNumber": 52,
-      "text": "270 NOV 19 1964",
+      "text": "AIR MAIL SPECIAL DELIVERY",
       "status": "image_matched"
     },
     {
@@ -305,30 +271,31 @@
     },
     {
       "lineNumber": 54,
-      "text": "RECORDED - 85",
-      "status": "image_matched"
+      "text": "RECORDED - 85 62-83894-342",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 55,
-      "text": "INDEXED - 26",
-      "status": "image_matched"
+      "text": "INDEXED - 85",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 56,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 57,
-      "text": "62-83894-342",
+      "text": "20 JUN 11 1954",
       "status": "image_matched"
     },
     {
-      "lineNumber": 58,
+      "lineNumber": 57,
       "status": "blank"
     },
     {
+      "lineNumber": 58,
+      "text": "COPIES DESTROYED",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 59,
-      "text": "20 JUN 11 1954",
+      "text": "270 NOV 19 1964",
       "status": "image_matched"
     },
     {
@@ -337,8 +304,8 @@
     },
     {
       "lineNumber": 61,
-      "text": "INSP. SPD",
-      "status": "image_matched"
+      "text": "INT SEC",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

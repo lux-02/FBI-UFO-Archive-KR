@@ -8,18 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 41 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0088-l0003",
-    "page_0088-l0006",
-    "page_0088-l0023",
-    "page_0088-l0042",
-    "page_0088-l0044"
-  ],
-  "lineCount": 60,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 63,
   "lines": [
     {
       "lineNumber": 1,
@@ -33,8 +27,7 @@
     {
       "lineNumber": 3,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
@@ -48,8 +41,7 @@
     {
       "lineNumber": 6,
       "text": "Dear [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
@@ -130,8 +122,7 @@
     {
       "lineNumber": 23,
       "text": "J. Edgar Hoover",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
@@ -172,145 +163,157 @@
     },
     {
       "lineNumber": 32,
+      "text": "EX-123",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 33,
+      "text": "RECORDED - 79",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 34,
+      "text": "INDEXED - 79",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
       "text": "Tolson",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 37,
       "text": "Ladd",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 38,
       "text": "Nichols",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 39,
       "text": "Belmont",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
-      "text": "Mohr",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
+      "lineNumber": 40,
       "text": "Clegg",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 41,
       "text": "Glavin",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 42,
       "text": "Harbo",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 43,
       "text": "Rosen",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 44,
       "text": "Tracy",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
-      "text": "Mohr",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 43,
-      "text": "Boardman",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "text": "Tele. Room",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 45,
-      "text": "Holloman",
+      "text": "Mohr",
       "status": "image_matched"
     },
     {
       "lineNumber": 46,
-      "text": "Miss Gandy",
-      "status": "image_matched"
+      "text": "Winterrowd",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 47,
-      "status": "blank"
+      "text": "Tele. Room",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 48,
-      "text": "GEH:ew",
+      "text": "Holloman",
       "status": "image_matched"
     },
     {
       "lineNumber": 49,
-      "status": "blank"
+      "text": "Miss Gandy",
+      "status": "image_matched"
     },
     {
       "lineNumber": 50,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 51,
+      "text": "GEM:ew",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 52,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 53,
       "text": "MAY 5 1954",
       "status": "image_matched"
     },
     {
-      "lineNumber": 51,
+      "lineNumber": 54,
       "status": "blank"
     },
     {
-      "lineNumber": 52,
+      "lineNumber": 55,
       "text": "COMM - FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 53,
+      "lineNumber": 56,
       "text": "APR 28 1954",
       "status": "image_matched"
     },
     {
-      "lineNumber": 54,
+      "lineNumber": 57,
       "text": "MAILED 31",
       "status": "image_matched"
     },
     {
-      "lineNumber": 55,
+      "lineNumber": 58,
       "status": "blank"
     },
     {
-      "lineNumber": 56,
+      "lineNumber": 59,
       "text": "RECEIVED READING ROOM",
       "status": "image_matched"
     },
     {
-      "lineNumber": 57,
-      "text": "FBI",
-      "status": "image_matched"
+      "lineNumber": 60,
+      "text": "F B I",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 58,
+      "lineNumber": 61,
       "text": "APR 27 3 45 PM '54",
       "status": "image_matched"
     },
     {
-      "lineNumber": 59,
+      "lineNumber": 62,
       "status": "blank"
     },
     {
-      "lineNumber": 60,
-      "text": "62-85894-341",
-      "status": "image_matched"
+      "lineNumber": 63,
+      "text": "62-83894-341",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

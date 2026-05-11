@@ -8,30 +8,22 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 40 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0076-l0001",
-    "page_0076-l0002",
-    "page_0076-l0014",
-    "page_0076-l0015",
-    "page_0076-l0016"
-  ],
-  "lineCount": 51,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 53,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "To: Lt. Colonel Hoyle Roco - Page 2",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "To: Lt. Colonel Doyle Rees - Page 2",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "Subj: Anomalous luminous phenomena (Seventh Report) May 25, 1950",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Subj: Anomalous Luminous Phenomena (Seventh Report) May 25, 1950",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -88,21 +80,18 @@
     },
     {
       "lineNumber": 14,
-      "text": "vation mentioned by Dr. Honnig appeared near the maximum of the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "vation mentioned by Mr. Monnig appeared near the maximum of the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
-      "text": "Quadrantid shower of early January, Dr. McCulloch's observation of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Quadrantid shower of early January, Mr. McCullough's observation of",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
-      "text": "August was near the time of the Persid shower and the December",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "August was near the time of the Perseid shower and the December",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
@@ -150,8 +139,8 @@
     },
     {
       "lineNumber": 26,
-      "text": "salts in the blowing flame. If this identification is correct,",
-      "status": "image_matched"
+      "text": "salts in the blowpipe flame. If this identification is correct,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
@@ -160,8 +149,8 @@
     },
     {
       "lineNumber": 28,
-      "text": "λ -5210Å.",
-      "status": "image_matched"
+      "text": "λ =5218Å.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
@@ -174,13 +163,13 @@
     },
     {
       "lineNumber": 31,
-      "text": "for the green fireballs are considerably longer than those (0.1 -",
-      "status": "image_matched"
+      "text": "for the green fireballs are considerably longer than those (0.5 -",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
-      "text": "0.5 seconds) for the ordinary visual meteors, but shorter than the",
-      "status": "image_matched"
+      "text": "0.8 seconds) for the ordinary visual meteors, but shorter than the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
@@ -189,8 +178,8 @@
     },
     {
       "lineNumber": 34,
-      "text": "meteorite fall (5 to 30 seconds or even longer).",
-      "status": "image_matched"
+      "text": "meteoritic fall (5 to 30 seconds or even longer).",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 35,
@@ -208,8 +197,8 @@
     },
     {
       "lineNumber": 38,
-      "text": "havior noted in case of meteoric fireballs--particularly these",
-      "status": "image_matched"
+      "text": "havior noted in case of meteoric fireballs--particularly those",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 39,
@@ -237,13 +226,13 @@
     },
     {
       "lineNumber": 44,
-      "text": "reported in keeping in the green fireball catagory being 72. (Al-",
-      "status": "image_matched"
+      "text": "accounted as belonging in the green fireball category being 72. (Al-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 45,
-      "text": "though this number constitutes nearly 5% of the fireballs listed in the",
-      "status": "image_matched"
+      "text": "though this number constitutes nearly 50% of the incidents listed in the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 46,
@@ -274,6 +263,15 @@
       "lineNumber": 51,
       "text": "green fireballs have appeared to fall vertically downward rather than",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 52,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 53,
+      "text": "(CONFIDENTIAL)",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

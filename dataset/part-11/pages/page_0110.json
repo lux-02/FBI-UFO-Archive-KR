@@ -8,18 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 11 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0110-l0005",
-    "page_0110-l0010",
-    "page_0110-l0015",
-    "page_0110-l0016",
-    "page_0110-l0019"
-  ],
-  "lineCount": 19,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 20,
   "lines": [
     {
       "lineNumber": 1,
@@ -43,8 +37,7 @@
     {
       "lineNumber": 5,
       "text": "and that they are from Mars, and that a Martian is being held captive in Californ",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -69,8 +62,7 @@
     {
       "lineNumber": 10,
       "text": "ment has said all such things really are, and not a space ship from Mars or anyot",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
@@ -93,15 +85,13 @@
     },
     {
       "lineNumber": 15,
-      "text": "not my relatives there straight. And I am personally to know what the rea",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "get my relatives there straight. And I am curious personally to know what the rea",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
-      "text": "story is about this farmer - Mr. [REDACTED] of the Circleville, Ohio area.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "story is about this farmer - Mr [REDACTED] of the Circleville, Ohio area.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
@@ -114,9 +104,12 @@
     },
     {
       "lineNumber": 19,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 20,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

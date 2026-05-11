@@ -8,50 +8,45 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 43 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0120-l0021",
-    "page_0120-l0022",
-    "page_0120-l0026",
-    "page_0120-l0043"
-  ],
-  "lineCount": 58,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 37,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "CONFIDENTIAL",
+      "text": "Date: March 12, 1953",
       "status": "image_matched"
     },
     {
       "lineNumber": 2,
-      "text": "Declassified",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "2010",
+      "text": "To: Director of Special Investigations",
       "status": "image_matched"
     },
     {
       "lineNumber": 4,
-      "text": "9/1/77",
+      "text": "The Inspector General",
       "status": "image_matched"
     },
     {
       "lineNumber": 5,
-      "text": "Hpr",
+      "text": "Department of the Air Force",
       "status": "image_matched"
     },
     {
       "lineNumber": 6,
-      "status": "blank"
+      "text": "The Pentagon",
+      "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "Date: March 12, 1953",
+      "text": "Washington 25, D. C.",
       "status": "image_matched"
     },
     {
@@ -60,248 +55,141 @@
     },
     {
       "lineNumber": 9,
-      "text": "To: Director of Special Investigations",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
-      "text": "The Inspector General",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
-      "text": "Department of the Air Force",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "The Pentagon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "Washington 25, D. C.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 14,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 15,
       "text": "From: John Edgar Hoover, Director",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 10,
       "text": "Federal Bureau of Investigation",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 11,
       "status": "blank"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 12,
       "text": "Subject: FLYING SAUCERS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 13,
       "status": "blank"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 14,
       "text": "At 9:05 p.m. on March 9, 1953, an individual giving his",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 15,
       "text": "name as [REDACTED] telephonically contacted this Bureau and advised",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 16,
       "text": "he had just seen a flying saucer near Bowie, Maryland. Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 17,
       "text": "was vague as to any details in this matter and would not furnish any",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 18,
       "text": "information concerning his residence or the place from which he was",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 19,
       "text": "making his telephone call. No additional pertinent information in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 20,
       "text": "this matter was furnished by Mr. [REDACTED].",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 21,
       "status": "blank"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 22,
       "text": "The above is being furnished to you for your information and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 23,
       "text": "assistance in the captioned matter. No investigation is being conducted",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 24,
       "text": "by this Bureau concerning this matter.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 25,
       "status": "blank"
     },
     {
-      "lineNumber": 32,
-      "text": "APPROVED FOR RELEASE",
+      "lineNumber": 26,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 27,
+      "text": "2040",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 28,
+      "text": "9/1/77",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
-      "text": "DATE: 9/1/77",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 34,
-      "text": "2010",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 35,
+      "lineNumber": 29,
       "status": "blank"
     },
     {
-      "lineNumber": 36,
-      "text": "MAR 12 6 23 PM '53",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "text": "RECEIVED FBI ROOM",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 38,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 39,
-      "text": "Tolson",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "Ladd",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
-      "text": "Nichols",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "text": "Belmont",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "Clese",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 44,
-      "text": "Glavin",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
-      "text": "Harbo",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
-      "text": "Rosen",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 47,
-      "text": "Tracy",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "text": "Laughlin",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 49,
-      "text": "Mohr",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 50,
-      "text": "Winterrowd",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 51,
-      "text": "Tele. Rm.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 52,
-      "text": "Holloman",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 53,
-      "text": "Gandy",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 54,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 55,
+      "lineNumber": 30,
       "text": "MAR 13 1953",
       "status": "image_matched"
     },
     {
-      "lineNumber": 56,
-      "text": "COMM. FBI",
-      "status": "image_matched"
+      "lineNumber": 31,
+      "text": "COMM FBI",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 57,
+      "lineNumber": 32,
       "status": "blank"
     },
     {
-      "lineNumber": 58,
-      "text": "62-83894-328",
+      "lineNumber": 33,
+      "text": "RECEIVED [unclear] ROOM",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 34,
+      "text": "MAR 12 6 23 PM '53",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "text": "F B I",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 36,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 37,
+      "text": "62-83894-328 45",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

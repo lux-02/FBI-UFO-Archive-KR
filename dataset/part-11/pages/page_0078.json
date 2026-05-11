@@ -8,16 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 24 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0078-l0003",
-    "page_0078-l0004",
-    "page_0078-l0006"
-  ],
-  "lineCount": 35,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 37,
   "lines": [
     {
       "lineNumber": 1,
@@ -30,97 +26,95 @@
     },
     {
       "lineNumber": 3,
-      "text": "ECORDED-86",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "RECORDED-86",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "62-9[unclear] 242",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 5,
-      "text": "Chicago 20, Illinois",
-      "status": "image_matched"
+      "text": "EX-112",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "EX-112 Dear Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
-      "status": "blank"
+      "text": "Chicago 26, Illinois",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
+      "text": "Dear Mr. [REDACTED]:",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
       "text": "I sincerely appreciate the interest which",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 11,
       "text": "prompted your letter of June 21, 1954; however, I",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
       "text": "am not in a position, as a matter of policy, to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 13,
       "text": "comment regarding the book you mentioned since it",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
       "text": "does not deal with a matter within the jurisdiction",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 15,
       "text": "of the FBI.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 16,
       "status": "blank"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 17,
       "text": "It is suggested that you consider the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 18,
       "text": "advisability of communicating with The Honorable, The",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 19,
       "text": "Secretary of the Air Force, The Pentagon, Washington",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 20,
       "text": "25, D. C., for whatever information he can give you",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
-      "text": "along the lines of your inquiries.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "status": "blank"
-    },
-    {
       "lineNumber": 21,
-      "text": "Sincerely yours,",
+      "text": "along the lines of your inquiries.",
       "status": "image_matched"
     },
     {
@@ -129,63 +123,72 @@
     },
     {
       "lineNumber": 23,
-      "text": "John Edgar Hoover",
+      "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 25,
+      "text": "John Edgar Hoover",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
       "text": "Director",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 27,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 28,
       "text": "NOTE: Correspondent desired information concerning the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 29,
       "text": "book \"Flying Saucers Have Landed\" by Desmond Leslie and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 30,
       "text": "George Adamski.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 31,
       "status": "blank"
     },
     {
-      "lineNumber": 30,
-      "text": "GEH:jas:bnl/lc",
-      "status": "image_matched"
+      "lineNumber": 32,
+      "text": "GEH:jas:bnl/1.0",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 33,
       "text": "COMM - FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 34,
       "text": "JUN 25 1954",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 35,
       "text": "MAILED 31",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 36,
       "status": "blank"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 37,
       "text": "125 pages",
       "status": "image_matched"
     }

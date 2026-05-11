@@ -8,24 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "11 permanent_unresolved line(s) excluded under SRC-896. 98 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0050-l0032",
-    "page_0050-l0033",
-    "page_0050-l0034",
-    "page_0050-l0035",
-    "page_0050-l0036",
-    "page_0050-l0056",
-    "page_0050-l0123",
-    "page_0050-l0124",
-    "page_0050-l0125",
-    "page_0050-l0126",
-    "page_0050-l0127"
-  ],
-  "lineCount": 127,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 115,
   "lines": [
     {
       "lineNumber": 1,
@@ -34,104 +22,105 @@
     },
     {
       "lineNumber": 2,
-      "text": "Summary of Sightings of Unknown Aerial Objects, 17th District OSI (cont)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 3,
       "status": "blank"
     },
     {
+      "lineNumber": 3,
+      "text": "Summary of Sightings of Unknown Aer[unclear], 17th District OSI (cont)",
+      "status": "needs_image_check"
+    },
+    {
       "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
       "text": "Number",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "191",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 6,
-      "text": "192",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
-      "text": "193",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 8,
-      "text": "194",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 9,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 10,
       "text": "Date",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
-      "text": "11 Mar 1950",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "16 Mar",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "16 Mar",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 14,
-      "text": "17 Mar",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "text": "17 Mar",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 17,
+      "lineNumber": 7,
       "text": "Time",
       "status": "image_matched"
     },
     {
+      "lineNumber": 8,
+      "text": "Number of Observers",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Reliability of Observers",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "General Area of Occurrence",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Apparent Direction of Flight",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Apparent Altitude",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "Course Horizontal or Vertical",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Color",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Trail or Train of",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Duration of Observation",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Sound",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 18,
-      "text": "0100",
+      "text": "Shape",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "1100",
+      "text": "Apparent Size",
       "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "1000",
+      "text": "Apparent Speed",
       "status": "image_matched"
     },
     {
       "lineNumber": 21,
-      "text": "0310",
+      "text": "Manner of Disappearance",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "text": "0500",
+      "text": "Evaluation",
       "status": "image_matched"
     },
     {
@@ -140,228 +129,226 @@
     },
     {
       "lineNumber": 24,
-      "text": "Number of Observers",
-      "status": "image_matched"
+      "text": "[unclear] 11 Mar 1950",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 25,
-      "text": "1",
+      "text": "0100",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "10",
+      "text": "1",
       "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "10",
-      "status": "image_matched"
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 28,
-      "text": "1",
-      "status": "image_matched"
+      "text": "Holloman AFB, New",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 31,
-      "text": "Reliability of Observers",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 33,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 34,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 35,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 36,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 37,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 38,
-      "text": "General Area of Occurrence",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 39,
-      "text": "Holloman AFB, New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "Farmington, New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
-      "text": "Farmington, New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "text": "Los Alamos, New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "Los Alamos, New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 45,
-      "text": "Apparent Direction of Flight",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
       "text": "App 270°",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
-      "text": "N to NE",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "text": "NE",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 49,
-      "text": "Toward earth",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 50,
-      "text": "NE",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 51,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 52,
-      "text": "Apparent Altitude",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 53,
+      "lineNumber": 30,
       "text": "About 30° above horizon at distance of 50 miles",
       "status": "image_matched"
     },
     {
-      "lineNumber": 54,
-      "text": "Over 20,000'",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 55,
-      "text": "Over 20,000'",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 56,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 57,
-      "text": "Level flight",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 58,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 59,
-      "text": "Course Horizontal or Vertical",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 60,
+      "lineNumber": 31,
       "text": "Straight flight",
       "status": "image_matched"
     },
     {
-      "lineNumber": 61,
+      "lineNumber": 32,
+      "text": "Changed from light orange to blood red to amber to light green",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 33,
+      "text": "None",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "5 mts",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "text": "None",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "text": "Ping pong ball",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 37,
+      "text": "Ping pong ball held at arm's length",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Disappeared from view",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "b5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 41,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 42,
+      "text": "191",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 43,
+      "text": "16 Mar",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "1100",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "text": "10",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 46,
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 47,
+      "text": "Farmington, New Mexico",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 48,
+      "text": "N to NE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 50,
       "text": "Turned on their axis & maneuvered up & down",
       "status": "image_matched"
     },
     {
+      "lineNumber": 51,
+      "text": "Bright luminous as tin foil",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 52,
+      "text": "None",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 53,
+      "text": "3 - 5 mts",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 54,
+      "text": "None",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 55,
+      "text": "Flat spheriodic",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 56,
+      "text": "1 to 6\"",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 57,
+      "text": "Faster than conventional aircraft",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 58,
+      "text": "Discontinued observation",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 59,
+      "text": "b5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 60,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 61,
+      "text": "[unclear] 16 Mar",
+      "status": "needs_image_check"
+    },
+    {
       "lineNumber": 62,
-      "text": "Straight flight 60°-90°",
+      "text": "1000",
       "status": "image_matched"
     },
     {
       "lineNumber": 63,
-      "text": "Toward earth",
+      "text": "10",
       "status": "image_matched"
     },
     {
       "lineNumber": 64,
-      "text": "Level flight",
-      "status": "image_matched"
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 65,
-      "status": "blank"
+      "text": "Farmington, New Mexico",
+      "status": "image_matched"
     },
     {
       "lineNumber": 66,
-      "text": "Color",
+      "text": "NE",
       "status": "image_matched"
     },
     {
       "lineNumber": 67,
-      "text": "Changed from light orange to blood red to light green",
+      "text": "Over 20,000'",
       "status": "image_matched"
     },
     {
       "lineNumber": 68,
-      "text": "Bright luminous as tin foil",
-      "status": "image_matched"
+      "text": "Skyward at 60°-80°",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 69,
@@ -370,94 +357,96 @@
     },
     {
       "lineNumber": 70,
-      "text": "Reddish then green",
+      "text": "None",
       "status": "image_matched"
     },
     {
       "lineNumber": 71,
-      "text": "Green-ish yellow",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 72,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 73,
-      "text": "Trail or Train of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 74,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 75,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 76,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 77,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 78,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 79,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 80,
-      "text": "Duration of Observation",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 81,
-      "text": "5 mts",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 82,
-      "text": "3-5 mts",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 83,
       "text": "30 mts",
       "status": "image_matched"
     },
     {
+      "lineNumber": 72,
+      "text": "None",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 73,
+      "text": "Oval & oblong",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 74,
+      "text": "1/16\" - 1/4\" circle at arm's length",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 75,
+      "text": "Faster than conventional aircraft",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 76,
+      "text": "Gradually disappeared",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 77,
+      "text": "b5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 78,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 79,
+      "text": "193",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 80,
+      "text": "17 Mar",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 81,
+      "text": "0310",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 82,
+      "text": "1",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 83,
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 84,
-      "text": "1 sec",
+      "text": "Los Alamos, New Mexico",
       "status": "image_matched"
     },
     {
       "lineNumber": 85,
-      "text": "3 secs",
+      "text": "Toward earth",
       "status": "image_matched"
     },
     {
       "lineNumber": 86,
-      "status": "blank"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 87,
-      "text": "Sound",
+      "text": "Toward earth",
       "status": "image_matched"
     },
     {
       "lineNumber": 88,
-      "text": "None",
+      "text": "Reddish then green",
       "status": "image_matched"
     },
     {
@@ -467,7 +456,7 @@
     },
     {
       "lineNumber": 90,
-      "text": "None",
+      "text": "1 sec",
       "status": "image_matched"
     },
     {
@@ -477,105 +466,107 @@
     },
     {
       "lineNumber": 92,
-      "text": "None",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 93,
-      "status": "blank"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 94,
-      "text": "Shape",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 95,
-      "text": "Ping pong ball",
+      "text": "Appeared to fall to earth",
       "status": "image_matched"
     },
     {
       "lineNumber": 96,
-      "text": "Flat spheroidic",
-      "status": "image_matched"
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 97,
-      "text": "Oval & oblong",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 98,
-      "text": "Round",
+      "text": "194",
       "status": "image_matched"
     },
     {
       "lineNumber": 99,
-      "text": "Round",
+      "text": "17 Mar",
       "status": "image_matched"
     },
     {
       "lineNumber": 100,
-      "status": "blank"
+      "text": "0500",
+      "status": "image_matched"
     },
     {
       "lineNumber": 101,
-      "text": "Apparent Size",
+      "text": "1",
       "status": "image_matched"
     },
     {
       "lineNumber": 102,
-      "text": "Ping pong ball held at arm's length",
-      "status": "image_matched"
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 103,
-      "text": "1 to 6\"",
+      "text": "Los Alamos, New Mexico",
       "status": "image_matched"
     },
     {
       "lineNumber": 104,
-      "text": "1/16\" - 1\" held at arm's length",
+      "text": "NE",
       "status": "image_matched"
     },
     {
       "lineNumber": 105,
-      "text": "A size of full moon",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 106,
-      "text": "A size of full moon",
+      "text": "Level flight",
       "status": "image_matched"
     },
     {
       "lineNumber": 107,
-      "status": "blank"
+      "text": "Greenish yellow",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 108,
-      "text": "Apparent Speed",
+      "text": "None",
       "status": "image_matched"
     },
     {
       "lineNumber": 109,
-      "text": "Disappeared from view",
+      "text": "3 secs",
       "status": "image_matched"
     },
     {
       "lineNumber": 110,
-      "text": "Faster than conventional aircraft",
+      "text": "None",
       "status": "image_matched"
     },
     {
       "lineNumber": 111,
-      "text": "Faster than conventional aircraft",
+      "text": "Round",
       "status": "image_matched"
     },
     {
       "lineNumber": 112,
-      "text": "Moderate",
-      "status": "image_matched"
+      "text": "1/4 size of full moon",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 113,
@@ -584,76 +575,13 @@
     },
     {
       "lineNumber": 114,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 115,
-      "text": "Manner of Disappearance",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 116,
-      "text": "Disappeared from view",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 117,
-      "text": "Discontinued observation",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 118,
-      "text": "Gradually disappeared",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 119,
-      "text": "Appeared to fall to earth",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 120,
       "text": "Like light going out",
       "status": "image_matched"
     },
     {
-      "lineNumber": 121,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 122,
-      "text": "Evaluation",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 123,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 124,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 125,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 126,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 127,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 115,
+      "text": "b5",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

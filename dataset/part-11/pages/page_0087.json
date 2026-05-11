@@ -8,14 +8,11 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 20 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0087-l0011",
-    "page_0087-l0022"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 26,
   "lines": [
     {
@@ -69,8 +66,7 @@
     {
       "lineNumber": 11,
       "text": "of the Air Force doesn't even advise them. Colonel [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 12,
@@ -124,8 +120,7 @@
     {
       "lineNumber": 22,
       "text": "by the Air Force itself. It is the opinion of Colonel [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 23,

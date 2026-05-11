@@ -8,19 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 110 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0026-l0028",
-    "page_0026-l0044",
-    "page_0026-l0062",
-    "page_0026-l0078",
-    "page_0026-l0095",
-    "page_0026-l0112"
-  ],
-  "lineCount": 123,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 133,
   "lines": [
     {
       "lineNumber": 1,
@@ -34,607 +27,650 @@
     },
     {
       "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "Summary of Sightings of Unknown Aerial Phenomena, 17th District OSI (cont)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 5,
       "status": "blank"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
       "text": "Number",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "text": "Date",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "text": "Time",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "Number of Observers",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "Reliability of Observers",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "General Area of Occurrence",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "Apparent Direction of Flight",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "text": "Apparent Altitude",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
-      "text": "Course Horizontal to Vertical",
-      "status": "image_matched"
+      "lineNumber": 14,
+      "text": "Course to Vertical Horizontal",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "text": "Color",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
-      "text": "Trail or Train",
-      "status": "image_matched"
+      "lineNumber": 16,
+      "text": "Trail or",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "text": "Duration of Observation",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "text": "Sound",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 19,
       "text": "Shape",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "text": "Apparent Size",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 21,
       "text": "Apparent Speed",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "text": "++Evaluation",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 22,
-      "status": "blank"
+      "text": "Manner of Disappearance",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
+      "text": "**Evaluation**",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 24,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 25,
       "text": "62",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
-      "text": "6 May",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "text": "2040",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 26,
-      "text": "2130",
-      "status": "image_matched"
+      "text": "6 May 1949",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
+      "text": "2040 | 2130",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 28,
       "text": "1",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 29,
-      "text": "Camp Hood, Texas",
-      "status": "image_matched"
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 30,
-      "text": "W and N",
+      "text": "Camp Hood, Texas",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "text": "App 1200' dropping to 40'",
+      "text": "W and N",
       "status": "image_matched"
     },
     {
       "lineNumber": 32,
+      "text": "App 1200' dropping to 400'",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 33,
       "text": "Alternating pinkish to green",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 34,
-      "text": "50 secs",
+      "text": "None",
       "status": "image_matched"
     },
     {
       "lineNumber": 35,
-      "text": "Round",
-      "status": "image_matched"
+      "text": "50 sec",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 36,
-      "text": "2 dollar diminishing to quarter size",
+      "text": "None",
       "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "text": "Very slow",
+      "text": "Round",
       "status": "image_matched"
     },
     {
       "lineNumber": 38,
+      "text": "1/2 dollar diminishing to quarter size",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Very slow",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
       "text": "Faded from sight",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 41,
+      "text": "[REDACTED] b5 [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 42,
       "status": "blank"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 43,
       "text": "63",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 44,
       "text": "6 May",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 45,
       "text": "0105",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 45,
-      "text": "Los Alamos, New Mexico",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 46,
-      "text": "N to S",
+      "text": "1",
       "status": "image_matched"
     },
     {
       "lineNumber": 47,
-      "text": "50 above horizon",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 48,
-      "text": "Form at an angle of 30-35",
+      "text": "Los Alamos, New Mexico",
       "status": "image_matched"
     },
     {
       "lineNumber": 49,
-      "text": "Green-white",
+      "text": "N to S",
       "status": "image_matched"
     },
     {
       "lineNumber": 50,
-      "text": "None",
+      "text": "50 above horizon",
       "status": "image_matched"
     },
     {
       "lineNumber": 51,
-      "text": "Fraction of a sec",
-      "status": "image_matched"
+      "text": "Has going flown at an angle of 30 - 35°",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 52,
-      "text": "None",
-      "status": "image_matched"
+      "text": "Green",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 53,
-      "text": "App 1/8 size of full moon",
+      "text": "None",
       "status": "image_matched"
     },
     {
       "lineNumber": 54,
-      "text": "Very high rate of speed",
+      "text": "Fraction of a sec",
       "status": "image_matched"
     },
     {
       "lineNumber": 55,
-      "text": "Disappeared west of New Mexico.",
+      "text": "None",
       "status": "image_matched"
     },
     {
       "lineNumber": 56,
-      "status": "blank"
+      "text": "Round",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 57,
-      "text": "64",
+      "text": "App 1/8 size of full moon",
       "status": "image_matched"
     },
     {
       "lineNumber": 58,
-      "text": "7 May",
+      "text": "Very high rate of speed",
       "status": "image_matched"
     },
     {
       "lineNumber": 59,
-      "text": "2025",
-      "status": "image_matched"
+      "text": "Disappeared west of Jemez Mts.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 60,
-      "text": "2105",
-      "status": "image_matched"
+      "text": "[REDACTED] b5 [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 61,
-      "text": "4",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 62,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 63,
-      "text": "Camp Hood, Texas",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 64,
-      "text": "SE",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 65,
-      "text": "1300'",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 66,
-      "text": "Reddish greenish white",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 67,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 68,
-      "text": "40 mts",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 69,
-      "text": "Diamond shape",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 70,
-      "text": "5 mils width",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 71,
-      "text": "Covered 18 mils in 40 mins horiz.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 72,
-      "text": "Dimmed and went out",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 73,
       "status": "blank"
     },
     {
-      "lineNumber": 74,
-      "text": "65",
+      "lineNumber": 62,
+      "text": "64",
       "status": "image_matched"
     },
     {
-      "lineNumber": 75,
+      "lineNumber": 63,
       "text": "7 May",
       "status": "image_matched"
     },
     {
-      "lineNumber": 76,
-      "text": "1940",
-      "status": "image_matched"
+      "lineNumber": 64,
+      "text": "2025 | 2105",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 77,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 78,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 79,
-      "text": "Camp Hood, Texas",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 80,
-      "text": "E and E",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 81,
-      "text": "1000'",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 82,
-      "text": "Reddish greenish white",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 83,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 84,
-      "text": "57 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 85,
-      "text": "Diamond shape",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 86,
-      "text": "3 mils width",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 87,
-      "text": "Covered 20 mils in 57 secs horiz.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 88,
-      "text": "Dimmed and went out",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 89,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 90,
-      "text": "66",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 91,
-      "text": "8 May",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 92,
-      "text": "2008",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 93,
-      "text": "2017",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 94,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 95,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 96,
-      "text": "Camp Hood, Texas",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 97,
-      "text": "E and E",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 98,
-      "text": "1500'",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 99,
-      "text": "Reddish greenish white",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 100,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 101,
-      "text": "9 mts",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 102,
-      "text": "Diamond shape",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 103,
-      "text": "2 mils width",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 104,
-      "text": "10 mils in 9 mts",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 105,
-      "text": "Dimmed and went out",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 106,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 107,
-      "text": "67",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 108,
-      "text": "8 May",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 109,
-      "text": "0930",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 110,
-      "text": "1100",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 111,
+      "lineNumber": 65,
       "text": "4",
       "status": "image_matched"
     },
     {
-      "lineNumber": 112,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 66,
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 113,
-      "text": "Tucson, Arizona",
+      "lineNumber": 67,
+      "text": "Camp Hood, Texas",
       "status": "image_matched"
     },
     {
-      "lineNumber": 114,
-      "text": "W, 90° turn to the N",
+      "lineNumber": 68,
+      "text": "SE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 115,
-      "text": "4000 to 20,000",
+      "lineNumber": 69,
+      "text": "1500'",
       "status": "image_matched"
     },
     {
-      "lineNumber": 116,
-      "text": "Horizontal then rapid climb at 45° angle",
+      "lineNumber": 70,
+      "text": "Green-white",
       "status": "image_matched"
     },
     {
-      "lineNumber": 117,
-      "text": "White",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 118,
+      "lineNumber": 71,
       "text": "None",
       "status": "image_matched"
     },
     {
+      "lineNumber": 72,
+      "text": "40 mts",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 73,
+      "text": "None",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 74,
+      "text": "Diamond shape",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 75,
+      "text": "5 mils width",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 76,
+      "text": "Covered 18 mils in 40 mins horiz.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 77,
+      "text": "Dimmed and went out",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 78,
+      "text": "[REDACTED] b5 [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 79,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 80,
+      "text": "65",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 81,
+      "text": "7 May",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 82,
+      "text": "1940",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 83,
+      "text": "1",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 84,
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 85,
+      "text": "Camp Hood, Texas",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 86,
+      "text": "E and W",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 87,
+      "text": "1000'",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 88,
+      "text": "Reddish greenish white",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 89,
+      "text": "None",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 90,
+      "text": "57 sec",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 91,
+      "text": "None",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 92,
+      "text": "Diamond shape",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 93,
+      "text": "3 mils width",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 94,
+      "text": "Covered 20 mils in 57 secs horiz.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 95,
+      "text": "Dimmed and went out",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 96,
+      "text": "[REDACTED] b5 [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 97,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 98,
+      "text": "66",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 99,
+      "text": "8 May",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 100,
+      "text": "2008 | 2017",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 101,
+      "text": "1",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 102,
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 103,
+      "text": "Camp Hood, Texas",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 104,
+      "text": "E and W",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 105,
+      "text": "1500'",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 106,
+      "text": "Reddish greenish white",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 107,
+      "text": "None",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 108,
+      "text": "9 mts",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 109,
+      "text": "None",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 110,
+      "text": "Diamond",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 111,
+      "text": "2 mils width",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 112,
+      "text": "10 mils in 9 mts",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 113,
+      "text": "Dimmed and went out",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 114,
+      "text": "[REDACTED] b5 [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 115,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 116,
+      "text": "67",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 117,
+      "text": "8 May",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 118,
+      "text": "0930 | 1100",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 119,
-      "text": "10-20 mts",
+      "text": "4",
       "status": "image_matched"
     },
     {
       "lineNumber": 120,
-      "text": "Metallic circular",
-      "status": "image_matched"
+      "text": "[REDACTED] b5",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 121,
-      "text": "40-75' in diameter",
+      "text": "Tucson, Arizona",
       "status": "image_matched"
     },
     {
       "lineNumber": 122,
-      "text": "Motionless to faster than jet",
+      "text": "W, 90° turn to the N",
       "status": "image_matched"
     },
     {
       "lineNumber": 123,
+      "text": "4000 to 20,000",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 124,
+      "text": "Horizontal then rapid climb at 45° angle",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 125,
+      "text": "White",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 126,
+      "text": "None",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 127,
+      "text": "10-20 mts",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 128,
+      "text": "None",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 129,
+      "text": "Metallic circular",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 130,
+      "text": "40-75' in diameter",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 131,
+      "text": "Motionless to faster than jet",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 132,
       "text": "Climbed at 45° angle until out of sight",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 133,
+      "text": "[REDACTED] b5 [REDACTED]",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

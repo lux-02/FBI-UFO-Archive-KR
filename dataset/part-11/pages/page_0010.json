@@ -8,20 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 13 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0010-l0003",
-    "page_0010-l0004",
-    "page_0010-l0008",
-    "page_0010-l0009",
-    "page_0010-l0010",
-    "page_0010-l0014",
-    "page_0010-l0019"
-  ],
-  "lineCount": 26,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 32,
   "lines": [
     {
       "lineNumber": 1,
@@ -30,30 +22,26 @@
     },
     {
       "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
       "text": "SAC LOS ANGELES URGENT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
-      "text": "FLYING SAUCERS. REBUTEL OCTOBER THIRTEEN LAST. SUTEL RESULTS OF",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 4,
-      "text": "YOUR INQUIRY TO IDENTIFY [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
-      "text": "HOOVER",
-      "status": "image_matched"
+      "text": "FLYING SAUCERS. REBUTEL OCTOBER THIRTEEN LAST. SUTEL RESULTS OF",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "EHM:MH",
-      "status": "image_matched"
+      "text": "YO'R INQUIRY TO IDENTIFY [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
@@ -61,21 +49,17 @@
     },
     {
       "lineNumber": 8,
-      "text": "FEDERAL BUREAU OF INVESTIGATION",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "HOOVER",
+      "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "U. S. DEPARTMENT OF JUSTICE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "text": "COMMUNICATIONS SECTION",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "EHM:MH",
+      "status": "image_matched"
     },
     {
       "lineNumber": 11,
@@ -83,19 +67,18 @@
     },
     {
       "lineNumber": 12,
-      "text": "RECORDED - 82",
-      "status": "image_matched"
+      "text": "FEDERAL BUREAU OF INVESTIGATION",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "text": "EX-29 162-95817",
-      "status": "image_matched"
+      "text": "U. S. DEPARTMENT OF JUSTICE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "COMMUNICATIONS SECTION",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
@@ -103,54 +86,82 @@
     },
     {
       "lineNumber": 16,
-      "text": "OCT 17 11 44 AM '50",
+      "text": "RECORDED - 82",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "RECEIVED READ ROOM",
-      "status": "image_matched"
+      "text": "EX-29 1162-45[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 18,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 19,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 20,
+      "text": "OCT 17 11 54 AM '50",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
+      "text": "RECEIVED READY",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 22,
       "text": "F B I",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
-      "text": "U. S. DEPT. OF JU",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 20,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 21,
-      "text": "OCT 26 1950",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "status": "blank"
-    },
-    {
       "lineNumber": 23,
-      "text": "12-30 P",
-      "status": "image_matched"
+      "text": "U. S. DEPT. OF JUSTICE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
-      "status": "blank"
+      "text": "[unclear] ROOM",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
+      "text": "[unclear] 1950",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 27,
+      "text": "[unclear] OCT 26 1950",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
+      "text": "12-39 p",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
       "text": "COPIES DESTROYED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 32,
       "text": "270 NOV 28 1964",
       "status": "image_matched"
     }

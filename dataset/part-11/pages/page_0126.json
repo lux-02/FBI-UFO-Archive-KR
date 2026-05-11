@@ -8,22 +8,17 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 28 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0126-l0007",
-    "page_0126-l0035",
-    "page_0126-l0037",
-    "page_0126-l0039"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 44,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "January 27, 1953",
-      "status": "image_matched"
+      "text": "ECORDED-84",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -31,7 +26,7 @@
     },
     {
       "lineNumber": 3,
-      "text": "ECORDED-BA",
+      "text": "January 27, 1953",
       "status": "image_matched"
     },
     {
@@ -45,147 +40,145 @@
     },
     {
       "lineNumber": 6,
-      "status": "blank"
+      "text": "Dear [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
-      "text": "Dear [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 8,
       "status": "blank"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 8,
       "text": "Your letter dated January 20, 1953, has",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 9,
       "text": "been received, together with enclosures.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 10,
       "status": "blank"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "text": "Although I would like to be of service",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 12,
       "text": "in connection with your request, I would like to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 13,
       "text": "point out that the FBI is strictly a fact-finding",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 14,
       "text": "agency and it is not within the scope of its",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "text": "prescribed authority to make evaluations or draw",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 16,
       "text": "conclusions as to the character or integrity of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 17,
       "text": "any organization or individual. I know you will",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 18,
       "text": "understand the reason for this rule and will ap-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 19,
       "text": "preciate my inability to be of assistance to you",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 20,
       "text": "in this regard.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 21,
       "status": "blank"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 22,
       "text": "The literature and letter you forwarded",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 23,
       "text": "are being returned.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 24,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 25,
       "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 26,
       "status": "blank"
     },
     {
-      "lineNumber": 28,
-      "text": "COMM-11",
-      "status": "image_matched"
+      "lineNumber": 27,
+      "text": "COMM-FBI",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 28,
       "text": "JAN 28 1953",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 29,
       "text": "MAILED 20",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 30,
       "status": "blank"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 31,
       "text": "John Edgar Hoover",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 32,
       "text": "Director",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 33,
       "status": "blank"
     },
     {
+      "lineNumber": 34,
+      "text": "[unclear] (C)",
+      "status": "needs_image_check"
+    },
+    {
       "lineNumber": 35,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 36,
@@ -195,8 +188,7 @@
     {
       "lineNumber": 37,
       "text": "signed by [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 38,
@@ -206,8 +198,7 @@
     {
       "lineNumber": 39,
       "text": "signed by [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 40,
@@ -220,8 +211,8 @@
     },
     {
       "lineNumber": 42,
-      "text": "DIC:dep:bkh",
-      "status": "image_matched"
+      "text": "DIC:den:bkh",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
@@ -229,8 +220,8 @@
     },
     {
       "lineNumber": 44,
-      "text": "62-83894 326",
-      "status": "image_matched"
+      "text": "62-83894-326",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

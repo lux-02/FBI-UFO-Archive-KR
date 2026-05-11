@@ -8,22 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "9 permanent_unresolved line(s) excluded under SRC-896. 36 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0013-l0010",
-    "page_0013-l0015",
-    "page_0013-l0017",
-    "page_0013-l0023",
-    "page_0013-l0036",
-    "page_0013-l0044",
-    "page_0013-l0046",
-    "page_0013-l0047",
-    "page_0013-l0048"
-  ],
-  "lineCount": 48,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 53,
   "lines": [
     {
       "lineNumber": 1,
@@ -32,18 +22,17 @@
     },
     {
       "lineNumber": 2,
-      "text": "TO : DIRECTOR, FBI DATE: November 9, 1950",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "FROM : SAC, NEW HAVEN",
-      "status": "image_matched"
+      "text": "TO : DIRECTOR, FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "SUBJECT: FLYING DISCS INFORMANT",
-      "status": "image_matched"
+      "text": "DATE: November 9, 1950",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -51,225 +40,236 @@
     },
     {
       "lineNumber": 6,
-      "text": "The following is being brought to the attention of the Bureau so that it",
+      "text": "FROM : SAC, NEW HAVEN",
       "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "may be referred to the Department of the Air Force in connection with",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
-      "text": "instructions set forth in SAC Letter No. 38, Series 1949, dated March 25,",
-      "status": "image_matched"
+      "text": "SUBJECT: FLYING DISCS",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "1949.",
-      "status": "image_matched"
+      "text": "[REDACTED] INFORMANT",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
-      "text": "Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 11,
-      "text": "Avenue, New Haven, was interviewed in connection with other official business",
+      "text": "The following is being brought to the attention of the Bureau so that it",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "and furnished the following information:",
+      "text": "may be referred to the Department of the Air Force in connection with",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "status": "blank"
+      "text": "instructions set forth in SAC Letter No. 38, Series 1949, dated March 25,",
+      "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "He advised that on Friday, October 20, 1950, he and his wife and daughter,",
+      "text": "1949.",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "who reside at [REDACTED] New Haven, went out of the back door of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 16,
-      "text": "their home to the back yard at approximately 6:15 P.M. His little daughter",
-      "status": "image_matched"
+      "text": "Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
-      "text": "called his attention to a star in the sky that was moving and Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] Avenue, New Haven, was interviewed in connection with other official business",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
-      "text": "noted a sphere-like object directly overhead which gave a steady golden orange",
+      "text": "and furnished the following information:",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "glow. He stated that this object was very high between ten to twenty thousand",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 20,
-      "text": "feet, possibly higher. The glow given off was very steady and not blinking",
+      "text": "He advised that on Friday, October 20, 1950, he and his wife and daughter,",
       "status": "image_matched"
     },
     {
       "lineNumber": 21,
-      "text": "and the whole sphere itself glowed in about the same consistency. He witnessed",
-      "status": "image_matched"
+      "text": "who reside at [REDACTED] New Haven, went out of the back door of",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
-      "text": "this object for approximately twenty seconds during which time it traveled in",
+      "text": "their home to the back yard at approximately 6:15 P.M. His little daughter",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "a westerly direction toward New York City and then when Mr. [REDACTED] believed",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "called his attention to a star in the sky that was moving and Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 24,
-      "text": "that possibly it was near or over New York City, it then veered in a souther-",
+      "text": "noted a sphere-like object directly overhead which gave a steady golden orange",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "ly direction as if crossing Long Island or possibly in such a direction that it",
+      "text": "glow. He stated that this object was very high between ten to twenty thousand",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "might have been traveling over Long Island. He lost sight of this object as",
+      "text": "feet, possibly higher. The glow given off was very steady and not blinking",
       "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "it disappeared behind trees in his vicinity. He advised that as to the size",
+      "text": "and the whole sphere itself glowed in about the same consistency. He witnessed",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "text": "of the object, it was approximately ten times the diameter of Venus, which",
+      "text": "this object for approximately twenty seconds during which time it traveled in",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "was shining very brightly that night. He states it was a very clear night",
-      "status": "image_matched"
+      "text": "a westerly direction toward New York City and then when Mr. [REDACTED] believed",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 30,
-      "text": "and that all the stars in the sky were twinkling as compared to the steadi-",
+      "text": "that possibly it was near or over New York City, it then veered in a souther-",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "text": "ness of the glow given off by this object. He advised that the object",
+      "text": "ly direction as if crossing Long Island or possibly in such a direction that it",
       "status": "image_matched"
     },
     {
       "lineNumber": 32,
-      "text": "did not appear to diminish in size as it traveled farther away from him but",
+      "text": "might have been traveling over Long Island. He lost sight of this object as",
       "status": "image_matched"
     },
     {
       "lineNumber": 33,
-      "text": "appeared to maintain about the same size as when he first noticed it",
+      "text": "it disappeared behind trees in his vicinity. He advised that as to the size",
       "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "text": "directly overhead. The same steady orange glow persisted during the entire",
+      "text": "of the object, it was approximately ten times the diameter of Venus, which",
       "status": "image_matched"
     },
     {
       "lineNumber": 35,
-      "text": "time that he witnessed it. Although this object was actually cut from his",
+      "text": "was shining very brightly that night. He states it was a very clear night",
       "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "text": "sight by nearby trees, Mr. [REDACTED] states that it was so far away from him",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "and that all the stars in the sky were twinkling as compared to the steadi-",
+      "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "text": "any way that he probably would have lost sight of it very shortly due to",
+      "text": "ness of the glow given off by this object. He advised that the object",
       "status": "image_matched"
     },
     {
       "lineNumber": 38,
-      "text": "distance had the trees not intervened. The object made no sound whatsoever",
+      "text": "did not appear to diminish in size as it traveled farther away from him but",
       "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "status": "blank"
+      "text": "appeared to maintain about the same size as when he first noticed it",
+      "status": "image_matched"
     },
     {
       "lineNumber": 40,
-      "text": "MHF:FGM",
+      "text": "directly overhead. The same steady orange glow persisted during the entire",
       "status": "image_matched"
     },
     {
       "lineNumber": 41,
-      "text": "RECORDED - 102",
+      "text": "time that he witnessed it. Although this object was actually cut from his",
       "status": "image_matched"
     },
     {
       "lineNumber": 42,
-      "text": "INDEXED 102-62-83894-26",
-      "status": "image_matched"
+      "text": "sight by nearby trees, Mr. [REDACTED] states that it was so far away from him",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 43,
-      "text": "NOV 13 1950",
+      "text": "any way that he probably would have lost sight of it very shortly due to",
       "status": "image_matched"
     },
     {
       "lineNumber": 44,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 45,
-      "text": "EX. 89",
+      "text": "distance had the trees not intervened. The object made no sound whatsoever",
       "status": "image_matched"
     },
     {
+      "lineNumber": 45,
+      "status": "blank"
+    },
+    {
       "lineNumber": 46,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "MHF:FGM",
+      "status": "image_matched"
     },
     {
       "lineNumber": 47,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 48,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "RECORDED - 102",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "text": "INDEXED - 102",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "text": "162-83894-26[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 51,
+      "text": "NOV 13 1950",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 52,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 53,
+      "text": "EX-89",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

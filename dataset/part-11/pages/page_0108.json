@@ -8,18 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 34 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0108-l0026",
-    "page_0108-l0030",
-    "page_0108-l0031",
-    "page_0108-l0040",
-    "page_0108-l0042"
-  ],
-  "lineCount": 48,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 70,
   "lines": [
     {
       "lineNumber": 1,
@@ -28,22 +22,22 @@
     },
     {
       "lineNumber": 2,
-      "text": "89-050039",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
+      "text": "89 - [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 4,
       "text": "INDEXED 68",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "status": "blank"
-    },
-    {
       "lineNumber": 5,
-      "text": "Mackinac Island, Michigan",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
@@ -51,7 +45,7 @@
     },
     {
       "lineNumber": 7,
-      "text": "Dear Mr.",
+      "text": "Mackinac Island, Michigan",
       "status": "image_matched"
     },
     {
@@ -60,40 +54,40 @@
     },
     {
       "lineNumber": 9,
+      "text": "Dear [REDACTED]:",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
       "text": "Your letter of June 30, 1953, has been",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
       "text": "received in Mr. Hoover's absence from the city, and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 13,
       "text": "I am taking the liberty of acknowledging its receipt.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
       "status": "blank"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 15,
       "text": "Your communication will be brought to his",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
-      "text": "attention promptly following his return to Washington.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "status": "blank"
-    },
-    {
       "lineNumber": 16,
-      "text": "Sincerely yours,",
+      "text": "attention promptly following his return to Washington.",
       "status": "image_matched"
     },
     {
@@ -102,21 +96,21 @@
     },
     {
       "lineNumber": 18,
-      "text": "Helen W. Gandy",
+      "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "Secretary.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
       "status": "blank"
     },
     {
+      "lineNumber": 20,
+      "text": "Heler W. Gandy",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 21,
-      "text": "cc-Detroit, with copy of incoming.",
+      "text": "Secretary.",
       "status": "image_matched"
     },
     {
@@ -125,136 +119,238 @@
     },
     {
       "lineNumber": 23,
-      "text": "cc-Cincinnati, with copy of incoming.",
+      "text": "cc-Detroit, with copy of incoming.",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "text": "ATTENTION SAC: You are instructed to thoroughly",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 25,
-      "text": "check your files in an effort to determine whether",
+      "text": "cc-Cincinnati, with copy of incoming.",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "or not the Mr. [REDACTED] referred to by correspondent",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "ATTENTION SAC: You are instructed to thoroughly",
+      "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "has been interviewed by an Agent of your office. You",
+      "text": "check your files in an effort to determine whether",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "text": "should also furnish the Bureau any information which",
-      "status": "image_matched"
+      "text": "or not the Mr. [REDACTED] referred to by correspondent",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
-      "text": "might assist in clarifying the story set forth by",
+      "text": "has been interviewed by an Agent of your office. You",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "[REDACTED] Submit results no later than July 15, 1953,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "should also furnish the Bureau any information which",
+      "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "text": "under caption \"Mr. [REDACTED] Mackinac Island, Michigan, Research (Crime",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "might assist in clarifying the story set forth by",
+      "status": "image_matched"
     },
     {
       "lineNumber": 32,
+      "text": "[REDACTED]. Sulet results no later than July 15, 1953,",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 33,
+      "text": "under caption \"Mr. [REDACTED],",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 34,
+      "text": "[REDACTED] Mackinac Island, Michigan, Research (Crime",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 35,
       "text": "Records).\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
-      "status": "blank"
+      "lineNumber": 36,
+      "text": "Follow-up made for July 15, 1953. [unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 34,
-      "text": "Follow-up made for July 15, 1953.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 35,
+      "lineNumber": 37,
       "text": "NOTE: Although inquiries regarding such phenomena",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 38,
       "text": "are being handled by the Air Force at this present",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 39,
       "text": "time, it is believed desirable to check the source",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 40,
       "text": "of this rumor and following receipt of reply from",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 41,
       "text": "Cincinnati, refer correspondent's inquiry to the Air Force.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 42,
       "text": "In 1939 and again in 1940 [REDACTED] invited the Director",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 43,
       "text": "to attend the Michigan Hotel Convention, and both invitations",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
-      "text": "were declined. An informant reported that [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 44,
+      "text": "were declined. An informant reported that [unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 45,
       "text": "gambling on Mackinac Island was reserved for the Grand",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 46,
       "text": "Hotel.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 47,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 48,
+      "text": "Tolson",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 49,
+      "text": "Ladd",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "text": "Nichols",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
+      "text": "Belmont",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 52,
+      "text": "Clegg",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
+      "text": "Glavin",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 54,
+      "text": "Harbo",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 55,
+      "text": "Mohr",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 56,
+      "text": "Parsons",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 57,
+      "text": "Tracy",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 58,
+      "text": "Gentry",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 59,
+      "text": "Mohr",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 60,
+      "text": "Winterrowd",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 61,
+      "text": "Tele. Room",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 62,
+      "text": "Holloman",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 63,
+      "text": "Sizoo",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 64,
+      "text": "Miss Gandy",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 65,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 66,
       "text": "COMM - FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
-      "text": "HPL:blt",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 47,
+      "lineNumber": 67,
       "text": "JUL 10 1953",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
+      "lineNumber": 68,
       "text": "MAILED 27",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 69,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 70,
+      "text": "HPL:blt",
       "status": "image_matched"
     }
   ],

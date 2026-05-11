@@ -8,23 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 30 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0100-l0003",
-    "page_0100-l0006",
-    "page_0100-l0017",
-    "page_0100-l0033",
-    "page_0100-l0034",
-    "page_0100-l0036",
-    "page_0100-l0041",
-    "page_0100-l0042",
-    "page_0100-l0043",
-    "page_0100-l0046"
-  ],
-  "lineCount": 50,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 51,
   "lines": [
     {
       "lineNumber": 1,
@@ -38,8 +27,7 @@
     {
       "lineNumber": 3,
       "text": "Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
@@ -53,226 +41,221 @@
     {
       "lineNumber": 6,
       "text": "Dear [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
-      "text": "RECORDS",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
+      "text": "RECORDED",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
       "text": "Your letter of June 30, 1953, was brought",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "to my attention upon my return to the City, and I",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "want to thank you for making this information available",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "to me.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "status": "blank"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 14,
       "text": "I wish to advise that the situation which",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "text": "you discuss in your letter does not pertain to any",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
       "text": "matter within the investigative jurisdiction of the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "text": "FBI. Obviously, therefore, no representative of this",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "text": "Bureau conducted the interview with Mr. [REDACTED] which",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 19,
       "text": "you describe relative to \"flying saucers.\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "status": "blank"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 21,
       "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 23,
       "text": "J. Edgar Hoover",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 24,
       "text": "John Edgar Hoover",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
       "text": "Director",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 26,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
-      "text": "MAILED II",
-      "status": "image_matched"
+      "lineNumber": 27,
+      "text": "MAILED 11",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 28,
       "text": "JUL 28 1953",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
-      "text": "COMM.FBI",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 29,
-      "status": "blank"
+      "text": "COMM-FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
       "text": "cc - Cincinnati",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
-      "text": "Burlet July 15, 1953.",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 32,
-      "status": "blank"
+      "text": "Reurlet July 15, 1953.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
-      "text": "NOTI: Mr. [REDACTED] letter of June 30, 1952, stated that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 34,
-      "text": "a farmer named [REDACTED] of Circleville, Ohio, had reportedly",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "NOTE: Mr. [REDACTED] letter of June 30, 1952, stated that",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 35,
+      "text": "a farmer named [REDACTED] of Circleville, Ohio, had reportedly",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 36,
       "text": "seen a flying saucer and had been subsequently interviewed",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 37,
       "text": "on the matter by representative of the FBI. Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 38,
       "text": "desired to know if this were true.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 39,
       "text": "Bulet of July 9, 1953, to him was an \"in-absence\" reply,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 40,
       "text": "containing a note for SAC, Cincinnati to determine the basis",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 41,
       "text": "of the rumor. Cincinnati letter of July 15, 1953, indicates",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
-      "text": "that [REDACTED] was interviewed on July 14, 1953; at that time",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 42,
-      "text": "[REDACTED] indicated that he had been interviewed on the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "that [REDACTED] was interviewed on July 14, 1953; at that time",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 43,
-      "text": "subject by one [REDACTED] of Columbus, Ohio, who made the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Stevenson indicated that he had been interviewed on the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 44,
+      "text": "subject by one [REDACTED] of Columbus, Ohio, who made the",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 45,
       "text": "statement that he (Grant) had once been \"checked\" by the FBI.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 46,
       "text": "Cincinnati files reflect no prior interview with the farmer,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
-      "text": "who is [REDACTED] Circleville, Ohio.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 47,
-      "status": "blank"
+      "text": "who is [REDACTED] Circleville, Ohio.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 48,
-      "text": "WLI:dep",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 49,
       "status": "blank"
     },
     {
+      "lineNumber": 49,
+      "text": "WLL:dep",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 50,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 51,
       "text": "62-83894-335",
       "status": "image_matched"
     }

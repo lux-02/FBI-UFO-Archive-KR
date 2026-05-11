@@ -8,36 +8,27 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 4 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0127-l0001",
-    "page_0127-l0002",
-    "page_0127-l0003",
-    "page_0127-l0006",
-    "page_0127-l0009"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 9,
   "lines": [
     {
       "lineNumber": 1,
       "text": "ATTENTION SAC's: Correspondent also enclosed a copy of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
       "text": "the January 19, 1953 issue of \"Space Review\", the publication",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
       "text": "of The International Flying Saucer Bureau, indicating the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -52,8 +43,7 @@
     {
       "lineNumber": 6,
       "text": "groups throughout the United States and England and news",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
@@ -68,8 +58,7 @@
     {
       "lineNumber": 9,
       "text": "\"Space Review\" or [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

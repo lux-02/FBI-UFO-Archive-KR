@@ -8,17 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 31 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0124-l0010",
-    "page_0124-l0013",
-    "page_0124-l0020",
-    "page_0124-l0032"
-  ],
-  "lineCount": 41,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 50,
   "lines": [
     {
       "lineNumber": 1,
@@ -32,48 +27,46 @@
     },
     {
       "lineNumber": 3,
-      "status": "blank"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
       "text": "In Reply, Please Refer to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "File No.",
-      "status": "image_matched"
+      "lineNumber": 6,
+      "text": "File No. [unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
       "text": "RS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
-      "text": "AIR COURIER",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 8,
-      "text": "Date: February 27, 1953",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 9,
-      "text": "To: Director, FBI",
-      "status": "image_matched"
+      "text": "5664 - AIR COURIER",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "From: [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Dispatched",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "Subject: \"FLYING SAUCERS\"",
-      "status": "image_matched"
+      "text": "2/17",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
@@ -81,147 +74,187 @@
     },
     {
       "lineNumber": 13,
-      "text": "[REDACTED] at the U. S. Air Force",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Date: February 17, 1953",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "Base at Mildenhall, England, telephonically contacted writer on",
+      "text": "To: Director, FBI",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "February 11, 1953, regarding the new or revived interest in",
-      "status": "image_matched"
+      "text": "From: [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 16,
-      "text": "\"flying saucers.\" He stated he did not have any new information",
+      "text": "Subject: \"FLYING SAUCERS\"",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "to report but did know of an incident that took place several",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "years ago and which the Bureau may desire to check.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
       "status": "blank"
     },
     {
+      "lineNumber": 18,
+      "text": "[REDACTED] at the U. S. Air Force",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 19,
+      "text": "Base at Mildenhall, England, telephonically contacted writer on",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 20,
-      "text": "This incident, according to [REDACTED], concerns an article",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "February 11, 1953, regarding the new or revived interest in",
+      "status": "image_matched"
     },
     {
       "lineNumber": 21,
-      "text": "or story on \"flying saucers\" which appeared in a small newspaper",
+      "text": "\"flying saucers.\" He stated he did not have any new information",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "text": "with limited circulation in the Township of Jeffersonville, Delaware",
+      "text": "to report but did know of an incident that took place several",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "Township, Sullivan County, New York. He was unable to recall the",
+      "text": "years ago and which the Bureau may desire to check.",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "text": "name of the newspaper but was certain it is the only one published",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 25,
-      "text": "in that area. The story appeared in one of the early 1947 issues or",
-      "status": "image_matched"
+      "text": "This incident, according to [REDACTED] concerns an article",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 26,
-      "text": "in one of the issues during the last three months of 1946. It was",
+      "text": "or story on \"flying saucers\" which appeared in a small newspaper",
       "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "written by a member of the U. S. Armed Forces and of significance is",
-      "status": "image_matched"
+      "text": "with limited circulation, in the Township of Jeffersonville, Delaware",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 28,
-      "text": "the fact that subsequent issues failed to follow it up by carrying",
+      "text": "Township, Sullivan County, New York. He was unable to recall the",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "additional stories on \"flying saucers.\" Also significant is the",
+      "text": "name of the newspaper but was certain it is the only one published",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "fact that it appeared in a small and practically unknown newspaper.",
+      "text": "in that area. The story appeared in one of the early 1947 issues or",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "status": "blank"
+      "text": "in one of the issues during the last three months of 1946. It was",
+      "status": "image_matched"
     },
     {
       "lineNumber": 32,
-      "text": "[REDACTED] states he is merely reporting this for what it",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "written by a member of the U. S. Armed Forces and of significance is",
+      "status": "image_matched"
     },
     {
       "lineNumber": 33,
-      "text": "may be worth and is being forwarded to the Bureau for any action con-",
+      "text": "the fact that subsequent issues failed to follow it up by carrying",
       "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "text": "sidered appropriate.",
+      "text": "additional stories on \"flying saucers.\" Also significant is the",
       "status": "image_matched"
     },
     {
       "lineNumber": 35,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 36,
-      "text": "- NUC -",
+      "text": "fact that it appeared in a small and practically unknown newspaper.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 36,
       "status": "blank"
     },
     {
+      "lineNumber": 37,
+      "text": "[REDACTED] states he is merely reporting this for what it",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 38,
-      "text": "JAC:CFJ",
+      "text": "may be worth and is being forwarded to the Bureau for any action con-",
       "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "text": "RECORDED-60",
+      "text": "sidered appropriate.",
       "status": "image_matched"
     },
     {
       "lineNumber": 40,
-      "text": "147-85894-32",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 41,
-      "text": "FEB 26 1953",
+      "text": "- RUC -",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 43,
+      "text": "JAC:CFJ",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "[STAMPED TEXT]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 45,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 46,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 47,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 48,
+      "text": "RECORDED-60",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "text": "142- 83 894-32",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "text": "FEB 20 1953",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

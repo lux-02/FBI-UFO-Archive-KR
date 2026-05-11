@@ -8,28 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "15 permanent_unresolved line(s) excluded under SRC-896. 90 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0034-l0028",
-    "page_0034-l0031",
-    "page_0034-l0040",
-    "page_0034-l0046",
-    "page_0034-l0049",
-    "page_0034-l0056",
-    "page_0034-l0058",
-    "page_0034-l0064",
-    "page_0034-l0067",
-    "page_0034-l0076",
-    "page_0034-l0082",
-    "page_0034-l0093",
-    "page_0034-l0099",
-    "page_0034-l0102",
-    "page_0034-l0111"
-  ],
-  "lineCount": 111,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 35,
   "lines": [
     {
       "lineNumber": 1,
@@ -38,12 +22,11 @@
     },
     {
       "lineNumber": 2,
-      "text": "Summary of Sightings of Unknown Aerial Phenomena, 17th District OSI (cont)",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "Page 16",
+      "text": "Summary of Sightings of Unknown Aerial Phenomena, 17th District OSI (cont)",
       "status": "image_matched"
     },
     {
@@ -52,548 +35,152 @@
     },
     {
       "lineNumber": 5,
-      "text": "Number",
+      "text": "Page 16",
       "status": "image_matched"
     },
     {
       "lineNumber": 6,
-      "text": "Date",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 7,
-      "text": "Time",
+      "text": "Number",
       "status": "image_matched"
     },
     {
       "lineNumber": 8,
-      "text": "Number of Observers",
+      "text": "Date",
       "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "Reliability of Observers",
+      "text": "Time",
       "status": "image_matched"
     },
     {
       "lineNumber": 10,
-      "text": "General Area of Occurrence",
+      "text": "Number of Observers",
       "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": "Apparent Direction of Flight",
-      "status": "image_matched"
+      "text": "*Reliability of Observers",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "Apparent Altitude",
+      "text": "General Area of Occurrence",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "Course (Horizontal to Vertical)",
+      "text": "Apparent Direction of Flight",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "Color",
+      "text": "Apparent Altitude",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "Trail or Train",
-      "status": "image_matched"
+      "text": "Course Horizontal to Vertical",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
-      "text": "Duration of Observation",
+      "text": "Color",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "Sound",
-      "status": "image_matched"
+      "text": "Train or Trail",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": "Shape",
+      "text": "Duration of Observation",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "Apparent Size",
+      "text": "Sound",
       "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "Apparent Speed",
+      "text": "Shape",
       "status": "image_matched"
     },
     {
       "lineNumber": 21,
-      "text": "Manner of Disappear-ance",
+      "text": "Apparent Size",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "text": "**Evaluation",
+      "text": "Apparent Speed",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "status": "blank"
+      "text": "Manner of Disappearance",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
-      "text": "85",
+      "text": "**Evaluation",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "15 Aug",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 26,
-      "text": "2000",
-      "status": "image_matched"
+      "text": "1948",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
-      "text": "1",
-      "status": "image_matched"
+      "text": "85 6 Aug 2000 1 b5 Las Cruces, New Mexico E to W Bluish green Yes 1 - 2 secs None Round Bigger than falling star Disappeared behind building b5",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 28,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 29,
-      "text": "Las Cruces, New Mexico",
-      "status": "image_matched"
+      "text": "86 6 Aug 2000 1 b5 Las Cruces, New Mexico E to W 30°30\" to 5°40\" above horizon Curve going up then in almost vertical direction Reddish blue & green Yes 4 - 5 secs None Round App 6\" in diameter Disappeared gradually b5",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 30,
-      "text": "E to W",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 31,
-      "text": "2020\" to 7035\" above horizon",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "87 6 Aug 2030 1 b5 Alamogordo, New Mexico Vertical 20°20\" to 7°35\" above horizon Straight vertical flight Bright white slight reddish cast Non 3 secs None Round 1/2 size of moon Exploded then pieced died out b5",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
-      "text": "Straight vertical flight",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 33,
-      "text": "Bluish, Green",
-      "status": "image_matched"
+      "text": "88 6 Aug 2000 1 2035 b5 Alamogordo, New Mexico E to W 204\" to 1207\" above horizon 10° off vertical White 2 secs None Large as auto spot-light at arm's length Disappeared behind building b5",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 34,
-      "text": "Yes",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 35,
-      "text": "1 - 2 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 36,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "text": "Round",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 38,
-      "text": "Larger than falling star",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 39,
-      "text": "Disappeared behind building",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 41,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 42,
-      "text": "86",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "16 Aug",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "text": "2000",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 47,
-      "text": "Las Cruces, New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "text": "E to W",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 49,
-      "text": "2020\" to 40\" above horizon",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 50,
-      "text": "Curve point up then fold in almost vertical direction",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 51,
-      "text": "Reddish Blue & Green",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 52,
-      "text": "Yes",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 53,
-      "text": "4 - 5 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 54,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 55,
-      "text": "Round",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 56,
-      "text": "App 6\" in diameter",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 57,
-      "text": "Disappeared gradually",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 58,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 59,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 60,
-      "text": "87",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 61,
-      "text": "16 Aug",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 62,
-      "text": "2000",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 63,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 64,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 65,
-      "text": "Alamogordo, New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 66,
-      "text": "Vertical",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 67,
-      "text": "204\" to 120\" above horizon",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 68,
-      "text": "Straight vertical flight",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 69,
-      "text": "Bright white reddish cast",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 70,
-      "text": "Yes",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 71,
-      "text": "3 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 72,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 73,
-      "text": "Round",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 74,
-      "text": "Size of moon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 75,
-      "text": "Exploded then died out",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 76,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 77,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 78,
-      "text": "88",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 79,
-      "text": "16 Aug",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 80,
-      "text": "2005",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 81,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 82,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 83,
-      "text": "Alamogordo, New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 84,
-      "text": "E to W",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 85,
-      "text": "100 off vertical",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 86,
-      "text": "White",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 87,
-      "text": "Yes",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 88,
-      "text": "2 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 89,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 90,
-      "text": "Round",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 91,
-      "text": "Large as auto spot-light at arm's length",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 92,
-      "text": "Disappeared behind building",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 93,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 94,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 95,
-      "text": "89",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 96,
-      "text": "16 Aug",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 97,
-      "text": "2015",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 98,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 99,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 100,
-      "text": "Alamogordo, New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 101,
-      "text": "SW",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 102,
-      "text": "Straight flight app 200 vertical line",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 103,
-      "text": "Whitish (red trail)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 104,
-      "text": "Yes",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 105,
-      "text": "1 sec",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 106,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 107,
-      "text": "Round",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 108,
-      "text": "Twice size normal falling star",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 109,
-      "text": "Extremely fast - twice as fast as falling star",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 110,
-      "text": "Disappeared behind mountain",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 111,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "89 6 Aug 2015 1 b5 Alamogordo, New Mexico SW Straight flight app 20° vertical decline Whitish yellow (red trail) Yes 1 sec None Round Twice size normal falling star Extremely fast - twice as fast as falling star Disappeared behind mountain b5",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

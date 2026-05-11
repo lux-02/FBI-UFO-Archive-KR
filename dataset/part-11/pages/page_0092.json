@@ -8,49 +8,39 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 20 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0092-l0001",
-    "page_0092-l0009",
-    "page_0092-l0010",
-    "page_0092-l0024",
-    "page_0092-l0033",
-    "page_0092-l0035"
-  ],
-  "lineCount": 35,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 38,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Office Mem: [unclear]ndum • UNITED S1. )S GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "TO : Director, FBI DATE: 4/12/54",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "FROM : SAC, Newark (62-0)",
-      "status": "image_matched"
+      "text": "TO : Director, FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "SUBJECT: INFORMATION REGARDING NEW",
-      "status": "image_matched"
+      "text": "DATE: 4/12/54",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "PRINCIPLES OF AERO-DYNAMICS",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
-      "text": "ALOIS PIVEC - INFORMANT",
+      "text": "FROM : SAC, Newark (62-0)",
       "status": "image_matched"
     },
     {
@@ -59,20 +49,18 @@
     },
     {
       "lineNumber": 8,
-      "text": "Enclosed herewith are photostats of parts of two letters",
+      "text": "SUBJECT: INFORMATION REGARDING NEW",
       "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "furnished by [REDACTED] and his wife, [REDACTED], both of [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "PRINCIPLES OF AERO-DYNAMICS",
+      "status": "image_matched"
     },
     {
       "lineNumber": 10,
-      "text": "[REDACTED] East Orange, NJ.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "ALOIS PIVEC - INFORMANT",
+      "status": "image_matched"
     },
     {
       "lineNumber": 11,
@@ -80,18 +68,18 @@
     },
     {
       "lineNumber": 12,
-      "text": "Both photostats are in German and concern the development",
+      "text": "Enclosed herewith are photostats of parts of two letters",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "of a new principle in aero-dynamics and alleged attempts by the",
-      "status": "image_matched"
+      "text": "furnished by [REDACTED] and his wife, [REDACTED], both of",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 14,
-      "text": "Communists in Austria to obtain this information.",
-      "status": "image_matched"
+      "text": "[REDACTED] East Orange, NJ.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
@@ -99,17 +87,17 @@
     },
     {
       "lineNumber": 16,
-      "text": "There is also enclosed a blind memo, setting forth the",
+      "text": "Both photostats are in German and concern the development",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "summary of the information in the letters and the circumstances",
+      "text": "of a new principle in aero-dynamics and alleged attempts by the",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "under which they were obtained.",
+      "text": "Communists in Austria to obtain this information.",
       "status": "image_matched"
     },
     {
@@ -118,46 +106,46 @@
     },
     {
       "lineNumber": 20,
-      "text": "This information is being furnished to the Bureau for",
+      "text": "There is also enclosed a blind memo, setting forth the",
       "status": "image_matched"
     },
     {
       "lineNumber": 21,
-      "text": "whatever action is deemed appropriate.",
+      "text": "summary of the information in the letters and the circumstances",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "status": "blank"
+      "text": "under which they were obtained.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 23,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 24,
+      "text": "This information is being furnished to the Bureau for",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "whatever action is deemed appropriate.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 27,
       "text": "The indices of the Newark Office are negative regarding",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 25,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 26,
-      "text": "Encls. (7)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "status": "blank"
-    },
-    {
       "lineNumber": 28,
-      "text": "cc NK 100-17007",
-      "status": "image_matched"
+      "text": "[REDACTED].",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
@@ -165,7 +153,7 @@
     },
     {
       "lineNumber": 30,
-      "text": "REGISTERED MAIL",
+      "text": "Encls. (7)",
       "status": "image_matched"
     },
     {
@@ -174,25 +162,36 @@
     },
     {
       "lineNumber": 32,
-      "text": "RECORDED - 47",
+      "text": "cc NK 100-17007",
       "status": "image_matched"
     },
     {
       "lineNumber": 33,
-      "text": "RTH: [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 34,
-      "text": "INDEXED - 47",
+      "text": "REGISTERED MAIL",
       "status": "image_matched"
     },
     {
       "lineNumber": 35,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
+      "text": "RECORDED - 47",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 37,
+      "text": "RTH:[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 38,
+      "text": "INDEXED - 47",
+      "status": "image_matched"
     }
   ],
   "blockCount": null

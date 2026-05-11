@@ -8,18 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 35 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0117-l0040",
-    "page_0117-l0042",
-    "page_0117-l0043",
-    "page_0117-l0048",
-    "page_0117-l0049"
-  ],
-  "lineCount": 49,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 50,
   "lines": [
     {
       "lineNumber": 1,
@@ -209,9 +203,8 @@
     },
     {
       "lineNumber": 40,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 41,
@@ -220,15 +213,12 @@
     },
     {
       "lineNumber": 42,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] 3-23-53",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 43,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 44,
@@ -237,8 +227,8 @@
     },
     {
       "lineNumber": 45,
-      "text": "162-12574-3298",
-      "status": "image_matched"
+      "text": "162-12871-329[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 46,
@@ -252,15 +242,17 @@
     },
     {
       "lineNumber": 48,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 49,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "CRIC",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "text": "REC.",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

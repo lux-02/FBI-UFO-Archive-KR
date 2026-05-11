@@ -8,41 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "28 permanent_unresolved line(s) excluded under SRC-896. 1 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0059-l0002",
-    "page_0059-l0004",
-    "page_0059-l0005",
-    "page_0059-l0006",
-    "page_0059-l0007",
-    "page_0059-l0008",
-    "page_0059-l0009",
-    "page_0059-l0010",
-    "page_0059-l0011",
-    "page_0059-l0012",
-    "page_0059-l0013",
-    "page_0059-l0014",
-    "page_0059-l0015",
-    "page_0059-l0016",
-    "page_0059-l0017",
-    "page_0059-l0018",
-    "page_0059-l0019",
-    "page_0059-l0020",
-    "page_0059-l0021",
-    "page_0059-l0022",
-    "page_0059-l0023",
-    "page_0059-l0024",
-    "page_0059-l0025",
-    "page_0059-l0026",
-    "page_0059-l0028",
-    "page_0059-l0029",
-    "page_0059-l0030",
-    "page_0059-l0031"
-  ],
-  "lineCount": 31,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 47,
   "lines": [
     {
       "lineNumber": 1,
@@ -51,179 +22,222 @@
     },
     {
       "lineNumber": 2,
-      "text": "TELETYPE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "status": "blank"
+      "text": "TELETYPE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "SAC, KNOXVILLE 10-13-50 8-26 PM JYC",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 5,
-      "text": "DIRECTOR, FBI URGENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 6,
-      "text": "RADAR DETECTION OF UNIDENTIFIED OBJECTS OVER OAK RIDGE OCTOBER TWELVE,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 7,
-      "text": "NINETEEN FIFTY, PROTECTION OF VITAL INSTALLATIONS. USAF RADAR INSTALL-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 8,
-      "text": "ATION AT KNOXVILLE AT ELEVEN TWENTYFIVE PM, EST, OCTOBER TWELVE, PICKED",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 9,
-      "text": "UP INDICATIONS OF ELEVEN OBJECTS AND PERHAPS MORE TRAVELING ACROSS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 10,
-      "text": "CONTROLLED AREA OF ATOMIC ENERGY INSTALLATION AT OAK RIDGE. ALTITUDE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 11,
-      "text": "OF OBJECTS VARIED FROM ONE THOUSAND TO FIVE THOUSAND FEET, COURSES",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 12,
-      "text": "FROM SOUTH SOUTH EAST TO SOUTHEAST, AND DENSITY FROM READING MADE BY",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 13,
-      "text": "LIGHT AIRCRAFT TO AIRCRAFT EQUAL IN SIZE TO C FORTY SEVEN, SPEED",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 14,
-      "text": "FROM ONE HUNDRED TO ONE HUNDRED TWENTYFIVE MILES PER HOUR. FIGHTER",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 15,
-      "text": "PLANS ATTEMPTED TO INTERCEPT IN FEW MINUTES AND RADAR SCREEN REFLECTED",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 16,
-      "text": "CONTACT, BUT PLANS REPORTED NO OBJECT COULD BE SEEN EITHER VISUALLY",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 17,
-      "text": "OR ON PLANES RADAR SCREEN. AEC PATROL WAS ALERTED BUT NO OBJECTS COULD",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 18,
-      "text": "BE VISUALLY SIGHTED BY THEM OVER THE AREA OTHER THAN THE AIR",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 19,
-      "text": "FORCE INTERCEPTOR. OSI AND EASTERN AIR DEFENSE FORCES HAVE BEEN",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 20,
-      "text": "ADVISED AND ARE CHECKING INCIDENT. NO REASONABLE EXPLANATION FOR",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 21,
-      "text": "RADAR READINGS YET DEVELOPED ALTHOUGH OPERATORS ARE EXPERIENCED",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 22,
-      "text": "RELIABLE PERSONNEL AND RADAR SET IS IN PERFECT OPERATING CONDITION.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 23,
-      "text": "BUREAU WILL BE ADVISED OF FURTHER DEVELOPMENTS.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 24,
-      "text": "HOBEY",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 25,
-      "text": "ACK AND HOLD PLS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 26,
-      "text": "8-31 PM OK FBI WASH DC GAR.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 27,
       "status": "blank"
     },
     {
+      "lineNumber": 5,
+      "text": "SAC, KNOXVILLE",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
+      "text": "10-13-50",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
+      "text": "8-26 PM",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 8,
+      "text": "JYC",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "DIRECTOR, FBI",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 11,
+      "text": "URGENT",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Flying Saucer",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
+      "text": "RADAR DETECTION OF UNIDENTIFIED OBJECTS OVER OAK RIDGE OCTOBER TWELVE,",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "NINETEEN FIFTY, PROTECTION OF VITAL INSTALLATIONS. USAF RADAR INSTALL-",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
+      "text": "ATION AT KNOXVILLE AT ELEVEN TWENTYFIVE PM, EST, OCTOBER TWELVE, PICKED",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 17,
+      "text": "UP INDICATIONS OF ELEVEN OBJECTS AND PERHAPS MORE TRAVELING ACROSS",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 18,
+      "text": "CONTROLLED AREA OF ATOMIC ENERGY INSTALLATION AT OAK RIDGE. ALTITUDE",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 19,
+      "text": "OF OBJECTS VARIED FROM ONE THOUSAND TO FIVE THOUSAND FEET, COURSES",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 20,
+      "text": "FROM SOUTH SOUTH EAST TO SOUTHEAST, AND DENSITY FROM READING MADE BY",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
+      "text": "LIGHT AIRCRAFT TO AIRCRAFT EQUAL IN SIZE TO C FORTY SEVEN, SPEED",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 22,
+      "text": "FROM ONE HUNDRED TO ONE HUNDRED TWENTYFIVE MILES PER HOUR. FIGHTER",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 23,
+      "text": "PLANE ATTEMPTED TO INTERCEPT IN FEW MINUTES AND RADAR SCREEN REFLECTED",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 24,
+      "text": "CONTACT, BUT PLANE REPORTED NO OBJECT COULD BE SEEN EITHER VISUALLY",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 25,
+      "text": "OR ON PLANES RADAR SCREEN. AEC PATROL WAS ALERTED BUT NO OBJECTS COULD",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 26,
+      "text": "BE VISUALLY SIGHTED BY THEM OVER THE AREA OTHER THAN THE AIR",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 27,
+      "text": "FORCE INTERCEPTOR. OSI AND EASTERN AIR DEFENSE FORCES HAVE BEEN",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 28,
-      "text": "162-83894 261",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "ADVISED AND ARE CHECKING INCIDENT. NO REASONABLE EXPLANATION FOR",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
-      "text": "NOV 22 1950",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "RADAR READINGS YET DEVELOPED ALTHOUGH OPERATORS ARE EXPERIENCED",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 30,
-      "text": "INITIALS ON ORIG",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "RELIABLE PERSONNEL AND RADAR SET IS IN PERFECT OPERATING CONDITION.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 31,
-      "text": "DEC7 1950",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "BUREAU WILL BE ADVISED OF FURTHER DEVELOPMENTS.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 32,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 33,
+      "text": "ROBEY",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
+      "text": "ACK AND HOLD PLS",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 36,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 37,
+      "text": "8-31 PM OK FBI WASH DC GAR.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 38,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 39,
+      "text": "INDEXED - 15",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 40,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 41,
+      "text": "162-83894-261",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "text": "NOT RECORDED",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 43,
+      "text": "1950 NOV 22",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 44,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 45,
+      "text": "INITIALS ON ORIG",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 46,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 47,
+      "text": "55 DEC 7 1950",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

@@ -8,26 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "13 permanent_unresolved line(s) excluded under SRC-896. 92 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0023-l0027",
-    "page_0023-l0031",
-    "page_0023-l0040",
-    "page_0023-l0046",
-    "page_0023-l0050",
-    "page_0023-l0057",
-    "page_0023-l0063",
-    "page_0023-l0074",
-    "page_0023-l0080",
-    "page_0023-l0090",
-    "page_0023-l0092",
-    "page_0023-l0098",
-    "page_0023-l0111"
-  ],
-  "lineCount": 111,
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 11,
   "lines": [
     {
       "lineNumber": 1,
@@ -36,560 +22,51 @@
     },
     {
       "lineNumber": 2,
-      "text": "Summary of Sightings of Unknown Aerial Phenomena, 17th District OSI (cont)",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "status": "blank"
+      "text": "Summary of Sightings of Unknown Phenomena, 17th District OSI (cont)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "Number",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
-      "text": "Date",
-      "status": "image_matched"
+      "text": "Number | Date | Time | Number of Observers | Reliability of Observers | General Area of Occurrence | Apparent Direction of Flight | Apparent Altitude | Course Horizontal to Vertical | Color | Train or Trail | Duration of Observation | Sound | Shape | Apparent Size | Apparent Speed | Manner of Disappearance | **Evaluation**",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "Time",
-      "status": "image_matched"
+      "text": "--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "text": "Number of Observers",
-      "status": "image_matched"
+      "text": "80 | 1949 28 Jul | 2045 | 1* | [REDACTED] b5 | Killeen Base, Texas | N to S | 30° above horizon | | [unclear] w/tint of blue [unclear] | Yes | 2-5 secs | None | Round w/tail | Size of evening star | Unable to estimate | Faded out | [REDACTED] b5",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 8,
-      "text": "Reliability of Observers",
-      "status": "image_matched"
+      "text": "81 | 28 Jul | 2259 | 1* | [REDACTED] b5 | Killeen, Texas | S to E | 30° above horizon | | 2 pre-dominately white 1 had orange | Yes | 1st at 2-3 secs 2nd at 10-12 secs | None | Round w/tail | Tennis ball | | Faded out | [REDACTED] b5",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
-      "text": "General Area of Occurrence",
-      "status": "image_matched"
+      "text": "82 | 28 Jul | 225[unclear] | 1* | [REDACTED] b5 | Killeen, Texas | N to NW | 30° above horizon | | Yellow to tail initial-ly blue turning white | None | 15 - 20 secs | None | Round | 3 times size evening star | | Went out like light | [REDACTED] b5",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 10,
-      "text": "Apparent Direction of Flight",
-      "status": "image_matched"
+      "text": "83 | 30 Jul | 2137 | 1* | [REDACTED] b5 | Camp Hood, Texas | SE to NW | 35° to horizon | Climbed in arc | Blue-white | Yes | 2 - 2 1/2 secs | None | Like rocket tail | 2 - 2 1/2 to cover arc of about 15° | | Faded out | [REDACTED] b5",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
-      "text": "Apparent Altitude",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "Course (Horizontal to Vertical)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "Color",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 14,
-      "text": "Trail or Tail",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "text": "Duration of Observation",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "text": "Sound",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 17,
-      "text": "Shape",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "Apparent Size",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "text": "Apparent Speed",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "text": "Manner of Disappearance",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "text": "Evaluation",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 23,
-      "text": "80",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "text": "28 Jul 1949",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "text": "2045",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 28,
-      "text": "Killeen Base, Texas",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 29,
-      "text": "T to S",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
-      "text": "30° above horizon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 31,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 32,
-      "text": "Red w/tint of blue",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
-      "text": "Yes",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 34,
-      "text": "2-5 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 35,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 36,
-      "text": "Round",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "text": "Size of evening star",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 38,
-      "text": "Unable to estimate",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 39,
-      "text": "Faded out",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 41,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 42,
-      "text": "81",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "28 Jul",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "text": "2259",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 47,
-      "text": "Killeen, Texas",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "text": "S to E",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 49,
-      "text": "30° above horizon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 50,
-      "text": "2 predominantely white, 1 red, 1 orange",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 51,
-      "text": "Yes",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 52,
-      "text": "2-3 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 53,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 54,
-      "text": "Round",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 55,
-      "text": "Tennis ball",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 56,
-      "text": "Faded out",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 57,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 58,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 59,
-      "text": "82",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 60,
-      "text": "28 Jul",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 61,
-      "text": "2259",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 62,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 63,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 64,
-      "text": "Killeen, Texas",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 65,
-      "text": "T to N",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 66,
-      "text": "30° above horizon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 67,
-      "text": "Initial-blue turning white",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 68,
-      "text": "Yes",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 69,
-      "text": "15-20 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 70,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 71,
-      "text": "Round",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 72,
-      "text": "3 times size evening star",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 73,
-      "text": "Faded out like light",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 74,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 75,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 76,
-      "text": "83",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 77,
-      "text": "30 Jul",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 78,
-      "text": "2130",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 79,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 80,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 81,
-      "text": "Camp Hood, Texas",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 82,
-      "text": "SE to N",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 83,
-      "text": "35° to horizon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 84,
-      "text": "Climbed in arc",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 85,
-      "text": "Blue-white",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 86,
-      "text": "Yes",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 87,
-      "text": "2-2½ secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 88,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 89,
-      "text": "Like rocket tail",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 90,
-      "text": "2-2½ miles to cover arc of about 15°",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 91,
-      "text": "Faded out",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 92,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 93,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 94,
-      "text": "84",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 95,
-      "text": "30 Jul",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 96,
-      "text": "2204",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 97,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 98,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 99,
-      "text": "Camp Hood, Texas",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 100,
-      "text": "SE to SW",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 101,
-      "text": "App 30° above horizon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 102,
-      "text": "Straight flight loss in altitude",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 103,
-      "text": "Predominately white w/blue tint",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 104,
-      "text": "Yes",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 105,
-      "text": "2-3 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 106,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 107,
-      "text": "Round w/tail",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 108,
-      "text": "Evening star or planet",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 109,
-      "text": "Very fast",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 110,
-      "text": "Gradually faded out",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 111,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "84 | 30 Jul | 2204 | 1 | [REDACTED] b5 | Camp Hood, Texas | SE to SW | App 30° above horizon | Straight flight losing altitude | Predominately white w/blue tint | Yes | 2 - 3 secs | None | Round w/tail | Evening star or planet | Very fast | Gradually faded out | [REDACTED] b5",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

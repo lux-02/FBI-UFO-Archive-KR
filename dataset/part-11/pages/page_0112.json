@@ -8,41 +8,27 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "12 permanent_unresolved line(s) excluded under SRC-896. 14 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0112-l0001",
-    "page_0112-l0005",
-    "page_0112-l0007",
-    "page_0112-l0012",
-    "page_0112-l0013",
-    "page_0112-l0014",
-    "page_0112-l0015",
-    "page_0112-l0016",
-    "page_0112-l0017",
-    "page_0112-l0025",
-    "page_0112-l0026",
-    "page_0112-l0027"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 27,
   "lines": [
     {
       "lineNumber": 1,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
-      "text": "Watertown. Mass.",
-      "status": "image_matched"
+      "text": "Watertown, Mass.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "May 9.1953",
-      "status": "image_matched"
+      "text": "May 9, 1953",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -50,9 +36,8 @@
     },
     {
       "lineNumber": 5,
-      "text": "[unclear] Sir:-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Dear Sir:- (May 7th)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -61,9 +46,8 @@
     },
     {
       "lineNumber": 7,
-      "text": "left school (May 7) and",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "left school (M.I.T) and",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
@@ -87,39 +71,33 @@
     },
     {
       "lineNumber": 12,
-      "text": "saucer. I assume you it was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "saucer. I assure you it was",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "text": "not an air plane; a search light",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "not an air plane, a search light",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "or a falling star. It was round",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "nor a falling star. It was round",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
-      "text": "in shape & a rather orange color.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "in shape & a rather orange color",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
       "text": "it traveled horizontally at a",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
       "text": "rather slow speed for just a",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
@@ -138,41 +116,38 @@
     },
     {
       "lineNumber": 21,
-      "text": "with me. I saw it. I can give",
-      "status": "image_matched"
+      "text": "with me & saw it. I can give",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
-      "text": "you his name.",
-      "status": "image_matched"
+      "text": "you his name [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 23,
-      "text": "RECORDED 5/11/53",
-      "status": "image_matched"
+      "text": "[unclear] it.",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 24,
-      "text": "INDEXED 5/11/53",
-      "status": "image_matched"
+      "text": "RECORDED-99 62-83894-332",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
-      "text": "[unclear] 5/11/53",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "INDEXED-99",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 26,
-      "text": "[unclear] 5/11/53",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] 5/14/53 [unclear] 1953",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 27,
-      "text": "[unclear] 5/11/53",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

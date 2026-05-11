@@ -10,14 +10,67 @@
   "sourceLayer": "line_audit",
   "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "NO_SAFE_SOURCE_TEXT",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
   "pageReadinessNote": null,
   "excludedLineIds": [],
-  "lineCount": 1,
+  "lineCount": 12,
   "lines": [
     {
       "lineNumber": 1,
+      "text": "CONFIDENTIAL",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 2,
       "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "Summary of UFO Sightings, 1947-1952 (cont)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "Page 4",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
+      "text": "| Number | Date | Time | Number of Observers | Reliability of Observers | General Area of Occurrence | Apparent Direction of Flight | Apparent Altitude | Course Horizontal to Vertical | Color | Train or Trail | Duration of Observation | Sound | Shape | Apparent Size | Apparent Speed | Manner of Disappearance | Evaluation |",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 8,
+      "text": "|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
+      "text": "| 19 | 30 Jan | 1755 | App. 200 | [REDACTED] b5 | Roswell, New Mexico | W to E | 2000' | Horizontal | Blue-green | | | None | | | Moving slowly | Disappeared to south. Disintegrated in to shower of smaller lighted fragments | [REDACTED] b5 |",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 10,
+      "text": "| 20 | 30 Jan | App. 1900 | App. 200 | [REDACTED] b5 | Alamogordo, New Mexico | N to S | Angle of 150-60° | Glide descent | Green | | 3 - 15 secs | One - all | | | | Seemed to fizzle out | [REDACTED] b5 |",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 11,
+      "text": "| 21 | 30 Jan | 1954 | 10 | [REDACTED] b5 | Ft. Worth, Texas | E to S | 15° above horizon | 30° down-ward from horizon | Green trail-ing sparks | Yes | 1 - 7 secs | None | | 1/2 size of full moon | | Disintegra-tion | [REDACTED] b5 |",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 12,
+      "text": "| 22 | 14 Feb | 1940 | 2 | [REDACTED] b5 | Ancho, New Mexico | | Some-what above horizon | Stationary then fell in slight curve to W | Bril-liant white light-green color | Yes | | None | | | Stationary then fell in slight curve to W. | [REDACTED] b5 |",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

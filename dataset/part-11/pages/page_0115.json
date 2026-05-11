@@ -8,178 +8,171 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0115-l0001",
-    "page_0115-l0004",
-    "page_0115-l0009"
-  ],
-  "lineCount": 42,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 53,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Office Memorandum • UNITED STA[TES] GOVERNMENT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "TO DIRECTOR, FBI DATE: 4/28/53",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "FROM SAC, SAN JUAN (65-330)",
-      "status": "image_matched"
+      "text": "TO: DIRECTOR, FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "SUBJECT UNIDENTIFIED FLYING OBJECT OBSERVED",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "DATE: 4/28/53",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
+      "text": "FROM: SAC, SAN JUAN (65-330)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
+      "text": "SUBJECT: UNIDENTIFIED FLYING OBJECT OBSERVED",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
       "text": "11:30 AM, APRIL 8, 1953, FORT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "text": "BUCHANAN, PUERTO RICO:",
-      "status": "image_matched"
+      "lineNumber": 8,
+      "text": "BUCHANAN, PUERTO RICO;",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 9,
       "text": "MISCELLANEOUS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 10,
       "status": "blank"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 11,
       "text": "On 4/27/53 a report was received from Major [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
       "text": "Wing Intelligence Officer, Ramey Air Force Base, Puerto Rico.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 13,
       "text": "The substance of this report is as follows:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
       "status": "blank"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 15,
       "text": "Five persons observed an unidentified flying object at 11:30",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 16,
       "text": "AM on 4/8/53 at Fort Buchanan, Puerto Rico. Statements were",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 17,
       "text": "taken from all of the witnesses, among whom were three Captains",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 18,
       "text": "and a Sergeant of the U. S. Army, as well as a civilian. They",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 19,
       "text": "described the object as a bright star or a bright ball of fire",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 20,
       "text": "at a great height, and it was moving rapidly at the time it was",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 21,
       "text": "observed.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 23,
       "text": "All of the witnesses observed one RB 36 aircraft which had been",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 24,
       "text": "flying in the area at the time of the sighting of this unidenti-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 25,
       "text": "fied object. The Wing Intelligence Officer reported that there",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 26,
       "text": "were two RB 36 aircraft in the area at this time. These aircraft",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 27,
       "text": "were reported to be flying at 12,000 and 21,000 feet respectively.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 28,
       "text": "None of the persons from whom statements were taken were able to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 29,
       "text": "accurately describe the object, other than by the statements set",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 30,
       "text": "forth above.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 31,
       "status": "blank"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 32,
       "text": "This matter is being reported to the Bureau for information",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
-      "text": "purposes.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "status": "blank"
-    },
-    {
       "lineNumber": 33,
-      "text": "CLOSED.",
+      "text": "purposes.",
       "status": "image_matched"
     },
     {
@@ -188,7 +181,7 @@
     },
     {
       "lineNumber": 35,
-      "text": "FDO:B:LD",
+      "text": "CLOSED.",
       "status": "image_matched"
     },
     {
@@ -197,32 +190,83 @@
     },
     {
       "lineNumber": 37,
-      "text": "62-85844-33",
-      "status": "image_matched"
+      "text": "FDO'B:LD",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 38,
-      "text": "RECORDED-12",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 39,
-      "text": "APR 29 1953",
-      "status": "image_matched"
+      "text": "[unclear] 5/7/53",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 40,
-      "text": "INDEXED-12",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 41,
+      "text": "no need to",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "text": "disseminate",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 43,
+      "text": "OSI hdl'g.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 44,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 45,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 46,
       "text": "53 MAY 11 1953",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
-      "text": "X-102",
+      "lineNumber": 47,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 48,
+      "text": "RECORDED-12",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "text": "INDEXED-12",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 50,
+      "text": "EX-102",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 52,
+      "text": "62-83844-33",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
+      "text": "APR 29 1953",
       "status": "image_matched"
     }
   ],

@@ -8,15 +8,11 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 40 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0086-l0003",
-    "page_0086-l0004",
-    "page_0086-l0045"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 55,
   "lines": [
     {
@@ -26,33 +22,31 @@
     },
     {
       "lineNumber": 2,
-      "text": "SAC, SEATTLE",
+      "text": "6/18/54",
       "status": "image_matched"
     },
     {
       "lineNumber": 3,
-      "text": "REPORTS ON ALLEGED SIGHTING OF SUBMARINES,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 4,
-      "text": "PARACHUTE LANDINGS, FLASHING LIGHTS, ETC.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 5,
-      "text": "ESPIONAGE",
+      "text": "SAC, SEATTLE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 4,
       "status": "blank"
     },
     {
+      "lineNumber": 5,
+      "text": "REPORTS ON ALLEGED SIGHTING OF SUBMARINES,",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
+      "text": "PARACHUTE LANDINGS, FLASHING LIGHTS, ETC.",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 7,
-      "text": "6/18/54",
+      "text": "ESPIONAGE",
       "status": "image_matched"
     },
     {
@@ -235,9 +229,8 @@
     },
     {
       "lineNumber": 45,
-      "text": "[unclear] Portland",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "cc Portland",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 46,
@@ -273,8 +266,8 @@
     },
     {
       "lineNumber": 53,
-      "text": "INITIALS ON ORIGINAL",
-      "status": "image_matched"
+      "text": "TRIPLE ON ORIGINAL",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 54,
@@ -282,8 +275,8 @@
     },
     {
       "lineNumber": 55,
-      "text": "ORIGINAL",
-      "status": "image_matched"
+      "text": "ORIGINAL FILED IN",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

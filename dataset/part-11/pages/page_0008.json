@@ -8,25 +8,17 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 11 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0008-l0001",
-    "page_0008-l0010",
-    "page_0008-l0020",
-    "page_0008-l0024",
-    "page_0008-l0026",
-    "page_0008-l0030"
-  ],
-  "lineCount": 32,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 31,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "REPORT ( UNIDENTIFIED AERIAL OBJECTS (d [unclear])",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "REPORT ( UNIDENTIFIED AERIAL OBJECTS (d'd).",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -61,115 +53,105 @@
     },
     {
       "lineNumber": 9,
-      "text": "15. Luminosity of object",
-      "status": "image_matched"
+      "text": "15. Luminosity of object (Bright, very bright, glaring, etc.)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "(Bright, very bright, glaring, etc.)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 11,
       "status": "blank"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "text": "16. Color of object",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 12,
       "status": "blank"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 13,
       "text": "17. Sound",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 14,
       "status": "blank"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "text": "18. Odor",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 16,
       "status": "blank"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 17,
       "text": "19. Speed",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 18,
       "status": "blank"
+    },
+    {
+      "lineNumber": 19,
+      "text": "20. Evidence of trail or exhaust",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "text": "20. Evidence of trail or exhaust",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 21,
       "status": "blank"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 21,
       "text": "21. Effect on clouds",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 22,
       "status": "blank"
+    },
+    {
+      "lineNumber": 23,
+      "text": "22. Tactics or maneuvers",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
-      "text": "22. Tactics or maneuvers",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 25,
-      "status": "blank"
+      "text": "23. Manner of disappearance",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 26,
-      "text": "23. Manner of disappearance",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 27,
       "status": "blank"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 27,
       "text": "24. What attracted attention to object",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 28,
       "status": "blank"
+    },
+    {
+      "lineNumber": 29,
+      "text": "25. Additional Remarks of observer",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 30,
-      "text": "25. Additional Remarks of observer",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 31,
       "status": "blank"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 31,
       "text": "-2-",
       "status": "image_matched"
     }

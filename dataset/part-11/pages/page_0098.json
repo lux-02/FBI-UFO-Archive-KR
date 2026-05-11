@@ -8,274 +8,245 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "23 permanent_unresolved line(s) excluded under SRC-896. 16 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0098-l0001",
-    "page_0098-l0003",
-    "page_0098-l0006",
-    "page_0098-l0007",
-    "page_0098-l0011",
-    "page_0098-l0012",
-    "page_0098-l0013",
-    "page_0098-l0015",
-    "page_0098-l0016",
-    "page_0098-l0017",
-    "page_0098-l0018",
-    "page_0098-l0019",
-    "page_0098-l0020",
-    "page_0098-l0022",
-    "page_0098-l0024",
-    "page_0098-l0025",
-    "page_0098-l0026",
-    "page_0098-l0030",
-    "page_0098-l0032",
-    "page_0098-l0033",
-    "page_0098-l0035",
-    "page_0098-l0037",
-    "page_0098-l0038"
-  ],
-  "lineCount": 44,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 48,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "On January 12, 1954, [REDACTED] East Orange,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "On January 12, 1954, [REDACTED] East Orange,",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 4,
       "text": "NJ, appeared at the Newark Office and advised that he had received a letter",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
-      "text": "from one [REDACTED] West Austria,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 5,
+      "text": "from one [REDACTED], West Austria,",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 6,
       "text": "on about December 20, 1953.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 7,
       "status": "blank"
     },
     {
-      "lineNumber": 6,
-      "text": "[REDACTED] stated that the letter requested him to attempt to sell",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 7,
-      "text": "a number of inventions, which he, [REDACTED] had developed. [REDACTED] stated that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 8,
+      "text": "[REDACTED] stated that the letter requested him to attempt to sell",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 9,
+      "text": "a number of inventions, which he, [REDACTED] had developed. [REDACTED] stated that",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 10,
       "text": "the request was to contact Aircraft Companies and Sewing Machine Companies",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 11,
       "text": "in the United States and attempt to interest them in these devices.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
       "status": "blank"
     },
     {
-      "lineNumber": 11,
-      "text": "According to [REDACTED] requested that no governmental agencies",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 12,
-      "text": "be contacted. [REDACTED] stated that the inventions, which [REDACTED] had developed",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 13,
-      "text": "were new type of sewing machine and a flying saucer. [REDACTED] stated that he",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "According to [REDACTED] requested that no governmental agencies",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 14,
+      "text": "be contacted. [REDACTED] stated that the inventions, which [REDACTED] had developed",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 15,
+      "text": "were new type of sewing machine and a flying saucer. [REDACTED] stated that he",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 16,
       "text": "came to this office because he felt that the flying saucer was of some",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
-      "text": "importance in the national defense of this country. [REDACTED] stated that he",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 16,
-      "text": "has never met [REDACTED] but that [REDACTED] was given his name by [REDACTED] brother,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 17,
-      "text": "[REDACTED] who resides in Graz, Austria, and who is employed at [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "importance in the national defense of this country. [REDACTED] stated that he",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
-      "text": "[REDACTED] Graz, Austria. [REDACTED] stated that his brother worked with",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "has never met [REDACTED] but that [REDACTED] was given his name by [REDACTED] brother,",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 19,
-      "text": "[REDACTED] at one time, and he believes that [REDACTED] is a chemist or some type",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] who resides in Graz, Austria, and who is employed at [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 20,
-      "text": "of engineer. [REDACTED] stated that the contents of the letter seemed fantastic",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED], Graz, Austria. [REDACTED] stated that his brother worked with",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,
+      "text": "[REDACTED] at one time, and he believes that [REDACTED] is a chemist or some type",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 22,
+      "text": "of engineer. [REDACTED] stated that the contents of the letter seemed fantastic",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 23,
       "text": "to him and that if the letter were not written in such an intelligent manner,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 24,
       "text": "he would have doubted [REDACTED] sanity. He stated that [REDACTED] claims to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 25,
       "text": "have sold a new principle of aero-dynamics, which made it possible to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
-      "text": "construct a practical flying saucer and that [REDACTED] had developed a model",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 25,
-      "text": "that flies without the usual hazards. According to [REDACTED] the letter",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 26,
-      "text": "continues by stating that [REDACTED] has been in contact with other men through-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "construct a practical flying saucer and that [REDACTED] had developed a model",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 27,
+      "text": "that flies without the usual hazards. According to [REDACTED] the letter",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 28,
+      "text": "continues by stating that [REDACTED] has been in contact with other men through-",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 29,
       "text": "out the world, who have been attempting to develop the saucer and that he",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 30,
       "text": "has been the first to win real success.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 31,
       "status": "blank"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 32,
       "text": "By way of background, [REDACTED] stated that he was born in the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 33,
       "text": "vicinity of Leoben, Austria in 1925 and arrived in New York City on March",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
-      "text": "29, 1952 from Bremerhaven, Germany. He is employed at the [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 33,
-      "text": "[REDACTED] in Maplewood, NJ.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 34,
-      "status": "blank"
+      "text": "29, 1952 from Bremerhaven, Germany. He is employed at the [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 35,
-      "text": "On January 30, 1954, [REDACTED] East Orange,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] in Maplewood, NJ.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 36,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 37,
+      "text": "On January 30, 1954, [REDACTED] East Orange,",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 38,
       "text": "NJ, appeared at the Newark Office and advised that she was the wife of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
-      "text": "[REDACTED]. She stated that another letter had been received from [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 38,
-      "text": "[REDACTED] by her husband, [REDACTED]. She stated that her husband did not",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 39,
+      "text": "[REDACTED]. She stated that another letter had been received from [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 40,
+      "text": "[REDACTED] by her husband, [REDACTED]. She stated that her husband did not",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 41,
       "text": "want to furnish the information in this letter to the FBI. She stated that",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 42,
       "text": "he was not aware that she was furnishing this information and wished to keep",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 43,
       "text": "the interview confidential.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 44,
       "status": "blank"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 45,
       "text": "COPIES DESTROYED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
-      "text": "270 NOV 19 1954",
-      "status": "image_matched"
+      "lineNumber": 46,
+      "text": "270 NOV 19 1964",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 47,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 48,
+      "text": "2",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

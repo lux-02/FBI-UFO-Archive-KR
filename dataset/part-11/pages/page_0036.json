@@ -8,16 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 155 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0036-l0037",
-    "page_0036-l0061",
-    "page_0036-l0084"
-  ],
-  "lineCount": 165,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 156,
   "lines": [
     {
       "lineNumber": 1,
@@ -26,272 +22,269 @@
     },
     {
       "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
       "text": "Summary of Sightings of Unknown Aerial Phenomena, 17th District OSI (cont)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
-      "text": "Page 23",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 4,
-      "status": "blank"
+      "text": "Page 21",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "**Evaluation",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
-      "text": "Manner of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
-      "text": "Disappear-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 8,
-      "text": "ance",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 9,
-      "text": "Apparent",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
-      "text": "Speed",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
-      "text": "Apparent",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "Size",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "Shape",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 14,
-      "text": "Sound",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "text": "Duration of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "text": "Observation",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 17,
-      "text": "Color",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "Course",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "text": "Horizontal",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "text": "to Vertical",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "text": "Apparent",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "Altitude",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "text": "Apparent",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "text": "Direction",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "text": "of Flight",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "text": "General",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "text": "Area of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
-      "text": "Occurrence",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 29,
-      "text": "Reliability",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
-      "text": "of Observers",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 31,
-      "text": "Number of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "text": "Observers",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
-      "text": "Time",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 34,
-      "text": "Date",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 35,
       "text": "Number",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 7,
+      "text": "Date",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "Time",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Number of Observers",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 10,
+      "text": "Reliability of Observers",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 11,
+      "text": "General Area of Occurrence",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Apparent Direction of Flight",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
+      "text": "Apparent Altitude",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Course Horizontal to Vertical",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Color",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Trails or [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Duration of Observation",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 18,
+      "text": "Sound",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "Shape",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "Apparent Size",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
+      "text": "Apparent Speed",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 22,
+      "text": "Manner of Disappearance",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 23,
+      "text": "**Evaluation",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
       "status": "blank"
     },
     {
-      "lineNumber": 37,
-      "text": "111 30 Aug 0001",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 25,
+      "text": "110",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 26,
+      "text": "30 Aug",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 27,
+      "text": "2300 I",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 28,
       "text": "1",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
-      "text": "65",
+      "lineNumber": 29,
+      "text": "b5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 30,
+      "text": "Los Alamos, New Mexico",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 31,
+      "text": "Almost straight fall",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 32,
+      "text": "90° over-head",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 33,
+      "text": "Almost straight fall",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 34,
+      "text": "Bright green w/reddish tail",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 35,
+      "text": "Yes",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "text": "1 - 2 secs",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
+      "text": "None",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Much larger than meteor",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 40,
-      "text": "Los Alamos,",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 41,
-      "text": "New Mexico",
+      "text": "Burned out",
       "status": "image_matched"
     },
     {
       "lineNumber": 42,
-      "text": "Almost",
-      "status": "image_matched"
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
-      "text": "straight",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 44,
-      "text": "fall",
-      "status": "image_matched"
+      "text": "111",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 45,
-      "text": "90°",
-      "status": "image_matched"
+      "text": "15 Sep",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 46,
-      "text": "over head",
-      "status": "image_matched"
+      "text": "0025 I",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 47,
-      "text": "straight",
+      "text": "1",
       "status": "image_matched"
     },
     {
       "lineNumber": 48,
-      "text": "fall",
-      "status": "image_matched"
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 49,
-      "text": "Bright",
-      "status": "image_matched"
+      "text": "Albuquerque, New Mexico",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 50,
-      "text": "green",
-      "status": "image_matched"
+      "text": "To E",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 51,
-      "text": "w/red-",
-      "status": "image_matched"
+      "text": "30° above horizon",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 52,
-      "text": "dish",
+      "text": "Horizontal",
       "status": "image_matched"
     },
     {
       "lineNumber": 53,
-      "text": "tail",
-      "status": "image_matched"
+      "text": "Yellow red",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 54,
-      "text": "1 - 2",
+      "text": "None",
       "status": "image_matched"
     },
     {
       "lineNumber": 55,
-      "text": "secs",
-      "status": "image_matched"
+      "text": "6 secs",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 56,
@@ -300,143 +293,141 @@
     },
     {
       "lineNumber": 57,
-      "text": "Much larger",
+      "text": "Round",
       "status": "image_matched"
     },
     {
       "lineNumber": 58,
-      "text": "than meteor",
-      "status": "image_matched"
+      "text": "Size of baseball",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 59,
-      "text": "Burned out",
-      "status": "image_matched"
+      "text": "Faster than airplane slower than falling star",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 60,
-      "status": "blank"
+      "text": "Seemed to disintegrate completely",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 61,
-      "text": "112 16 Sep 0230",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 62,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 63,
+      "text": "112",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 64,
+      "text": "16 Sep",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 65,
+      "text": "0230 I",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 66,
       "text": "1",
       "status": "image_matched"
     },
     {
-      "lineNumber": 63,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 64,
-      "text": "Los Alamos,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 65,
-      "text": "New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 66,
-      "text": "7° to E",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 67,
-      "text": "3,000'",
-      "status": "image_matched"
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 68,
+      "text": "Los Alamos, New Mexico",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 69,
+      "text": "N to S",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 70,
+      "text": "45° above horizon",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 71,
       "text": "Horizontal",
       "status": "image_matched"
     },
     {
-      "lineNumber": 69,
-      "text": "Orange",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 70,
-      "text": "15",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 71,
-      "text": "secs",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 72,
+      "text": "Dark yellow",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 73,
       "text": "None",
       "status": "image_matched"
     },
     {
-      "lineNumber": 73,
-      "text": "Ball",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 74,
-      "text": "Size of",
-      "status": "image_matched"
+      "text": "3 - 4 secs",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 75,
-      "text": "baseball",
+      "text": "None",
       "status": "image_matched"
     },
     {
       "lineNumber": 76,
-      "text": "Faster than",
+      "text": "Round",
       "status": "image_matched"
     },
     {
       "lineNumber": 77,
-      "text": "airplane,",
-      "status": "image_matched"
+      "text": "Size of baseball",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 78,
-      "text": "slower than",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 79,
-      "text": "falling",
+      "text": "Unknown",
       "status": "image_matched"
     },
     {
       "lineNumber": 80,
-      "text": "star",
-      "status": "image_matched"
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 81,
-      "text": "Disintegrated",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 82,
-      "text": "completely",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 83,
       "status": "blank"
     },
     {
+      "lineNumber": 82,
+      "text": "113",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 83,
+      "text": "18 Sep",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 84,
-      "text": "113 16 Sep 1215",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "1245 I",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 85,
@@ -445,73 +436,73 @@
     },
     {
       "lineNumber": 86,
-      "text": "65",
-      "status": "image_matched"
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 87,
-      "text": "Sandia Base,",
-      "status": "image_matched"
+      "text": "Sandia Base, New Mexico",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 88,
-      "text": "New Mexico",
-      "status": "image_matched"
+      "text": "N",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 89,
-      "text": "E to S",
+      "text": "App 4000'",
       "status": "image_matched"
     },
     {
       "lineNumber": 90,
-      "text": "45°",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 91,
-      "text": "above",
-      "status": "image_matched"
+      "text": "Grayish white",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 92,
-      "text": "horizon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 93,
-      "text": "Dark",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 94,
-      "text": "yellow",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 95,
       "text": "None",
       "status": "image_matched"
     },
     {
-      "lineNumber": 96,
-      "text": "Round",
+      "lineNumber": 93,
+      "text": "2 mts",
       "status": "image_matched"
     },
     {
+      "lineNumber": 94,
+      "text": "None",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 95,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 96,
+      "text": "2 to 3 ft across",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 97,
-      "text": "Size of",
+      "text": "600 mph",
       "status": "image_matched"
     },
     {
       "lineNumber": 98,
-      "text": "baseball",
-      "status": "image_matched"
+      "text": "Faded from view",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 99,
-      "text": "Unknown",
-      "status": "image_matched"
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 100,
@@ -519,326 +510,269 @@
     },
     {
       "lineNumber": 101,
-      "text": "114 19 Sep 0800",
-      "status": "image_matched"
+      "text": "114",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 102,
+      "text": "19 Sep",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 103,
+      "text": "0900 Z",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 104,
       "text": "2",
       "status": "image_matched"
     },
     {
-      "lineNumber": 103,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 104,
-      "text": "Tucson,",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 105,
-      "text": "Arizona",
-      "status": "image_matched"
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 106,
-      "text": "App 4000'",
-      "status": "image_matched"
+      "text": "Tucson, Arizona",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 107,
-      "text": "Grayish",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 108,
-      "text": "white",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 109,
-      "text": "2 mts",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 110,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 111,
-      "text": "2 to 3 ft",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 112,
-      "text": "across",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 113,
-      "text": "600 mph",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 114,
-      "text": "Faded from",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 115,
-      "text": "view",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 116,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 117,
-      "text": "115 27 Sep 0300",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 118,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 119,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 120,
-      "text": "Sandia Base,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 121,
-      "text": "New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 122,
       "text": "From SE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 123,
-      "text": "45°",
-      "status": "image_matched"
+      "lineNumber": 108,
+      "text": "45° above horizon",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 124,
-      "text": "above",
-      "status": "image_matched"
+      "lineNumber": 109,
+      "text": "Traveling tangent to earth",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 125,
-      "text": "horizon",
-      "status": "image_matched"
+      "lineNumber": 110,
+      "text": "Bright blue to white",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 126,
-      "text": "Traveling",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 127,
-      "text": "tangent to",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 128,
-      "text": "earth",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 129,
-      "text": "Bright",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 130,
-      "text": "blue to",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 131,
-      "text": "white",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 132,
-      "text": "4",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 133,
-      "text": "secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 134,
+      "lineNumber": 111,
       "text": "None",
-      "status": "image_matched"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 135,
+      "lineNumber": 112,
+      "text": "4 secs",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 113,
+      "text": "None",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 114,
       "text": "Round",
       "status": "image_matched"
     },
     {
-      "lineNumber": 136,
-      "text": "About size",
-      "status": "image_matched"
+      "lineNumber": 115,
+      "text": "About size of softball at 300 yds.",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 137,
-      "text": "of softball",
-      "status": "image_matched"
+      "lineNumber": 116,
+      "text": "45° in 4 secs.",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 138,
-      "text": "at 300 yds.",
-      "status": "image_matched"
+      "lineNumber": 117,
+      "text": "Obscured by building",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 139,
-      "text": "45° in 4",
-      "status": "image_matched"
+      "lineNumber": 118,
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 140,
-      "text": "secs.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 141,
-      "text": "Obscured by",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 142,
-      "text": "building",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 143,
+      "lineNumber": 119,
       "status": "blank"
     },
     {
-      "lineNumber": 144,
-      "text": "116 27 Sep 0800",
-      "status": "image_matched"
+      "lineNumber": 120,
+      "text": "115",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 145,
+      "lineNumber": 121,
+      "text": "27 Sep",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 122,
+      "text": "0300 I",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 123,
       "text": "1",
       "status": "image_matched"
     },
     {
-      "lineNumber": 146,
-      "text": "65",
-      "status": "image_matched"
+      "lineNumber": 124,
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 147,
-      "text": "Sandia Base,",
-      "status": "image_matched"
+      "lineNumber": 125,
+      "text": "Sandia Base, New Mexico",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 148,
-      "text": "New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 149,
+      "lineNumber": 126,
       "text": "To the N",
       "status": "image_matched"
     },
     {
-      "lineNumber": 150,
-      "text": "10°",
-      "status": "image_matched"
+      "lineNumber": 127,
+      "text": "10° above horizon",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 151,
-      "text": "above",
-      "status": "image_matched"
+      "lineNumber": 128,
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 152,
-      "text": "horizon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 153,
+      "lineNumber": 129,
       "text": "Yellow",
       "status": "image_matched"
     },
     {
-      "lineNumber": 154,
+      "lineNumber": 130,
       "text": "Yes",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 131,
+      "text": "3 - 4 secs",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 132,
+      "text": "None",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 133,
+      "text": "Round",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 134,
+      "text": "Size of baseball at 25 yds.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 135,
+      "text": "Same rate as shooting star",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 136,
+      "text": "Died out",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 137,
+      "text": "b5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 138,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 139,
+      "text": "116",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 140,
+      "text": "27 Sep",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 141,
+      "text": "0200 I",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 142,
+      "text": "1",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 143,
+      "text": "b5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 144,
+      "text": "Sandia Base, New Mexico",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 145,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 146,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 147,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 148,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 149,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 150,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 151,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 152,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 153,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 154,
+      "status": "blank"
     },
     {
       "lineNumber": 155,
-      "text": "3 - 4",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 156,
-      "text": "secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 157,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 158,
-      "text": "Round",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 159,
-      "text": "Size of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 160,
-      "text": "baseball",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 161,
-      "text": "at 25 yds.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 162,
-      "text": "Same rate",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 163,
-      "text": "as shoot-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 164,
-      "text": "ing star",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 165,
-      "text": "Died out",
-      "status": "image_matched"
+      "status": "blank"
     }
   ],
   "blockCount": null

@@ -8,17 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 21 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0005-l0002",
-    "page_0005-l0005",
-    "page_0005-l0006",
-    "page_0005-l0014"
-  ],
-  "lineCount": 27,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 29,
   "lines": [
     {
       "lineNumber": 1,
@@ -27,9 +22,8 @@
     },
     {
       "lineNumber": 2,
-      "text": "the New Mexi- Area, December 1948 - May 1950",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "the New Mexi Area, December 1948 - May 1950",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -37,123 +31,129 @@
     },
     {
       "lineNumber": 4,
+      "text": "25 May 1950",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "DISTRIBUTION:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "6 cvs, Director of Special Investigations, Headquarters USAF",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 6,
-      "text": "1 cy, CG, Air Materiel Command, Wright-Patterson AFF, Ohio",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 7,
+      "text": "6 cys, Director of Special Investigations, Headquarters USAF",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 8,
+      "text": "1 cy, CG, Air Materiel Command, Wright-Patterson AFB, Ohio",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
       "text": "ATTN: Director of Technical Intelligence",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 10,
       "text": "1 cy, CG, Special Weapons Command, Kirtland AFB, New Mexico",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 11,
       "text": "1 cy, CG, Armed Services Special Weapons Project, Sandia Base,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
       "text": "New Mexico. ATTN: J-2",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
-      "text": "1 cy, CG, Headquarters Fourth Army, Ft. Sam Houston, Texas",
-      "status": "image_matched"
+      "lineNumber": 13,
+      "text": "1 cy, CG, Headquarters, Fourth Army, Ft. Sam Houston, Texas",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
       "text": "ATTN: AC of S, G-2",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 15,
       "text": "1 cy, CO, Holloman AFB, New Mexico",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 16,
       "text": "1 cy, CO, Air Force Cambridge Research Laboratories, Cambridge, Mass.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 17,
       "text": "1 cy, Director, Security Division, U. S. Atomic Energy Commission,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
-      "text": "Los Alamos, New Mexico. ATTN: Mr. B. O. Telle",
-      "status": "image_matched"
+      "lineNumber": 18,
+      "text": "Los Alamos, New Mexico. ATTN: Mr. B. O. Wells",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 19,
       "text": "1 cy, Federal Bureau of Investigation, El Paso, Texas",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 20,
       "text": "1 cy, Federal Bureau of Investigation, Albuquerque, New Mexico",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 21,
       "text": "1 cy, Air Force Scientific Advisory Board, Pentagon Building",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "text": "ATTN: Dr. Joseph Kaplan",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 23,
       "text": "1 cy, Research and Development Board, Pentagon Building",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 24,
       "text": "ATTN: Dr. H. E. Landsberg, Executive Director, Committee on",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 25,
       "text": "Geophysics and Geography",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 26,
       "text": "1 cy, File",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 27,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 28,
       "text": "3",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 29,
       "text": "CONFIDENTIAL",
       "status": "image_matched"
     }

@@ -8,17 +8,11 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 18 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0012-l0004",
-    "page_0012-l0010",
-    "page_0012-l0017",
-    "page_0012-l0018",
-    "page_0012-l0021"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 23,
   "lines": [
     {
@@ -38,9 +32,8 @@
     },
     {
       "lineNumber": 4,
-      "text": "OF THE LOS ATOMIC ENERGY CENTER.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "OF THE BIG ATOMIC ENERGY CENTER.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -69,9 +62,8 @@
     },
     {
       "lineNumber": 10,
-      "text": "THE ORIGINAL THREE-PAGE REPORT ROBINSON SAID HAS SUBMITTED TO THE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "THE ORIGINAL THREE-PAGE REPORT, ROBINSON SAID, WAS SUBMITTED TO THE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
@@ -80,8 +72,8 @@
     },
     {
       "lineNumber": 12,
-      "text": "EIGHT OTHER EMPLOYEES OF THE ARMEX COMPANY SAY THEY SAW THE OBJECT.",
-      "status": "image_matched"
+      "text": "EIGHT OTHER EMPLOYES OF THE ARMEX COMPANY SAY THEY SAW THE OBJECT.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
@@ -105,20 +97,18 @@
     },
     {
       "lineNumber": 17,
-      "text": "20,00 FEET. IT ALTERNATELY FLASHED BRIGHT AND BLACK AT INTERVALS OF",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "20,000 FEET. IT ALTERNATELY FLASHED BRIGHT AND BLACK AT INTERVALS OF",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": "TWO SECONDS. HE SAID AND WAS VISIBLE FOR THREE MINUTES AND 40 SECONDS.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "TWO SECONDS, HE SAID, AND WAS VISIBLE FOR THREE MINUTES AND 40 SECONDS.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
-      "text": "THE SPECIALLY MIMEOGRAPHED FORM INDICATED THE AEC IS HIGHLY",
-      "status": "image_matched"
+      "text": "THE SPECIALLY MIMEOGRAPHED FORMS INDICATED THE AEC IS \"ONLY",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
@@ -127,9 +117,8 @@
     },
     {
       "lineNumber": 21,
-      "text": "CONTAIN SPACES FOR INFORMANTS TO REPORT ON LUMINOSITY OF OBJECT,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "CONTAIN SPACES FOR INFORMANT TO REPORT ON LUMINOSITY OF OBJECT,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,

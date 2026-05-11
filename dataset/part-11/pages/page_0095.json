@@ -8,16 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0095-l0007",
-    "page_0095-l0021",
-    "page_0095-l0030"
-  ],
-  "lineCount": 32,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 30,
   "lines": [
     {
       "lineNumber": 1,
@@ -52,8 +48,7 @@
     {
       "lineNumber": 7,
       "text": "and now I am asking you, my dear Mr. [REDACTED] whether you can",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
@@ -97,8 +92,8 @@
     },
     {
       "lineNumber": 16,
-      "text": "invention, known by the name of \"flying saucer\" is my own, that I know",
-      "status": "image_matched"
+      "text": "invention, known by the name of \"flying saucer,\" is my own, that I know",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
@@ -117,45 +112,45 @@
     },
     {
       "lineNumber": 20,
-      "status": "blank"
+      "text": "/s/ [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,
-      "text": "/s/ [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 22,
       "text": "I hope that you will be interested in it. I am awaiting",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 23,
       "text": "your communication very hopefully.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 24,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 25,
       "text": "With friendly greetings,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 26,
       "status": "blank"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 27,
       "text": "Respectfully,",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "text": "/s/ [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
@@ -163,16 +158,6 @@
     },
     {
       "lineNumber": 30,
-      "text": "/s/ [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 31,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 32,
       "text": "- 3 -",
       "status": "image_matched"
     }

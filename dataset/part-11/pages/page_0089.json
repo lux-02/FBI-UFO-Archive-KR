@@ -8,17 +8,11 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 13 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0089-l0007",
-    "page_0089-l0008",
-    "page_0089-l0014",
-    "page_0089-l0019",
-    "page_0089-l0023"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 25,
   "lines": [
     {
@@ -37,8 +31,8 @@
     },
     {
       "lineNumber": 4,
-      "text": "Hilton, Ky.",
-      "status": "image_matched"
+      "text": "Hilton, KY.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -52,14 +46,12 @@
     {
       "lineNumber": 7,
       "text": "of Investigation",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
       "text": "Washington",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
@@ -87,8 +79,7 @@
     {
       "lineNumber": 14,
       "text": "Are studying about Flying Saucers.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
@@ -111,14 +102,13 @@
     },
     {
       "lineNumber": 19,
-      "text": "/S/ [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "/s/ [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 20,
-      "text": "Hilton, Ky.",
-      "status": "image_matched"
+      "text": "Milton, KY.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
@@ -131,9 +121,8 @@
     },
     {
       "lineNumber": 23,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED].",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 24,
@@ -141,8 +130,8 @@
     },
     {
       "lineNumber": 25,
-      "text": "62-93994-341",
-      "status": "image_matched"
+      "text": "62 93 994 341",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

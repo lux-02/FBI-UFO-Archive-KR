@@ -10,14 +10,177 @@
   "sourceLayer": "line_audit",
   "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "NO_SAFE_SOURCE_TEXT",
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
   "pageReadinessNote": null,
   "excludedLineIds": [],
-  "lineCount": 1,
+  "lineCount": 35,
   "lines": [
     {
       "lineNumber": 1,
+      "text": "CONFIDENTIAL",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 2,
       "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "Number",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
+      "text": "Date",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
+      "text": "Time",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 8,
+      "text": "Number of Observers",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Reliability of Observers",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 10,
+      "text": "General Area of Occurrence",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Apparent Direction of Flight",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Apparent Altitude",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
+      "text": "Course Horizontal to Vertical",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Color",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Train or Trail",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Duration of Observation",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Sound",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 18,
+      "text": "Shape",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 19,
+      "text": "Apparent Size",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 20,
+      "text": "Apparent Speed",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
+      "text": "Manner of Disappearance",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 22,
+      "text": "**Evalua-",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 23,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 24,
+      "text": "1949",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 25,
+      "text": "29 7 Mar 2020 2 [REDACTED] b5 Camp Hood, Texas N 80° W 50° above horizon Blue-white light None Ball like flash Basketball \"Fixed flash\" [REDACTED] b5",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 26,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 27,
+      "text": "30 7 Mar 2045 1 [REDACTED] b5 Camp Hood, Texas From S 10° W to S 60° W From 21° above horizon to 8° 31' above Light blue head orange trail Yes [unclear] Round head with trail About 10' by 1' width [REDACTED] b5",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
+      "text": "31 7 Mar 0115 1 [REDACTED] b5 Camp Hood, Texas N 40° E 63° 15' above horizon Brilliant blue-white None Like flash bulb Flash bulb [REDACTED] b5",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
+      "text": "32 7 Mar 0130 1 [REDACTED] b5 Camp Hood, Texas N 15° W 27° 30' above horizon Bright blue-white None Like flash bulb Basketball \"Fixed flash\" [REDACTED] b5",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 32,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 33,
+      "text": "33 7 Mar 0130 0200 2 [REDACTED] b5 Camp Hood, Texas S 20° W 26° above horizon Bluish white None Ball like flash Flash bulb [REDACTED] b5",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
+      "text": "34 7 Mar 0145 1 [REDACTED] b5 Camp Hood, Texas N 60° E Dropped vertically to ground Orange 2 secs None Tear-drop 2' by 1' Disappeared behind trees [REDACTED] b5",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

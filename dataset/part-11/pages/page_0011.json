@@ -8,16 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 34 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0011-l0014",
-    "page_0011-l0020",
-    "page_0011-l0025"
-  ],
-  "lineCount": 47,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 46,
   "lines": [
     {
       "lineNumber": 1,
@@ -35,217 +31,211 @@
     },
     {
       "lineNumber": 4,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 5,
-      "text": "FROM : A. H. BELMONT",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 6,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 7,
-      "text": "SUBJECT: FLYING SAUCERS",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 8,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 9,
       "text": "DATE: October 19, 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 11,
+      "lineNumber": 5,
       "text": "Tolson",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 6,
       "text": "Ladd",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
-      "text": "Cleg",
-      "status": "image_matched"
+      "lineNumber": 7,
+      "text": "Clegg",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 14,
-      "text": "Mohols",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 8,
+      "text": "Glavin",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 15,
-      "text": "Ryan",
-      "status": "image_matched"
+      "lineNumber": 9,
+      "text": "Nichols",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 10,
+      "text": "Rosen",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 11,
       "text": "Tracy",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 12,
       "text": "Harbo",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 13,
       "text": "Belmont",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 14,
       "text": "Mohr",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 15,
       "text": "Tele. Room",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 21,
-      "text": "Keese",
-      "status": "image_matched"
+      "lineNumber": 16,
+      "text": "Nease",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 17,
       "text": "Gandy",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 18,
       "status": "blank"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 19,
+      "text": "FROM : A. H. BELMONT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 21,
+      "text": "SUBJECT: FLYING SAUCERS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
       "text": "The matter of flying saucers was discussed by",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 24,
       "text": "Special Agent [REDACTED] with Major General",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 25,
       "text": "Joseph F. Carroll of OSI on October 18, 1950, at which",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
-      "text": "time General Carroll advised that insofar as he has",
-      "status": "image_matched"
+      "lineNumber": 26,
+      "text": "time Major General Carroll advised that insofar as he has",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 27,
       "text": "been able to determine the Air Force is not working on",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 28,
       "text": "any type of \"flying saucer\" or \"flying disk\". General",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 29,
       "text": "Carroll stated that the Air Force is working on high",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 30,
       "text": "altitude rockets and jet aircraft. He stated these",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 31,
       "text": "experiments may account for some of the reports concerning",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 32,
       "text": "flying saucers but that the Air Force is not apparently",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 33,
       "text": "working on anything which is the cause of the many flying",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 34,
       "text": "saucers reports. He stated that the Air Force program",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 35,
       "text": "for investigating reports concerning flying saucers, etc.,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
-      "text": "has been reinstituted at Wright Field and that any perti-",
-      "status": "image_matched"
+      "lineNumber": 36,
+      "text": "has been reconstituted at Wright Field and that any perti-",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 37,
       "text": "nent information of interest coming to his attention will",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 38,
       "text": "be furnished to the Bureau.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 39,
       "status": "blank"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 40,
       "text": "RECOMMENDATION:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 41,
       "status": "blank"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 42,
       "text": "The foregoing is for your information.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 43,
       "status": "blank"
+    },
+    {
+      "lineNumber": 44,
+      "text": "EJD:ilw",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 45,
-      "text": "EJB:ilw",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
       "status": "blank"
     },
     {
-      "lineNumber": 47,
-      "text": "RECORDED 75 62-83944-259",
-      "status": "image_matched"
+      "lineNumber": 46,
+      "text": "RECORDED - 38 62-83894-259",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

@@ -8,49 +8,41 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 34 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0001-l0014",
-    "page_0001-l0016",
-    "page_0001-l0019",
-    "page_0001-l0030",
-    "page_0001-l0037",
-    "page_0001-l0040"
-  ],
-  "lineCount": 40,
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 21,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "RECORDED 19",
-      "status": "image_matched"
+      "text": "RECORDED - 19",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "November 24, 1950",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 3,
       "text": "62-83894-260",
       "status": "image_matched"
     },
     {
+      "lineNumber": 3,
+      "text": "November 24, 1950",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
       "text": "X-16",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "To:",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 6,
-      "text": "Director of Special Investigations",
-      "status": "image_matched"
+      "text": "To: Director of Special Investigations",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
@@ -74,159 +66,53 @@
     },
     {
       "lineNumber": 11,
-      "text": "From:",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 12,
-      "text": "J. Edgar Hoover, Director, Federal Bureau of Investigation",
-      "status": "image_matched"
+      "text": "From: J. Edgar Hoover, Director, Federal Bureau of Investigation",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
       "text": "Subject: FLYING DISCS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 15,
-      "text": "October 20, 1950, he, his wife, and daughter, who reside at",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 16,
-      "text": "[REDACTED] New Haven, went out of their home into",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "October 20, 1950, he, his wife, and daughter, who reside at [REDACTED] New Haven, went out of their home into the back yard at approximately 6:15 p.m. His young daughter called his attention to a star which was moving, and Mr. [REDACTED] noted a sphere-like object directly overhead that gave a steady golden-orange glow. He stated that this object was very high, being between ten to twenty thousand feet high, possibly higher. The glow given off was very steady, not blinking, and the whole sphere itself glowed in about the same consistency. He witnessed this object for approximately twenty seconds, during which time it traveled in a westerly direction toward New York City. It then veered in a southerly direction, as if crossing Long Island, or possibly in such a direction that it might have been traveling over Long Island. He lost sight of this object as it disappeared behind trees.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
-      "text": "the back yard at approximately 6:15 p.m. His young daughter",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 18,
-      "text": "called his attention to a star which was moving, and Mr.",
-      "status": "image_matched"
+      "text": "He advised the size of the object was approximately ten times the diameter of Venus, which was shining very brightly that night. He stated it was a very clear night and that all the stars in the sky were twinkling, as compared to the steadiness of the glow given off by this object. He advised that the object did not appear to diminish in size as it traveled farther away, but appeared to maintain about the same size as when he first [unclear].",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 19,
-      "text": "[REDACTED] noted a sphere-like object directly overhead that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 20,
-      "text": "gave a steady golden-orange glow. He stated that this object",
-      "status": "image_matched"
+      "text": "[unclear] NOV 25 1950 [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 21,
-      "text": "was very high, being between ten to twenty thousand feet high,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "possibly higher. The glow given off was very steady, not",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "text": "blinking, and the whole sphere itself glowed in about the",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "text": "same consistency. He witnessed this object for approximately",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "text": "twenty seconds, during which time it traveled in a westerly",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "text": "direction toward New York City. It then veered in a southerly",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "text": "direction, as if crossing Long Island, or possibly in such a",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
-      "text": "direction that it might have been traveling over Long Island.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 29,
-      "text": "He lost sight of this object as it disappeared behind trees.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
-      "text": "[REDACTED] He advised the size of the object was approximately",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 31,
-      "text": "ten times the diameter of Venus, which was shining very brightly",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "text": "that night. He stated it was a very clear night and that all",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
-      "text": "the stars in the sky were twinkling, as compared to the steadiness",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 34,
-      "text": "of the glow given off by this object. He advised that the object",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 35,
-      "text": "did not appear to diminish in size as it traveled further away,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 36,
-      "text": "but appeared to maintain about the same size as when he first",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 38,
-      "text": "NOV 25 1950",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 39,
       "text": "59 NOV 29 1950",
       "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
     }
   ],
   "blockCount": null

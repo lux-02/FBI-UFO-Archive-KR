@@ -8,15 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 8 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0119-l0002",
-    "page_0119-l0010"
-  ],
-  "lineCount": 15,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 14,
   "lines": [
     {
       "lineNumber": 1,
@@ -26,8 +23,7 @@
     {
       "lineNumber": 2,
       "text": "only motive being \"human interest for human affairs\" and my desire for",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -59,34 +55,29 @@
     },
     {
       "lineNumber": 9,
-      "status": "blank"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 11,
       "text": "Chile, South America",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "status": "blank"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 12,
       "text": "P. S. Please acknowledge receipt of this letter.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 13,
       "status": "blank"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 14,
       "text": "- 3 -",
       "status": "image_matched"
     }

@@ -8,28 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "15 permanent_unresolved line(s) excluded under SRC-896. 135 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0018-l0072",
-    "page_0018-l0076",
-    "page_0018-l0078",
-    "page_0018-l0106",
-    "page_0018-l0118",
-    "page_0018-l0120",
-    "page_0018-l0162",
-    "page_0018-l0164",
-    "page_0018-l0186",
-    "page_0018-l0203",
-    "page_0018-l0222",
-    "page_0018-l0230",
-    "page_0018-l0232",
-    "page_0018-l0234",
-    "page_0018-l0236"
-  ],
-  "lineCount": 236,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 116,
   "lines": [
     {
       "lineNumber": 1,
@@ -56,171 +40,182 @@
     },
     {
       "lineNumber": 6,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 7,
       "text": "Date",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 9,
+      "lineNumber": 7,
       "text": "Time",
       "status": "image_matched"
     },
     {
+      "lineNumber": 8,
+      "text": "Number of Observers",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Reliability of Observers",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 10,
-      "status": "blank"
+      "text": "General Area of Occurrence",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "Number of",
-      "status": "image_matched"
+      "text": "Apparent Direction of Flight",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "Observers",
-      "status": "image_matched"
+      "text": "Apparent Altitude",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "status": "blank"
+      "text": "Course Horizontal to Vertical",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "Reliability",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "text": "of Observers",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 17,
-      "text": "General",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "Area of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "text": "Occurrence",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 21,
-      "text": "Apparent",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "Direction",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "text": "of Flight",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 25,
-      "text": "Apparent",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "text": "Altitude",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 28,
-      "text": "Course",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 29,
-      "text": "Horizontal",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
-      "text": "or Vertical",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 31,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 32,
       "text": "Color",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
-      "status": "blank"
+      "lineNumber": 15,
+      "text": "Train or Trail",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 34,
-      "text": "Duration of",
-      "status": "image_matched"
+      "lineNumber": 16,
+      "text": "Duration of Observation",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 35,
-      "text": "Flight or",
-      "status": "image_matched"
+      "lineNumber": 17,
+      "text": "Sound",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 36,
-      "text": "Fall",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 38,
+      "lineNumber": 18,
       "text": "Shape",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 19,
+      "text": "Apparent Size",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 20,
+      "text": "Apparent Speed",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
+      "text": "Manner of Disappearance",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 22,
       "status": "blank"
     },
     {
+      "lineNumber": 23,
+      "text": "59",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 24,
+      "text": "1949",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 25,
+      "text": "Mar",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 26,
+      "text": "0103",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 27,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 28,
+      "text": "Unk",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "text": "Camp Hood, Texas",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 30,
+      "text": "From N 56° W to S 64° W",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 31,
+      "text": "From 15° above horizon",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 32,
+      "text": "Traveled in arc",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 33,
+      "text": "Pale reddish then whitish red",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 34,
+      "text": "Yes",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 35,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 36,
+      "text": "None",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
+      "text": "[unclear] w/tail",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 38,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 39,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
       "lineNumber": 40,
-      "text": "Apparent",
+      "text": "Disappeared",
       "status": "image_matched"
     },
     {
       "lineNumber": 41,
-      "text": "Size",
-      "status": "image_matched"
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 42,
@@ -228,917 +223,370 @@
     },
     {
       "lineNumber": 43,
-      "text": "Apparent",
-      "status": "image_matched"
+      "text": "60",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 44,
-      "text": "Speed",
-      "status": "image_matched"
+      "text": "13 Mar",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 45,
-      "status": "blank"
+      "text": "2155",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 46,
-      "text": "Disappeared",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 47,
-      "status": "blank"
+      "text": "Unk",
+      "status": "image_matched"
     },
     {
       "lineNumber": 48,
-      "text": "69",
-      "status": "image_matched"
+      "text": "Albuquerque, New Mexico",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 49,
-      "status": "blank"
+      "text": "NE to SW or SW to NE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 50,
-      "text": "10 Mar",
-      "status": "image_matched"
+      "text": "20° above horizon",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 51,
-      "text": "1000",
-      "status": "image_matched"
+      "text": "Descending slightly",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 52,
-      "status": "blank"
+      "text": "Bluish or greenish white",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 53,
-      "text": "65",
-      "status": "image_matched"
+      "text": "Yes",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 54,
-      "status": "blank"
+      "text": "2-4 secs",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 55,
-      "text": "Unk",
-      "status": "image_matched"
+      "text": "None",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 56,
-      "status": "blank"
+      "text": "Length 2 diameter",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 57,
-      "text": "Camp Hood,",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 58,
-      "text": "Texas",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 59,
-      "status": "blank"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 60,
-      "text": "From 15°",
-      "status": "image_matched"
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 61,
-      "text": "N 56° W",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 62,
-      "text": "to 15°",
-      "status": "image_matched"
+      "text": "61",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 63,
-      "text": "S 45° E",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 64,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 65,
-      "text": "Traveled in",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 66,
-      "text": "arc",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 67,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 68,
-      "text": "Pale",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 69,
-      "text": "reddish",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 70,
-      "text": "white",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 71,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 72,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 73,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 74,
-      "text": "Round",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 75,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 76,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 77,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 78,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 79,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 80,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 81,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 82,
-      "text": "Faded out in",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 83,
-      "text": "distance",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 84,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 85,
-      "text": "70",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 86,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 87,
-      "text": "10 Mar",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 88,
-      "text": "2157",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 89,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 90,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 91,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 92,
-      "text": "Unk",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 93,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 94,
-      "text": "Albuquerque,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 95,
-      "text": "New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 96,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 97,
-      "text": "NE to SW",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 98,
-      "text": "or",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 99,
-      "text": "SW to NE",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 100,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 101,
-      "text": "20°",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 102,
-      "text": "above",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 103,
-      "text": "horizon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 104,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 105,
-      "text": "Descending",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 106,
-      "text": "s lightly",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 107,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 108,
-      "text": "Plush",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 109,
-      "text": "or",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 110,
-      "text": "green-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 111,
-      "text": "ish",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 112,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 113,
-      "text": "2-4",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 114,
-      "text": "secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 115,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 116,
-      "text": "Round",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 117,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 118,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 119,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 120,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 121,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 122,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 123,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 124,
-      "text": "Faded out in",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 125,
-      "text": "distance",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 126,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 127,
-      "text": "71",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 128,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 129,
       "text": "14 Mar",
       "status": "image_matched"
     },
     {
-      "lineNumber": 130,
-      "text": "1000-",
-      "status": "image_matched"
+      "lineNumber": 64,
+      "text": "0600-16Z",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 131,
-      "text": "1002",
-      "status": "image_matched"
+      "lineNumber": 65,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 132,
-      "status": "blank"
+      "lineNumber": 66,
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 133,
-      "text": "65",
-      "status": "image_matched"
+      "lineNumber": 67,
+      "text": "Airplane enroute fr Honolulu to Canton Is",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 134,
-      "status": "blank"
+      "lineNumber": 68,
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 135,
-      "text": "Unk",
-      "status": "image_matched"
+      "lineNumber": 69,
+      "text": "6°-12° above airplane at 4,000",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 136,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 137,
-      "text": "Airplane",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 138,
-      "text": "enroute",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 139,
-      "text": "fr Monohan",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 140,
-      "text": "to Calex",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 141,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 142,
-      "text": "E to W",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 143,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 144,
-      "text": "60-120",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 145,
-      "text": "above",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 146,
-      "text": "airplane",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 147,
-      "text": "at 1,000",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 148,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 149,
+      "lineNumber": 70,
       "text": "Horizontal",
       "status": "image_matched"
     },
     {
-      "lineNumber": 150,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 151,
-      "text": "White",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 152,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 153,
-      "text": "10",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 154,
-      "text": "secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 155,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 156,
-      "text": "Like",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 157,
-      "text": "bullet",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 158,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 159,
-      "text": "Long &",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 160,
-      "text": "narrow",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 161,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 162,
+      "lineNumber": 71,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 163,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 164,
+      "lineNumber": 72,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 165,
+      "lineNumber": 73,
+      "text": "10 secs",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 74,
+      "text": "None",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 75,
+      "text": "[unclear] like bullet",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 76,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 77,
+      "text": "90° in 9 secs",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 78,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 79,
+      "text": "b5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 80,
       "status": "blank"
     },
     {
-      "lineNumber": 166,
-      "text": "72",
-      "status": "image_matched"
+      "lineNumber": 81,
+      "text": "62",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 167,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 168,
+      "lineNumber": 82,
       "text": "27 Mar",
       "status": "image_matched"
     },
     {
-      "lineNumber": 169,
-      "text": "1800-",
-      "status": "image_matched"
+      "lineNumber": 83,
+      "text": "1800-1805",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 170,
-      "text": "1805",
-      "status": "image_matched"
+      "lineNumber": 84,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 171,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 172,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 173,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 174,
+      "lineNumber": 85,
       "text": "Unk",
       "status": "image_matched"
     },
     {
-      "lineNumber": 175,
-      "status": "blank"
+      "lineNumber": 86,
+      "text": "Tucumcari, New Mexico",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 176,
-      "text": "Tucumcari,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 177,
-      "text": "New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 178,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 179,
+      "lineNumber": 87,
       "text": "E to W",
       "status": "image_matched"
     },
     {
-      "lineNumber": 180,
-      "status": "blank"
+      "lineNumber": 88,
+      "text": "High in sky -app. 30° above horizon",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 181,
-      "text": "High in",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 182,
-      "text": "sky -app.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 183,
-      "text": "30° above",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 184,
-      "text": "horizon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 185,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 186,
+      "lineNumber": 89,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 187,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 188,
+      "lineNumber": 90,
       "text": "Amber",
       "status": "image_matched"
     },
     {
-      "lineNumber": 189,
-      "status": "blank"
+      "lineNumber": 91,
+      "text": "None",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 190,
-      "text": "25",
-      "status": "image_matched"
+      "lineNumber": 92,
+      "text": "25 mins",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 191,
-      "text": "mts",
-      "status": "image_matched"
+      "lineNumber": 93,
+      "text": "None",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 192,
-      "status": "blank"
+      "lineNumber": 94,
+      "text": "Long & narrow",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 193,
-      "text": "Long &",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 194,
-      "text": "narrow",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 195,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 196,
-      "text": "Length-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 197,
-      "text": "about 1/6",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 198,
-      "text": "lunar dia-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 199,
-      "text": "meter.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 200,
-      "text": "Width-about",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 201,
-      "text": "1/6 length",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 202,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 203,
+      "lineNumber": 95,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 204,
+      "lineNumber": 96,
+      "text": "Faded out in distance",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 97,
+      "text": "b5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 98,
       "status": "blank"
     },
     {
-      "lineNumber": 205,
-      "text": "73",
-      "status": "image_matched"
+      "lineNumber": 99,
+      "text": "63",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 206,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 207,
+      "lineNumber": 100,
       "text": "27 Mar",
       "status": "image_matched"
     },
     {
-      "lineNumber": 208,
+      "lineNumber": 101,
       "text": "1800",
       "status": "image_matched"
     },
     {
-      "lineNumber": 209,
-      "status": "blank"
+      "lineNumber": 102,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 210,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 211,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 212,
+      "lineNumber": 103,
       "text": "Unk",
       "status": "image_matched"
     },
     {
-      "lineNumber": 213,
-      "status": "blank"
+      "lineNumber": 104,
+      "text": "Montoya, New Mexico",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 214,
-      "text": "Montoya,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 215,
-      "text": "New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 216,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 217,
+      "lineNumber": 105,
       "text": "E to W",
       "status": "image_matched"
     },
     {
-      "lineNumber": 218,
-      "status": "blank"
+      "lineNumber": 106,
+      "text": "About 75° above",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 219,
-      "text": "About 75°",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 220,
-      "text": "above",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 221,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 222,
+      "lineNumber": 107,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 223,
-      "status": "blank"
+      "lineNumber": 108,
+      "text": "Orange flame",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 224,
-      "text": "Orange",
-      "status": "image_matched"
+      "lineNumber": 109,
+      "text": "None",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 225,
-      "text": "flame",
-      "status": "image_matched"
+      "lineNumber": 110,
+      "text": "10 mins",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 226,
-      "status": "blank"
+      "lineNumber": 111,
+      "text": "None",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 227,
-      "text": "110",
-      "status": "image_matched"
+      "lineNumber": 112,
+      "text": "Long & narrow",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 228,
-      "text": "secs",
-      "status": "image_matched"
+      "lineNumber": 113,
+      "text": "Length-about 1/6 lunar diameter, width-about 1/6 length",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 229,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 230,
+      "lineNumber": 114,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 231,
-      "status": "blank"
+      "lineNumber": 115,
+      "text": "Faded out in distance",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 232,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 233,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 234,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 235,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 236,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 116,
+      "text": "b5",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

@@ -8,16 +8,11 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 28 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0093-l0009",
-    "page_0093-l0013",
-    "page_0093-l0024",
-    "page_0093-l0039"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 39,
   "lines": [
     {
@@ -36,21 +31,22 @@
     },
     {
       "lineNumber": 4,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 5,
       "text": "12-21-53",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 5,
       "status": "blank"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 6,
       "text": "New Jersey, U. S. A.",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
@@ -59,8 +55,7 @@
     {
       "lineNumber": 9,
       "text": "Dear Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
@@ -79,8 +74,7 @@
     {
       "lineNumber": 13,
       "text": "told him a few things about inventions or utilization. Dear Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 14,
@@ -134,8 +128,7 @@
     {
       "lineNumber": 24,
       "text": "And now, dear Mr. [REDACTED] I am taking the liberty of telling",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 25,
@@ -144,8 +137,8 @@
     },
     {
       "lineNumber": 26,
-      "text": "(I am only writing the most important facts). Before the war I intended",
-      "status": "image_matched"
+      "text": "(I am only writing the most important facts.) Before the war I intended",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
@@ -203,14 +196,13 @@
     },
     {
       "lineNumber": 38,
-      "text": "COPIES DESTROYED",
-      "status": "image_matched"
+      "text": "COPIES [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 39,
-      "text": "270 NOV 19 1964",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "270 NOV 19 [unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

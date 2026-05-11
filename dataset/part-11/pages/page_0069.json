@@ -8,14 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 38 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0069-l0003"
-  ],
-  "lineCount": 47,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 65,
   "lines": [
     {
       "lineNumber": 1,
@@ -24,18 +22,16 @@
     },
     {
       "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
       "text": "TO : MR. A. H. BELMONT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
-      "text": "FROM : MR. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 4,
-      "text": "SUBJECT: FLYING SAUCERS",
+      "text": "DATE: September 27, 1950",
       "status": "image_matched"
     },
     {
@@ -44,42 +40,37 @@
     },
     {
       "lineNumber": 6,
-      "text": "DATE: September 27, 1950",
-      "status": "image_matched"
+      "text": "FROM : MR. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
-      "status": "blank"
+      "text": "(4-1)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
-      "text": "SAC Cornelius of Philadelphia called at 10:45 A.M.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 9,
-      "text": "today and stated that yesterday evening while two officers of",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "text": "the Philadelphia Police Department were cruising in their",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 11,
-      "text": "scout car they saw through the windshield an object descending",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 12,
-      "text": "slowly to the earth which appeared at first glance to be a",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 13,
-      "text": "parachute.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 14,
@@ -87,162 +78,244 @@
     },
     {
       "lineNumber": 15,
-      "text": "When the officers first noticed the object, it was at",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 16,
-      "text": "tree-top level and was described as being six feet in diameter.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 17,
-      "text": "It landed in a field near-by and the officers, upon examining it,",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 18,
-      "text": "noted that it gave out a purplish glow which was almost a mist.",
+      "text": "SUBJECT: FLYING SAUCERS",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "The officers summoned two other police officers. After looking",
-      "status": "image_matched"
+      "text": "G.I.R.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "text": "at the object for some time they attempted to pick it up. The",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 21,
-      "text": "object broke, leaving a slight odorless residue. Over a period",
+      "text": "SAC Cornelius of Philadelphia called at 10:45 A.M.",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "text": "of about 25 minutes which the officers spent watching the object",
+      "text": "today and stated that yesterday evening while two officers of",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "it completely disintegrated. The officers further commented that",
+      "text": "the Philadelphia Police Department were cruising in their",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "text": "the object was so light that when it hit the field, it did not",
+      "text": "scout car they saw through the windshield an object descending",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "even bend the weeds or the grass it fell on.",
+      "text": "slowly to the earth which appeared at first glance to be a",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 27,
-      "text": "Mr. Cornelius said that he has called the local office",
+      "text": "parachute.",
       "status": "image_matched"
     },
     {
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
       "lineNumber": 28,
-      "text": "of the Air Force but the individual with whom he spoke there said",
+      "text": "When the officers first noticed the object, it was at",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "he knew nothing about them and was not aware that his office was",
+      "text": "tree-top level and was described as being six feet in diameter.",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "looking into reports of this type.",
+      "text": "It landed in a field near-by and the officers, upon examining it,",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "status": "blank"
+      "text": "noted that it gave out a purplish glow which was almost a mist.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 32,
-      "text": "Mr. Cornelius desired to know what further action should",
+      "text": "The officers summoned two other police officers. After looking",
       "status": "image_matched"
     },
     {
       "lineNumber": 33,
-      "text": "be taken by him.",
+      "text": "at the object for some time they attempted to pick it up. The",
       "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "status": "blank"
+      "text": "object broke, leaving a slight odorless residue. Over a period",
+      "status": "image_matched"
     },
     {
       "lineNumber": 35,
-      "text": "I told Mr. Cornelius that he was correct in referring",
+      "text": "of about 25 minutes which the officers spent watching the object",
       "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "text": "this matter to the local office of OSI and that he should direct",
+      "text": "it completely disintegrated. The officers further commented that",
       "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "text": "a letter to the Bureau incorporating all available information",
+      "text": "the object was so light that when it hit the field, it did not",
       "status": "image_matched"
     },
     {
       "lineNumber": 38,
-      "text": "concerning the matter and that we here, upon its receipt, in turn",
+      "text": "even bend the weeds or the grass it fell on.",
       "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "text": "would bring it to the attention of OSI Headquarters.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
       "status": "blank"
     },
     {
+      "lineNumber": 40,
+      "text": "Mr. Cornelius said that he has called the local office",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 41,
-      "text": "LLL:mer",
+      "text": "of the Air Force but the individual with whom he spoke there said",
       "status": "image_matched"
     },
     {
       "lineNumber": 42,
-      "status": "blank"
+      "text": "he knew nothing about them and was not aware that his office was",
+      "status": "image_matched"
     },
     {
       "lineNumber": 43,
-      "text": "RECORDED-84",
+      "text": "looking into reports of this type.",
       "status": "image_matched"
     },
     {
       "lineNumber": 44,
-      "text": "EX-29",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 45,
-      "text": "62-8377-246",
+      "text": "Mr. Cornelius desired to know what further action should",
       "status": "image_matched"
     },
     {
       "lineNumber": 46,
-      "text": "OCT 4 1950",
+      "text": "be taken by him.",
       "status": "image_matched"
     },
     {
       "lineNumber": 47,
-      "text": "24",
+      "status": "blank"
+    },
+    {
+      "lineNumber": 48,
+      "text": "I told Mr. Cornelius that he was correct in referring",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "text": "this matter to the local office of OSI and that he should direct",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 50,
+      "text": "a letter to the Bureau incorporating all available information",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "text": "concerning the matter and that we here, upon its receipt, in turn",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 52,
+      "text": "would bring it to the attention of OSI Headquarters.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 53,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 54,
+      "text": "LLL:mer",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 55,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 56,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 57,
+      "text": "9-27-50",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 58,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 59,
+      "text": "51 OCT 10 1950",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 60,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 61,
+      "text": "RECORDED - 84",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 62,
+      "text": "EX-29",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 63,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 64,
+      "text": "62-8387-246",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 65,
+      "text": "OCT 4 1950",
       "status": "image_matched"
     }
   ],

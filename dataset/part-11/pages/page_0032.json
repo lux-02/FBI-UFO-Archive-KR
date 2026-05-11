@@ -8,19 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 98 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0032-l0029",
-    "page_0032-l0049",
-    "page_0032-l0065",
-    "page_0032-l0080",
-    "page_0032-l0089",
-    "page_0032-l0099"
-  ],
-  "lineCount": 110,
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 14,
   "lines": [
     {
       "lineNumber": 1,
@@ -29,548 +22,65 @@
     },
     {
       "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
       "text": "Summary of Sightings of Unknown Aerial Phenomena, 17th District OSI (cont)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 4,
       "text": "Page 18",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "status": "blank"
-    },
-    {
       "lineNumber": 5,
-      "text": "Number",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
-      "text": "Date",
-      "status": "image_matched"
+      "text": "Number | Date | Time | Number of Observers | *Reliability of Observers | General Area of Occurrence | Apparent Direction of Flight | Apparent Altitude | Course (Horizontal to Vertical) | Color | Trail or Train or [unclear] | Duration of Observation | Sound | Shape | Apparent Size | Apparent Speed | Manner of Disappear-ance | **Evaluation",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 7,
-      "text": "Time",
-      "status": "image_matched"
+      "text": "--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
-      "text": "Number of Observers",
-      "status": "image_matched"
+      "text": "96 | 10 Aug 1949 | 2035 | 1 | [REDACTED] b5 | Camp Hood, Texas | N to S | 30° - 45° above horizon | Level flight | Yellow to orange | Yes | 1 - 2 secs | None | [unclear] | Like head-light of a car | 90° in 2 secs | Went out | [REDACTED] b5",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 9,
-      "text": "*Reliability of Observers",
-      "status": "image_matched"
+      "text": "97 | 10 Aug | 2035 2207 2220 2240 | 4 | [REDACTED] b5 | Camp Hood, Texas | W to E | 30° - 45° above horizon | Level flight | White | Yes | 3 - 4 secs | None | Round w/tail | Large flare | Greater speed than plane | [unclear] | [REDACTED] b5",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 10,
-      "text": "General Area of Occurrence",
-      "status": "image_matched"
+      "text": "98 | 10 Aug | 2040 | 24 | [REDACTED] b5 | Camp Hood, Texas | N to S | 30° above horizon | Horizontal w/slight arc | Orange w/white tail | Yes | 3 - 5 secs | None | Rocket | 20 mm. tracer ammo. | Very great similar to falling star | [unclear] grad-ually diminished | [REDACTED] b5",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 11,
-      "text": "Apparent Direction of Flight",
-      "status": "image_matched"
+      "text": "99 | 10 Aug | 2100 | 4 | [REDACTED] b5 | Killeen Base, Texas | S | 30° above horizon going up | Continued climb at 30° angle until dis-appearance | Bright orange | Yes | 5 secs | None | Red-dish ball with long firey tail | Head size | [unclear] | Disappeared | [REDACTED] b5",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 12,
-      "text": "Apparent Altitude",
-      "status": "image_matched"
+      "text": "100 | 10 Aug | 2100 2120 2215 2250 | 4 | [REDACTED] b5 | Camp Hood, Texas | [unclear] | 40° - 70° above horizon | #1, 3 & 4 almost hor-izontal #2 almost vertical | White with orange | Yes for each one | 1 sec for each one | None | Round with trail | Large star | Great speed | Went out like a light | [REDACTED] b5",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 13,
-      "text": "Course (Horizontal to Vertical)",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 14,
-      "text": "Color",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "text": "Trail or Train",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "text": "Duration of Observation",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 17,
-      "text": "Sound",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "Shape",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "text": "Apparent Size",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "text": "Apparent Speed",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "text": "Manner of Disappear-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "ance",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "text": "**Evaluation",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 25,
-      "text": "96",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "text": "10 Aug 1949",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "text": "2055",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 29,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 30,
-      "text": "Camp Hood, Texas",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 31,
-      "text": "N to S",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "text": "30° above horizon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
-      "text": "Level flight",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 34,
-      "text": "Yellow to orange",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 35,
-      "text": "Yes",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 36,
-      "text": "1 - 2 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 38,
-      "text": "Round",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 39,
-      "text": "Like head-light of car",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "60° in 2 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
-      "text": "Cut out",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 43,
-      "text": "97",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "text": "10 Aug 1949",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
-      "text": "2030",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
-      "text": "2207",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 47,
-      "text": "2220",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "text": "2240",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 49,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 50,
-      "text": "Camp Hood, Texas",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 51,
-      "text": "W to E",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 52,
-      "text": "30°- 45° above horizon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 53,
-      "text": "Level flight",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 54,
-      "text": "White",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 55,
-      "text": "Yes",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 56,
-      "text": "3 - 4 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 57,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 58,
-      "text": "Large w/tail",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 59,
-      "text": "Greater speed than plane",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 60,
-      "text": "Cut out",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 61,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 62,
-      "text": "98",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 63,
-      "text": "10 Aug 1949",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 64,
-      "text": "2040",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 65,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 66,
-      "text": "Camp Hood, Texas",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 67,
-      "text": "E to S",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 68,
-      "text": "Horizontal w/slight arc",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 69,
-      "text": "Orange w/white tail",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 70,
-      "text": "Yes",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 71,
-      "text": "5 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 72,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 73,
-      "text": "Rocket 20 mm. tracer ammo.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 74,
-      "text": "Very great similar to falling star",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 75,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 76,
-      "text": "99",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 77,
-      "text": "10 Aug 1949",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 78,
-      "text": "2100",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 79,
-      "text": "4",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 80,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 81,
-      "text": "Killeen Base, Texas",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 82,
-      "text": "S",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 83,
-      "text": "30° above horizon going up",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 84,
-      "text": "Continued climbing at 30° angle until dis-appearance",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 85,
-      "text": "Bright orange",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 86,
-      "text": "Yes",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 87,
-      "text": "5 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 88,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 89,
-      "text": "Redd-ish ball with long firey tail",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 90,
-      "text": "Head size",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 91,
-      "text": "Disappeared",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 92,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 93,
-      "text": "100",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 94,
-      "text": "10 Aug 1949",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 95,
-      "text": "2100",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 96,
-      "text": "2120",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 97,
-      "text": "2215",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 98,
-      "text": "2250",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 99,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 100,
-      "text": "Camp Hood, Texas",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 101,
-      "text": "40°- 70° above horizon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 102,
-      "text": "#1, 3 & 4 almost hor-izontal #2 almost vertical",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 103,
-      "text": "White with orange",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 104,
-      "text": "Yes",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 105,
-      "text": "1 sec for each one",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 106,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 107,
-      "text": "Round with trail",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 108,
-      "text": "Large star",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 109,
-      "text": "Great speed",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 110,
-      "text": "Went out like a light",
-      "status": "image_matched"
+      "text": "CONFIDENTIAL",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

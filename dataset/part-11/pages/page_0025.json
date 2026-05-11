@@ -8,29 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "16 permanent_unresolved line(s) excluded under SRC-896. 101 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0025-l0027",
-    "page_0025-l0029",
-    "page_0025-l0041",
-    "page_0025-l0047",
-    "page_0025-l0056",
-    "page_0025-l0058",
-    "page_0025-l0064",
-    "page_0025-l0067",
-    "page_0025-l0076",
-    "page_0025-l0082",
-    "page_0025-l0092",
-    "page_0025-l0093",
-    "page_0025-l0099",
-    "page_0025-l0109",
-    "page_0025-l0115",
-    "page_0025-l0124"
-  ],
-  "lineCount": 124,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 39,
   "lines": [
     {
       "lineNumber": 1,
@@ -39,13 +22,12 @@
     },
     {
       "lineNumber": 2,
-      "text": "Summary of Sightings of Unknown Aerial Phenomena, 17th District CSI (cont)",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "Page 13",
-      "status": "image_matched"
+      "text": "Summary of Sightings of Unknown Aerial Phenomena, 17th District OSI (cont)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -53,613 +35,170 @@
     },
     {
       "lineNumber": 5,
-      "text": "Number",
+      "text": "Page 13",
       "status": "image_matched"
     },
     {
       "lineNumber": 6,
-      "text": "Date",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 7,
-      "text": "Time",
+      "text": "Number",
       "status": "image_matched"
     },
     {
       "lineNumber": 8,
-      "text": "Number of Observers",
+      "text": "Date",
       "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "Reliability of Observers",
+      "text": "Time",
       "status": "image_matched"
     },
     {
       "lineNumber": 10,
-      "text": "General Area of Occurrence",
+      "text": "Number of Observers",
       "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": "Apparent Direction of Flight",
-      "status": "image_matched"
+      "text": "*Reliability of Observers",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "Apparent Altitude",
+      "text": "General Area of Occurrence",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "Course Horizontal to Vertical",
+      "text": "Apparent Direction of Flight",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "Color",
+      "text": "Apparent Altitude",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "Train or Trail",
+      "text": "Course Horizontal to Vertical",
       "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "Duration of Observation",
+      "text": "Color",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "Sound",
+      "text": "Train or Trail",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "Shape",
+      "text": "Duration of Observation",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "Apparent Size",
+      "text": "Sound",
       "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "Apparent Speed",
+      "text": "Shape",
       "status": "image_matched"
     },
     {
       "lineNumber": 21,
-      "text": "Manner of Disappearance",
+      "text": "Apparent Size",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "text": "Evaluation",
+      "text": "Apparent Speed",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "status": "blank"
+      "text": "Manner of Disappear-ance",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
-      "text": "68",
-      "status": "image_matched"
+      "text": "**Evaluation",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
       "text": "1949",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
-      "text": "12 May",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 27,
-      "text": "App. 1700",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "68 9 May App 1 [REDACTED] Tucson, Arizona SW to NE Silvery None 6-10 secs None Round & flat 25' in diameter 750-1000 mph Faded from view [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 28,
-      "text": "1",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 29,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "69 12 May 2115 1 [REDACTED] Alamogordo, New Mexico 30° or 40° above horizon White with Green-ish tinge None 4 mins None 2 fuzzy stars 1/4 diameter of full moon Vanished [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 30,
-      "text": "Tucson, Arizona",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 31,
-      "text": "SW to NE",
-      "status": "image_matched"
+      "text": "70 15 May App 1 [REDACTED] Tucson, Arizona E to W 3000' Horizontal Black None 8-10 secs None Round solid 3 - 4' in diameter 500-1000 MPH Behind air-craft hangar [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 32,
-      "text": "5° or 40° above horizon",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 33,
-      "text": "Silvery",
-      "status": "image_matched"
+      "text": "71 2 Jun 0040 1 [REDACTED] Los Alamos, New Mexico E to N 7000' - 10,000' Descending Green Yes 1 sec None Ball of light [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 34,
-      "text": "None",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 35,
-      "text": "6-10 secs",
-      "status": "image_matched"
+      "text": "72 11 Jun 2037 1 [REDACTED] Los Alamos, SW to NE 20° above horizon Green then red at end of flight Yes 4 - 5 secs None Size of star [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 36,
-      "text": "None",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 37,
-      "text": "Round & flat",
-      "status": "image_matched"
+      "text": "73 20 Jun 2010 1 [REDACTED] Los Alamos, New Mexico W to E Green turned orange red be-fore va-nishing None 3 secs None Round Extinguished [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 38,
-      "text": "25' in diameter",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 39,
-      "text": "750-1000 mph",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "Faded from view",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 42,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 43,
-      "text": "69",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "text": "12 May",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
-      "text": "2151-2155",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 47,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 48,
-      "text": "Alamogordo, New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 49,
-      "text": "From right to left",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 50,
-      "text": "From 5° above horizon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 51,
-      "text": "White with greenish tinge",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 52,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 53,
-      "text": "1 sec",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 54,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 55,
-      "text": "Fuzzy stars",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 56,
-      "text": "2 diameter of full moon",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 57,
-      "text": "Vanished",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 58,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 59,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 60,
-      "text": "70",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 61,
-      "text": "2 Jun",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 62,
-      "text": "0040",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 63,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 64,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 65,
-      "text": "Los Alamos, New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 66,
-      "text": "E to N",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 67,
-      "text": "7000'-1200'",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 68,
-      "text": "Descending",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 69,
-      "text": "Green",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 70,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 71,
-      "text": "1 sec",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 72,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 73,
-      "text": "Solid flat ball of light",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 74,
-      "text": "Size of star",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 75,
-      "text": "Behind aircraft hangar",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 76,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 77,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 78,
-      "text": "71",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 79,
-      "text": "11 Jun",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 80,
-      "text": "2057",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 81,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 82,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 83,
-      "text": "Los Alamos, New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 84,
-      "text": "SW to NE",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 85,
-      "text": "25° above horizon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 86,
-      "text": "Green then red at end of flight",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 87,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 88,
-      "text": "4-5 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 89,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 90,
-      "text": "Round",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 91,
-      "text": "Size of star",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 92,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 93,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 94,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 95,
-      "text": "72",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 96,
-      "text": "20 Jun",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 97,
-      "text": "2010",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 98,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 99,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 100,
-      "text": "Los Alamos, New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 101,
-      "text": "N to E",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 102,
-      "text": "Directly overhead",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 103,
-      "text": "Green turned orange red before vanishing",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 104,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 105,
-      "text": "3 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 106,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 107,
-      "text": "Round",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 108,
-      "text": "Extinguished",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 109,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 110,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 111,
-      "text": "73",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 112,
-      "text": "20 Jun",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 113,
-      "text": "2010",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 114,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 115,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 116,
-      "text": "Los Alamos, New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 117,
-      "text": "N to E",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 118,
-      "text": "Blue green",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 119,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 120,
-      "text": "1-1/2 secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 121,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 122,
-      "text": "Round",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 123,
-      "text": "Vanished as extinguished",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 124,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "74 20 Jun 2010 1 [REDACTED] Los Alamos, New Mexico W to E Directly overhead Blue green None 1-1/2 secs None Vanished as tho extin-td. [REDACTED]",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

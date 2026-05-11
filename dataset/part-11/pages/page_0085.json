@@ -8,20 +8,11 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 11 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0085-l0004",
-    "page_0085-l0009",
-    "page_0085-l0013",
-    "page_0085-l0014",
-    "page_0085-l0015",
-    "page_0085-l0017",
-    "page_0085-l0018",
-    "page_0085-l0019"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 25,
   "lines": [
     {
@@ -41,8 +32,7 @@
     {
       "lineNumber": 4,
       "text": "[REDACTED] had been on tour for some time and that the meeting scheduled",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
@@ -66,8 +56,7 @@
     {
       "lineNumber": 9,
       "text": "identified with [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
@@ -86,20 +75,17 @@
     {
       "lineNumber": 13,
       "text": "caption of [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 14,
-      "text": "[REDACTED] was at that time operating under the name of [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED], was at that time operating under the name of [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
-      "text": "[REDACTED] with headquarters and printing facilities in Noblesville, Indiana.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "with headquarters and printing facilities in Noblesville, Indiana.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
@@ -108,20 +94,17 @@
     {
       "lineNumber": 17,
       "text": "With regard to [REDACTED] the indices of this office reflect",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
       "text": "that as of July, 1942, he was general manager of the [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 19,
-      "text": "[REDACTED] a mechanical packing firm at [REDACTED] Cincinnati.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] a mechanical packing firm at [REDACTED], Cincinnati.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 20,

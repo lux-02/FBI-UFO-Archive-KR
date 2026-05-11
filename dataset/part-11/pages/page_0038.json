@@ -8,16 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 187 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0038-l0041",
-    "page_0038-l0146",
-    "page_0038-l0161"
-  ],
-  "lineCount": 190,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 121,
   "lines": [
     {
       "lineNumber": 1,
@@ -26,404 +22,397 @@
     },
     {
       "lineNumber": 2,
-      "text": "Summary of Sightings of Unknown Aerial Phenomena, 17th District OSI (cont)",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
+      "text": "Summary of Sightings of Unknown [unclear] Phenomena, 17th District OSI (cont)",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
       "text": "Number",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 6,
       "text": "Date",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 7,
       "text": "Time",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "text": "Number of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
-      "text": "Observers",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 8,
-      "text": "Reliability",
-      "status": "image_matched"
+      "text": "Number of Observers",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "of Observers",
-      "status": "image_matched"
+      "text": "Reliability of Observers",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "General",
-      "status": "image_matched"
+      "text": "General Area of Occurrence",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "Area of",
-      "status": "image_matched"
+      "text": "Apparent Direction of Flight",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "Occurrence",
-      "status": "image_matched"
+      "text": "Apparent Altitude",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "text": "Apparent",
-      "status": "image_matched"
+      "text": "Course Horizontal to Vertical",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "Direction",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "text": "of Flight",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "text": "Apparent",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 17,
-      "text": "Altitude",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "Course",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "text": "Horizontal",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "text": "to Vertical",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
       "text": "Color",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
-      "text": "Trail or",
-      "status": "image_matched"
+      "lineNumber": 15,
+      "text": "Train or Trail",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 23,
-      "text": "Train of",
-      "status": "image_matched"
+      "lineNumber": 16,
+      "text": "Duration of Observation",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 24,
-      "text": "Fire",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "text": "Duration of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "text": "Observation",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
+      "lineNumber": 17,
       "text": "Sound",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 18,
       "text": "Shape",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
-      "text": "Apparent",
-      "status": "image_matched"
+      "lineNumber": 19,
+      "text": "Apparent Size",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 30,
-      "text": "Size",
-      "status": "image_matched"
+      "lineNumber": 20,
+      "text": "Apparent Speed",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 31,
-      "text": "Apparent",
-      "status": "image_matched"
+      "lineNumber": 21,
+      "text": "Manner of Disappearance",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 32,
-      "text": "Speed",
-      "status": "image_matched"
+      "lineNumber": 22,
+      "text": "**Evaluation**",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 33,
-      "text": "Manner of",
-      "status": "image_matched"
+      "lineNumber": 23,
+      "status": "blank"
     },
     {
-      "lineNumber": 34,
-      "text": "Disappear-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 35,
-      "text": "ance",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 36,
-      "text": "**Evaluation",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
+      "lineNumber": 24,
       "text": "123",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
-      "text": "1949",
-      "status": "image_matched"
+      "lineNumber": 25,
+      "text": "1949 6 Oct",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 39,
-      "text": "6 Oct",
-      "status": "image_matched"
+      "lineNumber": 26,
+      "text": "1800 I 1045",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 40,
-      "text": "1800",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
-      "text": "10-15",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 42,
+      "lineNumber": 27,
       "text": "1",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
-      "text": "65",
-      "status": "image_matched"
+      "lineNumber": 28,
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 44,
-      "text": "Alamogordo,",
-      "status": "image_matched"
+      "lineNumber": 29,
+      "text": "Mescalero, New Mexico",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 45,
-      "text": "New Mexico",
-      "status": "image_matched"
+      "lineNumber": 30,
+      "text": "18° above horizon",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 46,
-      "text": "E to W",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 47,
-      "text": "180",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "text": "above",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 49,
-      "text": "horizon",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 50,
+      "lineNumber": 31,
       "text": "Green",
       "status": "image_matched"
     },
     {
-      "lineNumber": 51,
+      "lineNumber": 32,
       "text": "None",
       "status": "image_matched"
     },
     {
-      "lineNumber": 52,
-      "text": "7 - 9",
-      "status": "image_matched"
+      "lineNumber": 33,
+      "text": "7 - 9 secs",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 53,
-      "text": "secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 54,
+      "lineNumber": 34,
       "text": "None",
       "status": "image_matched"
     },
     {
-      "lineNumber": 55,
+      "lineNumber": 35,
       "text": "Round",
       "status": "image_matched"
     },
     {
-      "lineNumber": 56,
-      "text": "1/2 size of",
-      "status": "image_matched"
+      "lineNumber": 36,
+      "text": "½ size of thumb at arm's length",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 57,
-      "text": "thumb at",
-      "status": "image_matched"
+      "lineNumber": 37,
+      "text": "Moving slowly",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 58,
-      "text": "arm's len-",
-      "status": "image_matched"
+      "lineNumber": 38,
+      "text": "Disappeared behind hill",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 59,
-      "text": "gth",
-      "status": "image_matched"
+      "lineNumber": 39,
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 60,
-      "text": "Moving",
-      "status": "image_matched"
+      "lineNumber": 40,
+      "status": "blank"
     },
     {
-      "lineNumber": 61,
-      "text": "slowly",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 62,
-      "text": "Disappeared",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 63,
-      "text": "behind",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 64,
-      "text": "hill",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 65,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 66,
+      "lineNumber": 41,
       "text": "124",
       "status": "image_matched"
     },
     {
-      "lineNumber": 67,
+      "lineNumber": 42,
       "text": "6 Oct",
       "status": "image_matched"
     },
     {
-      "lineNumber": 68,
-      "text": "1758",
-      "status": "image_matched"
+      "lineNumber": 43,
+      "text": "1758 I",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 69,
+      "lineNumber": 44,
       "text": "1",
       "status": "image_matched"
     },
     {
-      "lineNumber": 70,
-      "text": "65",
-      "status": "image_matched"
+      "lineNumber": 45,
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 71,
-      "text": "Alamogordo,",
-      "status": "image_matched"
+      "lineNumber": 46,
+      "text": "Alamogordo, New Mexico",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 72,
-      "text": "New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 73,
+      "lineNumber": 47,
       "text": "E to W",
       "status": "image_matched"
     },
     {
+      "lineNumber": 48,
+      "text": "Straight angular descent",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 49,
+      "text": "Bluish white possibly lt. green tinge",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "text": "None",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "text": "4 secs",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 52,
+      "text": "None",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 53,
+      "text": "Circu-lar",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 54,
+      "text": "3 times the size of Jupiter or Venus",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 55,
+      "text": "30° per sec.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 56,
+      "text": "b6",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 57,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 58,
+      "text": "125",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 59,
+      "text": "6 Oct",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 60,
+      "text": "1700 I",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 61,
+      "text": "1",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 62,
+      "text": "b5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 63,
+      "text": "Alamogordo, New Mexico",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 64,
+      "text": "Green",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 65,
+      "text": "None",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 66,
+      "text": "3 - 5 secs",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 67,
+      "text": "None",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 68,
+      "text": "Round",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 69,
+      "text": "Baseball at arm's length",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 70,
+      "text": "Abrupt",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 71,
+      "text": "b5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 72,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 73,
+      "text": "126",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 74,
-      "text": "Straight",
+      "text": "6 Oct",
       "status": "image_matched"
     },
     {
       "lineNumber": 75,
-      "text": "angular",
-      "status": "image_matched"
+      "text": "1730 I",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 76,
-      "text": "descent",
+      "text": "1",
       "status": "image_matched"
     },
     {
       "lineNumber": 77,
-      "text": "Bluish",
-      "status": "image_matched"
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 78,
-      "text": "white",
-      "status": "image_matched"
+      "text": "Albuquerque, New Mexico",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 79,
-      "text": "possi-",
+      "text": "E to W",
       "status": "image_matched"
     },
     {
       "lineNumber": 80,
-      "text": "bly lt.",
-      "status": "image_matched"
+      "text": "Curved des-cent approaching vertical",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 81,
-      "text": "green",
-      "status": "image_matched"
+      "text": "Green-ish white",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 82,
@@ -432,545 +421,196 @@
     },
     {
       "lineNumber": 83,
-      "text": "4",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 84,
-      "text": "secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 85,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 86,
-      "text": "Circu-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 87,
-      "text": "lar",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 88,
-      "text": "3 times the",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 89,
-      "text": "size of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 90,
-      "text": "Jupiter or",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 91,
-      "text": "Venus",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 92,
-      "text": "50 per",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 93,
-      "text": "sec.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 94,
-      "text": "Abrupt",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 95,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 96,
-      "text": "125",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 97,
-      "text": "6 Oct",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 98,
-      "text": "1800",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 99,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 100,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 101,
-      "text": "Alamogordo,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 102,
-      "text": "New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 103,
-      "text": "Green",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 104,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 105,
-      "text": "5",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 106,
-      "text": "secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 107,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 108,
-      "text": "Round",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 109,
-      "text": "Size of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 110,
-      "text": "baseball at",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 111,
-      "text": "arm's len-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 112,
-      "text": "gth",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 113,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 114,
-      "text": "126",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 115,
-      "text": "6 Oct",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 116,
-      "text": "1730",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 117,
-      "text": "1",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 118,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 119,
-      "text": "Albuquerque,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 120,
-      "text": "New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 121,
-      "text": "E to W",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 122,
-      "text": "Curved des-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 123,
-      "text": "cent ap-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 124,
-      "text": "proaching",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 125,
-      "text": "vertical",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 126,
-      "text": "Green-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 127,
-      "text": "ish",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 128,
-      "text": "white",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 129,
-      "text": "None",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 130,
       "text": "1 sec",
       "status": "image_matched"
     },
     {
-      "lineNumber": 131,
+      "lineNumber": 84,
       "text": "None",
       "status": "image_matched"
     },
     {
-      "lineNumber": 132,
-      "text": "Similar",
-      "status": "image_matched"
+      "lineNumber": 85,
+      "text": "Simi-lar to flare",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 133,
-      "text": "to",
-      "status": "image_matched"
+      "lineNumber": 86,
+      "text": "½ size of thumb at arm's length",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 134,
-      "text": "very",
-      "status": "image_matched"
+      "lineNumber": 87,
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 135,
-      "text": "flare",
-      "status": "image_matched"
+      "lineNumber": 88,
+      "status": "blank"
     },
     {
-      "lineNumber": 136,
-      "text": "Size of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 137,
-      "text": "thumb at",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 138,
-      "text": "arm's len-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 139,
-      "text": "gth",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 140,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 141,
+      "lineNumber": 89,
       "text": "127",
       "status": "image_matched"
     },
     {
-      "lineNumber": 142,
+      "lineNumber": 90,
       "text": "6 Oct",
       "status": "image_matched"
     },
     {
-      "lineNumber": 143,
-      "text": "1750",
-      "status": "image_matched"
+      "lineNumber": 91,
+      "text": "1750 I",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 144,
+      "lineNumber": 92,
       "text": "1",
       "status": "image_matched"
     },
     {
-      "lineNumber": 145,
-      "text": "65",
-      "status": "image_matched"
+      "lineNumber": 93,
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 146,
-      "text": "Maron, New",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 94,
+      "text": "Kirtland, New Mexico",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 147,
-      "text": "Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 148,
+      "lineNumber": 95,
       "text": "E to W",
       "status": "image_matched"
     },
     {
-      "lineNumber": 149,
+      "lineNumber": 96,
       "text": "Horizontal",
       "status": "image_matched"
     },
     {
-      "lineNumber": 150,
-      "text": "Green-",
-      "status": "image_matched"
+      "lineNumber": 97,
+      "text": "Green-ish white",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 151,
-      "text": "ish",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 152,
-      "text": "white",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 153,
+      "lineNumber": 98,
       "text": "None",
       "status": "image_matched"
     },
     {
-      "lineNumber": 154,
-      "text": "3 - 4",
-      "status": "image_matched"
+      "lineNumber": 99,
+      "text": "3 - 4 secs",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 155,
-      "text": "secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 156,
+      "lineNumber": 100,
       "text": "None",
       "status": "image_matched"
     },
     {
-      "lineNumber": 157,
+      "lineNumber": 101,
       "text": "Round",
       "status": "image_matched"
     },
     {
-      "lineNumber": 158,
-      "text": "1 1/2\" -",
-      "status": "image_matched"
+      "lineNumber": 102,
+      "text": "1½\" - 2\" in diame-ter",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 159,
-      "text": "2\" in",
-      "status": "image_matched"
+      "lineNumber": 103,
+      "text": "App. that of meteor",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 160,
-      "text": "diame-",
-      "status": "image_matched"
+      "lineNumber": 104,
+      "text": "Went out like an elec-tric light",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 161,
-      "text": "ter",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 105,
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 162,
-      "text": "App. 200",
-      "status": "image_matched"
+      "lineNumber": 106,
+      "status": "blank"
     },
     {
-      "lineNumber": 163,
-      "text": "mph",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 164,
-      "text": "Went out like",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 165,
-      "text": "electric light",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 166,
-      "text": "65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 167,
+      "lineNumber": 107,
       "text": "128",
       "status": "image_matched"
     },
     {
-      "lineNumber": 168,
+      "lineNumber": 108,
       "text": "6 Oct",
       "status": "image_matched"
     },
     {
-      "lineNumber": 169,
-      "text": "1753",
-      "status": "image_matched"
+      "lineNumber": 109,
+      "text": "1753 I",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 170,
+      "lineNumber": 110,
       "text": "1",
       "status": "image_matched"
     },
     {
-      "lineNumber": 171,
-      "text": "65",
-      "status": "image_matched"
+      "lineNumber": 111,
+      "text": "b5",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 172,
-      "text": "Albuquerque,",
-      "status": "image_matched"
+      "lineNumber": 112,
+      "text": "Albuquerque, New Mexico",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 173,
-      "text": "New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 174,
+      "lineNumber": 113,
       "text": "NE to SW",
       "status": "image_matched"
     },
     {
-      "lineNumber": 175,
-      "text": "At tail end",
-      "status": "image_matched"
+      "lineNumber": 114,
+      "text": "At tail end of its course it arched over and fell",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 176,
-      "text": "of its",
-      "status": "image_matched"
+      "lineNumber": 115,
+      "text": "Brilli-ant green",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 177,
-      "text": "course it",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 178,
-      "text": "arched over",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 179,
-      "text": "Brilli-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 180,
-      "text": "ant",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 181,
-      "text": "green",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 182,
+      "lineNumber": 116,
       "text": "None",
       "status": "image_matched"
     },
     {
-      "lineNumber": 183,
-      "text": "10",
-      "status": "image_matched"
+      "lineNumber": 117,
+      "text": "10 secs",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 184,
-      "text": "secs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 185,
+      "lineNumber": 118,
       "text": "None",
       "status": "image_matched"
     },
     {
-      "lineNumber": 186,
-      "text": "Tear",
-      "status": "image_matched"
+      "lineNumber": 119,
+      "text": "Tear drop",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 187,
-      "text": "drop",
-      "status": "image_matched"
+      "lineNumber": 120,
+      "text": "Seemed to burn out",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 188,
-      "text": "Seemed to",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 189,
-      "text": "burn out",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 190,
-      "text": "65",
-      "status": "image_matched"
+      "lineNumber": 121,
+      "text": "b5",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

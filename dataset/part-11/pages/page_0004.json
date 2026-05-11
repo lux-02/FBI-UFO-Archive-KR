@@ -8,16 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 46 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0004-l0002",
-    "page_0004-l0003",
-    "page_0004-l0057"
-  ],
-  "lineCount": 57,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 58,
   "lines": [
     {
       "lineNumber": 1,
@@ -27,14 +23,12 @@
     {
       "lineNumber": 2,
       "text": "Subj: Summary of Observations of Aerial Phenomena in",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
       "text": "the New Mex: Area, December 1948 - May 1950",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -232,72 +226,76 @@
     },
     {
       "lineNumber": 44,
+      "text": "[Signature]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 45,
       "text": "DOYLE REES",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 46,
       "text": "Lt Colonel, USAF",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 47,
       "text": "District Commander",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 48,
       "status": "blank"
     },
     {
-      "lineNumber": 48,
+      "lineNumber": 49,
       "text": "4 Incls",
       "status": "image_matched"
     },
     {
-      "lineNumber": 49,
+      "lineNumber": 50,
       "text": "1. Summary of Sightings",
       "status": "image_matched"
     },
     {
-      "lineNumber": 50,
+      "lineNumber": 51,
       "text": "2. Photo of Sighting No. 175",
       "status": "image_matched"
     },
     {
-      "lineNumber": 51,
+      "lineNumber": 52,
       "text": "w/comments",
       "status": "image_matched"
     },
     {
-      "lineNumber": 52,
+      "lineNumber": 53,
       "text": "3. Ltr fr Dr. LaPaz to Lt Col",
       "status": "image_matched"
     },
     {
-      "lineNumber": 53,
+      "lineNumber": 54,
       "text": "Rees, dtd 23 May 50",
       "status": "image_matched"
     },
     {
-      "lineNumber": 54,
+      "lineNumber": 55,
       "text": "4. Graph indicating maximums",
       "status": "image_matched"
     },
     {
-      "lineNumber": 55,
+      "lineNumber": 56,
       "status": "blank"
     },
     {
-      "lineNumber": 56,
-      "text": "2",
-      "status": "image_matched"
+      "lineNumber": 57,
+      "text": "- 2 -",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 57,
-      "text": "[unclear]NTIAL",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 58,
+      "text": "[unclear]NITAL",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

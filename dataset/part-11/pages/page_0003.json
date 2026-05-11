@@ -8,34 +8,22 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "9 permanent_unresolved line(s) excluded under SRC-896. 39 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0003-l0001",
-    "page_0003-l0002",
-    "page_0003-l0004",
-    "page_0003-l0005",
-    "page_0003-l0006",
-    "page_0003-l0055",
-    "page_0003-l0057",
-    "page_0003-l0061",
-    "page_0003-l0063"
-  ],
-  "lineCount": 63,
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 31,
   "lines": [
     {
       "lineNumber": 1,
       "text": "HEADQUARTERS UNITED STATES AIR FORCE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
       "text": "WASHINGTON",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -44,20 +32,17 @@
     {
       "lineNumber": 4,
       "text": "THE INSPECTOR GENERAL USAF",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
       "text": "17TH DISTRICT OFFICE OF SPECIAL INVESTIGATIONS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
       "text": "KIRTLAND AIR FORCE BASE, NEW MEXICO",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
@@ -79,260 +64,102 @@
     },
     {
       "lineNumber": 11,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 12,
       "text": "25 May 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 12,
       "status": "blank"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 13,
       "text": "SUBJECT: Summary of Observations of Aerial Phenomena in the New",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 14,
       "text": "Mexico Area, December 1948 - May 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "status": "blank"
+    },
+    {
+      "lineNumber": 16,
+      "text": "TO: Brigadier General Joseph F. Carroll",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "text": "TO:",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 19,
-      "text": "Brigadier General Joseph F. Carroll",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
       "text": "Director of Special Investigations",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 18,
       "text": "Headquarters USAF",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 19,
       "text": "Washington 25, D. C.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 20,
       "status": "blank"
+    },
+    {
+      "lineNumber": 21,
+      "text": "1. In a liaison meeting with other military and government intelligence and investigative agencies in December 1948, it was determined that the frequency of unexplained aerial phenomena in the New Mexico area was such that an organized plan of reporting these observations should be undertaken. The organization and physical location of units of this District were most suitable for collecting these data, therefore, since December 1948, this District has assumed the responsibility for collecting and reporting basic information with respect to aerial phenomena occurring in this general area. These reports have been distributed to the Air Materiel Command, USAF, in accordance with Air Intelligence Requirements No. 4, and to other interested military and government agencies.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
+      "text": "2. There is attached, as a part of this summary, a compilation of aerial phenomena sightings that have occurred mostly in the New Mexico area and have been reported by this District Office subsequent to December 1948. This compilation of sightings is not a complete record of all reported observations, but includes only those in which sufficient information was available to justify their inclusion. The observers of these phenomena include scientists, Special Agents of the Office of Special Investigations (IG) USAF, airline pilots, military pilots, Los Alamos Security Inspectors, military personnel, and many other persons of various occupations whose reliability is not questioned. This compilation sets forth the most important characteristics with respect to each observation and evaluates each sighting into one of three classifications, (1) green fireball phenomenon, (2) disc or variation, and (3) probably meteoric.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
-      "text": "1. In a liaison meeting with other military and government intel-",
-      "status": "image_matched"
+      "text": "62-13894-7555",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
-      "text": "ligence and investigative agencies in December 1948, it was determined",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 26,
-      "text": "that the frequency of unexplained aerial phenomena in the New Mexico area",
-      "status": "image_matched"
+      "text": "3. There is also attached an analysis of the green fireball occurrences in this area made by Dr. Lincoln LaPaz. Dr. LaPaz is the [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 27,
-      "text": "was such that an organized plan of reporting these observations should be",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 28,
-      "text": "undertaken. The organization and physical location of units of this Dis-",
-      "status": "image_matched"
+      "text": "[unclear] 28 1950",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 29,
-      "text": "trict were most suitable for collecting these data, therefore, since",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 30,
-      "text": "December 1948, this District has assumed the responsibility for collect-",
-      "status": "image_matched"
+      "text": "[unclear]TIAL",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 31,
-      "text": "ing and reporting basic information with respect to aerial phenomena",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "text": "occurring in this general area. These reports have been distributed to",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
-      "text": "the Air Material Command, USAF, in accordance with Air Intelligence",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 34,
-      "text": "Requirements No. 4, and to other interested military and government",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 35,
-      "text": "agencies.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 36,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 37,
-      "text": "2. There is attached, as a part of this summary, a compilation of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 38,
-      "text": "aerial phenomena sightings that have occurred mostly in the New Mexico",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 39,
-      "text": "area and have been reported by this District Office subsequent to",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "December 1948. This compilation of sightings is not a complete record",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
-      "text": "of all reported observations, but includes only those in which sufficient",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "text": "information was available to justify their inclusion. The observers of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "those phenomena include scientists, Special Agents of the Office of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "text": "Special Investigations (IG) USAF, airline pilots, military pilots, Los",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
-      "text": "Alamos Security Inspectors, military personnel, and many other persons",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
-      "text": "of various occupations whose reliability is not questioned. This com-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 47,
-      "text": "pilation sets forth the most important characteristics with respect to",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "text": "each observation and evaluates each sighting into one of three classi fi-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 49,
-      "text": "cations, (1) green fireball phenomenon, (2) disc or variation, and (3)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 50,
-      "text": "probably meteoric.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 51,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 52,
-      "text": "3. There is also attached an analysis of the green fireball",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 53,
-      "text": "occurrences in this area made by Dr. Lincoln LaPaz. Dr. LaPaz is the",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 54,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 55,
-      "text": "[unclear] 28 1950",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 56,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 57,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 58,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 59,
-      "text": "62-13894-7550",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 60,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 61,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 62,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 63,
-      "text": "bre",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

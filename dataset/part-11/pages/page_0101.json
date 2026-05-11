@@ -8,33 +8,12 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "20 permanent_unresolved line(s) excluded under SRC-896. 18 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0101-l0002",
-    "page_0101-l0008",
-    "page_0101-l0012",
-    "page_0101-l0014",
-    "page_0101-l0015",
-    "page_0101-l0016",
-    "page_0101-l0017",
-    "page_0101-l0019",
-    "page_0101-l0020",
-    "page_0101-l0021",
-    "page_0101-l0022",
-    "page_0101-l0025",
-    "page_0101-l0028",
-    "page_0101-l0029",
-    "page_0101-l0033",
-    "page_0101-l0034",
-    "page_0101-l0038",
-    "page_0101-l0045",
-    "page_0101-l0046",
-    "page_0101-l0048"
-  ],
-  "lineCount": 48,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 47,
   "lines": [
     {
       "lineNumber": 1,
@@ -44,8 +23,7 @@
     {
       "lineNumber": 2,
       "text": "Office Memorandum • UNITED STATES GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -53,238 +31,214 @@
     },
     {
       "lineNumber": 4,
-      "text": "TO : DIRECTOR, FBI DATE: July 15, 1953",
-      "status": "image_matched"
+      "text": "TO : DIRECTOR, FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "status": "blank"
+      "text": "DATE: July 15, 1953",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
       "text": "FROM : SAC, CINCINNATI (105-0)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "status": "blank"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "SUBJECT: MR. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "Mackinac Island, Michigan",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "RESEARCH - CRIME RECORDS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
-      "status": "blank"
-    },
-    {
       "lineNumber": 12,
-      "text": "ReBulet dated 7-9-53.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 13,
-      "status": "blank"
+      "text": "ReBulet dated 7-9-53.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "[REDACTED] Circleville, Pickaway County,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 15,
-      "text": "Ohio, advised [REDACTED] is cognizant of a \"flying saucer\" report made by Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED], Circleville, Pickaway County,",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 16,
-      "text": "[REDACTED] Circleville, Ohio. According to [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Ohio, advised he is cognizant of a \"flying saucer\" report made by Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
-      "text": "Mr. [REDACTED] reported that a saucer-shaped object had landed on his farm",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] Circleville, Ohio. According to [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
+      "text": "Mr. [REDACTED] reported that a saucer-shaped object had landed on his farm",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 19,
       "text": "some time ago, and this report eventually reached local newspapers. In",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
-      "text": "June, 1953, an individual discussed the matter with Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 20,
-      "text": "[REDACTED] advised that this person did not, to his knowledge, represent",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "June, 1953, an individual discussed the matter with Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,
-      "text": "himself to be an FBI Agent. The [REDACTED] further declared that he has known",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] advised that this person did not, to his knowledge, represent",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
-      "text": "[REDACTED] all his life and that he is a prosperous, well-respected",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "himself to be an FBI Agent. The [REDACTED] further declared that he has known",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 23,
+      "text": "[REDACTED] all his life and that he is a prosperous, well-respected",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 24,
       "text": "local farmer, who is considered trustworthy.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
       "status": "blank"
     },
     {
-      "lineNumber": 25,
-      "text": "Mr. [REDACTED] was interviewed 7-14-53",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 26,
+      "text": "Mr. [REDACTED], [REDACTED] was interviewed 7-14-53",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 27,
       "text": "at which time he stated that shortly after he received some publicity regard-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 28,
       "text": "ing his report of sighting a saucer-shaped object, he was visited by one",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
-      "text": "[REDACTED] who gave his address as [REDACTED] Tri-Village",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 29,
-      "text": "Station, Columbus, Ohio. According to Mr. [REDACTED] told him he was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED], who gave his address as [REDACTED] Tri-Village",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 30,
+      "text": "Station, Columbus, Ohio. According to Mr. [REDACTED] [REDACTED] told him he was",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 31,
       "text": "a salesman of television antennas, and that for over six years he had",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 32,
       "text": "been pursuing the hobby of investigating \"flying saucer\" reports. He",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 33,
       "text": "emphasized that he had no official connection with any part of the Govern-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
-      "text": "ment, but stated that he had once been \"checked\" by the FBI. Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 34,
-      "text": "declared that [REDACTED] showed him pictures of \"flying saucers\" and told him he",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "ment, but stated that he had once been \"checked\" by the FBI. Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 35,
+      "text": "declared that [REDACTED] showed him pictures of \"flying saucers\" and told him he",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 36,
       "text": "was writing a book on the subject, which would be published soon.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 37,
       "status": "blank"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 38,
       "text": "A search of the Cincinnati indices revealed no information",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
-      "text": "identifiable with either [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 39,
-      "status": "blank"
+      "text": "identifiable with either [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 40,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 41,
       "text": "DOE:VD",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
-      "status": "blank"
-    },
-    {
       "lineNumber": 42,
-      "text": "AM:D",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 43,
-      "status": "blank"
+      "text": "AMED",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 44,
-      "text": "RECORDS",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 45,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "RECORDED - 42",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 46,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "62-83894-335",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 47,
-      "text": "83 894-335",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "INDEXED - 5",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

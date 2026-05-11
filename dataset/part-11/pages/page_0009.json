@@ -8,38 +8,27 @@
     "sha256": "33ebbb1824507dd319b4f668003dfd4bf9aebd5b80c894f2eb466e2c25477c4b"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 17 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0009-l0001",
-    "page_0009-l0002",
-    "page_0009-l0003",
-    "page_0009-l0028",
-    "page_0009-l0029",
-    "page_0009-l0031",
-    "page_0009-l0034"
-  ],
-  "lineCount": 34,
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 49,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "X REPLT OF UNIDENTIFIED AERIAL OBJECTS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "X REPORT OF UNIDENTIFIED AERIAL OBJECTS",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "U.S. TOMIC ENERGY SECURITY SERVICE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "U.S ATOMIC ENERGY SECURITY SERVICE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
       "text": "LOS ALAMOS, NEW MEXICO",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -52,143 +41,213 @@
     },
     {
       "lineNumber": 6,
-      "text": "(Day) (Month) 195_",
-      "status": "image_matched"
+      "text": "(Day)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "status": "blank"
+      "text": "(Month)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
+      "text": "195_",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
       "text": "1. Name of Observer",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
-      "text": "Last First M.I.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
-      "text": "Station assigned Section",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 11,
-      "text": "Home Address Telephone",
-      "status": "image_matched"
+      "text": "Last",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
+      "text": "First",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
+      "text": "M.I.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Station assigned",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Section",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Home Address",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Telephone",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 18,
       "text": "Names of other known observers",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 19,
       "status": "blank"
     },
     {
-      "lineNumber": 14,
-      "text": "2. Time and date of sighting hours",
-      "status": "image_matched"
+      "lineNumber": 20,
+      "text": "2. Time and date of sighting",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 15,
-      "text": "Day Month 195_",
-      "status": "image_matched"
+      "lineNumber": 21,
+      "text": "hours",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 22,
+      "text": "Day",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 23,
+      "text": "Month",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 24,
+      "text": "195_",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 25,
       "status": "blank"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 26,
       "text": "3. Point of observation",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 27,
       "status": "blank"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 28,
       "text": "4. Direction of object from observer",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 29,
       "status": "blank"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 30,
       "text": "5. Distance of object from observer",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 31,
       "status": "blank"
     },
     {
-      "lineNumber": 23,
-      "text": "6. Angle of elevation from horizon degrees",
-      "status": "image_matched"
+      "lineNumber": 32,
+      "text": "6. Angle of elevation from horizon",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 33,
+      "text": "degrees",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 34,
       "status": "blank"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 35,
       "text": "7. Direction of flight of object",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 36,
       "status": "blank"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 37,
       "text": "8. Time in sight",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
-      "text": "9. Number of objects INDEXED - 17 257",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 38,
+      "text": "9. Number of objects",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 29,
-      "text": "NO: RECORDED",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 39,
+      "text": "INDEXED - 17",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 40,
+      "text": "[unclear] 714",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 41,
+      "text": "NOT RECORDED",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
       "text": "10. Shape of object",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
-      "text": "EX - 68 8 OCT 23 1950",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 43,
+      "text": "EX. - 68",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 44,
+      "text": "6 OCT 23 1950",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 45,
       "text": "11. Projections and/or indentations",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 46,
       "status": "blank"
     },
     {
-      "lineNumber": 34,
-      "text": "5 J.A.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 47,
+      "text": "5 [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 48,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 49,
+      "text": "257",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null
