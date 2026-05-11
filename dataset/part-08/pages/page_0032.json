@@ -8,16 +8,12 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 17 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0032-l0015",
-    "page_0032-l0025",
-    "page_0032-l0027"
-  ],
-  "lineCount": 34,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 27,
   "lines": [
     {
       "lineNumber": 1,
@@ -49,64 +45,64 @@
     },
     {
       "lineNumber": 7,
-      "text": "Nr:",
-      "status": "image_matched"
+      "text": "Nr: AJACI 1-2",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 9,
-      "text": "AJACI 1-2",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 11,
       "text": "Page 2",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 9,
       "status": "blank"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 10,
       "text": "3. Third Army has no radar operators.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 11,
       "status": "blank"
     },
     {
-      "lineNumber": 15,
-      "text": "4. Inquiry of Lt Col Hunsaker revealed that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 12,
+      "text": "4. Inquiry of Lt Col Hunamaker revealed that",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 13,
       "text": "Chief Security Div Oak Ridge is anxious to get qualified",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 14,
       "text": "personnel check on the performance of the radar.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 15,
       "status": "blank"
     },
     {
-      "lineNumber": 19,
-      "text": "ACTION:",
+      "lineNumber": 16,
+      "text": "ACTION: G-2",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 17,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 18,
+      "text": "CM IN 12036",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "(3 Mar 50) DTG: 022030Z mlr/c",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
@@ -114,67 +110,34 @@
     },
     {
       "lineNumber": 21,
-      "text": "G-2",
-      "status": "image_matched"
+      "text": "A SCO FORM 22-3",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 23,
-      "text": "CM IN 12036",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 25,
-      "text": "(3 Mar 50) DTO: 022030Z mlr/c",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 26,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 27,
-      "text": "A SCO FORM 22-3",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 28,
       "text": "5 JAN 1948",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 23,
       "status": "blank"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 24,
       "text": "CONFIDENTIAL",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 25,
       "status": "blank"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 26,
       "text": "COPY NO.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 34,
+      "lineNumber": 27,
       "text": "U. S. GOVERNMENT PRINTING OFFICE: 1943-O-530430",
       "status": "image_matched"
     }

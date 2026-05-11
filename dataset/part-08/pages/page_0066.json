@@ -8,19 +8,12 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 25 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0066-l0009",
-    "page_0066-l0014",
-    "page_0066-l0015",
-    "page_0066-l0019",
-    "page_0066-l0026",
-    "page_0066-l0027"
-  ],
-  "lineCount": 41,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 42,
   "lines": [
     {
       "lineNumber": 1,
@@ -65,8 +58,7 @@
     {
       "lineNumber": 9,
       "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 10,
@@ -75,8 +67,8 @@
     },
     {
       "lineNumber": 11,
-      "text": "Mr. Neese",
-      "status": "image_matched"
+      "text": "Mr. Nease",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
@@ -90,14 +82,12 @@
     {
       "lineNumber": 14,
       "text": "FEDERAL BUREAU OF INVESTIGATION",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
-      "text": "U. S. DEPARTMENT OF JUSTICE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "U.S. DEPARTMENT OF JUSTICE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
@@ -115,9 +105,8 @@
     },
     {
       "lineNumber": 19,
-      "text": "TELEME TER",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "TELEMETER",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
@@ -149,27 +138,24 @@
     {
       "lineNumber": 26,
       "text": "[REDACTED] INFO. CONCERNING. REURTEL JULY EIGHTEEN.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 27,
-      "text": "EFFORTS TO IDENTIFY OR LOCATE [REDACTED] NEGATIVE.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 28,
       "status": "blank"
     },
     {
+      "lineNumber": 28,
+      "text": "EFFORTS TO IDENTIFY OR LOCATE [REDACTED] NEGATIVE.",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 29,
-      "text": "HOOD",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 30,
-      "text": "ACK PLS",
+      "text": "HOOD",
       "status": "image_matched"
     },
     {
@@ -178,40 +164,40 @@
     },
     {
       "lineNumber": 32,
-      "text": "RECORDED - 77",
+      "text": "ACK PLS",
       "status": "image_matched"
     },
     {
       "lineNumber": 33,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 34,
+      "text": "RECORDED - 77",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
       "text": "INDEXED - 77",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 36,
       "status": "blank"
     },
     {
-      "lineNumber": 35,
-      "text": "162-8391-196",
-      "status": "image_matched"
+      "lineNumber": 37,
+      "text": "62-83591-196",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 38,
       "text": "F B I",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
-      "text": "3 JUL 21 1949",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 38,
-      "status": "blank"
-    },
-    {
       "lineNumber": 39,
-      "text": "EX-1",
+      "text": "3 JUL 21 1949",
       "status": "image_matched"
     },
     {
@@ -221,6 +207,11 @@
     {
       "lineNumber": 41,
       "text": "AUG 23 1949",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 42,
+      "text": "EX-1",
       "status": "image_matched"
     }
   ],

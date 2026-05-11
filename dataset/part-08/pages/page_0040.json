@@ -8,15 +8,12 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 21 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0040-l0011",
-    "page_0040-l0013"
-  ],
-  "lineCount": 23,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 29,
   "lines": [
     {
       "lineNumber": 1,
@@ -35,104 +32,126 @@
     },
     {
       "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
       "text": "Possible",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
       "text": "Route of Saucers",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
       "text": "ALASKA",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
       "text": "The \"saucer\" base may",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
-      "text": "be further South or",
-      "status": "image_matched"
+      "lineNumber": 11,
+      "text": "be further south or",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 12,
       "text": "in such a location as to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 13,
       "text": "allow them in their",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
-      "text": "course to pass thru'",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 14,
+      "text": "course to pass thru",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 15,
       "text": "the Alaskan weather",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
-      "text": "currently, some where",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 16,
+      "text": "currents, some where",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 17,
       "text": "in their course between",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 18,
       "text": "Alaska and U.S.A.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 19,
       "text": "All:- Heavier is",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
-      "text": "Storm area",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "So on",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "text": "& all",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 20,
-      "text": "over",
-      "status": "image_matched"
+      "text": "storm area",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
-      "text": "U.S.A.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 22,
+      "text": "CANADA",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 23,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 24,
       "text": "By:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 25,
       "text": "Tulsa, Okla.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 27,
+      "text": "So on",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "text": "over all",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 29,
+      "text": "U.S.A.",
       "status": "image_matched"
     }
   ],

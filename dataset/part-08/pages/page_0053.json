@@ -8,52 +8,40 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 24 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0053-l0005",
-    "page_0053-l0008",
-    "page_0053-l0010",
-    "page_0053-l0013",
-    "page_0053-l0019",
-    "page_0053-l0035",
-    "page_0053-l0038",
-    "page_0053-l0040"
-  ],
-  "lineCount": 40,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 38,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "STANDARD FORM NO. 64",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 2,
       "text": "Office Memorandum • UNITED STATES GOVERNMENT",
       "status": "image_matched"
     },
     {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
       "lineNumber": 3,
-      "text": "TO : DIRECTOR, FBI DATE: October 2, 1949",
-      "status": "image_matched"
+      "text": "TO : DIRECTOR, FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "FROM SAC, Pittsburgh",
-      "status": "image_matched"
+      "text": "DATE: October 2, 1949",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "SUBJECT: [REDACTED] Informant",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
-      "text": "FLYING DISCS, MISCELLANEOUS",
-      "status": "image_matched"
+      "text": "FROM : SAC, Pittsburgh",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
@@ -61,94 +49,90 @@
     },
     {
       "lineNumber": 8,
-      "text": "On September 26, 1949, [REDACTED], S. Charleston,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "SUBJECT: [REDACTED] Informant",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
-      "text": "West Virginia, appeared at the Charleston, West Virginia, resident agency and",
-      "status": "image_matched"
+      "text": "OFLYING DISCS, MISCELLANEOUS",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "gave to Special Agent [REDACTED] the attached letter. Mr. [REDACTED] stated",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 11,
+      "text": "On September 26, 1949, [REDACTED], S. Charleston,",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 12,
+      "text": "West Virginia, appeared at the Charleston, West Virginia resident agency and",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
+      "text": "gave to Special Agent [REDACTED] the attached letter. Mr. [REDACTED] stated",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 14,
       "text": "that he had written the letter following a pleasure flight from Clark Field,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 15,
       "text": "St. Albans, West Virginia, to Parkersburg, West Virginia, on September 25,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 16,
       "text": "1949. Mr. [REDACTED] stated that after writing the letter, he did not know",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 17,
       "text": "whether it would be of any interest to the FBI and decided that instead of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 18,
       "text": "mailing it directly to the Bureau at Washington, he would contact the local",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 19,
       "text": "agent and turn it over to him if it were thought it would be of interest to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 20,
       "text": "the Bureau.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 21,
       "status": "blank"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 22,
       "text": "Mr. [REDACTED] stated that he has set out the complete details of this",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 23,
       "text": "incident in his letter and that there is nothing further that he can add. He",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 24,
       "text": "further stated that he is certain this was not a mirage and that it actually",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
-      "text": "occurred.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 24,
-      "text": "No further action is being taken by this office unless specified to",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 25,
-      "text": "do so by the Bureau.",
+      "text": "occurred.",
       "status": "image_matched"
     },
     {
@@ -157,36 +141,35 @@
     },
     {
       "lineNumber": 27,
-      "text": "ENCL",
+      "text": "No further action is being taken by this office unless specified to",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "text": "JBW/jw",
+      "text": "do so by the Bureau.",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "62-0",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
       "status": "blank"
     },
     {
-      "lineNumber": 31,
-      "text": "RECORDED 87 162 83894-202",
+      "lineNumber": 30,
+      "text": "ENCL",
       "status": "image_matched"
     },
     {
+      "lineNumber": 31,
+      "status": "blank"
+    },
+    {
       "lineNumber": 32,
-      "text": "INDEXED - 87 13 OCT 25 .949",
+      "text": "JBW/jw",
       "status": "image_matched"
     },
     {
       "lineNumber": 33,
-      "text": "EX-119",
+      "text": "62-0",
       "status": "image_matched"
     },
     {
@@ -195,34 +178,22 @@
     },
     {
       "lineNumber": 35,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 36,
-      "text": "10-24-49",
+      "text": "EX-119",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 36,
       "status": "blank"
+    },
+    {
+      "lineNumber": 37,
+      "text": "RECORDED 87 62 83894-202",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 38,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 39,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 40,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "INDEXED - 87 13 OCT 25 1949",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

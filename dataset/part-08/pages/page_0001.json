@@ -8,17 +8,12 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 25 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0001-l0008",
-    "page_0001-l0010",
-    "page_0001-l0019",
-    "page_0001-l0039"
-  ],
-  "lineCount": 48,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 35,
   "lines": [
     {
       "lineNumber": 1,
@@ -55,9 +50,8 @@
     },
     {
       "lineNumber": 8,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Flying Saucers",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
@@ -65,42 +59,41 @@
     },
     {
       "lineNumber": 10,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 11,
       "text": "Geneva, Illinois",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "status": "blank"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 12,
       "text": "Enclosed is a copy of a communication dated",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 13,
       "text": "April 4, 1950, from the captioned individual, which is",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 14,
       "text": "furnished to you for any action deemed appropriate.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "status": "blank"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 16,
       "text": "Enclosure",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 18,
@@ -108,27 +101,28 @@
     },
     {
       "lineNumber": 19,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "RECORDED - 99",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 21,
       "text": "162-80894-224",
       "status": "image_matched"
     },
     {
+      "lineNumber": 21,
+      "text": "APR 13 1950",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 22,
-      "status": "blank"
+      "text": "80",
+      "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "RECORDED-99",
-      "status": "image_matched"
+      "text": "INDEXED - 99",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
@@ -136,7 +130,7 @@
     },
     {
       "lineNumber": 25,
-      "text": "APR 13 1950",
+      "text": "EX-136",
       "status": "image_matched"
     },
     {
@@ -145,16 +139,17 @@
     },
     {
       "lineNumber": 27,
-      "text": "80",
-      "status": "image_matched"
+      "text": "APR 11 [unclear] 19 PM '50",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 28,
-      "status": "blank"
+      "text": "RECEIVED RECORDING ROOM",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
-      "text": "INDEXED-99",
+      "text": "DEPT OF JUSTICE",
       "status": "image_matched"
     },
     {
@@ -163,17 +158,18 @@
     },
     {
       "lineNumber": 31,
-      "text": "EX-136",
-      "status": "image_matched"
+      "text": "MAILED - 17",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
-      "status": "blank"
+      "text": "APR 12 1950",
+      "status": "image_matched"
     },
     {
       "lineNumber": 33,
-      "text": "APR 12 1950",
-      "status": "image_matched"
+      "text": "COMM - FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 34,
@@ -181,67 +177,6 @@
     },
     {
       "lineNumber": 35,
-      "text": "RECEIVED READING ROOM",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 36,
-      "text": "APR 12 1950",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "text": "DEPT OF JUSTICE",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 38,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 39,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 40,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 41,
-      "text": "ROOM",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 43,
-      "text": "MAILROOM-17",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "text": "APR 12 1950",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 46,
-      "text": "COMM-FBI",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 47,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 48,
       "text": "58 MAY 9 1950",
       "status": "image_matched"
     }

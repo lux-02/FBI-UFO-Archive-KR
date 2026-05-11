@@ -8,170 +8,159 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "9 permanent_unresolved line(s) excluded under SRC-896. 44 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0002-l0002",
-    "page_0002-l0004",
-    "page_0002-l0033",
-    "page_0002-l0053",
-    "page_0002-l0064",
-    "page_0002-l0067",
-    "page_0002-l0069",
-    "page_0002-l0071",
-    "page_0002-l0073"
-  ],
-  "lineCount": 73,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 64,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "11-9",
-      "status": "image_matched"
+      "text": "[unclear] by [unclear] 4/8/50",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
-      "text": "memo by [unclear] 4/8/50",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 3,
       "status": "blank"
     },
     {
-      "lineNumber": 4,
-      "text": "[unclear] OF [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 3,
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 4,
       "text": "U. S. DEPARTMENT OF JUSTICE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 5,
       "text": "COMMUNICATIONS SECTION",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 6,
       "status": "blank"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 7,
       "text": "APR - 8 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 8,
       "status": "blank"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 9,
       "text": "TELETYPE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 10,
       "status": "blank"
     },
     {
+      "lineNumber": 11,
+      "text": "Mr. Ladd",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 12,
-      "text": "FBI, BUFFALO",
+      "text": "Mr. Clegg",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "DIRECTOR, FBI",
+      "text": "Mr. Glavin",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "FLYING SAUCER COMPLAINT.",
+      "text": "Mr. Nichols",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "status": "blank"
+      "text": "Mr. Rosen",
+      "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "4-8-50",
+      "text": "Mr. Tracy",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "URGENT",
+      "text": "Mr. Harbo",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "status": "blank"
+      "text": "Mr. [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 19,
-      "text": "12-52 PM",
-      "status": "image_matched"
+      "text": "Mr. Mohr",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "status": "blank"
+      "text": "Tele. Room",
+      "status": "image_matched"
     },
     {
       "lineNumber": 21,
-      "text": "THAT",
+      "text": "Mr. Nease",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "status": "blank"
+      "text": "Miss Gandy",
+      "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "FLYING SAUCER HAD LANDED NEAR ELMIRA, NY AIRPORT. RESIDENT AGENT AT",
-      "status": "image_matched"
+      "text": "LIM",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
-      "text": "ELMIRA ADVISES \"FLYING SAUCER\" WAS CORRUGATED CARDBOARD BOX, FORTY INS.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 25,
-      "text": "IN DIAMETER, ONE FOOT THICK AT CENTER. ENTIRE BOX PAINTED ALUMINUM.",
+      "text": "FBI, BUFFALO",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "CROSLEY RADIO TUBE ATTACHED TO CENTER OF BOX WITH LOOSE WIRES HANGING",
+      "text": "DIRECTOR, FBI",
       "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "FROM EACH SIDE OF TUBE, TRUCKER-S RED FLARE CONNECTED TO BOTTOM OF BOX,",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 28,
-      "text": "WHICH FLARE HAD SCORCHED GRASS AREA BENEATH BOX. NO WITNESSES AS TO",
+      "text": "4-8-50",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "ACTUAL FLIGHT AND BOX IS DESCRIBED AS TOO FRAGILE TO WITHSTAND FLIGHT.",
+      "text": "URGENT",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "BUREAU BEING ADVISED AS PRESS INQUIRIES HAVE BEEN RECEIVED AND ARE BEING",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 31,
-      "text": "ANSWERED ACCORDING TO THE ABOVE FACTS.",
+      "text": "12-52 PM",
       "status": "image_matched"
     },
     {
@@ -180,50 +169,52 @@
     },
     {
       "lineNumber": 33,
-      "text": "MAY NOR",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "FLYING SAUCER COMPLAINT. [REDACTED] THAT",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 34,
-      "status": "blank"
+      "text": "FLYING SAUCER HAD LANDED NEAR ELMIRA, NY AIRPORT. RESIDENT AGENT AT",
+      "status": "image_matched"
     },
     {
       "lineNumber": 35,
-      "text": "RECORDED - 6",
+      "text": "ELMIRA ADVISES \"FLYING SAUCER\" WAS CORRUGATED CARDBOARD BOX, FORTY INS.",
       "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "status": "blank"
+      "text": "IN DIAMETER, ONE FOOT THICK AT CENTER. ENTIRE BOX PAINTED ALUMINUM.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "text": "CORRECTION :",
+      "text": "CROSLEY RADIO TUBE ATTACHED TO CENTER OF BOX WITH LOOSE WIRES HANGING",
       "status": "image_matched"
     },
     {
       "lineNumber": 38,
-      "text": "FIFTH LINE FORTH WORD SHOULD BE \"ATTACHED\"",
+      "text": "FROM EACH SIDE OF TUBE, TRUCKER-S RED FLARE CONNECTED TO BOTTOM OF BOX,",
       "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "text": "S",
+      "text": "WHICH FLARE HAD SCORCHED GRASS AREA BENEATH BOX. NO WITNESSES AS TO",
       "status": "image_matched"
     },
     {
       "lineNumber": 40,
-      "status": "blank"
+      "text": "ACTUAL FLIGHT AND BOX IS DESCRIBED AS TOO FRAGILE TO WITHSTAND FLIGHT.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 41,
-      "text": "12-55 PM OK FBI WA LIR",
+      "text": "BUREAU BEING ADVISED AS PRESS INQUIRIES HAVE BEEN RECEIVED AND ARE BEING",
       "status": "image_matched"
     },
     {
       "lineNumber": 42,
-      "text": "V",
+      "text": "ANSWERED ACCORDING TO THE ABOVE FACTS.",
       "status": "image_matched"
     },
     {
@@ -232,8 +223,8 @@
     },
     {
       "lineNumber": 44,
-      "text": "65 APR 26 1950",
-      "status": "image_matched"
+      "text": "MAYNOR",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 45,
@@ -241,88 +232,84 @@
     },
     {
       "lineNumber": 46,
-      "text": "Mr. Ladd",
+      "text": "RECORDED - 6",
       "status": "image_matched"
     },
     {
       "lineNumber": 47,
-      "text": "Mr. Clegg",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "text": "Mr. Glavin",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 49,
-      "text": "Mr. Nichols",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 50,
-      "text": "Mr. Rosen",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 51,
-      "text": "Mr. Tracy",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 52,
-      "text": "Mr. Harbo",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 53,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 54,
-      "text": "Mr. Mehr",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 55,
-      "text": "Tele. Room",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 56,
-      "text": "Mr. Nease",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 57,
-      "text": "Miss Gandy",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 58,
-      "text": "LTM",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 59,
       "status": "blank"
     },
     {
-      "lineNumber": 60,
+      "lineNumber": 48,
       "text": "162-83894-223",
       "status": "image_matched"
     },
     {
-      "lineNumber": 61,
+      "lineNumber": 49,
       "text": "APR 19 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 62,
+      "lineNumber": 50,
       "text": "37",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 52,
+      "text": "CORRECTION:",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
+      "text": "FIFTH LINE FORTH WORD SHOULD BE \"ATTACHED\"",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 54,
+      "text": "S",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 55,
+      "text": "\"",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 56,
+      "text": "12-55 PM OK FBI WA LIR",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 57,
+      "text": "V",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 58,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 59,
+      "text": "cc [unclear] Belmont",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 60,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 61,
+      "text": "5-[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 62,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 63,
@@ -330,54 +317,8 @@
     },
     {
       "lineNumber": 64,
-      "text": "cc [unclear] Belmont",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 65,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 66,
-      "text": "5-Ettin",
+      "text": "65 APR 26 1950",
       "status": "image_matched"
-    },
-    {
-      "lineNumber": 67,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 68,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 69,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 70,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 71,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 72,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 73,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
     }
   ],
   "blockCount": null

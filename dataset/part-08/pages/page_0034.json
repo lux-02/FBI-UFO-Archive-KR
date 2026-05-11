@@ -8,127 +8,110 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0034-l0002",
-    "page_0034-l0007",
-    "page_0034-l0008",
-    "page_0034-l0009",
-    "page_0034-l0018",
-    "page_0034-l0023"
-  ],
-  "lineCount": 35,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 40,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "STANDARD FORM NO. 64",
-      "status": "image_matched"
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "TO : DIRECTOR, FBI DATE: March 22, 1950",
-      "status": "image_matched"
+      "text": "TO : DIRECTOR, FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
+      "text": "DATE: March 22, 1950",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "FROM : GUY HOTTEL, SAC, WASHINGTON",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
       "text": "SUBJECT: FLYING SAUCERS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 9,
       "text": "INFORMATION CONCERNING",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
-      "text": "Flying Saucers",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 8,
-      "text": "The following information was furnished to SA [REDACTED] by",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 9,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Flying Discs or Flying Saucers",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 12,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 13,
+      "text": "The following information was furnished to SA [REDACTED] by [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
       "text": "An investigator for the Air Forces stated that three so-called",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 16,
       "text": "flying saucers had been recovered in New Mexico. They were",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 17,
       "text": "described as being circular in shape with raised centers, approxi-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 18,
       "text": "mately 50 feet in diameter. Each one was occupied by three bodies",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 19,
       "text": "of human shape but only 3 feet tall, dressed in metallic cloth of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 20,
       "text": "a very fine texture. Each body was bandaged in a manner similar",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
-      "text": "to the blackout suits used by speed flyers and test pilots.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 17,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 18,
-      "text": "According to Mr. [REDACTED] informant, the saucers were found in New",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 19,
-      "text": "Mexico due to the fact that the Government has a very high-powered",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "text": "radar set-up in that area and it is believed the radar interferes",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 21,
-      "text": "with the controlling mechanism of the saucers.",
+      "text": "to the blackout suits used by speed flyers and test pilots.",
       "status": "image_matched"
     },
     {
@@ -137,22 +120,22 @@
     },
     {
       "lineNumber": 23,
-      "text": "No further evaluation was attempted by SA [REDACTED] concerning the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "According to Mr. [REDACTED] informant, the saucers were found in New",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 24,
-      "text": "above.",
+      "text": "Mexico due to the fact that the Government has a very high-powered",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "status": "blank"
+      "text": "radar set-up in that area and it is believed the radar interferes",
+      "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "RHK:VIM",
+      "text": "with the controlling mechanism of the saucers.",
       "status": "image_matched"
     },
     {
@@ -161,12 +144,12 @@
     },
     {
       "lineNumber": 28,
-      "text": "RECORDED-3",
-      "status": "image_matched"
+      "text": "No further evaluation was attempted by SA [REDACTED] concerning the",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
-      "text": "INDEXED-3",
+      "text": "above.",
       "status": "image_matched"
     },
     {
@@ -175,27 +158,50 @@
     },
     {
       "lineNumber": 31,
-      "text": "162-83894-209",
+      "text": "RHK:VIM",
       "status": "image_matched"
     },
     {
       "lineNumber": 32,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 33,
+      "text": "RECORDED - 3",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 34,
+      "text": "INDEXED - 3",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
+      "text": "62-83894-209",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
       "text": "MAR 28 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 38,
       "text": "34",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 39,
       "status": "blank"
     },
     {
-      "lineNumber": 35,
-      "text": "5 1 MAR 29 1950",
-      "status": "image_matched"
+      "lineNumber": 40,
+      "text": "51 MAR 29 1950",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

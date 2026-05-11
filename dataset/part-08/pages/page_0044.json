@@ -8,216 +8,228 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 35 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0044-l0001",
-    "page_0044-l0031",
-    "page_0044-l0032",
-    "page_0044-l0033"
-  ],
-  "lineCount": 39,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 44,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "ne. [unclear] a",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] Arizona",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
-      "text": "Feb 20 1950",
-      "status": "image_matched"
+      "text": "Feb 10 1950",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "Dear Sir.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 4,
+      "text": "Dear. Sir.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "I am writing you about the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "Flying Saucers and am enclosing",
-      "status": "image_matched"
+      "lineNumber": 7,
+      "text": "Flying Saucers and am inclosing",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 8,
       "text": "dates which I would like for you to have checked",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
-      "text": "with Flying Saucers Project. See if any were reported",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 8,
-      "text": "on on the dates shown below.",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 9,
-      "text": "Date Time Direction from My Home.",
-      "status": "image_matched"
+      "text": "with Flying Saucers Project. to see if any were reported",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
+      "text": "on on the dates down below. below.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Date time Direction from My Home.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
       "text": "Jan 25th 1950. 10:15 A.M. Southeast",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
-      "text": "\" \" 3:40 P.M. Southwest.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "\" \" 4:40 P.M.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "Jan 26th 1950 11:00 A.M. till 12:30 P.M South - or. east",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 14,
-      "text": "Jan 27th 1950 12:00 Noon. South",
-      "status": "image_matched"
+      "text": "3.40 P.M. Southwest",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
-      "text": "\" \" 1:40 P.M > 9:P.M South east",
-      "status": "image_matched"
+      "text": "4.40 P.M. \" \"",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
-      "text": "\" \" 9:00 P.M",
-      "status": "image_matched"
+      "text": "Jan 26th 1950 11.00 AM. till 12.30 P.M South - or. east",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "text": "Jan 28th 1950 11:00 A.M. East",
-      "status": "image_matched"
+      "text": "Jan 27th 1950 12.00 Noon. \" \" South",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": "Jan 29th 1950 1:00 P.M. also Night 8:30 P.M.",
-      "status": "image_matched"
+      "text": "1.45 P.M -> 9:P.M South east",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
-      "text": "Jan 30th 1950 2:00 P.M. Northwest",
-      "status": "image_matched"
+      "text": "9.00 P.M \" \" East",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "text": "Feb 3rd 1950. 10:A.M-11:A.M. 12:00 Noon. Southeast",
-      "status": "image_matched"
+      "text": "Jan 28th 1950 11.00 AM \" \" East",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
-      "text": "Feb 4th 1950 11:30 A.M. 2:30 P.M. Southwest",
-      "status": "image_matched"
+      "text": "Jan 29th 1950 1.00 P.M. also Night 8-25 P.M.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
-      "text": "Feb 8th 1950 11:45 A.M. till 12:15 P.M Noon 1:30 P.M till 2:05",
-      "status": "image_matched"
+      "text": "Jan 30th 1950 2.00 P.M. Northwest",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
-      "text": "Feb 9th 1950 - Night 8:40 P.M. - West.",
-      "status": "image_matched"
+      "text": "Feb 3rd 1950. 10.AM-11.AM-12.00 Noon. South east",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
-      "text": "The reason for having you check these I don't",
-      "status": "image_matched"
+      "text": "Feb 4th 1950 11.30 AM - 2.30 P.M. Southwest",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
-      "text": "trust anybody unless you say or I won't",
-      "status": "image_matched"
+      "text": "Feb 8th 1950 11.45:A.M. till 12:15:P.M. Noon 1.30 P.M till 2.05",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 26,
-      "text": "Make any claims but try to furnish proof that I",
-      "status": "image_matched"
+      "text": "Feb 10th 1950 - Night 8.40 P.M - - West",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
-      "text": "know More about Flying discs than anybody that I",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 28,
-      "text": "have found yet. I will send More dates to you",
-      "status": "image_matched"
+      "text": "The reason for having you check these I dont",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
-      "text": "from time to time to prove what I say. All dates",
-      "status": "image_matched"
+      "text": "trust anybody unless you say so I wont",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 30,
-      "text": "I kept of I was sure please give me time",
-      "status": "image_matched"
+      "text": "Make any claims but try to furnish proff that",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 31,
-      "text": "and date. Because I have My [unclear] and also I",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "I know More about Flying disc than anybody this",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
-      "text": "Don't want any [unclear] RECORDED [unclear] Also I",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "I have found out. I will Send More dates from",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
-      "text": "ask you not to tell anybody for the [unclear] Maybe",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "time to time to prove what I say. all back",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 34,
+      "text": "is that if you are sure please give me time",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 35,
+      "text": "and date. Because I check My Best Friend also I",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 36,
+      "text": "don't want any Saucer's RECORDED [unclear] unless",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 37,
+      "text": "as you know Not to tell anybody for this Maybe",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 38,
       "text": "a lot of things I will tell you after while",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
-      "text": "I don't want any dates before Jan 23 to 1950. Please Make",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 36,
-      "text": "Sure that anyone checking the dates is 100 percent",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "text": "American (over)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 38,
-      "text": "Feb 20/50 MHC",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 39,
-      "text": "62-83891-985",
-      "status": "image_matched"
+      "text": "I don't want any dates before Jan 25th 1950. Please Make",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 40,
+      "text": "Sure that anyone checking the dates is 100 Percent",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 41,
+      "text": "American",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "text": "(over)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 43,
+      "text": "Air 2/20/50 [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 44,
+      "text": "67-838911-985",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

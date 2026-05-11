@@ -8,31 +8,12 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "18 permanent_unresolved line(s) excluded under SRC-896. 24 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0020-l0002",
-    "page_0020-l0004",
-    "page_0020-l0005",
-    "page_0020-l0011",
-    "page_0020-l0012",
-    "page_0020-l0015",
-    "page_0020-l0018",
-    "page_0020-l0023",
-    "page_0020-l0024",
-    "page_0020-l0026",
-    "page_0020-l0027",
-    "page_0020-l0029",
-    "page_0020-l0032",
-    "page_0020-l0033",
-    "page_0020-l0040",
-    "page_0020-l0042",
-    "page_0020-l0043",
-    "page_0020-l0044"
-  ],
-  "lineCount": 44,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 46,
   "lines": [
     {
       "lineNumber": 1,
@@ -41,9 +22,8 @@
     },
     {
       "lineNumber": 2,
-      "text": "[REDACTED] together with Special Agent [REDACTED], OSI, and Special Agent [REDACTED], OSI,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED], together with Special Agent [REDACTED], CIC, and Special Agent [REDACTED], OSI,",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 3,
@@ -53,14 +33,12 @@
     {
       "lineNumber": 4,
       "text": "detected. A telephone call was placed by [REDACTED] to Mr. [REDACTED] at approxi-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
       "text": "mately 11:00 A. M. and [REDACTED] advised he had been picking up some indication",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
@@ -90,14 +68,12 @@
     {
       "lineNumber": 11,
       "text": "Airport. By way of a check, [REDACTED] was asked if he detected on his equipment",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 12,
       "text": "any objects other than those reported by him. [REDACTED] stated that he had noticed",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
@@ -112,8 +88,7 @@
     {
       "lineNumber": 15,
       "text": "[REDACTED] then requested that he be allowed to view the radar equipment at the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 16,
@@ -128,13 +103,12 @@
     {
       "lineNumber": 18,
       "text": "located. The radar watch was continued and at about 11:30 [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 19,
-      "text": "called the armory and advised that the object being observed by him over",
-      "status": "image_matched"
+      "text": "called the armory and advised that the object being observed by him over Oak",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
@@ -152,15 +126,13 @@
     },
     {
       "lineNumber": 23,
-      "text": "On the afternoon of March 3, 1950 at about 1:30 P. M. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "On the afternoon of March 3, 1950 at about 1:30 P. M., [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 24,
-      "text": "together with CIO, OSI and FBI agents, went to the Naval Armory where [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "together with CIC, OSI and FBI agents, went to the Naval Armory where [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 25,
@@ -170,14 +142,12 @@
     {
       "lineNumber": 26,
       "text": "determined from Lieutenant Commander [REDACTED] that this equipment did not",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 27,
-      "text": "comprise any classified information. At this time, [REDACTED] discussed his activities",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "comprise any classified information. At this time, [REDACTED] claimed familiarity",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 28,
@@ -187,8 +157,7 @@
     {
       "lineNumber": 29,
       "text": "development at Harvard University during the early stages of the war. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 30,
@@ -197,20 +166,18 @@
     },
     {
       "lineNumber": 31,
-      "text": "Army during the war in adapting radar for specialized services. At this time",
-      "status": "image_matched"
+      "text": "Army during the war in adapting radar for specialized services. At this time,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
       "text": "the presence of some alcohol was noted on the breath of [REDACTED], but he was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 33,
       "text": "not in an inebriated condition. After examining the equipment, [REDACTED] stated",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 34,
@@ -219,8 +186,8 @@
     },
     {
       "lineNumber": 35,
-      "text": "assistance in detecting the object reported by him for several reasons such",
-      "status": "image_matched"
+      "text": "assistance in detecting the object reported by him for several reasons, such",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 36,
@@ -244,8 +211,7 @@
     {
       "lineNumber": 40,
       "text": "had with Colonel [REDACTED], U. S. Air Force Material",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 41,
@@ -254,21 +220,27 @@
     },
     {
       "lineNumber": 42,
-      "text": "were Special Agent [REDACTED], CIO; Special Agent [REDACTED], OSI; Mr. [REDACTED],",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "were Special Agent [REDACTED], CIC; Special Agent [REDACTED], OSI; Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 43,
       "text": "U. S. Air Forces Security Officer; Captain [REDACTED], USAF, and Special",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 44,
       "text": "Agent [REDACTED] of this office. At this conference, Colonel [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 45,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 46,
+      "text": "- 3 -",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

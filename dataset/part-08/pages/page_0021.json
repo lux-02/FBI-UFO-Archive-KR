@@ -8,50 +8,37 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 24 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0021-l0001",
-    "page_0021-l0002",
-    "page_0021-l0003",
-    "page_0021-l0004",
-    "page_0021-l0005",
-    "page_0021-l0007",
-    "page_0021-l0025"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 33,
   "lines": [
     {
       "lineNumber": 1,
       "text": "On the morning of March 7, 1950, Special Agent [REDACTED] of this office",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
       "text": "was advised by [REDACTED], U. S. AEC Security Division, of steps taken",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 3,
       "text": "by AEC in this regard. Mr. [REDACTED] stated that immediately upon receiving the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
-      "text": "report from Mr. he had made the matter known to the proper authorities at AEC",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "report from me, he had made the matter known to the proper authorities at AEC",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "and early the following morning he had conversed with Colonel [REDACTED] of the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "and early the following morning he had conversed with Colonel [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
@@ -61,8 +48,7 @@
     {
       "lineNumber": 7,
       "text": "Mr. [REDACTED] stated he also conversed with 14th Air Force Headquarters at",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
@@ -135,13 +121,13 @@
     },
     {
       "lineNumber": 22,
-      "text": "security of the AEC installation had been experienced, it is not implausible",
-      "status": "image_matched"
+      "text": "security of the AEC Installation had been experienced, it is not implausible",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
-      "text": "to believe that a similar confused fixing of final authority would have been",
-      "status": "image_matched"
+      "text": "to believe that a similar confused fixing of final authority would have",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
@@ -150,9 +136,8 @@
     },
     {
       "lineNumber": 25,
-      "text": "of the first report until such time as Mr. reasonable conclusion could be",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "of the first report until such time as any reasonable conclusion could be",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 26,

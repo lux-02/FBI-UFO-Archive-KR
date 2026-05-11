@@ -8,56 +8,40 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "11 permanent_unresolved line(s) excluded under SRC-896. 40 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0042-l0002",
-    "page_0042-l0003",
-    "page_0042-l0004",
-    "page_0042-l0013",
-    "page_0042-l0019",
-    "page_0042-l0042",
-    "page_0042-l0043",
-    "page_0042-l0047",
-    "page_0042-l0049",
-    "page_0042-l0058",
-    "page_0042-l0059"
-  ],
-  "lineCount": 63,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 56,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "AC",
-      "status": "image_matched"
+      "text": "FEDERAL BUREAU OF INVESTIGATION",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "FEDERAL BUREAU OF INVESTIGATION",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "U. S. DEPARTMENT OF JUSTICE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "U. S. DEPARTMENT OF JUSTICE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "COMMUNICATIONS SECTION",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "COMMUNICATIONS SECTION",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 5,
       "status": "blank"
     },
     {
+      "lineNumber": 5,
+      "text": "MAR - 9 1950",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 6,
-      "text": "MAR -9 1950",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 7,
@@ -90,9 +74,8 @@
     },
     {
       "lineNumber": 13,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 14,
@@ -121,9 +104,8 @@
     },
     {
       "lineNumber": 19,
-      "text": "T. W. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Tele. Room",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
@@ -146,152 +128,150 @@
     },
     {
       "lineNumber": 24,
-      "text": "DIRECTOR, FBI",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "text": "FLYING SAUCERS.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 27,
       "text": "3-9-50",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
-      "text": "URGENT",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 29,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 30,
+      "lineNumber": 25,
       "text": "9-25 PM",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 32,
+      "lineNumber": 26,
       "text": "JHM",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 27,
       "status": "blank"
     },
     {
-      "lineNumber": 34,
-      "text": "TWO SOURCES ADVISED TODAY THAT UNIDENTIFIED INDIVIDUAL",
+      "lineNumber": 28,
+      "text": "DIRECTOR, FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 29,
+      "text": "URGENT",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
+      "text": "FLYING SAUCERS. TWO SOURCES ADVISED TODAY THAT UNIDENTIFIED INDIVIDUAL",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 32,
       "text": "HAS GIVEN AT LEAST ONE AND POSSIBLY MORE LECTURES BEFORE CLASSES AT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 33,
       "text": "DENVER UNIVERSITY YESTERDAY OR TODAY IN WHICH HE DISCUSSED FLYING",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 34,
       "text": "SAUCERS WHICH HE ALLEGEDLY PERSONALLY OBSERVED. THIS PERSON CLAIMS TO",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 35,
       "text": "HAVE SEEN SEVERAL SUCH OBJECTS, ONE OF WHICH ALLEGEDLY LANDED IN NEW",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 36,
       "text": "MEXICO. HE ALSO CLAIMS TO HAVE OBSERVED OCCUPANTS OF SAUCERS DESCRIBED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 37,
       "text": "BY HIM AS OF HUMAN FORM, BUT ABOUT THREE FEET TALL. THESE OCCUPANTS OF",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
-      "text": "SAUCERS ALLEGEDLY DEAD AT TIME HE OBSERVED THEM. THIS LECTURER",
-      "status": "image_matched"
+      "lineNumber": 38,
+      "text": "SAUCERS ALLEGEDLY DEAD AT TIME HE OBSERVED THEM. THIS LECTURER [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 39,
       "text": "REFUSED TO REVEAL IDENTITY, BUT IS KNOWN TO [REDACTED] WHO IS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 40,
       "text": "[REDACTED] CONNECTED WITH [REDACTED] DENVER. [REDACTED] REPORTED",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 41,
       "text": "TO HAVE MADE SOME PREVIOUS CLAIMS HIMSELF WITH RESPECT TO OBSERVING",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 42,
       "text": "FLYING SAUCERS. LOCAL PRESS AND ALSO WIRE SERVICES CARRYING STORIES",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 43,
       "text": "CONCERNING THESE LECTURES AT DENVER UNIVERSITY. OSI, DENVER, HAS NO",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 44,
       "text": "ADDITIONAL INFORMATION EXCEPT THAT [REDACTED] IN JANUARY THIS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 48,
+      "lineNumber": 45,
       "text": "YEAR REPORTED TO HAVE MADE SIMILAR CLAIMS AND UPON INVESTIGATION WAS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 49,
+      "lineNumber": 46,
       "text": "UNABLE TO PRODUCE ANY VERIFIABLE INFORMATION. OSI CONSIDERS [REDACTED] AS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 50,
+      "lineNumber": 47,
       "text": "PROBABLE MENTAL CASE. BUREAU ADVISE WHAT, IF ANY, ACTION DESIRED AT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 51,
+      "lineNumber": 48,
       "text": "DENVER.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 52,
+      "lineNumber": 49,
       "status": "blank"
     },
     {
-      "lineNumber": 53,
+      "lineNumber": 50,
       "text": "KRAMER",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "text": "RECORDED - 33",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 52,
+      "text": "INDEXED - 33",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
+      "text": "62-83894-206",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 54,
@@ -299,45 +279,11 @@
     },
     {
       "lineNumber": 55,
-      "text": "RECORDED -33",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 56,
-      "text": "INDEXED -33",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 57,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 58,
-      "text": "62- [unclear] 44-206",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 59,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 60,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 61,
       "text": "END",
       "status": "image_matched"
     },
     {
-      "lineNumber": 62,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 63,
+      "lineNumber": 56,
       "text": "11-29 PM OK FBI WA HSU",
       "status": "image_matched"
     }

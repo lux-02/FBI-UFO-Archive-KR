@@ -8,32 +8,11 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "20 permanent_unresolved line(s) excluded under SRC-896. 18 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0018-l0002",
-    "page_0018-l0003",
-    "page_0018-l0005",
-    "page_0018-l0007",
-    "page_0018-l0008",
-    "page_0018-l0009",
-    "page_0018-l0010",
-    "page_0018-l0011",
-    "page_0018-l0013",
-    "page_0018-l0015",
-    "page_0018-l0016",
-    "page_0018-l0017",
-    "page_0018-l0019",
-    "page_0018-l0020",
-    "page_0018-l0025",
-    "page_0018-l0026",
-    "page_0018-l0034",
-    "page_0018-l0035",
-    "page_0018-l0038",
-    "page_0018-l0042"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 42,
   "lines": [
     {
@@ -43,224 +22,204 @@
     },
     {
       "lineNumber": 2,
-      "text": "[REDACTED] communicated with this office to determine if any further information had been",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED], CIC, 3rd Army, stationed at Knoxville, telephonically com-",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 3,
-      "text": "received regarding the matter reported by [REDACTED] Mr. [REDACTED] was, at that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "municated with this office to determine if any further information had been",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
+      "text": "received regarding the matter reported by [REDACTED]. Mr. [REDACTED] was, at that",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 5,
       "text": "time, given all of the information which had been received by this office.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "[REDACTED] advised that he had been called by his headquarters, CIO, 3rd Army,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 6,
+      "text": "[REDACTED] advised that he had been called by his headquarters, CIC, 3rd Army,",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "text": "Atlanta, Georgia, and had been told to look into the matter to determine if it",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
-      "text": "had any basis in fact. Mr. [REDACTED] continued that he had made arrangements",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 8,
-      "text": "with Mr. [REDACTED] to have him and Special Agent [REDACTED] OSI, U.S.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "had any basis in fact. Mr. [REDACTED] continued that he had made arrangements",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
-      "text": "Air Forces, to visit [REDACTED] home during the evening of March 2, 1950 and",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "with Mr. [REDACTED] to have him and Special Agent [REDACTED], OSI, U. S.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
-      "text": "observe the radar indications with him. [REDACTED] advised that neither he",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Air Forces, to visit [REDACTED] home during the evening of March 2, 1950 and",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
-      "text": "nor Mr. [REDACTED] had any radar experience and were in no sense technicians or",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "observe the radar indications with him. [REDACTED] advised that neither he",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 12,
+      "text": "nor Mr. [REDACTED] had any radar experience and were in no sense technicians or",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 13,
       "text": "radar operators, but would make their observations merely to determine if a",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
-      "text": "real reading was being made by [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 14,
-      "status": "blank"
+      "text": "real reading was being made by [REDACTED].",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
-      "text": "On the morning of March 3, 1950, [REDACTED] again telephonically com-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 16,
-      "text": "municated with this office and advised the Liaison Agent, Special Agent [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "On the morning of March 3, 1950, [REDACTED] again telephonically com-",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
-      "text": "[REDACTED] that he and [REDACTED] had been with [REDACTED] during the previous",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "municated with this office and advised the Liaison Agent, Special Agent",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": "evening and that they had observed on his radar screen some \"pipe\" which,",
-      "status": "image_matched"
+      "text": "[REDACTED], that he and [REDACTED] had been with [REDACTED] during the previous",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 19,
-      "text": "according to [REDACTED] indicated an object with the same general elevation and",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "evening and that they had observed on his radar screen some \"pips\" which,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "text": "azimuth as previously reported by him. [REDACTED] said they were unable to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "according to [REDACTED], indicated an object with the same general elevation and",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,
+      "text": "azimuth as previously reported by him. [REDACTED] said they were unable to",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 22,
       "text": "make any authoritative statement concerning the matter of the object or the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 23,
       "text": "reliability of the radar equipment, but they had seen sufficient to give them",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 24,
       "text": "reason to believe it warranted investigation.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
       "status": "blank"
     },
     {
-      "lineNumber": 25,
-      "text": "General inquiry at this time at [REDACTED] and other readily",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 26,
-      "text": "available sources of information divulged the fact that [REDACTED] is",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "General inquiry at this time at [REDACTED] and other readily",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 27,
-      "text": "generally recognized in this vicinity as a reputable and substantial citizen.",
-      "status": "image_matched"
+      "text": "available sources of information divulged the fact that [REDACTED] is",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 28,
-      "text": "In Knoxville and, in addition thereto, is recognized as somewhat of a radio",
-      "status": "image_matched"
+      "text": "generally recognized in this vicinity as a reputable and substantial citizen",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
+      "text": "in Knoxville and, in addition thereto, is recognized as somewhat of a radio",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 30,
       "text": "authority. It was found that he is credited with being a skilled radio technician",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 31,
       "text": "and has done considerable development and research work in the field of radio.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 32,
       "status": "blank"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 33,
       "text": "Due to the interest which was being portrayed by all agencies concerned",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 34,
       "text": "with this matter, the Bureau at this time was apprised by telephone conversation",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
-      "text": "with [REDACTED] at the Bureau concerning the facts known. As a result of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 35,
-      "text": "this conversation, [REDACTED] was instructed to follow the matter in the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "with [REDACTED] at the Bureau concerning the facts known. As a result of",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 36,
+      "text": "this conversation, SA [REDACTED] was instructed to follow the matter in the",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 37,
       "text": "capacity of an observer and to advise the Bureau of any important developments.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 38,
       "status": "blank"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 39,
       "text": "Arrangements were made through Lieutenant Commander [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 40,
       "text": "Commanding Officer, U. S. Naval Reserve Training Center, Alcoa Highway,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 41,
       "text": "Knoxville, for the Research Training Center to put into operation radar equipment",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 42,
       "text": "which they have. At approximately 10:30 A. M. on the same day, this radar",
       "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
     }
   ],
   "blockCount": null

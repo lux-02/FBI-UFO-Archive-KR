@@ -8,37 +8,17 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "18 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0017-l0001",
-    "page_0017-l0004",
-    "page_0017-l0005",
-    "page_0017-l0008",
-    "page_0017-l0009",
-    "page_0017-l0010",
-    "page_0017-l0013",
-    "page_0017-l0016",
-    "page_0017-l0017",
-    "page_0017-l0018",
-    "page_0017-l0019",
-    "page_0017-l0024",
-    "page_0017-l0025",
-    "page_0017-l0026",
-    "page_0017-l0028",
-    "page_0017-l0031",
-    "page_0017-l0034",
-    "page_0017-l0037"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 45,
   "lines": [
     {
       "lineNumber": 1,
       "text": "that the reliability of [REDACTED] was extremely dubious and they felt that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
@@ -52,42 +32,37 @@
     {
       "lineNumber": 4,
       "text": "On the morning of March 6, 1950, [REDACTED] again contacted Special",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
-      "text": "Agent [REDACTED], GIO, and advised he had again observed the object at about",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Agent [REDACTED], CIC, and advised he had again observed the object at about",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
-      "text": "the same altitude over the Oak Ridge area and he estimated the object to be",
-      "status": "image_matched"
+      "text": "the same altitude over the Oak Ridge area and he estimated the object to",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "text": "of approximately the same density as would be caused by a DC-4 at that",
-      "status": "image_matched"
+      "text": "be of approximately the same density as would be caused by a DC-4 at that",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
       "text": "altitude. Again, Colonel [REDACTED] was contacted by Special Agent [REDACTED] of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
       "text": "OSI and Colonel [REDACTED] said that he intended to take some electronic equip-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
-      "text": "ment to the home of [REDACTED] with which they would actually check the electrical",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "ment to the home of [REDACTED] with which they could actually check the electrical",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
@@ -102,8 +77,7 @@
     {
       "lineNumber": 13,
       "text": "[REDACTED] with regard to known aircraft detected during previous visits and",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 14,
@@ -118,26 +92,22 @@
     {
       "lineNumber": 16,
       "text": "the morning of March 8, 1950, attempts were made by Special Agent [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
-      "text": "OSI to get in touch with [REDACTED] to make an appointment with Colonel [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "OSI, to get in touch with [REDACTED] to make an appointment with Colonel [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
-      "text": "and Captain [REDACTED] and [REDACTED] could not be located. According to his office",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "and Captain [REDACTED], and [REDACTED] could not be located. According to his office",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 19,
-      "text": "[REDACTED] had left town and it was not known when he would return.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "at [REDACTED], he had left town and it was not known when he would return.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 20,
@@ -161,20 +131,17 @@
     {
       "lineNumber": 24,
       "text": "[REDACTED] on his screen or, in fact, whether anything was detected. On the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 25,
       "text": "afternoon of March 8, 1950, Special Agent [REDACTED] telephoned Special Agent",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 26,
       "text": "[REDACTED] of this office and advised that two representatives of the 14th Air",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 27,
@@ -184,8 +151,7 @@
     {
       "lineNumber": 28,
       "text": "ville and contacted him with regard to making an appointment with [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
@@ -200,8 +166,7 @@
     {
       "lineNumber": 31,
       "text": "inasmuch as [REDACTED] was unavailable.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 32,
@@ -215,8 +180,7 @@
     {
       "lineNumber": 34,
       "text": "as it is the understanding of this office that Colonel [REDACTED] was much",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 35,
@@ -231,8 +195,7 @@
     {
       "lineNumber": 37,
       "text": "Field, concerning it. These letters by Colonel [REDACTED] apparently were prompted",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 38,

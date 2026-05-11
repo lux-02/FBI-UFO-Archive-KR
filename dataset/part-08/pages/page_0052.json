@@ -8,23 +8,17 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 22 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0052-l0001",
-    "page_0052-l0004",
-    "page_0052-l0024",
-    "page_0052-l0033"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 38,
   "lines": [
     {
       "lineNumber": 1,
       "text": "\"No wings but vertical and horisontal fins on rear 1/3",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -38,8 +32,7 @@
     {
       "lineNumber": 4,
       "text": "\"No visable means of propulsion such as propeller,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -57,8 +50,8 @@
     },
     {
       "lineNumber": 8,
-      "text": "nose, the needle looked about 6\" long and was the size of a",
-      "status": "image_matched"
+      "text": "nose, the needle looked about 6\" long and was the size of",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
@@ -132,8 +125,7 @@
     {
       "lineNumber": 24,
       "text": "\"The visability was exceptionally good, about 30 miles.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
@@ -175,8 +167,7 @@
     {
       "lineNumber": 33,
       "text": "\"It appeared to have spent it's force and seemed to be",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 34,

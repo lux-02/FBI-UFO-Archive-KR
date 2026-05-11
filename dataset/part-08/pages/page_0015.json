@@ -8,31 +8,12 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "18 permanent_unresolved line(s) excluded under SRC-896. 20 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0015-l0004",
-    "page_0015-l0005",
-    "page_0015-l0006",
-    "page_0015-l0008",
-    "page_0015-l0009",
-    "page_0015-l0010",
-    "page_0015-l0012",
-    "page_0015-l0015",
-    "page_0015-l0016",
-    "page_0015-l0019",
-    "page_0015-l0021",
-    "page_0015-l0025",
-    "page_0015-l0028",
-    "page_0015-l0037",
-    "page_0015-l0038",
-    "page_0015-l0040",
-    "page_0015-l0041",
-    "page_0015-l0042"
-  ],
-  "lineCount": 42,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 43,
   "lines": [
     {
       "lineNumber": 1,
@@ -51,21 +32,18 @@
     },
     {
       "lineNumber": 4,
-      "text": "should be followed closely. He arranged for Captain [REDACTED] whom he termed",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "should be followed closely. He arranged for Captain [REDACTED], whom he termed a",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
-      "text": "\"radar expert,\" to observe with [REDACTED] during the evening of March 3, 1950,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "radar expert, to observe with [REDACTED] during the evening of March 3, 1950",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
-      "text": "the radar equipment on which [REDACTED] had detected the phenomenon.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "the radar equipment on which [REDACTED] had detected the object.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
@@ -74,20 +52,17 @@
     {
       "lineNumber": 8,
       "text": "Immediately following this conference, Special Agent [REDACTED] contacted",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
       "text": "Mr. [REDACTED], Physical Security and Plant Protection Branch, U. S. AEC,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
       "text": "and Mr. [REDACTED], Assistant Chief, Security Division, U. S. AEC, to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
@@ -96,9 +71,8 @@
     },
     {
       "lineNumber": 12,
-      "text": "AEC. [REDACTED] advised that the matter had been referred to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "AEC. Both [REDACTED] advised that the matter had been referred to",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
@@ -112,15 +86,13 @@
     },
     {
       "lineNumber": 15,
-      "text": "probably from Washington, to inspect the equipment owned [REDACTED]. It was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "probably from Washington, to inspect the equipment owned by [REDACTED]. It was",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 16,
-      "text": "[REDACTED] expressed that a CIA technician would come to Oak Ridge.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "erroneously reported that a CIA technician would come to Oak Ridge.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
@@ -134,8 +106,7 @@
     {
       "lineNumber": 19,
       "text": "Agent [REDACTED], OSI, called his headquarters at Maxwell Field, Alabama to determine",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 20,
@@ -145,8 +116,7 @@
     {
       "lineNumber": 21,
       "text": "this area to verify or disprove the findings of [REDACTED]. [REDACTED] was advised that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
@@ -155,8 +125,8 @@
     },
     {
       "lineNumber": 23,
-      "text": "radar equipment would be flown in, if requested by the 3rd Army.",
-      "status": "image_matched"
+      "text": "radar equipment would be flown up, if requested by the AEC.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
@@ -164,99 +134,96 @@
     },
     {
       "lineNumber": 25,
-      "text": "Special Agent [REDACTED], OSI, stated he had wired his headquarters at Atlanta",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Special Agent [REDACTED], CIC, stated he had also been advised by his",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 26,
+      "text": "headquarters at Atlanta to act in the capacity of an observer and that,",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 27,
       "text": "accordingly, he had not as yet been advised whether or not the 3rd Army in-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 28,
       "text": "tended to send mobile radar equipment to the area to verify or disprove the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
-      "text": "findings of [REDACTED]. Inquiry was made by Special Agent [REDACTED], OSI, of AEC as",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 29,
-      "text": "to whether or not they would request having radar equipment flown in by 3rd",
-      "status": "image_matched"
+      "text": "findings of [REDACTED]. Inquiry was made by Special Agent [REDACTED], OSI, of AEC as",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 30,
-      "text": "Army authorities, and he was told by AEC that while the AEC was of course,",
-      "status": "image_matched"
+      "text": "to whether or not they would request having radar equipment flown in by OSI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 31,
+      "text": "authorities, and he was told by AEC that while the AEC was, of course,",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 32,
       "text": "vitally interested in anything which directly affected the safety of the area,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 33,
       "text": "they nevertheless did not feel that they had the authority to make a specific",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 34,
       "text": "request for such action inasmuch as the protection of the area from assault",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
-      "text": "was the responsibility of the 3rd Army. Accordingly, they could not make any",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 35,
-      "text": "direct request for such equipment.",
-      "status": "image_matched"
+      "text": "was the responsibility of the 3rd Army. Accordingly, they could not make",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 36,
-      "status": "blank"
+      "text": "any direct request for such equipment.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 37,
-      "text": "During the evening of March 3, 1950, Special Agent [REDACTED] and myself,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 38,
-      "text": "together with SA [REDACTED] (OSI), remained at the Naval Reserve Armory,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "During the evening of March 3, 1950, Special Agent [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 39,
+      "text": "and myself, together with SA [REDACTED] (OSI), remained at the Naval Reserve Armory,",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 40,
       "text": "Alcoa Highway, during which time search was being conducted by the radar equipment",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
-      "text": "at [REDACTED] installation. Captain [REDACTED], NKPA, and Special Agent [REDACTED], OSI,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 41,
-      "text": "were in the vicinity of the 3rd Army. Accordingly, they could not make any",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "at this installation. Captain [REDACTED], NEPA, and Special Agent [REDACTED], CIC,",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 42,
-      "text": "direct request for such equipment.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
+    },
+    {
+      "lineNumber": 43,
+      "text": "- 4 -",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

@@ -8,28 +8,12 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "15 permanent_unresolved line(s) excluded under SRC-896. 33 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0033-l0004",
-    "page_0033-l0005",
-    "page_0033-l0009",
-    "page_0033-l0010",
-    "page_0033-l0013",
-    "page_0033-l0015",
-    "page_0033-l0016",
-    "page_0033-l0017",
-    "page_0033-l0018",
-    "page_0033-l0019",
-    "page_0033-l0020",
-    "page_0033-l0023",
-    "page_0033-l0029",
-    "page_0033-l0040",
-    "page_0033-l0042"
-  ],
-  "lineCount": 48,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 60,
   "lines": [
     {
       "lineNumber": 1,
@@ -48,175 +32,149 @@
     },
     {
       "lineNumber": 4,
-      "text": "[unclear] IDA",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
-      "text": "[unclear] CWB",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] from IDA",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 6,
+      "text": "[unclear] cwb [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
       "text": "CONFIDENTIAL",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 9,
       "text": "PARAPHRASE NOT REQUIRED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 10,
       "text": "PRIORITY",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
-      "text": "From: CONGENARMYTHREE Ft McPherson Ga",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 10,
-      "text": "To : Dept of Army for Dir of Intelligence",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "From: COMGENARMYTHREE Ft McPherson Ga",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
+      "text": "To : Dept of Army for Dir of Intelligence",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 14,
       "text": "Nr : AJACI-3-3 3206",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 15,
       "text": "3 Mar 50",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
-      "text": "Reference our TX AJACI-1-2, 2nd Mar supplementar",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 14,
-      "text": "report follows:",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "text": "1. (A) At 2130 hours on 2nd Mar radar station",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 16,
-      "text": "picked up 2 objects 310 degrees, altitude 80000 feet, ap-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 17,
-      "text": "proximately 18 miles from Knoxville in general direction of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] b7c",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
-      "text": "Oak Ridge, moving in circular motion but in opposite direc-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 19,
-      "text": "tions.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Reference our TWX AJACI-1-2, 2nd Mar supplementary report follows:",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "text": "(B) At 2230 hours 2nd Mar and again at 0030 hours",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 21,
-      "text": "3rd Mar station picked up object, moving same direction,",
-      "status": "image_matched"
+      "text": "1. (A) At 2130 hours on 2nd Mar radar station picked up 2 objects 310 degrees, altitude 80000 feet, approximately 18 miles from Knoxville in general direction of Oak Ridge, moving in circular motion but in opposite directions.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
-      "text": "locality and altitude.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 23,
-      "text": "(C) Density of object similar to DC-3 airplane,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "(B) At 2230 hours 2nd Mar and again at 0030 hours 3rd Mar station picked up object, moving same direction, locality and altitude.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
-      "text": "speed not established but report as \"terrific\".",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 25,
-      "text": "2. CIA Radar Technician reportedly arrived Knoxville",
-      "status": "image_matched"
+      "text": "(C) Density of object similar to DC-3 airplane, speed not established but report as \"terrific\".",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 26,
-      "text": "today to check radar set and operation.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 27,
-      "text": "3. Arrangement reportedly made by FBI with Naval",
-      "status": "image_matched"
+      "text": "2. CIA Radar Technician reportedly arrives Knoxville today to check radar set and operation.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 28,
-      "text": "and Marine Reserve Unit Knoxville to set up radar equipment",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 29,
-      "text": "to verify reception of VROL radar station.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "3. Arrangement reportedly made by FBI with Naval and Marine Reserve Unit Knoxville to set up radar equipment to verify reception of WRQL radar station.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 30,
-      "text": "4. All information on this subject this headquarters",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 31,
-      "text": "has been turned over to A-2 Fourteenth Air Force.",
-      "status": "image_matched"
+      "text": "4. All information on this subject this headquarters has been turned over to A-2 Fourteenth Air Force.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 33,
       "text": "Note: AJACI-1-2 is CM IN 12036 (3 Mar 50) G-2",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
-      "text": "ACTION: G-2",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 34,
-      "text": "RECORDED - 101",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 35,
-      "text": "62-85894- 710",
+      "text": "ACTION: G-2",
       "status": "image_matched"
     },
     {
@@ -226,8 +184,7 @@
     },
     {
       "lineNumber": 37,
-      "text": "INDEXED",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 38,
@@ -236,55 +193,106 @@
     },
     {
       "lineNumber": 39,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 40,
+      "text": "RECORDED - 101",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
+      "text": "INDEXED - 104",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 43,
       "text": "(4 Mar 50)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
-      "text": "[unclear]: 030300.1",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 44,
+      "status": "blank"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 45,
+      "text": "62-85894- 210",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 46,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 47,
+      "text": "DTG: 031300Z [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 48,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 49,
       "text": "51 APR 22 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
-      "text": "J#72 Mar 4, 1950",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 50,
+      "status": "blank"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 51,
+      "text": "DA SCO FORM 22-3",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 52,
+      "text": "15 JAN 1948",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 54,
+      "text": "JH 72 Mar 4, 1950",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 55,
+      "text": "ID - 1",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 56,
       "text": "101",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
-      "text": "DA SCO FORM",
-      "status": "image_matched"
+      "lineNumber": 57,
+      "status": "blank"
     },
     {
-      "lineNumber": 45,
-      "text": "15 JAN 1948 22-3",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
+      "lineNumber": 58,
       "text": "CONFIDENTIAL",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 59,
       "text": "COPY NO.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
-      "text": "U.S. GOVERNMENT PRINTING OFFICE: 1949-O-813435",
-      "status": "image_matched"
+      "lineNumber": 60,
+      "text": "U.S. GOVERNMENT PRINTING OFFICE : 1949-O-813433",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

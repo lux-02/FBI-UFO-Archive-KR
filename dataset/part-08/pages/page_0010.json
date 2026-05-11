@@ -8,20 +8,12 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0010-l0009",
-    "page_0010-l0020",
-    "page_0010-l0026",
-    "page_0010-l0027",
-    "page_0010-l0029",
-    "page_0010-l0039",
-    "page_0010-l0041"
-  ],
-  "lineCount": 41,
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 32,
   "lines": [
     {
       "lineNumber": 1,
@@ -30,18 +22,17 @@
     },
     {
       "lineNumber": 2,
-      "text": "TO : Director, FBI DATE: April 11, 1950",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "FROM : SAC, New York",
-      "status": "image_matched"
+      "text": "TO : Director, FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "SUBJECT:",
-      "status": "image_matched"
+      "text": "DATE: April 11, 1950",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -49,48 +40,43 @@
     },
     {
       "lineNumber": 6,
-      "text": "There is enclosed a letter directed to the President of the Com-",
+      "text": "FROM : SAC, New York",
       "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "mission of Scientific Investigation of the United States of North America,\"",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
-      "text": "which was received at this office on April 7, 1950. This letter is dated at",
-      "status": "image_matched"
+      "text": "SUBJECT: [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
-      "text": "Veracruz, March 19, 1950, and is from a [REDACTED] There is",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "text": "attached to this letter an English translation, together with a newspaper",
-      "status": "image_matched"
+      "text": "There is enclosed a letter directed to the President of the Commission of Scientific Investigation of the United States of North America,\" which was received at this office on April 7, 1950. This letter is dated at Veracruz, March 19, 1950, and is from a [REDACTED]. There is attached to this letter an English translation, together with a newspaper clipping in the Spanish language and four hand-drawn designs. Because of the technical language used, it is rather difficult to determine whether the information is authentic or whether the author of this material is either psychotic or neurotic.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
-      "text": "clipping in the Spanish language and four hand-drawn designs. Because of the",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 12,
-      "text": "technical language used, it is rather difficult to determine whether the in-",
-      "status": "image_matched"
+      "text": "It is suggested that the Bureau may desire to have the enclosed examined by some Government agency familiar with the language appearing therein for its ultimate dissemination.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "text": "formation is authentic or whether the author of this material is either",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 14,
-      "text": "psychotic or neurotic.",
+      "text": "TOS:RAA",
       "status": "image_matched"
     },
     {
@@ -99,37 +85,37 @@
     },
     {
       "lineNumber": 16,
-      "text": "It is suggested that the Bureau may desire to have the enclosed",
+      "text": "Enclosures",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "examined by some Government agency familiar with the language appearing therein",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 18,
-      "text": "for its ultimate dissemination.",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 19,
-      "status": "blank"
+      "text": "[unclear] BEHIND FILE",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 20,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 21,
-      "status": "blank"
+      "text": "5-1-50",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
-      "text": "TOS:RAA",
-      "status": "image_matched"
+      "text": "IN FILE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
@@ -137,92 +123,47 @@
     },
     {
       "lineNumber": 24,
-      "text": "Enclosures",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 26,
-      "text": "[unclear] 5-1-50",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 27,
-      "text": "[unclear] ENCL",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 28,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 29,
-      "text": "[unclear] BEHIND FILE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 30,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 31,
       "text": "RECORDED - 23,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 33,
+      "lineNumber": 25,
       "text": "INDEXED - 23",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 26,
       "status": "blank"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 27,
       "text": "162-83894-220",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 28,
       "text": "APR 12 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 29,
       "text": "3",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 39,
+      "lineNumber": 30,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 31,
       "text": "FIVE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 32,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

@@ -8,216 +8,166 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "9 permanent_unresolved line(s) excluded under SRC-896. 16 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0050-l0001",
-    "page_0050-l0002",
-    "page_0050-l0003",
-    "page_0050-l0007",
-    "page_0050-l0009",
-    "page_0050-l0010",
-    "page_0050-l0011",
-    "page_0050-l0012",
-    "page_0050-l0014"
-  ],
-  "lineCount": 40,
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 33,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "DEPARTMENT OF THE AIR FORCE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
-      "text": "STAFF MESSAGE DIVISION",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "DEPARTMENT OF THE AIR FORCE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "INCOMING CLASSIFIED MESSAGE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "STAFF MESSAGE DIVISION",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "status": "blank"
+      "text": "INCOMING CLASSIFIED MESSAGE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "PRIORITY",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "status": "blank"
-    },
-    {
       "lineNumber": 7,
-      "text": "FROM: 13 OSI DIST OFFUTT AFB, OMAHA NEBRASKA, SGD THOMPSON",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
-      "status": "blank"
+      "text": "FROM: 13 OSI DIST OFFUTT AFB, OMAHA NEBRASKA, SGD THOMPSON",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "TO : CSAD, WASHINGTON 25, D.C.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "text": "    DIST COLO 14TH OSI DIST LOWRY AFB, COLORADO",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "TO : CSAC, WASHINGTON 25, D.C.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "    DIST COLO 17TH OSI DIST KIRTLAND AFB ALBUQUERQUE,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "DIST CO.DR 14TH OSI DIST LOWRY AFB, COLORADO",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "    NEW MEXICO",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "DIST CO.DR 17TH OSI DIST KIRTLAND AFB ALBUQUERQUE,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "status": "blank"
+      "text": "NEW MEXICO",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "NR : OSI 11.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 15,
-      "status": "blank"
+      "text": "NR : OSI 11. 17 January 1950",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
-      "text": "17 January 1950",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 17,
       "status": "blank"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 17,
       "text": "This refers to TWX from 13th OSI District, Offutt AFB,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
-      "text": "Omaha, Nebraska, dated 13 January and spot intelligence report",
-      "status": "image_matched"
+      "lineNumber": 18,
+      "text": "Omaha, Nebraska, dated 16 January and spot intelligence report",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 19,
       "text": "dated 16 January, subject: \"Flying Saucers From Venus Come To",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 20,
       "text": "Earth.\" For your information both TWX and spot report are down-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 21,
       "text": "graded to Confidential.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 23,
       "text": "NOTE: Reference TWX is CAF-IN-7150, 17 Jan 50 (OSI).",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 24,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 25,
       "text": "ACTION: OSI.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 26,
       "status": "blank"
+    },
+    {
+      "lineNumber": 27,
+      "text": "INFO : ODS, CIN, CPO, COP, CPY, CAG-30.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 28,
-      "text": "INFO : ODS, CII, OPO, COP, OPY, CAG-30.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 29,
-      "status": "blank"
+      "text": "CAF IN: 7 5 3 1. (16 Jan 50) DTG: 172110Z. RCW/jaj.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 30,
-      "text": "CAF IN: 7 3 3 1.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 31,
-      "status": "blank"
+      "text": "CONFIDENTIAL FC-MSR: 26/13.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
-      "text": "(13 Jan 50)",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 33,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 34,
-      "text": "DTG: 172110Z.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 35,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 36,
-      "text": "RCW/JJA.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 38,
-      "text": "CONFIDENTIAL FO-HBR: 25/13.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 39,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 40,
-      "text": "62-83811-103",
-      "status": "image_matched"
+      "text": "62-8387-103",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

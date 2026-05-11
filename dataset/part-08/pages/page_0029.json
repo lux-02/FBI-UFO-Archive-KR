@@ -8,236 +8,199 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "17 permanent_unresolved line(s) excluded under SRC-896. 29 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0029-l0002",
-    "page_0029-l0007",
-    "page_0029-l0008",
-    "page_0029-l0009",
-    "page_0029-l0010",
-    "page_0029-l0011",
-    "page_0029-l0012",
-    "page_0029-l0014",
-    "page_0029-l0015",
-    "page_0029-l0016",
-    "page_0029-l0017",
-    "page_0029-l0021",
-    "page_0029-l0022",
-    "page_0029-l0025",
-    "page_0029-l0027",
-    "page_0029-l0029",
-    "page_0029-l0032"
-  ],
-  "lineCount": 57,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 60,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "STANDARD FORM NO. 64",
-      "status": "image_matched"
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "Office Mem [unclear]um • UNITED STATES GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "TO : DIRECTOR, FBI DATE: March 31, 1950",
-      "status": "image_matched"
+      "text": "TO : DIRECTOR, FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
+      "text": "DATE: March 31, 1950",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "FROM : SAC, NEW ORLEANS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
       "text": "SUBJECT: FLYING DISCS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 7,
-      "text": "Special Agent [REDACTED] of the New Orleans Division, has a",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 8,
-      "text": "brother, [REDACTED] of the [REDACTED] advertising agency,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 9,
-      "text": "[REDACTED], Denver, Colorado. [REDACTED] has advised",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "text": "Special Agent [REDACTED] that an employee of the [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Special Agent [REDACTED] of the New Orleans Division, has a",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
-      "text": "[REDACTED] has been contacted by one [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "brother, [REDACTED] of the [REDACTED] advertising agency,",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 12,
-      "text": "street, telephone [REDACTED], Denver, Colorado, regarding Flying Discs.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED], Denver, Colorado. [REDACTED] has advised",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
-      "status": "blank"
+      "text": "Special Agent [REDACTED] that an employee of the [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 14,
-      "text": "[REDACTED] is alleged to have told [REDACTED] in January, 1950, that he",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] has been contacted by one [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
-      "text": "[REDACTED], knows a prominent Denver oilman named [REDACTED], also known",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Street, telephone [REDACTED] Denver, Colorado, regarding Flying Discs.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 16,
-      "text": "as a \"Mysterious Mr. X\", and an official of the [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 17,
-      "text": "[REDACTED], Denver, Colorado. [REDACTED] is claiming that he leased land in",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] is alleged to have told [REDACTED] in January, 1950, that he",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
+      "text": "[REDACTED], knows a prominent Denver oilman named [REDACTED] also known",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 19,
+      "text": "as a \"Mysterious Mr. X\", and an official of the [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 20,
+      "text": "[REDACTED] Denver, Colorado. [REDACTED] is claiming that he leased land in",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 21,
       "text": "the Mojave Desert in California and that on this land a flying disc had",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 22,
       "text": "been found intact, with eighteen three-foot tall human-like occupants,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 23,
       "text": "all dead on it but not burned. Further, that the disc was alleged to be",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "text": "of very hard metal and near-indestructible. [REDACTED] is said to have",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 22,
-      "text": "exhibited a radio set to [REDACTED] purported to be a souvenir of the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 23,
-      "text": "space-disc.",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 24,
-      "status": "blank"
+      "text": "of very hard metal and near indestructible. [REDACTED] is said to have",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 25,
-      "text": "According to [REDACTED] has been telling of this story off and",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "exhibited a radio set to [REDACTED] purported to be a souvenir of the",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 26,
+      "text": "space disc.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
+      "text": "According to [REDACTED] [REDACTED] has been telling of this story off and",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 29,
       "text": "on for the three month period prior to January, 1950, and is said to have",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 30,
       "text": "notified [REDACTED] of it weeks prior to the publication of a flying disc",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 31,
       "text": "article published in the True Magazine, and one by FRANK SCULLY published",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
-      "text": "in the Variety Magazine in January, 1950. [REDACTED] said to have been",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 32,
+      "text": "in the Variety Magazine in January, 1950. [REDACTED] claimed to have been",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 33,
       "text": "visited by DONALD KEHOE, author of the article in the True Magazine.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 34,
       "status": "blank"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 35,
       "text": "Further data was furnished that [REDACTED] had been telling the tale so",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 36,
       "text": "prolifically in Denver that he claimed to have had telephone calls from",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 37,
       "text": "Washington, D. C. and from the Federal Bureau of Investigation in which he",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 38,
       "text": "was requested to keep the information to himself and that, thereafter,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
-      "text": "he became mysterious about the entire matter.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 38,
-      "text": "It is noted that considerable publicity regarding these discs has been",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 39,
-      "text": "found in Denver and other papers.",
+      "text": "he became mysterious about the entire matter.",
       "status": "image_matched"
     },
     {
@@ -246,12 +209,12 @@
     },
     {
       "lineNumber": 41,
-      "text": "This information is being furnished the Bureau and the designated offices",
+      "text": "It is noted that considerable publicity regarding these discs has been",
       "status": "image_matched"
     },
     {
       "lineNumber": 42,
-      "text": "for informational purposes.",
+      "text": "found in Denver and other papers.",
       "status": "image_matched"
     },
     {
@@ -260,12 +223,12 @@
     },
     {
       "lineNumber": 44,
-      "text": "HWT:mrg",
+      "text": "This information is being furnished the Bureau and the designated offices",
       "status": "image_matched"
     },
     {
       "lineNumber": 45,
-      "text": "66-1199",
+      "text": "for informational purposes.",
       "status": "image_matched"
     },
     {
@@ -274,12 +237,12 @@
     },
     {
       "lineNumber": 47,
-      "text": "cc: Denver",
+      "text": "HWT:mrg",
       "status": "image_matched"
     },
     {
       "lineNumber": 48,
-      "text": "Los Angeles",
+      "text": "66-1199",
       "status": "image_matched"
     },
     {
@@ -288,12 +251,12 @@
     },
     {
       "lineNumber": 50,
-      "text": "COPIES DESTROYED",
+      "text": "cc: Denver",
       "status": "image_matched"
     },
     {
       "lineNumber": 51,
-      "text": "-270 NOV 18 1994",
+      "text": "Los Angeles",
       "status": "image_matched"
     },
     {
@@ -302,17 +265,17 @@
     },
     {
       "lineNumber": 53,
-      "text": "RECORDED-28 162-83994-213",
-      "status": "image_matched"
+      "text": "RECORDED - 28 62-83894-213",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 54,
-      "text": "APR 3 1950",
-      "status": "image_matched"
+      "text": "INDEXED - 28",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 55,
-      "text": "INDEXED-28 34",
+      "text": "APR 3 1950",
       "status": "image_matched"
     },
     {
@@ -323,6 +286,20 @@
       "lineNumber": 57,
       "text": "EX-94",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 58,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 59,
+      "text": "COPIES DESTROYED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 60,
+      "text": "270 NOV 18 1964",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

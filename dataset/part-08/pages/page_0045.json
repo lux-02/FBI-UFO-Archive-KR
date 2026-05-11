@@ -8,181 +8,151 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0045-l0003",
-    "page_0045-l0004",
-    "page_0045-l0007",
-    "page_0045-l0012",
-    "page_0045-l0017",
-    "page_0045-l0018",
-    "page_0045-l0031"
-  ],
-  "lineCount": 31,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 28,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "II",
-      "status": "image_matched"
+      "text": "II 2/11/50",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "8/1/50",
-      "status": "image_matched"
+      "text": "Or. Sending any letter I send you it might",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "01. Seeing any letter I send you it might",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "be better if after a while as I and you Dale's",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "be better if after a while as I send you dates",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "that I really know from to find something",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "that I really know. For I find something",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 6,
       "text": "to find a better way to contact over",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
-      "text": "each other. For their are [unclear] and",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 6,
+      "text": "each other. for their are [unclear] and",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 7,
       "text": "the Postal Service talking about Postal Service",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 8,
       "text": "if you answer this letter please do not",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 9,
       "text": "use letterhead just plain letter will do",
       "status": "image_matched"
     },
     {
+      "lineNumber": 10,
+      "text": "for I dont want any Postal clubs getting",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 11,
-      "text": "for I don't want any Postal clubs getting",
-      "status": "image_matched"
+      "text": "I have... the truth is I dont want",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "[unclear] -- the butt is I don't want",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 13,
       "text": "anyone but you to know where or",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 13,
       "text": "who the letters are from.",
       "status": "image_matched"
     },
     {
+      "lineNumber": 14,
+      "text": "Thanking You. I remaind",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 15,
-      "text": "WHO",
-      "status": "image_matched"
+      "text": "Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 16,
-      "text": "Thanking You. I remain",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
-      "text": "Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Paxinos Pa.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "P.S. If Saucer's Project wants to clear. this up",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
-      "text": "Paxinos",
-      "status": "image_matched"
+      "text": "quick I have a Idea of how they can do Same and will",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "text": "P.S. If Saucer's Project wants to clear. This is a",
-      "status": "image_matched"
+      "text": "be able to check. and find out who is really at age there",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
-      "text": "quick I have a Idea of how they can do same and will",
-      "status": "image_matched"
+      "text": "let them have people be on the lookout for these give",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
-      "text": "be able to check and find out who is of age there",
-      "status": "image_matched"
+      "text": "the exact time Day and place. Then they",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
-      "text": "will have people be on the lookout for these give",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "text": "the exact time day and place. Then they",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
       "text": "can check my list of dates. I send you.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 24,
       "status": "blank"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 25,
       "text": "MR. JONES",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 26,
       "text": "FEB 16 12 18 PM '50",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
-      "text": "RECEIVED",
-      "status": "image_matched"
+      "lineNumber": 27,
+      "text": "RECEIVED F B I",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 30,
-      "text": "F B I",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 31,
-      "text": "S. DEF. OF JU[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 28,
+      "text": "S. OFF. [unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

@@ -8,53 +8,36 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "15 permanent_unresolved line(s) excluded under SRC-896. 31 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0027-l0007",
-    "page_0027-l0008",
-    "page_0027-l0009",
-    "page_0027-l0011",
-    "page_0027-l0013",
-    "page_0027-l0015",
-    "page_0027-l0016",
-    "page_0027-l0018",
-    "page_0027-l0021",
-    "page_0027-l0023",
-    "page_0027-l0025",
-    "page_0027-l0028",
-    "page_0027-l0034",
-    "page_0027-l0039",
-    "page_0027-l0042"
-  ],
-  "lineCount": 51,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 55,
   "lines": [
     {
       "lineNumber": 1,
+      "text": "STANDARD FORM NO. 64",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 2,
       "text": "Office Memorandum • UNITED STATES GOVERNMENT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 2,
-      "text": "TO : MR. D. M. LADD DATE: March 3, 1950",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 3,
-      "text": "FROM : MR. T. H. BELMONT",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 4,
-      "text": "SUBJECT: UNKNOWN OBJECT OVER OAK RIDGE, TENNESSEE, MARCH 1, 1950;",
-      "status": "image_matched"
+      "text": "TO : MR. D. M. LADD",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "COMPLAINANT; VITAL FACILITIES; INTERNAL SECURITY",
-      "status": "image_matched"
+      "text": "DATE: March 3, 1950",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -62,238 +45,240 @@
     },
     {
       "lineNumber": 7,
-      "text": "At 9:55 A.M. today, SAC Robey of Knoxville advised that [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "FROM : MR. A. H. BELMONT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
-      "text": "owner and operator of [REDACTED] Knoxville, had called",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 9,
-      "text": "the Knoxville Office at 11:15 P.M. on March 1. [REDACTED] is a radio ham",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "SUBJECT: UNKNOWN OBJECT OVER OAK RIDGE, TENNESSEE, MARCH 1, 1950;",
+      "status": "image_matched"
     },
     {
       "lineNumber": 10,
+      "text": "[REDACTED] COMPLAINANT; VITAL FACILITIES; INTERNAL SECURITY",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "At 9:55 A.M. today, SAC Robey of Knoxville advised that [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 13,
+      "text": "[REDACTED], owner and operator of [REDACTED] Knoxville, had called",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 14,
+      "text": "the Knoxville Office at 11:15 P.M. on March 1. [REDACTED] is a radio ham",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 15,
       "text": "operator and has set up in his home in Knoxville an Army Surplus APN-7",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 16,
       "text": "radar set. [REDACTED] advised that he had picked up on this set a \"pip\"",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 17,
       "text": "indicating that an object was circling at an altitude of about 40,000 feet",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 18,
       "text": "over Oak Ridge. [REDACTED] stated that he customarily had followed the movement",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 19,
       "text": "of airplanes through this set and he was sure this item was not a thunder",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 20,
       "text": "cloud. Mr. [REDACTED] advised that the Knoxville Office had immediately notified",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 21,
       "text": "the AEC Security Section following the receipt of the call from Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 23,
       "text": "At 5:30 P.M. on March 2, Mr. [REDACTED] again called to say that he had",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 24,
       "text": "again picked up an object at 11:15 A.M. on March 2 about 100,000 feet up and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 25,
       "text": "about 18 miles from his home in Knoxville which would place the object over Oak",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 26,
       "text": "Ridge. Mr. [REDACTED] advised that CIC Agents had been given the information coming",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 27,
       "text": "from the Knoxville Office, as a result of which CIC Agents and OSI representatives",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 28,
       "text": "went out last night and looked over Mr. [REDACTED] set. They did see an object",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 29,
       "text": "on the screen about 11:00 or 12:00 P.M. last night. They reported this infor-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 30,
       "text": "mation to the Third Army. Mr. [REDACTED] was of the opinion that the Air Force",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 31,
       "text": "probably has sent the information to Washington also. Army CIC has now informed",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 32,
       "text": "that CIA is going to send a technician down from Washington to examine the set.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 33,
       "text": "Mr. [REDACTED] had no information as to how CIA had jurisdiction. Mr. [REDACTED] advised",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 34,
       "text": "that the Army is also contemplating sending a man up from Atlanta with a portable",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 35,
       "text": "radar set to check into this situation. In addition, the Naval Reserve has a",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 36,
       "text": "set locally and is putting it into operation this morning in an effort to identify",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 37,
       "text": "this object.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 38,
       "status": "blank"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 39,
       "text": "Mr. [REDACTED] advised that AEC and the Armed Forces' representatives are",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 40,
       "text": "somewhat concerned about this matter and he wanted the Bureau to have the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 41,
       "text": "above information in case there were inquiries.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 42,
       "status": "blank"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 43,
       "text": "ACTION",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
-      "text": "I advised Mr. [REDACTED] to keep in touch with the situation and let us",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 44,
+      "status": "blank"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 45,
+      "text": "I advised Mr. [REDACTED] to keep in touch with the situation and let us",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 46,
       "text": "know immediately of any developments and as to any information picked up by the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 47,
       "text": "Armed Forces or the CIA representative. I also requested that he ascertain who",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 48,
       "text": "the CIA representative is and what action he took upon his arrival. Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 49,
       "text": "was advised that no investigation should be conducted by the Knoxville Office",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 50,
       "text": "but that he should be kept advised of developments and should send a teletype",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 51,
       "text": "to the Bureau tonight.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 52,
       "status": "blank"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 53,
       "text": "AHB:mer",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
-      "text": "5 7 APR 6 /1950",
-      "status": "image_matched"
+      "lineNumber": 54,
+      "text": "57 APR 6 1950",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 49,
-      "text": "REC-9",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 50,
+      "lineNumber": 55,
       "text": "104 MAR 17 1950",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 51,
-      "text": "37.",
       "status": "image_matched"
     }
   ],

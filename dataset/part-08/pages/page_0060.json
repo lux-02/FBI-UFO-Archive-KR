@@ -8,170 +8,164 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 22 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0060-l0001",
-    "page_0060-l0005",
-    "page_0060-l0034"
-  ],
-  "lineCount": 34,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 36,
   "lines": [
     {
       "lineNumber": 1,
       "text": "Director, FBI",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "status": "blank"
+      "text": "August 16, 1949",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "SAC, San Antonio",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "status": "blank"
-    },
-    {
       "lineNumber": 5,
-      "text": "PROTECTION OF VITAL INSTALLATIONS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
-      "status": "blank"
+      "text": "PROTECTION OF VITAL INSTALLATIONS",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
       "text": "I am attaching hereto a number of copies of reports being received",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "in great numbers in this office concerning the so-called flying",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "disks or unnatural phenomena being frequently observed around Camp",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "Hood, Texas. This is, of course, a primary concern of the Air",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "Corps. Consequently, this office is following the practice of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "text": "reviewing these data and then destroying them in the event there",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 14,
       "text": "appears to be nothing of FBI interest therein. It is pointed out",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "text": "that the filing of these would result in the rapid accumulation",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
       "text": "of very bulky files.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "status": "blank"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "text": "Unless the Bureau believes this is unwise, this practice will",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 19,
       "text": "continue.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "status": "blank"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 21,
       "text": "Encls.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 22,
-      "text": "CEW:cs",
-      "status": "image_matched"
+      "lineNumber": 23,
+      "text": "CEN:cs",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 24,
       "text": "100-7545",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
       "status": "blank"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 26,
       "text": "copies of reports filed",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 27,
       "text": "with original",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 28,
       "status": "blank"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 29,
       "text": "162-83894",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 30,
       "text": "NOT RECORDED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 31,
       "text": "AUG 23 1949",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
-      "text": "ON",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 32,
-      "text": "ORIGINAL",
-      "status": "image_matched"
+      "text": "ON [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 33,
@@ -179,9 +173,17 @@
     },
     {
       "lineNumber": 34,
+      "text": "5274",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
       "text": "51 SEP 9 1949",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

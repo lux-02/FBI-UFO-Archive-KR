@@ -8,47 +8,40 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 38 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0051-l0002",
-    "page_0051-l0022",
-    "page_0051-l0039"
-  ],
-  "lineCount": 46,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 61,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "RECORDED",
-      "status": "image_matched"
+      "text": "RECORDED 87",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
       "text": "62-83894-202",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "Date:",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 4,
-      "text": "October 19, 1949",
-      "status": "image_matched"
+      "text": "Date: October 19, 1949",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "To:",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
-      "text": "Director",
-      "status": "image_matched"
+      "text": "To: Director",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
@@ -57,68 +50,66 @@
     },
     {
       "lineNumber": 8,
-      "text": "EX-119",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 9,
       "text": "The Inspector General",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
-      "text": "Department of the Air Force",
-      "status": "image_matched"
+      "lineNumber": 9,
+      "text": "EX-119 Department of the Air Force",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 10,
       "text": "The Pentagon",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "text": "Washington, D. C.",
       "status": "image_matched"
     },
     {
+      "lineNumber": 12,
+      "status": "blank"
+    },
+    {
       "lineNumber": 13,
-      "text": "From:",
-      "status": "image_matched"
+      "text": "CONFIDENTIAL",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "John Edgar Hoover - Director, Federal Bureau of Investigation",
-      "status": "image_matched"
+      "text": "REGISTERED MAIL",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
-      "text": "Subject:",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 16,
-      "text": "FLYING DISCS",
-      "status": "image_matched"
+      "text": "APPROPRIATE AGENCIES",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "text": "There is set forth the following unverified information relating to",
-      "status": "image_matched"
+      "text": "AND FIELD OFFICES",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": "the captioned matter which was furnished to this Bureau by a confidential",
-      "status": "image_matched"
+      "text": "ADVISED BY ROUTING",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
-      "text": "source whose reliability is unknown and who has requested that his identity not",
-      "status": "image_matched"
+      "text": "SLIP (S) OF [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 20,
-      "text": "be revealed.",
-      "status": "image_matched"
+      "text": "DATE 9/11/97",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
@@ -126,126 +117,194 @@
     },
     {
       "lineNumber": 22,
-      "text": "I was flying from [unclear] to Parkersburg, W. Va. this",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "From: John Edgar Hoover - Director, Federal Bureau of Investigation",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
-      "text": "afternoon (September 25, 1949) and about four miles airline",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 24,
-      "text": "southwest of Parkersburg, I suddenly noticed a bright yellow",
-      "status": "image_matched"
+      "text": "Subject: FLYING DISCS",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
-      "text": "object coming directly towards me. It came at me with",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 26,
-      "text": "such speed, added to my 100 m.p.h. forward speed that it",
+      "text": "There is set forth the following unverified information relating to",
       "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "startled me and had passed by in a matter of a couple of",
+      "text": "the captioned matter which was furnished to this Bureau by a confidential",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "text": "seconds, but it passed by about 100 feet under my ship and",
+      "text": "source whose reliability is unknown and who has requested that his identity not",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "about 50 feet to my right, and because of the dark green",
+      "text": "be revealed.",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "background of the forests below I was able to get a fairly",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 31,
-      "text": "clear outline of the object, and what I believe is a very",
-      "status": "image_matched"
+      "text": "\"I was flying from [unclear] to Parkersburg, W. Va. this",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 32,
-      "text": "accurate description.",
+      "text": "afternoon (September 25, 1949) and about four miles airline",
       "status": "image_matched"
     },
     {
       "lineNumber": 33,
-      "status": "blank"
+      "text": "southwest of Parkersburg, I suddenly noticed a bright yellow",
+      "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "text": "Color - bright canary yellow",
+      "text": "object coming directly towards me. It came at me with",
       "status": "image_matched"
     },
     {
       "lineNumber": 35,
-      "text": "Length - about 15 to 18 inches",
+      "text": "such speed, added to my 100 m.p.h. forward speed that it",
       "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "text": "Diameter - about 4\" in the largest part",
+      "text": "startled me and had passed by in a matter of a couple of",
       "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "status": "blank"
+      "text": "seconds, but it passed by about 100 feet under my ship and",
+      "status": "image_matched"
     },
     {
       "lineNumber": 38,
-      "text": "It resembled a rocket, in fact was about the same shape",
+      "text": "about 50 feet to my right, and because of the dark green",
       "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "text": "[unclear] of a Lockheed Air Force X-90",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "background of the forests below I was able to get a very",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 40,
-      "status": "blank"
+      "text": "clear outline of the object, and what I believe is a very",
+      "status": "image_matched"
     },
     {
       "lineNumber": 41,
-      "text": "MAILED 12",
+      "text": "accurate description.",
       "status": "image_matched"
     },
     {
       "lineNumber": 42,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 43,
+      "text": "\"Color - bright canary yellow",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 44,
+      "text": "\"Length - about 15 to 18 inches",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 45,
+      "text": "\"Diameter - about 4\" in the largest part",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 46,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 47,
+      "text": "\"It resembled a rocket, in fact was about the same shape",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 48,
+      "text": "as the fuselage of a Lockheed Air Force X-90.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 49,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 50,
+      "text": "COMMUNICATIONS SECTION",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
+      "text": "MAILED 12 [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 52,
       "text": "OCT 20 1949 P.M.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 53,
       "status": "blank"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 54,
       "text": "FEDERAL BUREAU OF INVESTIGATION",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 55,
       "text": "U. S. DEPARTMENT OF JUSTICE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
-      "text": "52 NOV1 1949",
-      "status": "image_matched"
+      "lineNumber": 56,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 57,
+      "text": "52 NOV 1- 1949",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 58,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 59,
+      "text": "BUREAU OF [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 60,
+      "text": "I. B. OF JUSTICE",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 61,
+      "text": "OCT 25 5 29 PM '49",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

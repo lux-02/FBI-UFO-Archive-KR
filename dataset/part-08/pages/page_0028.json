@@ -8,21 +8,12 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 35 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0028-l0004",
-    "page_0028-l0005",
-    "page_0028-l0015",
-    "page_0028-l0029",
-    "page_0028-l0030",
-    "page_0028-l0035",
-    "page_0028-l0037",
-    "page_0028-l0039"
-  ],
-  "lineCount": 48,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 45,
   "lines": [
     {
       "lineNumber": 1,
@@ -41,15 +32,13 @@
     },
     {
       "lineNumber": 4,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. Glavin",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. Nichols",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -97,175 +86,156 @@
     },
     {
       "lineNumber": 15,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 16,
       "text": "COMMUNICATIONS SECTION",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 16,
       "text": "MAR 30 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 17,
       "text": "TELETYPE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 18,
       "status": "blank"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 19,
       "text": "FBI ALBUQUERQUE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 20,
       "text": "3-30-50",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 21,
       "text": "7-55 PM MST",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 22,
       "text": "DIRECTOR, FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 23,
       "text": "URGENT",
       "status": "image_matched"
     },
     {
+      "lineNumber": 24,
+      "status": "blank"
+    },
+    {
       "lineNumber": 25,
-      "text": "FLYING SAUCERS, INFO CONCERNING.",
-      "status": "image_matched"
+      "text": "FLYING SAUCERS. INFO CONCERNING. [REDACTED] STUDENT, UNIVERSITY OF",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 26,
-      "text": "STUDENT, UNIVERSITY OF",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
       "text": "NEW MEXICO AND REPORTER FOR SCHOOL PAPER FURNISHED THIS OFFICE WITH",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 27,
       "text": "TRICK PHOTOGRAPH OF MOUNTIAN SIDE SHOWING A FLYINGSAUCER CRASHED AND",
       "status": "image_matched"
     },
     {
+      "lineNumber": 28,
+      "text": "BURNING ON THE SIDE OF THE MOUNTIAN, LITTLE MEN WALKING AWAY AND",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 29,
-      "text": "BURDING ON THE SIDE OF THE MOUNTIAN, LITTLE MEN WALKING AWAY AND",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "FOUR FLYING SAUCERS HOVERING AROUND THE CRASHED ONE. [REDACTED], WHO HAS",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 30,
-      "text": "FOUR FLYING SAUCERS HOVERING AROUND THE CRASHED ONE, [REDACTED] WHO HAS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 31,
       "text": "VOLUNTARILY FURNISHED INFORMATION TO THIS OFFICE PREVIOUSLY STATED HE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 31,
       "text": "IS RESPONSIBLE FOR MAKING THE TRICK PHOTOGRAPH. HE FIRST TOOK A",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 32,
       "text": "PHOTOGRAPH OF A HILLSIDE NEAR ALBUQUERQUE, HAD THE FLYING SAUCERS,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 33,
       "text": "CRASHED SAUCER, SMOKE AND LITTLE MEN DRAWN IN AND THEN MADE THE FINAL",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 34,
       "text": "PHOTOGRAPH. [REDACTED] STATED THIS PHOTOGRAPH AND A RIDICULOUS STORY WILL",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 35,
       "text": "BE PRINTED IN THE UNIV. OF N.M. SCHOOL PAPER THIRTY FIRST INSTANT AND",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 36,
       "text": "MAY BE CARRIED OVER ASSOCIATED PRESS LINES. [REDACTED] WAS ADVISED THAT THIS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 37,
       "text": "OFFICE GAVE NO SANCTION OR CLEARANCE TO HIS IDEA. THIS FOR BUREAU-S",
       "status": "image_matched"
     },
     {
+      "lineNumber": 38,
+      "text": "INFORMATION. LOCAL INTELLIGENCE REPRESENTATIVES ADVISED.",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 39,
-      "text": "INFORMATION. LOCAL INTELLIGENCE REPRESENTATIVES ADVISED. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "INDEXED-112 62-83894-214",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 40,
-      "status": "blank"
+      "text": "RECORDED-112",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 41,
-      "text": "RECORDED. 112",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 43,
       "text": "52 APR 10 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 42,
+      "text": "WYLY",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 43,
       "text": "CORRECTION FIRST WORD FOURTH LINE BURNING",
       "status": "image_matched"
     },
     {
+      "lineNumber": 44,
+      "text": "END AND ACK PLS",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 45,
-      "text": "END AND ACK PLS.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
-      "text": "10-03 PM OK-FBI",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 47,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 48,
-      "text": "WYLY",
-      "status": "image_matched"
+      "text": "10-03 PM OK FBI WA NI",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

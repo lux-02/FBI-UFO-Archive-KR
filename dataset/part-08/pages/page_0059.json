@@ -8,21 +8,12 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 8 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0059-l0005",
-    "page_0059-l0006",
-    "page_0059-l0009",
-    "page_0059-l0010",
-    "page_0059-l0011",
-    "page_0059-l0012",
-    "page_0059-l0013",
-    "page_0059-l0014"
-  ],
-  "lineCount": 16,
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 34,
   "lines": [
     {
       "lineNumber": 1,
@@ -46,71 +37,149 @@
     },
     {
       "lineNumber": 5,
-      "text": "TELEMEETER",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "TELEMETER",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "WASHINGTON FROM LOSA",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 7,
-      "text": "DIRECTOR",
-      "status": "image_matched"
+      "text": "Mr. Tolson",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
-      "text": "URGENT",
-      "status": "image_matched"
+      "text": "Mr. Ladd",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "RE FLYING DISKS. LA TIMES AUG. TWENTY ARTICLE DATED",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. Clegg",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "LINED, WASHINGTON AUG. NINETEEN, U.P. RELEASE, INDICATING",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. Glavin",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "U.S. AIR FORCE SEARCHING FOR [REDACTED] WHO MADE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. Nichols",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "FLYING DISKS DISCOVERED IN HARLEY PARK, ED, AUG 24 INFO RECEIVED",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. Rosen",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "text": "MANHATTAN BEACH, CALIF. THIS INFO BEING FURNISHED",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 14,
-      "text": "OSI MAYWOOD, MONDAY UNLESS ADVISED TO CONTRARY",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. Harbo",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
+      "text": "Mr. Mohr",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Tele. Room",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Mr. Nease",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 18,
+      "text": "Miss Gandy",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 19,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 20,
+      "text": "WASHINGTON FROM LOSA [unclear] 20 240 pm",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 21,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 22,
+      "text": "DIRECTOR URGENT",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 23,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 24,
+      "text": "RE FLYING DISKS. LA TIMES AUG. TWENTY ARTICLE DATED",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 25,
+      "text": "LINED, WASHINGTON, AUG. NINETEEN, U.P. RELEASE, INDICATING",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 26,
+      "text": "[REDACTED] U.S. AIR FORCE SEARCHING FOR [REDACTED] WHO MADE",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 27,
+      "text": "FLYING DISKS DISCOVERED IN HARLEY PARK, MD. AUG 24 INFO RECEIVED",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 28,
+      "text": "RECORDED-99",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 29,
+      "text": "[REDACTED] MANHATTAN BEACH, CALIF. THIS INFO BEING FURNISHED",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 30,
+      "text": "OSI, MAYWOOD, MONDAY UNLESS ADVISED TO CONTRARY.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 31,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 32,
       "text": "HOOD",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 33,
       "text": "5C SEP 1 1949",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

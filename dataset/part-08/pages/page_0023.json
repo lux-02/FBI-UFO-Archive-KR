@@ -8,21 +8,12 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0023-l0025",
-    "page_0023-l0026",
-    "page_0023-l0027",
-    "page_0023-l0028",
-    "page_0023-l0029",
-    "page_0023-l0030",
-    "page_0023-l0031",
-    "page_0023-l0032"
-  ],
-  "lineCount": 68,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 44,
   "lines": [
     {
       "lineNumber": 1,
@@ -31,21 +22,22 @@
     },
     {
       "lineNumber": 2,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 3,
-      "text": "DEPARTMENT OF THE ARMY",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 4,
       "text": "STAFF COMMUNICATIONS OFFICE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 3,
       "status": "blank"
+    },
+    {
+      "lineNumber": 4,
+      "text": "[unclear] from CWB/jo",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 5,
+      "text": "-13- 50",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -59,149 +51,143 @@
     },
     {
       "lineNumber": 8,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 9,
       "text": "PARAPHRASE NOT REQUIRED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 9,
       "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "From: COMGENARMYTHREE Ft McPherson Ga",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "From:",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 12,
-      "status": "blank"
+      "text": "To: Dept of Army for Director of Intel 5 67c",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "text": "COMGENARMYTHREE Ft McPherson Ga",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 14,
-      "status": "blank"
+      "text": "Nr: AJACI-3-5 3206 9 Mar 50",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
-      "text": "To:",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 16,
-      "status": "blank"
+      "text": "Reour TWX AJACI-3-3 subject reported radar sightings",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "text": "Dept of Army for Director of Intel",
-      "status": "image_matched"
+      "text": "over Oakridge, additional info indicates that radar [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 18,
-      "status": "blank"
+      "text": "experienced and radar set has been modified so as to cast",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
-      "text": "Nr:",
-      "status": "image_matched"
+      "text": "doubt on reliability of reading. Chief Tennessee Mil Dist",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "status": "blank"
+      "text": "recommends expeditious action be taken to determine whether",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
-      "text": "AJACI-3-5 3206",
-      "status": "image_matched"
+      "text": "an unknown object has reappeared over Oakridge in the past",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
-      "status": "blank"
+      "text": "few days. Chief Security Div at Oakridge requested info",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
-      "text": "9 Mar 50",
-      "status": "image_matched"
+      "text": "as to channels of communication with Air Force in connection",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 25,
-      "text": "Reour THX AJACI-3-3 subject reported radar sightings",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 26,
-      "text": "over Oakridge, additional info indicates that radar",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 27,
-      "text": "experienced and radar set has been modified so as to cast",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 28,
-      "text": "doubt on reliability of reading. Chief Tennessee Mil Dist",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 29,
-      "text": "recommends expeditious action be taken to determine whether",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 30,
-      "text": "an unknown object has reappeared over Oakridge in the past",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 31,
-      "text": "few days. Chief Security Div at Oakridge requested info",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 32,
-      "text": "as to channels of communication with Air Force in connection",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 33,
       "text": "with radar sightings.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 25,
       "status": "blank"
     },
     {
-      "lineNumber": 35,
-      "text": "Note:",
+      "lineNumber": 26,
+      "text": "Note: Ref is CM IN 12184 (4 Mar) G-2",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
+      "text": "62-83894 318",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 29,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 30,
+      "text": "ACTION: G-2",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 31,
+      "text": "INFO: G-3",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 32,
+      "text": "RECORDED-104",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 33,
       "status": "blank"
     },
     {
+      "lineNumber": 34,
+      "text": "CM IN 13022 (10 Mar 50) DTG: [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
+      "text": "20 MAR 10 50",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 37,
-      "text": "Ref is CM IN 12184 (4 Mar) G-2",
+      "text": "24",
       "status": "image_matched"
     },
     {
@@ -210,139 +196,33 @@
     },
     {
       "lineNumber": 39,
-      "text": "62-83894 7/8",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 41,
-      "text": "ACTION: G-2",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 43,
-      "text": "INFO:",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 45,
-      "text": "G-3",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 47,
-      "text": "CM IN 13022",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 49,
-      "text": "(10 Mar 50)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 50,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 51,
-      "text": "DTG: 091400Z-SUB/3",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 52,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 53,
-      "text": "20 MAR 10'50",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 54,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 55,
       "text": "OCS FORM 270",
       "status": "image_matched"
     },
     {
-      "lineNumber": 56,
+      "lineNumber": 40,
       "text": "1 JAN 50",
       "status": "image_matched"
     },
     {
-      "lineNumber": 57,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 58,
-      "text": "CONFIDENTIAL",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 59,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 60,
-      "text": "COPY NO.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 61,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 62,
-      "text": "24",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 63,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 64,
+      "lineNumber": 41,
       "text": "32 MAR 31 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 65,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 66,
-      "text": "REPLACES DA SCO FORM 22-1, 15 JAN 49, WHICH MAY BE USED.",
+      "lineNumber": 42,
+      "text": "CONFIDENTIAL",
       "status": "image_matched"
     },
     {
-      "lineNumber": 67,
-      "status": "blank"
+      "lineNumber": 43,
+      "text": "COPY NO.",
+      "status": "image_matched"
     },
     {
-      "lineNumber": 68,
-      "text": "U.S. GOVERNMENT PRINTING OFFICE 1949-O-865128",
-      "status": "image_matched"
+      "lineNumber": 44,
+      "text": "REPLACES DA SCO FORM 22-1, 15 JAN 49, WHICH MAY BE USED. U. S. GOVERNMENT PRINTING OFFICE 1950 - O 865128",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

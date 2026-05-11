@@ -8,53 +8,42 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 5 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0009-l0001",
-    "page_0009-l0002",
-    "page_0009-l0005",
-    "page_0009-l0006",
-    "page_0009-l0010",
-    "page_0009-l0011"
-  ],
-  "lineCount": 14,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 12,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "in the Buffalo office. The story is to long to write it down to-day.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "in his Buffalo office. The story is to long to write it down to-day",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
       "text": "feel jittery about this fellow Ubalsty as I think he is a very bad egg",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "& etc. He was friendly to me and told me to do the best I could and when",
-      "status": "image_matched"
+      "text": "etc. He was friendly to me and told me to do the best I could and when",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "get it done to let them know and my price will be paid pronto.",
-      "status": "image_matched"
+      "text": "at it day to let them know and my price will be paid pronto.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "This puts me on a footing with them and I stall them off all the time.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "This keeps me on a footing with them and I stall them off all the time.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "Well this is the sincer as I have it for you.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Well this is the saucer as I have it for you.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
@@ -67,31 +56,21 @@
     },
     {
       "lineNumber": 9,
-      "status": "blank"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 12,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 13,
       "text": "yuba city",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 12,
       "text": "calif.",
       "status": "image_matched"
     }

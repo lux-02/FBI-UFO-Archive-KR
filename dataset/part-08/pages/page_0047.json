@@ -10,14 +10,120 @@
   "sourceLayer": "line_audit",
   "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "NO_SAFE_SOURCE_TEXT",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
   "pageReadinessNote": null,
   "excludedLineIds": [],
-  "lineCount": 1,
+  "lineCount": 22,
   "lines": [
     {
       "lineNumber": 1,
-      "status": "blank"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Phila, Pa",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 3,
+      "text": "2-4-50",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 4,
+      "text": "Re: Flying Saucers",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
+      "text": "With the persistent [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 6,
+      "text": "on the above it sort of annoys",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
+      "text": "me as I have an opinion of its",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 8,
+      "text": "true nature & I feel pretty",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
+      "text": "bad if I happened to be right",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 10,
+      "text": "& resulted in harm to my country",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 11,
+      "text": "so I go on it be waste of",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 12,
+      "text": "time (my theory perhaps has",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
+      "text": "been considered and discounted)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 14,
+      "text": "on the other hand if it's a new",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "idea it might bear investigating.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Very truly yours,",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 17,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 18,
+      "text": "RECORDED - 128",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 19,
+      "text": "FEB 7 1950",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 20,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 21,
+      "text": "P.S. my store is [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 22,
+      "text": "[unclear] lunch hour (1 to 2 [unclear])",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

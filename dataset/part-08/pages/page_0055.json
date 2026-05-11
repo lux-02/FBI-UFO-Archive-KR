@@ -8,18 +8,12 @@
     "sha256": "9c50bf6138108cd841924260f9d520e2f4d6c46b7ca822d99dc52c12c7d8b933"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 42 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0055-l0019",
-    "page_0055-l0047",
-    "page_0055-l0054",
-    "page_0055-l0055",
-    "page_0055-l0056"
-  ],
-  "lineCount": 56,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 54,
   "lines": [
     {
       "lineNumber": 1,
@@ -109,8 +103,7 @@
     {
       "lineNumber": 19,
       "text": "If is it true that the Soviet leaders intend to use the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
@@ -174,8 +167,8 @@
     },
     {
       "lineNumber": 32,
-      "text": "carrying more than a few pounds or pinned, cardboard disks",
-      "status": "image_matched"
+      "text": "carrying more than a few pounds, or finned, cardboard disks",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
@@ -248,9 +241,8 @@
     },
     {
       "lineNumber": 47,
-      "text": "cost in lives, yet denied across nations, they better being",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "cost in lives, yet denied across nations, the latter being",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 48,
@@ -268,34 +260,22 @@
     },
     {
       "lineNumber": 51,
-      "status": "blank"
+      "text": "s/ [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 52,
-      "text": "s/",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 53,
       "status": "blank"
     },
     {
+      "lineNumber": 53,
+      "text": "11-10-49",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 54,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 55,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 56,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "YRA",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null
