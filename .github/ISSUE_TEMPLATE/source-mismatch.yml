@@ -1,0 +1,70 @@
+name: Source mismatch
+description: Report an OCR, page, or source-line mapping mismatch.
+title: "[Source] part-XX page-NNNN: "
+labels:
+  - source
+  - review-needed
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template for OCR/source text, page image, hash, or mapping defects. For Korean wording only, use the translation error template.
+  - type: input
+    id: part
+    attributes:
+      label: Part
+      placeholder: "part-06"
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      placeholder: "page-0004"
+    validations:
+      required: true
+  - type: dropdown
+    id: mismatch_type
+    attributes:
+      label: Mismatch type
+      options:
+        - OCR/source text does not match page image
+        - Source line mapping is wrong
+        - Page image is missing or wrong
+        - Manifest metadata is wrong
+        - SHA-256/source URL verification issue
+    validations:
+      required: true
+  - type: textarea
+    id: observed
+    attributes:
+      label: Observed problem
+      description: Describe the smallest reproducible mismatch.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected source-backed result
+      description: Explain what the source PDF/page appears to show.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Include source line IDs, dataset paths, reader URL, or FBI Vault page context.
+      placeholder: |
+        Dataset path: dataset/part-06/pages/page_0004.json
+        Reader URL: https://ufo.n2f.site/archive/part-06/page-0004
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I checked the relevant source page or source text.
+          required: true
+        - label: This report is about source fidelity, not interpretation.
+          required: true

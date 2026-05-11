@@ -10,7 +10,7 @@ does not represent any official position, interpretation, or conclusion.
 
 | Area | Paths | License / Policy |
 |---|---|---|
-| Reader app and project code | `src/`, `scripts/sync-page-images.mjs`, `astro.config.mjs`, `package.json`, `tsconfig.json` | MIT License, see [`LICENSE`](LICENSE) |
+| Reader app and project code | `src/`, `scripts/sync-page-images.mjs`, `scripts/verify-content.mjs`, `astro.config.mjs`, `package.json`, `tsconfig.json` | MIT License, see [`LICENSE`](LICENSE) |
 | Source manifest and OCR/source metadata | `data/sources.json`, `dataset/part-*/manifest.json`, `dataset/part-*/pages/**`, `dataset/part-*/translations/ko/summary.json`, `dataset/part-*/translations/ko/excluded_source_lines.json` | CC0 1.0 Universal |
 | Korean translation exports | `dataset/part-*/translations/ko/units.json`, `dataset/part-*/translations/ko/pages/**` | Creative Commons Attribution 4.0 International (CC BY 4.0) |
 | Reader scan image cache | `public/source-cache/**` | No additional rights claimed; source-derived reading aids |

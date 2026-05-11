@@ -254,7 +254,7 @@ Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 | 영역 | 위치 | 상태 |
 |---|---|---|
 | PDF 출처 매니페스트 | `data/sources.json` | 16개 PDF의 FBI Vault URL, SHA-256, 페이지 수 |
-| 공개 OCR/번역 데이터셋 | `dataset/` | Part 01-06 OCR/한국어 번역 export 완료 |
+| 공개 OCR/번역 데이터셋 | `dataset/` | Part 01-16 OCR/한국어 번역 export 완료 |
 | 정적 웹 리더 | `src/`, `public/` | [ufo.n2f.site](https://ufo.n2f.site)에 배포 |
 | 원본 PDF | 저장소에 미포함 | FBI Vault에서 직접 확인 |
 
@@ -407,6 +407,19 @@ pnpm pdfs:download --dry-run
 | `pnpm build` | 정적 리더를 `dist/`로 빌드 |
 | `pnpm preview` | 빌드 결과를 로컬에서 미리보기 |
 | `pnpm pdfs:download --dry-run` | `data/sources.json` 기준으로 로컬 PDF 해시 검증 |
+
+---
+
+## 기여와 오류 제보
+
+번역 오류, 원문 대조 불일치, 출처 메타데이터 문제는 GitHub issue template으로 제보합니다.
+
+- [`CONTRIBUTING.md`](CONTRIBUTING.md): 기여 원칙과 검증 명령
+- [번역 오류 제보](.github/ISSUE_TEMPLATE/translation-error.yml): 한국어 번역의 오역, 누락, 문체 문제
+- [원문 대조 불일치 제보](.github/ISSUE_TEMPLATE/source-mismatch.yml): OCR, page, source line mapping 문제
+- [`SECURITY.md`](SECURITY.md): 보안 관련 제보 범위
+
+제보에는 가능한 한 Part, page, source line 또는 원문 PDF 대조 근거를 포함해 주세요.
 
 ---
 

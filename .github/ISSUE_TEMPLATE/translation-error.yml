@@ -1,0 +1,76 @@
+name: Translation error
+description: Report an issue in a Korean translation unit.
+title: "[Translation] part-XX page-NNNN: "
+labels:
+  - translation
+  - review-needed
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Report only source-backed translation issues. Do not add claims or interpretations that are not present in the source PDF.
+  - type: input
+    id: part
+    attributes:
+      label: Part
+      description: Use the dataset part number.
+      placeholder: "part-06"
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: Use the 4-digit page number when possible.
+      placeholder: "page-0004"
+    validations:
+      required: true
+  - type: input
+    id: unit
+    attributes:
+      label: Translation unit ID
+      placeholder: "TU-p06-page-0004-u003"
+    validations:
+      required: false
+  - type: textarea
+    id: current
+    attributes:
+      label: Current Korean text
+      description: Paste only the relevant sentence or paragraph.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source text or evidence
+      description: Paste the matching OCR/source text, source line, or describe the PDF page evidence.
+    validations:
+      required: true
+  - type: textarea
+    id: suggested
+    attributes:
+      label: Suggested correction
+      description: Keep the wording documentary and source-faithful.
+    validations:
+      required: true
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: Issue type
+      options:
+        - Mistranslation
+        - Missing translation
+        - Over-interpretation
+        - Korean wording/style
+        - Source mapping mismatch
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Confirmation
+      options:
+        - label: I checked the relevant source page or source text.
+          required: true
+        - label: This report does not add claims absent from the source document.
+          required: true

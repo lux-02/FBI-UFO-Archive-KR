@@ -336,23 +336,20 @@ Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 
 ```sh
 cd <repo>
-shasum -a 256 docs/ufo1.pdf
-# Should match dataset/part-01/manifest.json -> source.sha256
+for part in $(seq 1 16); do
+  part_id=$(printf "%02d" "$part")
+  pdf="docs/ufo${part}.pdf"
+  manifest="dataset/part-${part_id}/manifest.json"
+  actual=$(shasum -a 256 "$pdf" | awk '{print $1}')
+  expected=$(node -e "console.log(require('./${manifest}').source.sha256)")
 
-shasum -a 256 docs/ufo2.pdf
-# Should match dataset/part-02/manifest.json -> source.sha256
-
-shasum -a 256 docs/ufo3.pdf
-# Should match dataset/part-03/manifest.json -> source.sha256
-
-shasum -a 256 docs/ufo4.pdf
-# Should match dataset/part-04/manifest.json -> source.sha256
-
-shasum -a 256 docs/ufo5.pdf
-# Should match dataset/part-05/manifest.json -> source.sha256
-
-shasum -a 256 docs/ufo6.pdf
-# Should match dataset/part-06/manifest.json -> source.sha256
+  if [ "$actual" = "$expected" ]; then
+    printf "part-%s OK\\n" "$part_id"
+  else
+    printf "part-%s SHA-256 mismatch\\n  actual:   %s\\n  expected: %s\\n" "$part_id" "$actual" "$expected"
+    exit 1
+  fi
+done
 ```
 
 ## Regenerate
