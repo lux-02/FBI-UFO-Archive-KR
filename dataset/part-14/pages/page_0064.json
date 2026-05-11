@@ -8,14 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 31 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0064-l0032"
-  ],
-  "lineCount": 42,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 48,
   "lines": [
     {
       "lineNumber": 1,
@@ -24,51 +22,50 @@
     },
     {
       "lineNumber": 2,
+      "text": "of/by Sincere",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "Date: October 2, 1958",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "To: Director of Special Investigations",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 7,
       "text": "The Inspector General",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 8,
       "text": "Department of the Air Force",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 9,
       "text": "Building Tempo E",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 10,
       "text": "4th and Adams Drive, S. W.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
-      "text": "Washington 25, D. C.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 9,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 10,
-      "text": "From: John Edgar Hoover, Director",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 11,
-      "text": "Federal Bureau of Investigation",
+      "text": "Washington 25, D. C.",
       "status": "image_matched"
     },
     {
@@ -77,64 +74,64 @@
     },
     {
       "lineNumber": 13,
-      "text": "Subject: DONALD E. KEYHOE",
+      "text": "From: John Edgar Hoover, Director",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "MISCELLANEOUS - INFORMATION CONCERNING",
+      "text": "Federal Bureau of Investigation",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "(Nationalities Intelligence)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
       "status": "blank"
     },
     {
+      "lineNumber": 16,
+      "text": "Subject: DONALD E. KEYHOE",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 17,
-      "text": "For your information, there are enclosed two",
+      "text": "MISCELLANEOUS - INFORMATION CONCERNING",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "Photostats of a letter dated September 22, 1958, ad-",
+      "text": "(Nationalities Intelligence)",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "dressed to this Bureau by the subject and two copies",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 20,
-      "text": "of this Bureau's reply dated September 26, 1958.",
+      "text": "For your information, there are enclosed two",
       "status": "image_matched"
     },
     {
       "lineNumber": 21,
-      "status": "blank"
+      "text": "photostats of a letter dated September 22, 1958, ad-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
-      "text": "Enclosures - 4",
+      "text": "dressed to this Bureau by the subject and two copies",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 24,
-      "text": "1 - WFO (Enclosure - copy of Bureau reply to Keyhoe",
+      "text": "of this Bureau's reply dated September 26, 1958.",
       "status": "image_matched"
     },
     {
+      "lineNumber": 24,
+      "status": "blank"
+    },
+    {
       "lineNumber": 25,
-      "text": "dated September 26, 1958)",
+      "text": "Enclosures - 4",
       "status": "image_matched"
     },
     {
@@ -143,51 +140,50 @@
     },
     {
       "lineNumber": 27,
-      "text": "NOTE:",
+      "text": "1 - WFO (Enclosure - copy of Bureau reply to Keyhoe",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 29,
-      "text": "Subject's letter made pointed inquiries relating to",
+      "text": "dated September 26, 1958)",
       "status": "image_matched"
     },
     {
+      "lineNumber": 29,
+      "status": "blank"
+    },
+    {
       "lineNumber": 30,
-      "text": "Bureau's participation in investigations relating to unidentified",
+      "text": "NOTE:",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "text": "flying objects. Our reply was general in nature. Copies of",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 32,
-      "text": "incoming and are reply being furnished to OSI since Air Force",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Subject's letter made pointed inquiries relating to",
+      "status": "image_matched"
     },
     {
       "lineNumber": 33,
-      "text": "coordinates matters relating to unidentified flying objects.",
+      "text": "Bureau's participation in investigations relating to unidentified",
       "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 35,
-      "text": "ESS:jas",
+      "text": "flying objects. Our reply was general in nature. Copies of",
       "status": "image_matched"
     },
     {
+      "lineNumber": 35,
+      "text": "incoming and are reply being furnished to OSI since Air Force",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 36,
-      "text": "(6)",
+      "text": "coordinates matters relating to unidentified flying objects.",
       "status": "image_matched"
     },
     {
@@ -196,26 +192,54 @@
     },
     {
       "lineNumber": 38,
-      "text": "2 ENCLOSURE",
+      "text": "ESS:jas",
       "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 40,
-      "text": "66 OCT 6 1958",
+      "text": "(6)",
       "status": "image_matched"
     },
     {
+      "lineNumber": 40,
+      "status": "blank"
+    },
+    {
       "lineNumber": 41,
-      "text": "NOT RECORDED",
+      "text": "2 ENCLOSURE",
       "status": "image_matched"
     },
     {
       "lineNumber": 42,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 43,
+      "text": "File 62-84044",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 44,
+      "text": "162-3294-",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 45,
+      "text": "NOT RECORDED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 46,
       "text": "128 OCT 6 1958",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 47,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 48,
+      "text": "66 OCT 6 1958",
       "status": "image_matched"
     }
   ],

@@ -8,124 +8,126 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 10 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0108-l0001",
-    "page_0108-l0006",
-    "page_0108-l0011",
-    "page_0108-l0015",
-    "page_0108-l0017",
-    "page_0108-l0019",
-    "page_0108-l0020"
-  ],
-  "lineCount": 20,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 24,
   "lines": [
     {
       "lineNumber": 1,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 3,
       "text": "February 15, 1972",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 4,
       "status": "blank"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 5,
       "text": "Dear Mr. Hoover,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
       "text": "I would please like your",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "text": "opinion on U.F.O's whether or",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "text": "not you think they exist or",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "not.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "status": "blank"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "Sincerely,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 12,
-      "status": "blank"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
       "text": "ITC",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "text": "2-22-72",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 16,
-      "text": "2-23-72",
-      "status": "image_matched"
+      "text": "fc",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 18,
-      "text": "CORRESPONDENCE",
+      "text": "2-23-72",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 20,
-      "text": "62-93874-476",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
+    },
+    {
+      "lineNumber": 21,
+      "text": "CORRESPONDENCE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
+      "text": "AM1",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 24,
+      "text": "62-93874-478",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

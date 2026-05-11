@@ -8,24 +8,21 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 22 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0037-l0005"
-  ],
-  "lineCount": 27,
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 39,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "UNITED STATES GOVERNMENT",
-      "status": "image_matched"
+      "text": "[unclear] UNITED STATES GOVERNMENT",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
-      "text": "DATE 2/12/59",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
@@ -34,118 +31,169 @@
     },
     {
       "lineNumber": 4,
+      "text": "DATE: 2/12/59",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "FROM : SAC, CHICAGO (62-5494)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "SUBJECT: [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 7,
+      "status": "blank"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 8,
+      "text": "SUBJECT: [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 9,
       "text": "MISCELLANEOUS - INFORMATION CONCERNING",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 10,
       "text": "(NATIONALITIES INTELLIGENCE)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 11,
       "status": "blank"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 12,
       "text": "Rebulet to CG, 1/22/59.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 13,
       "status": "blank"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 14,
       "text": "Per Bureau request, enclosed herewith is a copy of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 15,
       "text": "the book entitled \"They Knew Too Much About Flying Saucers\",",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 16,
       "text": "by GRAY BARKER, noting this book was published by University",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 17,
       "text": "Books, Inc., 404 Fourth Avenue, New York 16, N.Y.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 18,
       "status": "blank"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 19,
       "text": "RUC.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 20,
       "status": "blank"
     },
     {
-      "lineNumber": 18,
-      "text": "REC-75",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
+      "lineNumber": 21,
       "text": "2 - Bureau (Encl.)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "text": "1 - Chicago",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "text": "HBL:tmk",
-      "status": "image_matched"
+      "lineNumber": 23,
+      "text": "HBL: tmk",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 24,
       "text": "(3)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
-      "text": "62-83994-403",
+      "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
+      "text": "[ENCLOSURE]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 29,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 30,
+      "text": "REC-75",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 31,
       "text": "EX-133",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
-      "text": "24 FEB 1959",
-      "status": "image_matched"
+      "lineNumber": 32,
+      "status": "blank"
     },
     {
-      "lineNumber": 26,
-      "text": "ENCLOSED",
-      "status": "image_matched"
+      "lineNumber": 33,
+      "text": "62-83894-403",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 34,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 35,
+      "text": "24 FEB [unclear] 1959",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 36,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 37,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 38,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 39,
       "text": "51 FEB 26 1959",
       "status": "image_matched"
     }

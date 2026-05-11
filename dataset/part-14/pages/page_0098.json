@@ -8,13 +8,11 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 14 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0098-l0005"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 17,
   "lines": [
     {
@@ -39,8 +37,7 @@
     {
       "lineNumber": 5,
       "text": "F44620-76-C-0035. Three volumes, 1,465 p. 68 plates.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,

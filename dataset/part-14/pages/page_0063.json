@@ -8,17 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 35 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0063-l0012",
-    "page_0063-l0016",
-    "page_0063-l0028",
-    "page_0063-l0038"
-  ],
-  "lineCount": 43,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 78,
   "lines": [
     {
       "lineNumber": 1,
@@ -27,63 +22,60 @@
     },
     {
       "lineNumber": 2,
-      "text": "REC 65 62-83894-11",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 3,
-      "text": "EX-133 Date: October 2, 1958",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 4,
+      "text": "REC-65 62-83894-11",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
+      "text": "EX-133",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
+      "text": "Date: October 2, 1958",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
       "text": "To: Director of Special Investigations",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 9,
       "text": "The Inspector General",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 10,
       "text": "Department of the Air Force",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
-      "text": "Building Tempo E,",
-      "status": "image_matched"
+      "lineNumber": 11,
+      "text": "Building Tempo E",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 12,
       "text": "4th and Adams Drive, S. W.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
-      "text": "Washington 25, D. C.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
-      "text": "From: John Edgar Hoover, Director",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
-      "text": "Federal Bureau of Investigation",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "Subject: [REDACTED] MISCELLANEOUS - INFORMATION CONCERNING",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 13,
-      "text": "(Nationalities Intelligence)",
+      "text": "Washington 25, D. C.",
       "status": "image_matched"
     },
     {
@@ -92,88 +84,84 @@
     },
     {
       "lineNumber": 15,
-      "text": "Reference is made to letter dated September 22,",
-      "status": "image_matched"
+      "text": "APPROPRIATE AGENCIES",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
-      "text": "1958, signed by Mr. [REDACTED] your reference 24-185-483,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "AND FIELD OFFICES",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "text": "re \"Unidentified Flying Object, Torrington, Conn.,",
-      "status": "image_matched"
+      "text": "ADVISED BY ROUTING",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": "5 December 1957.\"",
-      "status": "image_matched"
+      "text": "SLIP (S) OF [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 19,
-      "status": "blank"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 20,
-      "text": "Enclosed for your information is a copy of a",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 21,
-      "text": "memorandum dated July 9, 1958, at Denver, Colorado, re-",
+      "text": "From: John Edgar Hoover, Director",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "text": "lating to the subject. The other Government agency",
-      "status": "image_matched"
+      "text": "Federal Bureau of Investigation [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 23,
-      "text": "referred to in the memorandum is the Office of Special",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 24,
-      "text": "Investigations, Lowry Air Force Base, Denver, Colorado.",
-      "status": "image_matched"
+      "text": "Subject: [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 25,
-      "text": "Also enclosed for your information is a copy of a memo-",
-      "status": "image_matched"
+      "text": "MISCELLANEOUS - INFORMATION CONCERNING",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 26,
-      "text": "randum dated July 3, 1958, at San Francisco, California.",
+      "text": "(Nationalities Intelligence)",
       "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "The representative of another Government agency referred",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 28,
-      "text": "to therein is Colonel [REDACTED] USAF District",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 29,
-      "text": "Commander, Travis Air Force Base, California, who fur-",
+      "text": "Reference is made to letter dated September 22,",
       "status": "image_matched"
     },
     {
+      "lineNumber": 29,
+      "text": "1958, signed by Mr. [REDACTED] your reference 24-185-483,",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 30,
-      "text": "nished information concerning the subject developed",
+      "text": "re \"Unidentified Flying Object, Torrington, Conn.,",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "text": "by OSI.",
+      "text": "5 December 1957.\"",
       "status": "image_matched"
     },
     {
@@ -182,58 +170,213 @@
     },
     {
       "lineNumber": 33,
-      "text": "Since it appears that the subject is a member",
+      "text": "Enclosed for your information is a copy of a",
       "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "text": "of the Air Force, no further action in this matter is",
+      "text": "memorandum dated July 9, 1958, at Denver, Colorado, re-",
       "status": "image_matched"
     },
     {
       "lineNumber": 35,
-      "text": "contemplated by this Bureau.",
+      "text": "lating to the subject. The other Government agency",
       "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "status": "blank"
+      "text": "referred to in the memorandum is the Office of Special",
+      "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "text": "Enclosures 2",
+      "text": "Investigations, Lowry Air Force Base, Denver, Colorado.",
       "status": "image_matched"
     },
     {
       "lineNumber": 38,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Also enclosed for your information is a copy of a memo-",
+      "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "text": "ESS:jas",
+      "text": "randum dated July 3, 1958, at San Francisco, California.",
       "status": "image_matched"
     },
     {
       "lineNumber": 40,
-      "text": "(5)",
+      "text": "The representative of another Government agency referred",
       "status": "image_matched"
     },
     {
       "lineNumber": 41,
-      "text": "MAIL ROOM",
-      "status": "image_matched"
+      "text": "to therein is Colonel [REDACTED] USAF District",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 42,
-      "text": "2 OCT 7 1958",
+      "text": "Commander, Travis Air Force Base, California, who fur-",
       "status": "image_matched"
     },
     {
       "lineNumber": 43,
+      "text": "nished information concerning the subject developed",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "by OSI.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 46,
+      "text": "Since it appears that the subject is a member",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 47,
+      "text": "of the Air Force, no further action in this matter is",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 48,
+      "text": "contemplated by this Bureau.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 50,
+      "text": "Enclosures [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 51,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 52,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 53,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 54,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 55,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 56,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 57,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 58,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 59,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 60,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 61,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 62,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 63,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 64,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 65,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 66,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 67,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 68,
+      "text": "ESS:jas",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 69,
+      "text": "(5)",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 70,
+      "text": "MAIL ROOM",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 71,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 72,
+      "text": "OCT 7 1958",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 73,
       "text": "CONFIDENTIAL",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 74,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 75,
+      "text": "[Signature]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 76,
+      "text": "[Signature]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 77,
+      "text": "[Signature]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 78,
+      "text": "ESS",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

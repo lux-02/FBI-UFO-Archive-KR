@@ -8,179 +8,206 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 26 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0088-l0001",
-    "page_0088-l0012"
-  ],
-  "lineCount": 34,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 41,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Office File",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
       "text": "TO : Director, FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 4,
+      "text": "DATE: November 20, 1957",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "FROM : Legal Attache, Havana, Cuba",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
       "text": "SUBJECT: REPORTS OF FLYING DISCS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 9,
       "text": "FOREIGN MISCELLANEOUS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 10,
       "status": "blank"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 11,
       "text": "The following information is submitted as of interest",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 12,
       "text": "to the Bureau in the event reports of flying discs are still desired.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
-      "status": "blank"
+      "lineNumber": 13,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 14,
       "text": "The Havana daily newspaper \"Diario de la Marina\" November 12,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
-      "text": "1957, carried a dispatch dated November 11, 1957, at Pinar del Rio,",
-      "status": "image_matched"
+      "lineNumber": 15,
+      "text": "1957, carried a dispatch datelined November 11, 1957, at Pinar del Rio,",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 16,
       "text": "Cuba, reporting that [REDACTED] and [REDACTED] who had",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 17,
       "text": "just arrived in that town from the Matahambre Mines in Pinar del Rio",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 18,
       "text": "Province, claimed that they had seen a flying disc in the shape of a",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 19,
       "text": "man's hat hovering over the general area of Matahambre for several",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 20,
       "text": "minutes. They claimed that this disc was larger than ordinary airplanes",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 21,
       "text": "normally seen in that area and that it was completely silent in its",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 22,
       "text": "flight. They said that it disappeared at a very high speed towards",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 23,
       "text": "the sea. There was no further descriptive information furnished in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 24,
       "text": "this newspaper article. It is noted that Matahambre is located",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 25,
       "text": "approximately 90 miles to the west of Havana. No other reports",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 26,
       "text": "corroborating the above were received and no inquiry has been made",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 27,
       "text": "by this office.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 28,
       "status": "blank"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 29,
       "text": "JJW:ptm",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 30,
       "text": "(3)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 31,
       "status": "blank"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 32,
       "text": "RECORDED-46",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 33,
       "text": "INDEXED-46",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 34,
       "status": "blank"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 35,
       "text": "62-83874-386",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
-      "text": "NOV 22 1957",
-      "status": "image_matched"
+      "lineNumber": 36,
+      "text": "22",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 37,
+      "text": "2 NOV 22 1957",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 38,
       "status": "blank"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 39,
+      "text": "EX-132",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 40,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 41,
       "text": "60 NOV 27 1957",
       "status": "image_matched"
     }

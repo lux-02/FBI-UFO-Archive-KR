@@ -8,34 +8,26 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0089-l0003",
-    "page_0089-l0022",
-    "page_0089-l0023",
-    "page_0089-l0025",
-    "page_0089-l0026"
-  ],
-  "lineCount": 28,
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 32,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "ce Men",
-      "status": "image_matched"
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "tum • UNITED",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "TOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "TO: DIRECTOR, FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -44,100 +36,91 @@
     },
     {
       "lineNumber": 5,
-      "text": "DIRECTOR, FBI",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
-      "text": "FROM",
-      "status": "image_matched"
+      "text": "FROM: SAC, Dallas (62-1311)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "text": "SAC, Dallas",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
-      "text": "(62-1311)",
-      "status": "image_matched"
+      "text": "SUBJECT: FLYING DISCS",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "SUBJECT:",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
-      "text": "FLYING DISCS",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
       "text": "INFORMATION CONCERNING",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
       "text": "Re Kansas City letter 11-8-57.",
       "status": "image_matched"
     },
     {
+      "lineNumber": 12,
+      "status": "blank"
+    },
+    {
       "lineNumber": 13,
-      "text": "This matter is being referred to OSI without inves-",
-      "status": "image_matched"
+      "text": "This matter is being referred to OSI without investigation and no other action is being taken in accordance with existing instructions.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "tigation and no other action is being taken in",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 15,
-      "text": "accordance with existing instructions.",
-      "status": "image_matched"
+      "text": "(2) Bureau",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
-      "text": "Bureau",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 17,
       "text": "1 Kansas City (66-2995)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 17,
       "text": "1 Dallas",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 18,
       "text": "MCC:FB",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 19,
       "text": "(4)",
       "status": "image_matched"
     },
     {
+      "lineNumber": 20,
+      "status": "blank"
+    },
+    {
       "lineNumber": 21,
-      "text": "RECORDED - 9",
-      "status": "image_matched"
+      "text": "RECORDED - 9 62-83814-385",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
-      "text": "62-55814-385",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "NOV 15 1957",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
-      "text": "NOV 19 1957",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 24,
@@ -146,25 +129,40 @@
     },
     {
       "lineNumber": 25,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 26,
-      "text": "REC.D E26101",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 27,
-      "text": "7 NOV 27 1957",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 28,
-      "text": "Espionage",
-      "status": "image_matched"
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
+      "text": "E C",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 30,
+      "text": "REC'D [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 31,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 32,
+      "text": "72 NOV 27 1957",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

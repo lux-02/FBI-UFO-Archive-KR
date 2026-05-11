@@ -8,17 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 27 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0002-l0007",
-    "page_0002-l0017",
-    "page_0002-l0022",
-    "page_0002-l0033"
-  ],
-  "lineCount": 34,
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 7,
   "lines": [
     {
       "lineNumber": 1,
@@ -31,165 +26,26 @@
     },
     {
       "lineNumber": 3,
-      "text": "cases of this type but that we were called",
-      "status": "image_matched"
+      "text": "[unclear] of this type but that we were called by PERRY concerning this matter inasmuch as PERRY volunteered information to the FBI and asked for our assistance in getting this information to the appropriate agency. It was made very clear to the [REDACTED] that the FBI immediately transmitted these photos to the Office of Special Investigations, Dept. of Air Force, Selfridge AFB, and that Mr. PERRY was advised at the time that the FBI did not examine these photos nor neither did we conduct any investigation but that we did see the appropriate agency was furnished these photos. It is noted that our Flint Agents on subsequent contacts with PERRY, already known to the Bureau, that PERRY fully understands the situation as far as the FBI's position in this matter [REDACTED].",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 4,
-      "text": "in inasmuch as PERRY volunteered information to the",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
-      "text": "FBI and asked for our assistance in getting this information",
-      "status": "image_matched"
+      "text": "It was also advised that when Mr. PERRY turned these photos over to the FBI, he said that the Air Force could retain them until they had served the purpose and then he would like them returned to him. This information was made available to the Air Force when the photos were turned over to them. Mr. [REDACTED] stated he realized the FBI handled this matter properly in accordance with our established procedure and that he merely wanted to straighten the record so that he did not, by inference, indicate other than the facts should he desire to write another story on this matter. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
-      "text": "to the appropriate agency. It was made very clear to the",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 7,
-      "text": "[REDACTED] that the FBI immediately transmitted these photos",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 8,
-      "text": "to the Office of Special Investigations, Dept. of Air Force,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 9,
-      "text": "Selfridge AFB, and that Mr. PERRY was advised at the time",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
-      "text": "that the FBI did not examine these photos, neither did we",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
-      "text": "conduct any investigation, but that we did see the appropriate",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "agency was furnished these photos. It is noted that our",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "Flint Agents on subsequent contacts with PERRY, already known",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 14,
-      "text": "to us, that he fully understands the situation",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "text": "as far as the FBI's position in this matter.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 17,
-      "text": "[REDACTED] was also advised that when Mr. PERRY turned",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 18,
-      "text": "these photos over to the FBI, he said that the Air Force",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "text": "could retain them until they had served the purpose and",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "text": "then he would like them returned to him. This information",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "text": "was made available to the Air Force when the photos were",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "turned over to them. Mr. [REDACTED] stated he realized the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 23,
-      "text": "FBI handled this matter properly in accordance with our",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "text": "established procedure and that he merely wanted to straighten",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "text": "the record so that he did not, by inference, indicate other",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "text": "than the facts, should he desire to write another story on",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "text": "this matter.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 29,
-      "text": "Immediately upon receiving information from the Flint RA",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
-      "text": "concerning this matter, the Office of Special Investigations",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 31,
-      "text": "at Selfridge AFB was telephonically contacted by the Detroit",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "text": "Office to alert them to this new inquiry in the event they",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
-      "text": "should receive newspaper inquiry or contact from [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 34,
-      "text": "referred to in the letterhead memo.",
-      "status": "image_matched"
+      "text": "Immediately upon receiving information from the Flint RA concerning this matter, the Office of Special Investigations at Selfridge AFB was telephonically contacted by the Detroit Office to alert them to this new inquiry in the event they should receive newspaper inquiry or contact from [REDACTED] referred to in the letterhead memo.",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

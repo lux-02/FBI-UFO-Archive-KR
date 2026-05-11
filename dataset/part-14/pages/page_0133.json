@@ -8,21 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0133-l0004",
-    "page_0133-l0007",
-    "page_0133-l0013",
-    "page_0133-l0014",
-    "page_0133-l0021",
-    "page_0133-l0025",
-    "page_0133-l0036",
-    "page_0133-l0038"
-  ],
-  "lineCount": 39,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 38,
   "lines": [
     {
       "lineNumber": 1,
@@ -35,189 +26,175 @@
     },
     {
       "lineNumber": 3,
-      "text": "To:",
-      "status": "image_matched"
+      "text": "To: [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 5,
       "status": "blank"
     },
     {
+      "lineNumber": 5,
+      "text": "From: [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 6,
-      "text": "From:",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 8,
       "text": "Arlington, Texas 76010",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 7,
       "status": "blank"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 8,
       "text": "Subj: Request for Information on Sightings of Unidentified Aerial",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 9,
       "text": "Phenomena in the Dallas-Ft. Worth Area",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 10,
       "status": "blank"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 11,
       "text": "1. A subcommittee of the [REDACTED] has recently been established in the Dallas-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 12,
       "text": "Ft. Worth area. [REDACTED] is a private, non-profit organization directed by",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 13,
       "text": "Major Donald E. Keyhoe, USMC (Ret) from the National Headquarters in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 14,
       "text": "Washington, D. C. The purpose of the organization is to conduct scientific",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 15,
       "text": "investigation of Unidentified Flying Objects. It now has 14,000 associate",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 16,
       "text": "members in 50 states. The organization is not interested in the alleged",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 17,
       "text": "psychic, occult, mystical, or religious aspects of UFO phenomena.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 18,
       "status": "blank"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 19,
       "text": "2. [REDACTED] subcommittees, of which there are 30 in the United",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 20,
       "text": "States, are composed of qualified individuals in technical or investigative",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 21,
       "text": "fields, who are selected and appointed by the Washington office.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 23,
       "text": "3. [REDACTED] is currently working closely with the Colorado Project,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 24,
       "text": "a comprehensive study of UFO's begun in November 1966, by a group of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 25,
       "text": "distinguished scientists at the University of Colorado under a U. S. Air",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 26,
       "text": "Force contract.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 27,
       "status": "blank"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 28,
       "text": "4. The local subcommittee earnestly solicits your support in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
-      "text": "reporting to the Committee Chairman any UFO sightings occurring in this",
-      "status": "image_matched"
+      "lineNumber": 29,
+      "text": "reporting to the Committee Chairman any UFO sightings occuring in this",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 30,
       "text": "area. It is especially important that the NICAP committee be contacted",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 31,
       "text": "immediately in cases of reported UFO sightings where photographs have",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 32,
       "text": "been taken or physical evidence remains after the observation.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 33,
       "status": "blank"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 34,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 35,
       "text": "Subcommittee Chairman",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 36,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 39,
-      "text": "62-83894-465",
-      "status": "image_matched"
+      "lineNumber": 37,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 38,
+      "text": "[unclear] 62-83894-465",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

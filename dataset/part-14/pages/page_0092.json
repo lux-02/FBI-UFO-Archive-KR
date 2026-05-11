@@ -8,14 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 58 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0092-l0071"
-  ],
-  "lineCount": 72,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 70,
   "lines": [
     {
       "lineNumber": 1,
@@ -38,126 +36,127 @@
     },
     {
       "lineNumber": 5,
-      "status": "blank"
+      "text": "Unidentified Flying Objects",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
       "text": "Mr. Stanley Schneider",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "text": "Assistant to the Director",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "Office of Science and Technology Policy",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "Executive Office of the President",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "Washington, D. C. 20500",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "status": "blank"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "text": "Dear Mr. Schneider:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 14,
       "status": "blank"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "text": "Pursuant to our conversation today, there is",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
       "text": "enclosed a copy of the FBI Law Enforcement Bulletin",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "text": "for the month of February, 1975. Beginning on page",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "text": "16 there is an article covering the handling of UFO",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 19,
       "text": "sightings which may be of interest to you in connection",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "text": "with your current inquiry.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 21,
       "status": "blank"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 22,
       "text": "If there is any way we may be of additional",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 23,
       "text": "service to you, please do not hesitate to let me",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 24,
       "text": "know.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
       "status": "blank"
     },
     {
-      "lineNumber": 25,
-      "text": "MAILED 3",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 26,
-      "text": "Sentol",
+      "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "JUN 15 1977",
+      "text": "MAILED 3",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "text": "FBI",
+      "text": "Sentol",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "status": "blank"
+      "text": "JUN 15 1977",
+      "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "Sincerely yours,",
+      "text": "FBI",
       "status": "image_matched"
     },
     {
@@ -172,26 +171,27 @@
     },
     {
       "lineNumber": 33,
+      "text": "REC-36 62-83874-485",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 34,
+      "text": "Jay Cochran, Jr.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 35,
       "text": "Assistant Director FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 36,
       "text": "Technical Services Division",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
-      "text": "JUN 17 1977",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 36,
-      "status": "blank"
-    },
-    {
       "lineNumber": 37,
-      "text": "Enclosure",
+      "text": "JUN 17 1977",
       "status": "image_matched"
     },
     {
@@ -200,90 +200,89 @@
     },
     {
       "lineNumber": 39,
-      "text": "NOTE: Schneider originally called 6/14/77, see memo that date",
+      "text": "Enclosure",
       "status": "image_matched"
     },
     {
       "lineNumber": 40,
-      "text": "captioned White House Inquiry re UFO as to Bureau procedures",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 41,
-      "text": "for handling information received re UFO. He was advised in",
+      "text": "NOTE: Schneider originally called 6/14/77, see memo that date",
       "status": "image_matched"
     },
     {
       "lineNumber": 42,
-      "text": "absence of jurisdiction no inquiries are conducted and information",
+      "text": "captioned White House Inquiry re UFO as to Bureau procedures",
       "status": "image_matched"
     },
     {
       "lineNumber": 43,
-      "text": "furnished to U. S. Air Force.",
+      "text": "for handling information received re UFO. He was advised in",
       "status": "image_matched"
     },
     {
       "lineNumber": 44,
-      "status": "blank"
+      "text": "absence of jurisdiction no inquiries are conducted and information",
+      "status": "image_matched"
     },
     {
       "lineNumber": 45,
-      "text": "APPROVED:",
+      "text": "furnished to U. S. Air Force.",
       "status": "image_matched"
     },
     {
       "lineNumber": 46,
-      "text": "Director",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 47,
-      "text": "Assoc. Dir.",
+      "text": "JC:bm's",
       "status": "image_matched"
     },
     {
       "lineNumber": 48,
-      "text": "Dep. AD Adm.",
+      "text": "(3)",
       "status": "image_matched"
     },
     {
       "lineNumber": 49,
-      "text": "Dep. AD Inv.",
-      "status": "image_matched"
+      "text": "56 JUN 16 1977",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 50,
-      "status": "blank"
+      "text": "MAIL ROOM TELETYPE UNIT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 51,
-      "text": "Adm. Serv.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 52,
-      "text": "Crim. Inv.",
+      "text": "APPROVED:",
       "status": "image_matched"
     },
     {
       "lineNumber": 53,
-      "text": "Fin. & Pers.",
+      "text": "Director",
       "status": "image_matched"
     },
     {
       "lineNumber": 54,
-      "text": "Ident.",
+      "text": "Assoc. Dir.",
       "status": "image_matched"
     },
     {
       "lineNumber": 55,
-      "text": "Intell.",
+      "text": "Dep. AD Adm.",
       "status": "image_matched"
     },
     {
       "lineNumber": 56,
-      "text": "Laboratory",
+      "text": "Dep. AD Inv.",
       "status": "image_matched"
     },
     {
@@ -292,77 +291,66 @@
     },
     {
       "lineNumber": 58,
-      "text": "Legal Coun.",
+      "text": "Adm. Serv.",
       "status": "image_matched"
     },
     {
       "lineNumber": 59,
-      "text": "Plan. & Insp.",
+      "text": "Crim. Inv.",
       "status": "image_matched"
     },
     {
       "lineNumber": 60,
-      "text": "Rec. Mgmt.",
+      "text": "Ident.",
       "status": "image_matched"
     },
     {
       "lineNumber": 61,
-      "text": "Spec. Inv.",
+      "text": "Intell.",
       "status": "image_matched"
     },
     {
       "lineNumber": 62,
-      "text": "Tech. Servs.",
+      "text": "Laboratory",
       "status": "image_matched"
     },
     {
       "lineNumber": 63,
-      "text": "Training",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 64,
-      "text": "Public Affs. Off.",
+      "text": "Legal Coun.",
       "status": "image_matched"
     },
     {
       "lineNumber": 65,
-      "text": "FBI/DOJ",
+      "text": "Plan. & Insp.",
       "status": "image_matched"
     },
     {
       "lineNumber": 66,
-      "status": "blank"
+      "text": "Rec. Mgmt.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 67,
-      "text": "JC:bm's",
+      "text": "Spec. Inv.",
       "status": "image_matched"
     },
     {
       "lineNumber": 68,
-      "text": "(3)",
+      "text": "Training",
       "status": "image_matched"
     },
     {
       "lineNumber": 69,
-      "text": "56 JU",
+      "text": "Public Affs. Off.",
       "status": "image_matched"
     },
     {
       "lineNumber": 70,
-      "text": "MAIL ROOM",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 71,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 72,
-      "text": "TELETYPE UNIT",
+      "text": "FBI/DOJ",
       "status": "image_matched"
     }
   ],

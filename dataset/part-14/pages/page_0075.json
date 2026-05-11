@@ -8,14 +8,11 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 19 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0075-l0017",
-    "page_0075-l0021"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 22,
   "lines": [
     {
@@ -90,8 +87,8 @@
     },
     {
       "lineNumber": 15,
-      "text": "believe it and never talked about this to",
-      "status": "image_matched"
+      "text": "believe it as I never talked about this to",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
@@ -100,14 +97,13 @@
     },
     {
       "lineNumber": 17,
-      "text": "My name Mrs. [REDACTED] put",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "my name Mrs. [REDACTED] but put",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
-      "text": "your letter in a sealed envelope and put",
-      "status": "image_matched"
+      "text": "your letter in a sealed envelope, and put",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
@@ -121,8 +117,7 @@
     {
       "lineNumber": 21,
       "text": "Mrs. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,

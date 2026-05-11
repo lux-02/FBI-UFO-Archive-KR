@@ -8,64 +8,58 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 12 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0138-l0001",
-    "page_0138-l0002",
-    "page_0138-l0012"
-  ],
-  "lineCount": 21,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 25,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "To: [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 2,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 3,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 4,
       "text": "TRUE COPY",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 2,
       "status": "blank"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 3,
       "text": "Dear Sirs:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 4,
       "status": "blank"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 5,
       "text": "Would you please comment on the enclosed",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 6,
       "text": "picture that is marked with an \"X\" and return the picture",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 7,
       "text": "with your reply. Thank you.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "/s/ [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 10,
+      "text": "Winchester, Va. 22601",
       "status": "image_matched"
     },
     {
@@ -74,13 +68,12 @@
     },
     {
       "lineNumber": 12,
-      "text": "/s/ [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Federal Bureau of Investigation,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "text": "Winchester, Va. 22601",
+      "text": "Washington, D.C.",
       "status": "image_matched"
     },
     {
@@ -89,37 +82,55 @@
     },
     {
       "lineNumber": 15,
-      "text": "Federal Bureau of Investigation",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "text": "Washington, D.C.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 17,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 18,
       "text": "ENCLOSURE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
-      "text": "REC-64 62-93194-463",
-      "status": "image_matched"
+      "lineNumber": 16,
+      "status": "blank"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 17,
+      "text": "REC-64",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 18,
+      "text": "62-83894-463",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 19,
       "text": "OCT 5 1967",
       "status": "image_matched"
     },
     {
+      "lineNumber": 20,
+      "status": "blank"
+    },
+    {
       "lineNumber": 21,
-      "text": "80127",
-      "status": "image_matched"
+      "text": "80/2?",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
+      "text": "CHESTER, VA.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 24,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 25,
+      "text": "22601",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

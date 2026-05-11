@@ -8,15 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 20 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0106-l0004",
-    "page_0106-l0006"
-  ],
-  "lineCount": 27,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 35,
   "lines": [
     {
       "lineNumber": 1,
@@ -25,8 +22,8 @@
     },
     {
       "lineNumber": 2,
-      "text": "REC 5 62-83891-478",
-      "status": "image_matched"
+      "text": "REC-5 62-838911-478",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -35,20 +32,17 @@
     },
     {
       "lineNumber": 4,
-      "text": "Miss [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
-      "text": "Westmoreland City, Pennsylvania 15692",
-      "status": "image_matched"
+      "text": "Miss [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
-      "text": "Dear Miss [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Westmoreland City, Pennsylvania 15692",
+      "status": "image_matched"
     },
     {
       "lineNumber": 7,
@@ -56,31 +50,31 @@
     },
     {
       "lineNumber": 8,
+      "text": "Dear Miss [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
       "text": "I regret that I am unable to comment as you requested",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 11,
       "text": "in your letter of February 15th. The investigation of Unidentified",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
       "text": "Flying Objects is not and never has been a matter that is within the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
-      "text": "investigative jurisdiction of the FBI.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "status": "blank"
-    },
-    {
       "lineNumber": 13,
-      "text": "Sincerely yours,",
+      "text": "investigative jurisdiction of the FBI.",
       "status": "image_matched"
     },
     {
@@ -89,66 +83,101 @@
     },
     {
       "lineNumber": 15,
-      "text": "J. Edgar Hoover",
+      "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "John Edgar Hoover",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 17,
-      "text": "Director",
+      "text": "J. Edgar Hoover",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "status": "blank"
+      "text": "John Edgar Hoover",
+      "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "MAILED 21",
+      "text": "Director",
       "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "FEB 24 1972",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 21,
-      "text": "FBI",
+      "text": "MAILED 21",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "status": "blank"
+      "text": "FEB 24 1972",
+      "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "NOTE: Bufiles reflect no record of correspondent.",
+      "text": "FBI",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 25,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 26,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 27,
+      "text": "NOTE: Bufiles reflect no record of correspondent.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
       "text": "MLN:jc (3)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
+      "text": "in jc",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 32,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 33,
       "text": "60 MAR 2 1972",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
-      "text": "MAIL ROOM",
-      "status": "image_matched"
+      "lineNumber": 34,
+      "status": "blank"
     },
     {
-      "lineNumber": 27,
-      "text": "TELETYPE UNIT",
-      "status": "image_matched"
+      "lineNumber": 35,
+      "text": "MAIL ROOM ☐ TELETYPE UNIT ☐",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

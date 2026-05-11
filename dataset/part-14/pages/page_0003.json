@@ -8,29 +8,17 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0003-l0001",
-    "page_0003-l0014",
-    "page_0003-l0015",
-    "page_0003-l0017",
-    "page_0003-l0020",
-    "page_0003-l0021",
-    "page_0003-l0022",
-    "page_0003-l0028",
-    "page_0003-l0032",
-    "page_0003-l0046"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 49,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "UNITED STATES DEPARTMENT OF JUSTICE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "UN[unclear]ED STATES DEPARTMENT OF [unclear]STICE",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
@@ -39,105 +27,98 @@
     },
     {
       "lineNumber": 3,
-      "text": "Detroit, Michigan",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 4,
-      "text": "May 20, 1960",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 5,
       "status": "blank"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 4,
       "text": "In Reply, Please Refer to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 5,
       "text": "File No.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 6,
       "status": "blank"
     },
     {
+      "lineNumber": 7,
+      "text": "Detroit, Michigan",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "May 20, 1960",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
       "text": "Unidentified Flying Object;",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "Joseph Perry, Grand Blanc,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "Michigan - Complainant",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "status": "blank"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 14,
       "text": "At 3:58 p.m. on May 20, 1960,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
-      "text": "[REDACTED] who advised that he was on the City Desk for the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 15,
-      "text": "[REDACTED] at Detroit, Michigan, telephoned the Flint, Michigan,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] who advised that he was on the City Desk for the",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 16,
+      "text": "[REDACTED] at Detroit, Michigan, telephoned the Flint, Michigan,",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 17,
       "text": "Resident Agency and advised that he had just received a",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "text": "telephone call from [REDACTED] who resides in Wayne County,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 19,
       "text": "Michigan.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "status": "blank"
     },
     {
-      "lineNumber": 20,
-      "text": "[REDACTED] reportedly advised the [REDACTED] that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 21,
-      "text": "he is the [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] reportedly advised the [REDACTED] that",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
-      "text": "[REDACTED] stated that Joseph Perry, of Grand Blanc,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "he is the [REDACTED] stated that Joseph Perry, of Grand Blanc,",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 23,
@@ -151,8 +132,8 @@
     },
     {
       "lineNumber": 25,
-      "text": "property of Joseph Perry, of Grand Blanc, and Perry had claimed",
-      "status": "image_matched"
+      "text": "property of Joe Perry, of Grand Blanc, and Perry had claimed",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 26,
@@ -167,8 +148,7 @@
     {
       "lineNumber": 28,
       "text": "vicinity of the moon. [REDACTED] said when the Air Force returned",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
@@ -188,8 +168,7 @@
     {
       "lineNumber": 32,
       "text": "[REDACTED] reportedly told the \"Detroit Times\" that he does not",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 33,
@@ -251,14 +230,13 @@
     },
     {
       "lineNumber": 45,
-      "text": "OFFICE DESTROYED",
-      "status": "image_matched"
+      "text": "COPIES DESTROYED",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 46,
-      "text": "5-20-NOV-19-1964",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] NOV 13 1964",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 47,

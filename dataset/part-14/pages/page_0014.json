@@ -8,22 +8,17 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 39 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0014-l0001",
-    "page_0014-l0020",
-    "page_0014-l0058"
-  ],
-  "lineCount": 58,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 57,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "UNITED STATES [unclear] VERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "UNITED STATES GOVERNMENT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -36,128 +31,126 @@
     },
     {
       "lineNumber": 4,
-      "text": "TO : Director, FBI DATE: April 12, 1960",
-      "status": "image_matched"
+      "text": "TO : Director, FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "status": "blank"
+      "text": "DATE: April 12, 1960",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
       "text": "FROM : SAC, Detroit (65-2677)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "status": "blank"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "SUBJECT: UNIDENTIFIED FLYING OBJECT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "JOSEPH PERRY, GRAND BLANC, MICHIGAN -",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "COMPLAINANT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "MISCELLANEOUS - INFORMATION CONCERNING",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "text": "(NATIONAL INTELLIGENCE)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
-      "status": "blank"
-    },
-    {
       "lineNumber": 14,
-      "text": "The Bureau letter to Office of Special Investiga-",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 15,
-      "text": "tions, Air Force, dated April 6, 1960, and Detroit airtel",
-      "status": "image_matched"
+      "text": "word",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
-      "text": "to Bureau, dated 4/11/60.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 17,
       "status": "blank"
     },
     {
+      "lineNumber": 17,
+      "text": "Re Bureau letter to Office of Special Investigations, Air Force, dated April 6, 1960, and Detroit airtel to Bureau, dated 4/11/60.",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 18,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 19,
       "text": "On April 12, 1960, JOSEPH PERRY, 3079 Edwards",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "text": "Street, Grand Blanc, Michigan, was personally contacted",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
-      "text": "at his home by SA [REDACTED] and SA [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 21,
-      "status": "blank"
+      "text": "at his home by SA [REDACTED] and SA [REDACTED].",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
       "text": "He was advised that his letter to President",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 24,
       "text": "EISENHOWER dated March 21, 1959, had been referred to the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
       "text": "FBI by the Department of Justice and that the FBI was",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 26,
       "text": "acknowledging receipt of that letter.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 27,
       "status": "blank"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 28,
       "text": "Mr. PERRY was advised that the contents of his",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
-      "text": "letter had been carefully noted and that for his informa-",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 29,
-      "text": "tion the photographs he had voluntarily turned over to the",
-      "status": "image_matched"
+      "text": "letter had been carefully noted and that for his information the photographs he had voluntarily turned over to the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 30,
@@ -265,7 +258,7 @@
     },
     {
       "lineNumber": 52,
-      "text": "REC-46",
+      "text": "EX 104",
       "status": "image_matched"
     },
     {
@@ -274,27 +267,22 @@
     },
     {
       "lineNumber": 54,
-      "text": "EX 104",
+      "text": "REC-46",
       "status": "image_matched"
     },
     {
       "lineNumber": 55,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 56,
       "text": "14 APR 14 1960",
       "status": "image_matched"
     },
     {
-      "lineNumber": 57,
+      "lineNumber": 56,
       "status": "blank"
     },
     {
-      "lineNumber": 58,
+      "lineNumber": 57,
       "text": "NAT. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

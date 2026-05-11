@@ -8,16 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 37 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0038-l0006",
-    "page_0038-l0031",
-    "page_0038-l0039"
-  ],
-  "lineCount": 47,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 63,
   "lines": [
     {
       "lineNumber": 1,
@@ -26,13 +22,13 @@
     },
     {
       "lineNumber": 2,
-      "text": "EX-136",
-      "status": "image_matched"
+      "text": "EX-135",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "62-8594-402",
-      "status": "image_matched"
+      "text": "62-83594-402",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -41,214 +37,290 @@
     },
     {
       "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "Newport News, Virginia",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "text": "Dear [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 7,
-      "status": "blank"
+      "text": "Dear [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
       "text": "I am in receipt of your letter dated",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "February 1, 1959. In response to your request, I",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "wish to advise that information in the files of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "the Federal Bureau of Investigation is confidential",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "text": "and available for official use only. I know you",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 14,
       "text": "will understand the reason for this rule and will",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "text": "not infer either that we do or that we do not have",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
       "text": "the data you desire.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "status": "blank"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "text": "I am at liberty, however, to advise that",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 19,
       "text": "the investigation of unidentified flying objects",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "text": "is not within the jurisdiction of this Bureau. This",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 21,
       "text": "matter is of primary interest to the Department of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 22,
       "text": "the Air Force and, accordingly, I am sending a copy",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 23,
       "text": "of your letter to the Director of Special Investigations,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 24,
       "text": "The Inspector General, Department of the Air Force,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
       "text": "Building Tempo E, 4th and Adams Drive, S. W.,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 26,
       "text": "Washington, D. C., to whom you may desire to direct",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 27,
       "text": "further inquiries in this matter.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 28,
       "status": "blank"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 29,
       "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 30,
       "status": "blank"
     },
     {
-      "lineNumber": 30,
-      "text": "MAILED 27",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 31,
-      "text": "FEB [unclear]1959",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "MAILED [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 32,
+      "text": "FEB [unclear] 1959",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 33,
       "text": "COMM. FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 34,
       "status": "blank"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 35,
       "text": "John Edgar Hoover",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 36,
       "text": "Director",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 37,
       "status": "blank"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 38,
       "text": "1 - Norfolk - Enclosure",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 39,
       "text": "Note for Norfolk: Enclosed for information only.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 40,
       "text": "Bufile negative re [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 41,
       "text": "1 - Director of Special Investigations (by form 0-14)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
-      "text": "The Inspector General",
-      "status": "image_matched"
+      "lineNumber": 42,
+      "text": "The Inspector General [unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 43,
       "text": "Department of the Air Force",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
-      "text": "JFH:mtb Building Tempo E",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 44,
-      "text": "60 FEB 1959 4th and Adams Drive, S. W.",
-      "status": "image_matched"
+      "text": "JFW:mtb Building Tempo E",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 45,
-      "text": "MAIL ROOM Washington 25, D. C.",
-      "status": "image_matched"
+      "text": "[unclear] 4th and Adams Drive, S. W.",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 46,
-      "status": "blank"
+      "text": "Washington 25, D. C.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 47,
       "text": "SEE NOTE PAGE 2",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 48,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 49,
+      "text": "Tolson",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "text": "Boardman",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
+      "text": "Belmont",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 52,
+      "text": "Mohr",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
+      "text": "Nease",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 54,
+      "text": "Parsons",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 55,
+      "text": "Rosen",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 56,
+      "text": "Tamm",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 57,
+      "text": "Trotter",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 58,
+      "text": "Clayton",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 59,
+      "text": "Felt, Ro",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 60,
+      "text": "Holloman",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 61,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 62,
+      "text": "60 FEB [unclear] 1959",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 63,
+      "text": "MAIL ROOM",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

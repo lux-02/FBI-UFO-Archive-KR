@@ -8,14 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 29 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0094-l0008"
-  ],
-  "lineCount": 45,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 43,
   "lines": [
     {
       "lineNumber": 1,
@@ -24,8 +22,8 @@
     },
     {
       "lineNumber": 2,
-      "text": "WASHINGTON D.C. 20330",
-      "status": "image_matched"
+      "text": "WASHINGTON, D.C. 20330",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -47,154 +45,154 @@
     },
     {
       "lineNumber": 7,
-      "status": "blank"
+      "text": "Unidentified Flying Objects",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
-      "text": "[unclear] Flying Objects",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 9,
       "status": "blank"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 9,
       "text": "Dear Mr. Malmfeldt:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 10,
       "status": "blank"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "text": "This office recently received a public inquiry regarding",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 12,
       "text": "UFOs, referred to us from the Bureau. As the inclosed fact",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 13,
       "text": "sheet indicates, the Air Force's \"Project Blue Book\" investi-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
-      "text": "gation of UFOs was terminated on December 17, 1969, and all",
-      "status": "image_matched"
+      "lineNumber": 14,
+      "text": "gation of UFOS was terminated on December 17, 1969, and all",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "text": "related documentation was turned over to the National Archives",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 16,
       "text": "and Records Service.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 17,
       "status": "blank"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 18,
       "text": "The inquirer referred to us has been apprised of these",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 19,
       "text": "events. Hopefully, the inclosed fact sheet will be of help",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 20,
       "text": "in responding to any future inquiries on this subject.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 21,
       "status": "blank"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 22,
       "text": "Sincerely,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 23,
       "status": "blank"
     },
     {
+      "lineNumber": 24,
+      "text": "[Signature]",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
       "text": "H. A. MCCLANAHAN, Lt Col, USAF",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 27,
       "text": "Chief, Civil Branch",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 28,
       "text": "Community Relations Division",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 29,
       "text": "Office of Information",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 30,
       "status": "blank"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 31,
       "text": "Attachment",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 32,
       "status": "blank"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 33,
       "text": "Federal Bureau of Investigation",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 34,
       "text": "Attention: Mr. Malmfeldt, Room 7825",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 35,
       "text": "Washington, D. C. 20535",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 36,
       "status": "blank"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 37,
       "text": "REC-26",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
-      "status": "blank"
-    },
-    {
       "lineNumber": 38,
-      "text": "DF-8 82-75814-4",
-      "status": "image_matched"
+      "text": "DE-8 [unclear]2-7584-4",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 39,
@@ -207,24 +205,15 @@
     },
     {
       "lineNumber": 41,
-      "status": "blank"
+      "text": "[Stamp: AMERICAN REVOLUTION BICENTENNIAL 1776-1976]",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 42,
-      "text": "AMERICAN REVOLUTION BICENTENNIAL",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "1776-1976",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
       "status": "blank"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 43,
       "text": "CORRESPONDENCE",
       "status": "image_matched"
     }

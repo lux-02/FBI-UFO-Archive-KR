@@ -8,13 +8,11 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "typed_or_printed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 15 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0030-l0009"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 19,
   "lines": [
     {
@@ -59,8 +57,7 @@
     {
       "lineNumber": 9,
       "text": "[REDACTED], 25th OSI District, who also was advised",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,

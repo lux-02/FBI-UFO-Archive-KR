@@ -8,57 +8,44 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 24 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0132-l0001",
-    "page_0132-l0002",
-    "page_0132-l0009",
-    "page_0132-l0010",
-    "page_0132-l0015",
-    "page_0132-l0022",
-    "page_0132-l0027",
-    "page_0132-l0037"
-  ],
-  "lineCount": 41,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 43,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "UNITED STATES GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "UNITED STATES G[unclear]RNMENT",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
       "text": "Memorandum",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "TO : DIRECTOR, FBI DATE: 1/23/68",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 4,
-      "text": "FROM : SAC, DALLAS (62-1311)(C)",
-      "status": "image_matched"
+      "text": "TO : Director, FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "SUBJECT: UNIDENTIFIED FLYING OBJECTS",
-      "status": "image_matched"
+      "text": "DATE: 1/23/68",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "MISCELLANEOUS -",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 7,
-      "text": "INFORMATION CONCERNING",
+      "text": "FROM : SAC, DALLAS (62-1311)(C)",
       "status": "image_matched"
     },
     {
@@ -67,88 +54,84 @@
     },
     {
       "lineNumber": 9,
-      "text": "There is enclosed for the Bureau a Xerox copy of a",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "SUBJECT: UNIDENTIFIED FLYING OBJECTS",
+      "status": "image_matched"
     },
     {
       "lineNumber": 10,
-      "text": "letter dated 11/20/67, from Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "MISCELLANEOUS -",
+      "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": "Arlington, Texas 76010, received by the Dallas Office on",
+      "text": "INFORMATION CONCERNING",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 13,
+      "text": "There is enclosed for the Bureau [unclear] Xerox copy of a",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 14,
+      "text": "letter dated 11/20/67, from Mr. [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Arlington, Texas 76010, received by the Dallas Office on",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
       "text": "1/19/68 in an envelope postmarked at Arlington, Texas, 1/17/68.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 17,
       "status": "blank"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 18,
       "text": "The enclosed letter reflects the formation of a",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
-      "text": "subcommittee of the [REDACTED] in the Dallas - Fort Worth area, the purpose",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 19,
+      "text": "subcommittee of the [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 20,
+      "text": "in the Dallas - Fort Worth area, the purpose",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
       "text": "of which organization is to conduct scientific investigation",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 22,
       "text": "of unidentified flying objects. TEXAS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 23,
       "status": "blank"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 24,
       "text": "This letter has been acknowledged and a copy of same",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
-      "text": "has been furnished OSI, Tinker AFB for its information.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 22,
-      "text": "The acknowledgement to Mr. [REDACTED] pointed out to him that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 23,
-      "text": "information concerning unidentified flying objects received by",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "text": "this bureau is, by requirement, currently furnished to the U. S.",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 25,
-      "text": "Air Force.",
+      "text": "has been furnished OSI, Tinker AFB for its information.",
       "status": "image_matched"
     },
     {
@@ -157,23 +140,22 @@
     },
     {
       "lineNumber": 27,
-      "text": "(2) - Bureau (encl 1)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "The acknowledgement to Mr. [REDACTED] pointed out to him that",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 28,
-      "text": "1 - Dallas",
+      "text": "information concerning unidentified flying objects received by",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "RPG:Jeg",
+      "text": "this bureau is, by requirement, currently furnished to the U. S.",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "(3)",
+      "text": "Air Force.",
       "status": "image_matched"
     },
     {
@@ -182,41 +164,41 @@
     },
     {
       "lineNumber": 32,
-      "text": "REC-74",
-      "status": "image_matched"
+      "text": "2 - Bureau (encl. 1)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
-      "text": "EX-105",
+      "text": "1 - Dallas",
       "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "status": "blank"
+      "text": "RPG:jeg",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 35,
-      "text": "62-83894-465",
+      "text": "(3)",
       "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "text": "30",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 38,
       "status": "blank"
     },
     {
+      "lineNumber": 37,
+      "text": "REC-74",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "text": "EX. 105",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 39,
-      "text": "5 FEB 2 1968",
+      "text": "62-83894-465",
       "status": "image_matched"
     },
     {
@@ -225,6 +207,15 @@
     },
     {
       "lineNumber": 41,
+      "text": "5 FEB 2 1968",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 42,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 43,
       "text": "Buy U.S. Savings Bonds Regularly on the Payroll Savings Plan",
       "status": "image_matched"
     }

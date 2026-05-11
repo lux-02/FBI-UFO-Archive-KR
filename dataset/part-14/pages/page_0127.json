@@ -8,17 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 15 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0127-l0003",
-    "page_0127-l0005",
-    "page_0127-l0021",
-    "page_0127-l0025"
-  ],
-  "lineCount": 25,
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 39,
   "lines": [
     {
       "lineNumber": 1,
@@ -27,38 +22,38 @@
     },
     {
       "lineNumber": 2,
+      "text": "REC 55",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 3,
       "text": "AIRMAIL",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 4,
+      "text": "62-83894-467",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 5,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 6,
       "text": "La Canada, California 91011",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "Dear [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 6,
-      "status": "blank"
-    },
-    {
       "lineNumber": 7,
-      "text": "I have received your letter of March 15th.",
-      "status": "image_matched"
+      "text": "Dear [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
-      "status": "blank"
+      "text": "I have received your letter of March 15th.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 9,
@@ -77,36 +72,38 @@
     },
     {
       "lineNumber": 12,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 13,
       "text": "I am referring a copy of your communication to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 13,
       "text": "the Director of Special Investigations, The Inspector General,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 14,
       "text": "Department of the Air Force, Washington, D. C. 20333 for any",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "text": "help he is in a position to offer you.",
       "status": "image_matched"
     },
     {
+      "lineNumber": 16,
+      "text": "Sincerely yours,",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 17,
-      "status": "blank"
+      "text": "MAILED 9",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": "Sincerely yours,",
-      "status": "image_matched"
+      "text": "[unclear] 18 1968",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 19,
@@ -115,13 +112,13 @@
     },
     {
       "lineNumber": 20,
-      "status": "blank"
+      "text": "COMM-FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
       "text": "NOTE: Correspondent could not identified in Bufiles.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
@@ -134,14 +131,70 @@
     },
     {
       "lineNumber": 24,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 32,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 33,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 37,
       "text": "54 MAR 21 1968",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
-      "text": "MAIL ROOM [unclear] TELETYPE UNIT [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 38,
+      "text": "MAIL ROOM ☐ TELETYPE UNIT ☐",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 39,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

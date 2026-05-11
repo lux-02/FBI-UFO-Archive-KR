@@ -8,24 +8,17 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 18 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0093-l0001",
-    "page_0093-l0004",
-    "page_0093-l0007",
-    "page_0093-l0009",
-    "page_0093-l0022"
-  ],
-  "lineCount": 30,
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 49,
   "lines": [
     {
       "lineNumber": 1,
       "text": "FEDERAL GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -39,8 +32,7 @@
     {
       "lineNumber": 4,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
@@ -54,33 +46,30 @@
     },
     {
       "lineNumber": 7,
-      "text": "Dear Colonel [REDACTED] Flying Objects",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Unidentified Flying Objects",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
-      "status": "blank"
+      "text": "Dear Colonel [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
-      "text": "[REDACTED] has brought your letter of Janu-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "text": "ary 14th, with enclosure, to my attention. I join him in",
-      "status": "image_matched"
+      "text": "[REDACTED] has brought your letter of January 14th, with enclosure, to my attention. I join him in thanking you for sending us a copy of your UFO Fact Sheet and for apprising us of the termination of your project.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
-      "text": "thanking you for sending us a copy of your UFO Fact Sheet",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 12,
-      "text": "and for apprising us of the termination of your project.",
+      "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
@@ -89,83 +78,177 @@
     },
     {
       "lineNumber": 14,
-      "text": "Sincerely yours,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 16,
       "text": "Donald W. Moore, Jr.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 15,
       "text": "Assistant Director",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 16,
       "text": "External Affairs Division",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 17,
       "status": "blank"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 18,
       "text": "AWT:bak:mlc (4)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 19,
       "text": "DE-6",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
-      "text": "62-83874-41",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 20,
+      "text": "62-83894-41",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 21,
       "text": "REC-26",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 22,
       "text": "22 JAN 27 1977",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 23,
       "status": "blank"
     },
     {
+      "lineNumber": 24,
+      "text": "Assoc. Dir.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 25,
+      "text": "Dep. AD Adm.",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 26,
+      "text": "Dep. AD Inv.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 27,
+      "text": "Asst. Dir.:",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 28,
+      "text": "Adm. Serv.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 29,
+      "text": "Ext. Affairs",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 30,
+      "text": "Fin. & Pers.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 31,
+      "text": "Gen. Inv.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 32,
+      "text": "Ident.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 33,
+      "text": "Inspection",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 34,
+      "text": "Intell.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 35,
+      "text": "Laboratory",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 36,
+      "text": "Legal Coun.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
+      "text": "Plan. & Eval.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 38,
+      "text": "Rec. Mgmt.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Spec. Inv.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 40,
+      "text": "Training",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 41,
+      "text": "Telephone Rm.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "text": "Director Sec'y",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 43,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 44,
       "text": "MAILED TO",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 45,
       "text": "JAN 24 1977",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 46,
       "text": "FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 47,
       "status": "blank"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 48,
+      "text": "MAIL ROOM",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 49,
       "text": "TELETYPE UNIT",
       "status": "image_matched"
     }

@@ -8,31 +8,21 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 46 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0086-l0002",
-    "page_0086-l0005",
-    "page_0086-l0046",
-    "page_0086-l0048",
-    "page_0086-l0049",
-    "page_0086-l0050",
-    "page_0086-l0052"
-  ],
-  "lineCount": 56,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 60,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Office Mem.",
-      "status": "image_matched"
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "UNITED STATES GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
@@ -46,265 +36,275 @@
     },
     {
       "lineNumber": 5,
-      "text": "FROM : MR. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
+      "text": "FROM : MR. [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
       "text": "SUBJECT: UNIDENTIFIED FLYING OBJECTS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
-      "text": "C(FLYING SAUCERS)",
-      "status": "image_matched"
+      "lineNumber": 9,
+      "text": "(FLYING SAUCERS)",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 10,
       "status": "blank"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 11,
       "text": "Ever since the Russians released \"Sputnik\" there",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
       "text": "has been a great increase in the number of \"flying saucers\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 13,
       "text": "and other unidentified flying objects (UFO) reportedly seen by",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
       "text": "people all over the U. S. On October 10, 1957, the Air Force",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 15,
       "text": "was flooded with calls and the newspapers were full of reports",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 16,
       "text": "that an unknown object described as \"looked like the moon\" and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 17,
       "text": "trailing a \"blue flame that pulsed like a heart\" had landed in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 18,
       "text": "the vicinity of Vernal, Utah. The Air Force immediately",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 19,
       "text": "investigated these reports with negative results, inasmuch as",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 20,
       "text": "no object was located nor was there any evidence of an object",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 21,
       "text": "having fallen in Utah.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 23,
       "text": "Within the past two weeks reports in these cases have",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 24,
       "text": "increased tremendously and some of the more serious have been",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
-      "text": "described as follows: An object had landed in Nebraska with six",
-      "status": "image_matched"
+      "lineNumber": 25,
+      "text": "described as follows: an object had landed in Nebraska with six",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 26,
       "text": "people aboard; the persons had talked to a Nebraska farmer and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 27,
       "text": "then sped off into space; a firey object was seen flashing across",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 28,
       "text": "the southern skies from Albany, Georgia, to Miami, Florida; a Coast",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 29,
       "text": "Guard cutter had sighted a huge object flying over the Gulf of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
-      "text": "Mexico, and persons in the Southwestern States while driving their",
-      "status": "image_matched"
+      "lineNumber": 30,
+      "text": "Mexico, and persons in the Southwestern states while driving their",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 31,
       "text": "cars have allegedly seen UFO's that caused the engines in their",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 32,
       "text": "automobiles to stop. In view of the number of these reports, the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 33,
       "text": "Bureau's Liaison Representative discussed these various sightings",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 34,
       "text": "with officials of Air Force Intelligence and was advised that all",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 35,
       "text": "the cases mentioned above have for all practical purposes been",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 36,
       "text": "resolved as being nonauthentic or there was no basis for the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
-      "text": "sightings. Investigating details that the Air Force had put in the",
-      "status": "image_matched"
+      "lineNumber": 37,
+      "text": "sightings. Investigating details that the Air Force had out in the",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 38,
       "text": "field investigating these matters have not submitted their complete",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 39,
       "text": "reports but have advised that they are all more or less negative.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 40,
       "text": "The Air Force is following these sightings closely and all reports",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 41,
       "text": "are submitted to the Air Technical and Intelligence Center, at",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 42,
       "text": "Wright-Patterson Air Force Base in Ohio where they are evaluated",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 43,
       "text": "and analyzed. In the event any of the future reports appear to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 44,
       "text": "be authentic, the Air Force will immediately notify the Bureau,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 45,
       "text": "keeping in mind our particular interest in matters concerning",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 46,
       "text": "espionage and sabotage.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 47,
       "status": "blank"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 48,
       "text": "WTW:jlk(7)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 49,
       "text": "1 - Mr. Belmont",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
-      "text": "1 - Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 49,
-      "text": "1 - Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 50,
       "text": "1 - Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 51,
-      "text": "1 - Liaison Section",
-      "status": "image_matched"
+      "text": "1 - Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 52,
-      "text": "64NOV26 1957 Dooley",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "1 - Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 53,
+      "text": "64 NOV [unclear] Liaison Section",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 54,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 55,
       "text": "RECORDED - 94",
       "status": "image_matched"
     },
     {
-      "lineNumber": 54,
+      "lineNumber": 56,
       "text": "EX - 138",
       "status": "image_matched"
     },
     {
-      "lineNumber": 55,
-      "text": "NOV 26 1957",
+      "lineNumber": 57,
+      "text": "LIAISON",
       "status": "image_matched"
     },
     {
-      "lineNumber": 56,
-      "text": "LIAISON",
+      "lineNumber": 58,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 59,
+      "text": "62-83894-387",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 60,
+      "text": "NOV 26 1957",
       "status": "image_matched"
     }
   ],

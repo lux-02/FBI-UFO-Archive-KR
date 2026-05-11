@@ -8,57 +8,37 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "15 permanent_unresolved line(s) excluded under SRC-896. 9 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0131-l0002",
-    "page_0131-l0003",
-    "page_0131-l0004",
-    "page_0131-l0005",
-    "page_0131-l0008",
-    "page_0131-l0009",
-    "page_0131-l0010",
-    "page_0131-l0011",
-    "page_0131-l0012",
-    "page_0131-l0014",
-    "page_0131-l0017",
-    "page_0131-l0018",
-    "page_0131-l0020",
-    "page_0131-l0022",
-    "page_0131-l0024"
-  ],
-  "lineCount": 24,
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 30,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Dear Sir,",
-      "status": "image_matched"
+      "text": "Dear sir",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
       "text": "My name is [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 3,
       "text": "I work for the United Saucer",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
       "text": "Hunter Organization, I am",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "writing this in regard to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "writting this in regard to",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -72,99 +52,113 @@
     },
     {
       "lineNumber": 8,
-      "text": "occupant. This was published",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "occupant this was published",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "in a flying saucer maga-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "in a flying saucer mage",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "zine with a photo of two",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "along with a photo of two",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
       "text": "alleged FBI agents and",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "the saucer occupant. Is this",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "a saucer occupant is this",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "text": "true? Does the FBI",
-      "status": "image_matched"
+      "text": "true? does the FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "really have a saucer occu-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "really have a saucer man?",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
-      "text": "pant?",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 16,
-      "text": "Very Truly,",
-      "status": "image_matched"
+      "text": "Very Truly",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
-      "text": "TC: 3/18/68",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 19,
-      "text": "Act: 3/19/68",
-      "status": "image_matched"
+      "text": "ITC: 3/18/68 mus",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "text": "ED: [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Ack: 3/19/68",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
+      "text": "ED: new",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 22,
       "text": "ENCLOSURE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 23,
+      "status": "blank"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 24,
+      "text": "N-NR",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 25,
+      "text": "N-NR",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 26,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 27,
       "text": "CORRESPONDENCE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
+      "text": "REC'D-COMM. & [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 30,
       "text": "FBI",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

@@ -8,15 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 36 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0028-l0012",
-    "page_0028-l0032"
-  ],
-  "lineCount": 38,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 922,
   "lines": [
     {
       "lineNumber": 1,
@@ -30,27 +27,26 @@
     },
     {
       "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "Transmit the following in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 5,
       "text": "(Type in plain text or code)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "AIR TEL",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 6,
-      "text": "AIR MAIL",
-      "status": "image_matched"
+      "text": "Via AIR TEL",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "text": "Via",
+      "text": "AIR MAIL",
       "status": "image_matched"
     },
     {
@@ -60,155 +56,3695 @@
     },
     {
       "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
       "text": "TO : DIRECTOR, FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
       "text": "FROM: SAC, DETROIT (65-2677)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 13,
+      "text": "SA[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 14,
       "text": "UNIDENTIFIED FLYING OBJECT;",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
-      "text": "JOSEPH PERRY, Grand Blanc, 3079 Edwards St.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 15,
+      "text": "[REDACTED] PERRY, Grand Blanc, 3079 Edwards St.",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 16,
       "text": "Michigan - Complainant",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 17,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 18,
       "text": "Re Detroit tel 3/9/60.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 19,
+      "text": "& APPROX 1916",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 20,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 21,
       "text": "Enclosed herewith are five copies of letterhead memo captioned",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 22,
       "text": "as above and a newspaper clipping from the \"Detroit Times\", dated",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 23,
       "text": "today.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 24,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 25,
       "text": "A copy of this letterhead memo along with two 35 mm slides were",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 26,
       "text": "furnished to the 25th OSI District (IG), Selfridge Air Force",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 27,
       "text": "Base, Mt. Clemens, Mich., by letter this date. The Air Force",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 28,
       "text": "was requested to return the slides to Mr. PERRY.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 29,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 30,
       "text": "The Bureau was furnished with information pertaining to press",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 31,
       "text": "inquiries received in connection with the enclosed newspaper",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 32,
       "text": "article by retel. OSI, SAFB, was advised of this information",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 33,
       "text": "orally on 3/9/60, and in the cover letter to OSI they were",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 34,
       "text": "advised that no action was contemplated by this office and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 35,
       "text": "it was referred to them for any action they deemed advisable.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 36,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 37,
       "text": "Bureau (Encls. 6)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 38,
       "text": "Detroit",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 39,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 40,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 41,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 42,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 43,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 44,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 45,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 46,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 47,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 48,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 49,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 50,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 51,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 52,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 53,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 54,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 55,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 56,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 57,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 58,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 59,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 60,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 61,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 62,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 63,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 64,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 65,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 66,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 67,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 68,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 69,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 70,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 71,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 72,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 73,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 74,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 75,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 76,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 77,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 78,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 79,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 80,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 81,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 82,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 83,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 84,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 85,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 86,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 87,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 88,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 89,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 90,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 91,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 92,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 93,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 94,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 95,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 96,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 97,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 98,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 99,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 100,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 101,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 102,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 103,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 104,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 105,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 106,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 107,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 108,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 109,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 110,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 111,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 112,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 113,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 114,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 115,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 116,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 117,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 118,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 119,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 120,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 121,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 122,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 123,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 124,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 125,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 126,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 127,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 128,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 129,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 130,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 131,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 132,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 133,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 134,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 135,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 136,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 137,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 138,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 139,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 140,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 141,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 142,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 143,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 144,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 145,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 146,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 147,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 148,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 149,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 150,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 151,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 152,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 153,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 154,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 155,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 156,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 157,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 158,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 159,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 160,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 161,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 162,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 163,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 164,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 165,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 166,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 167,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 168,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 169,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 170,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 171,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 172,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 173,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 174,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 175,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 176,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 177,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 178,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 179,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 180,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 181,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 182,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 183,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 184,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 185,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 186,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 187,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 188,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 189,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 190,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 191,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 192,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 193,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 194,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 195,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 196,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 197,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 198,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 199,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 200,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 201,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 202,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 203,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 204,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 205,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 206,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 207,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 208,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 209,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 210,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 211,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 212,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 213,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 214,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 215,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 216,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 217,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 218,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 219,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 220,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 221,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 222,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 223,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 224,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 225,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 226,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 227,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 228,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 229,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 230,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 231,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 232,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 233,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 234,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 235,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 236,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 237,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 238,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 239,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 240,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 241,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 242,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 243,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 244,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 245,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 246,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 247,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 248,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 249,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 250,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 251,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 252,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 253,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 254,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 255,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 256,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 257,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 258,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 259,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 260,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 261,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 262,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 263,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 264,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 265,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 266,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 267,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 268,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 269,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 270,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 271,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 272,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 273,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 274,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 275,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 276,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 277,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 278,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 279,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 280,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 281,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 282,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 283,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 284,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 285,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 286,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 287,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 288,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 289,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 290,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 291,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 292,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 293,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 294,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 295,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 296,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 297,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 298,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 299,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 300,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 301,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 302,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 303,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 304,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 305,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 306,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 307,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 308,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 309,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 310,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 311,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 312,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 313,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 314,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 315,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 316,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 317,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 318,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 319,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 320,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 321,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 322,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 323,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 324,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 325,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 326,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 327,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 328,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 329,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 330,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 331,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 332,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 333,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 334,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 335,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 336,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 337,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 338,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 339,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 340,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 341,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 342,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 343,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 344,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 345,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 346,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 347,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 348,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 349,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 350,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 351,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 352,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 353,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 354,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 355,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 356,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 357,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 358,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 359,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 360,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 361,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 362,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 363,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 364,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 365,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 366,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 367,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 368,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 369,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 370,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 371,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 372,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 373,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 374,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 375,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 376,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 377,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 378,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 379,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 380,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 381,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 382,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 383,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 384,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 385,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 386,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 387,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 388,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 389,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 390,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 391,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 392,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 393,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 394,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 395,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 396,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 397,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 398,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 399,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 400,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 401,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 402,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 403,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 404,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 405,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 406,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 407,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 408,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 409,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 410,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 411,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 412,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 413,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 414,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 415,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 416,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 417,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 418,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 419,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 420,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 421,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 422,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 423,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 424,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 425,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 426,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 427,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 428,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 429,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 430,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 431,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 432,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 433,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 434,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 435,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 436,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 437,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 438,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 439,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 440,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 441,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 442,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 443,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 444,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 445,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 446,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 447,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 448,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 449,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 450,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 451,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 452,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 453,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 454,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 455,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 456,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 457,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 458,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 459,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 460,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 461,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 462,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 463,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 464,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 465,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 466,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 467,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 468,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 469,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 470,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 471,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 472,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 473,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 474,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 475,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 476,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 477,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 478,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 479,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 480,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 481,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 482,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 483,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 484,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 485,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 486,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 487,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 488,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 489,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 490,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 491,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 492,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 493,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 494,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 495,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 496,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 497,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 498,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 499,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 500,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 501,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 502,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 503,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 504,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 505,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 506,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 507,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 508,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 509,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 510,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 511,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 512,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 513,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 514,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 515,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 516,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 517,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 518,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 519,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 520,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 521,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 522,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 523,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 524,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 525,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 526,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 527,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 528,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 529,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 530,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 531,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 532,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 533,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 534,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 535,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 536,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 537,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 538,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 539,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 540,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 541,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 542,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 543,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 544,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 545,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 546,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 547,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 548,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 549,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 550,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 551,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 552,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 553,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 554,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 555,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 556,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 557,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 558,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 559,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 560,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 561,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 562,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 563,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 564,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 565,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 566,
+      "text": "-",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 567,
       "text": "WLS/mac",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 568,
       "text": "(4)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
-      "text": "REC-51 62-85994-409",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 569,
+      "status": "blank"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 570,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 571,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 572,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 573,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 574,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 575,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 576,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 577,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 578,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 579,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 580,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 581,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 582,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 583,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 584,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 585,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 586,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 587,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 588,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 589,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 590,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 591,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 592,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 593,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 594,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 595,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 596,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 597,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 598,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 599,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 600,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 601,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 602,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 603,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 604,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 605,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 606,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 607,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 608,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 609,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 610,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 611,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 612,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 613,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 614,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 615,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 616,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 617,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 618,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 619,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 620,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 621,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 622,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 623,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 624,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 625,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 626,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 627,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 628,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 629,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 630,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 631,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 632,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 633,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 634,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 635,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 636,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 637,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 638,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 639,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 640,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 641,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 642,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 643,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 644,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 645,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 646,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 647,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 648,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 649,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 650,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 651,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 652,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 653,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 654,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 655,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 656,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 657,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 658,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 659,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 660,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 661,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 662,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 663,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 664,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 665,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 666,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 667,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 668,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 669,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 670,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 671,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 672,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 673,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 674,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 675,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 676,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 677,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 678,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 679,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 680,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 681,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 682,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 683,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 684,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 685,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 686,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 687,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 688,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 689,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 690,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 691,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 692,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 693,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 694,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 695,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 696,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 697,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 698,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 699,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 700,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 701,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 702,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 703,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 704,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 705,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 706,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 707,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 708,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 709,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 710,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 711,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 712,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 713,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 714,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 715,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 716,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 717,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 718,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 719,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 720,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 721,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 722,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 723,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 724,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 725,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 726,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 727,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 728,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 729,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 730,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 731,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 732,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 733,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 734,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 735,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 736,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 737,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 738,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 739,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 740,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 741,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 742,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 743,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 744,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 745,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 746,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 747,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 748,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 749,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 750,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 751,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 752,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 753,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 754,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 755,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 756,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 757,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 758,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 759,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 760,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 761,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 762,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 763,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 764,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 765,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 766,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 767,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 768,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 769,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 770,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 771,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 772,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 773,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 774,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 775,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 776,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 777,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 778,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 779,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 780,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 781,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 782,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 783,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 784,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 785,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 786,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 787,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 788,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 789,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 790,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 791,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 792,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 793,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 794,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 795,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 796,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 797,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 798,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 799,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 800,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 801,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 802,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 803,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 804,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 805,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 806,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 807,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 808,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 809,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 810,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 811,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 812,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 813,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 814,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 815,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 816,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 817,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 818,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 819,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 820,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 821,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 822,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 823,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 824,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 825,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 826,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 827,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 828,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 829,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 830,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 831,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 832,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 833,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 834,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 835,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 836,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 837,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 838,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 839,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 840,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 841,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 842,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 843,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 844,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 845,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 846,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 847,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 848,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 849,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 850,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 851,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 852,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 853,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 854,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 855,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 856,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 857,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 858,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 859,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 860,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 861,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 862,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 863,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 864,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 865,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 866,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 867,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 868,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 869,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 870,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 871,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 872,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 873,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 874,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 875,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 876,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 877,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 878,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 879,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 880,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 881,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 882,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 883,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 884,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 885,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 886,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 887,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 888,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 889,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 890,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 891,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 892,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 893,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 894,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 895,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 896,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 897,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 898,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 899,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 900,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 901,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 902,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 903,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 904,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 905,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 906,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 907,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 908,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 909,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 910,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 911,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 912,
+      "text": "-",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 913,
+      "text": "REC-51 C62-85894-407",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 914,
       "text": "EX 105",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 915,
       "text": "MAR 10 1960",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 916,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 917,
       "text": "ENCLOSURE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 918,
       "text": "Approved:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 919,
       "text": "Sent",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
-      "text": "51 MAR 24 1960 in Charge",
-      "status": "image_matched"
+      "lineNumber": 920,
+      "text": "M",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 921,
+      "text": "51 MAR 24 1960",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 922,
+      "text": "In Charge",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

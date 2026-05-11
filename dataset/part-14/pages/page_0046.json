@@ -8,40 +8,22 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "16 permanent_unresolved line(s) excluded under SRC-896. 28 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0046-l0002",
-    "page_0046-l0010",
-    "page_0046-l0013",
-    "page_0046-l0015",
-    "page_0046-l0016",
-    "page_0046-l0017",
-    "page_0046-l0018",
-    "page_0046-l0027",
-    "page_0046-l0029",
-    "page_0046-l0031",
-    "page_0046-l0032",
-    "page_0046-l0033",
-    "page_0046-l0035",
-    "page_0046-l0036",
-    "page_0046-l0037",
-    "page_0046-l0041"
-  ],
-  "lineCount": 48,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 68,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "- Belmont",
+      "text": "SAC, Phoenix",
       "status": "image_matched"
     },
     {
       "lineNumber": 2,
-      "text": "1 - [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "- Belmont",
+      "status": "image_matched"
     },
     {
       "lineNumber": 3,
@@ -50,8 +32,7 @@
     },
     {
       "lineNumber": 4,
-      "text": "SAC, Phoenix",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
@@ -60,199 +41,182 @@
     },
     {
       "lineNumber": 6,
-      "text": "REC-37 62-83874-398",
-      "status": "image_matched"
+      "text": "REC-37 62-83894-398",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
       "text": "MISCELLANEOUS - INFORMATION CONCERNING",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "(Nationalities Intelligence)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
       "text": "Enclosed is a copy of a letter received from",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
       "text": "[REDACTED] Scottsdale,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 13,
       "text": "Arizona.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
       "text": "Bufiles contain no information pertaining to the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 16,
       "text": "[REDACTED] nor to the \"hush-up\" of [REDACTED] as alleged",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 17,
       "text": "in paragraph two of the enclosed letter. The only identi-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
-      "text": "fiable data in Bureau files on [REDACTED] is a letter he wrote",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 16,
-      "text": "on 10/26/52 on the letterhead of the [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 17,
-      "text": "[REDACTED] to a Mr. [REDACTED] Franklin, Indiana, in",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 18,
-      "text": "which he suggested how [REDACTED] could organize a chapter of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "fiable data in Bureau files on [REDACTED] is a letter he wrote",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 19,
+      "text": "on 10/26/52 on the letterhead of the [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 20,
+      "text": "[REDACTED] to a Mr. [REDACTED] Franklin, Indiana, in",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 21,
+      "text": "which he suggested how [REDACTED] could organize a chapter of",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 22,
       "text": "the Saucer Bureau in Franklin. Also in Bufiles is a copy",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 23,
       "text": "of the January, 1953, magazine \"Space Review\" which apparently",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 24,
       "text": "was put out by the Saucer Bureau. This magazine contains",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 25,
       "text": "numerous articles and squibs concerning the sighting of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 26,
       "text": "flying saucers throughout the world. It does not appear to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 27,
       "text": "have any security significance.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 28,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 29,
       "text": "Unless information in your files would indicate",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 30,
       "text": "an interview with [REDACTED] is undesirable, immediately contact",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 31,
       "text": "him and orally acknowledge the receipt of his letter by the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 32,
       "text": "Bureau. At the same time thoroughly interview [REDACTED] and",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 33,
       "text": "obtain all data in his possession concerning the \"hush-up\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
-      "text": "of [REDACTED] as well as what part the FBI was alleged to have",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 32,
-      "text": "played in the [REDACTED]. In the event it is apparent",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 33,
-      "text": "that the Bureau was not so involved, so advise [REDACTED]. Submit",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 34,
+      "text": "of [REDACTED] as well as what part the FBI was alleged to have",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 35,
+      "text": "played in the \"[REDACTED]\". In the event it is apparent",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 36,
+      "text": "that the Bureau was not so involved, so advise [REDACTED]. Submit",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 37,
       "text": "results of this interview to reach the Bureau no later than",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
-      "text": "12/23/58. It is permissible to advise [REDACTED] that the Bureau",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 36,
-      "text": "is not cognizant of [REDACTED] whereabouts and has no record",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 37,
-      "text": "of involvement in the [REDACTED].",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 38,
-      "status": "blank"
+      "text": "12/23/58. It is permissible to advise [REDACTED] that the Bureau",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 39,
-      "text": "Enclosure",
-      "status": "image_matched"
+      "text": "is not cognizant of [REDACTED] whereabouts and has no record",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 40,
-      "status": "blank"
+      "text": "of involvement in the \"[REDACTED]\".",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 41,
-      "text": "NOTE: See cover memo [REDACTED] to Belmont, same caption,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 42,
-      "text": "dated December 12, 1958, JFW:jas.",
+      "text": "Enclosure",
       "status": "image_matched"
     },
     {
@@ -261,28 +225,123 @@
     },
     {
       "lineNumber": 44,
-      "text": "JFW:jas",
-      "status": "image_matched"
+      "text": "NOTE: See cover memo [REDACTED] to Belmont, same caption,",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 45,
-      "text": "(6)",
+      "text": "dated December 12, 1958, JFW:jas.",
       "status": "image_matched"
     },
     {
       "lineNumber": 46,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 47,
+      "text": "Tolson",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 48,
+      "text": "Boardman",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 49,
+      "text": "Belmont",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "text": "Mohr",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
+      "text": "Nease",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 52,
+      "text": "Parsons",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
+      "text": "Rosen",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 54,
+      "text": "Tamm",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 55,
+      "text": "Trotter",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 56,
+      "text": "Clayton",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 57,
+      "text": "Tele. Room",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 58,
+      "text": "Holloman",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 59,
+      "text": "Gandy",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 60,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 61,
+      "text": "JFW:jas",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 62,
+      "text": "(6)",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 63,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 64,
       "text": "60 JAN 2 1959",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
-      "text": "DEC 1 61958",
+      "lineNumber": 65,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 66,
+      "text": "MAIL ROOM",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
-      "text": "MAIL ROOM",
-      "status": "image_matched"
+      "lineNumber": 67,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 68,
+      "text": "DEC 16 1958",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

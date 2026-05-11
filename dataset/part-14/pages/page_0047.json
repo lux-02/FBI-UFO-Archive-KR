@@ -8,35 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "22 permanent_unresolved line(s) excluded under SRC-896. 24 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0047-l0002",
-    "page_0047-l0004",
-    "page_0047-l0006",
-    "page_0047-l0007",
-    "page_0047-l0011",
-    "page_0047-l0012",
-    "page_0047-l0014",
-    "page_0047-l0015",
-    "page_0047-l0016",
-    "page_0047-l0017",
-    "page_0047-l0018",
-    "page_0047-l0019",
-    "page_0047-l0022",
-    "page_0047-l0023",
-    "page_0047-l0025",
-    "page_0047-l0026",
-    "page_0047-l0027",
-    "page_0047-l0028",
-    "page_0047-l0037",
-    "page_0047-l0040",
-    "page_0047-l0049",
-    "page_0047-l0051"
-  ],
-  "lineCount": 51,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 72,
   "lines": [
     {
       "lineNumber": 1,
@@ -45,47 +22,41 @@
     },
     {
       "lineNumber": 2,
-      "text": "TO : MR. A. H. BELMONT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
+      "text": "TO : MR. A. H. BELMONT",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 4,
       "text": "DATE: December 12, 1958",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "FROM : [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 5,
+      "status": "blank"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
+      "text": "FROM : [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 7,
       "text": "1 - Belmont",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "text": "1 [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 7,
-      "text": "1 [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 8,
-      "text": "SUBJECT: MISCELLANEOUS - INFORMATION CONCERNING",
-      "status": "image_matched"
+      "text": "1 - [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
-      "text": "(Nationalities Intelligence)",
-      "status": "image_matched"
+      "text": "1 - [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
@@ -93,78 +64,68 @@
     },
     {
       "lineNumber": 11,
-      "text": "By letter 12/7/58 Mr. [REDACTED] inquired whether we",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Tolson",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "could furnish him any information concerning the [REDACTED] and",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Boardman",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "text": "advised he was asking the Bureau since he had recently learned that the",
-      "status": "image_matched"
+      "text": "Belmont",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "FBI is involved in this affair. [REDACTED] explained that [REDACTED] formed the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mohr",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
-      "text": "[REDACTED] in Bridgeport, Connecticut, in 1952",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Nease",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
-      "text": "to look into the flying saucer mystery. In 1953 [REDACTED] allegedly stated",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Parsons",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "text": "that he knew what the saucers are. Then according to [REDACTED] \"three men",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Rosen",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": "in black suits\" silenced [REDACTED] to the extent that even today [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Tamm",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
-      "text": "will not discuss the matter of his \"hush-up\" with anyone. [REDACTED] pointed",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Trotter",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "text": "out he has learned that \"the secret of the saucers lies the 'dreadful",
-      "status": "image_matched"
+      "text": "Clayton",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
-      "text": "underground menace' that is threatening the world\" and that he has",
-      "status": "image_matched"
+      "text": "Tele. Room",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
-      "text": "important information concerning this menace. [REDACTED] also requested our",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Holloman",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
-      "text": "help in getting in touch with [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Gandy",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
@@ -172,143 +133,234 @@
     },
     {
       "lineNumber": 25,
-      "text": "Bufiles contain no information on [REDACTED] The only identifiable",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 26,
-      "text": "data in our files on [REDACTED] is a letter he wrote on 10/26/52 on the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 27,
-      "text": "letterhead of the [REDACTED] to a Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 28,
-      "text": "[REDACTED] Franklin, Indiana, in which he suggested how [REDACTED] could organize",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 29,
-      "text": "a chapter of the Saucer Bureau in Franklin. Also in Bufiles is a copy",
+      "text": "SUBJECT: MISCELLANEOUS - INFORMATION CONCERNING",
       "status": "image_matched"
     },
     {
+      "lineNumber": 26,
+      "text": "(Nationalities Intelligence)",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
+      "text": "By letter 12/7/58 Mr. [REDACTED], inquired whether we",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 29,
+      "text": "could furnish him any information concerning the \"[REDACTED]\" and",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 30,
-      "text": "of the January, 1953, magazine \"Space Review\" which apparently was put",
+      "text": "advised he was asking the Bureau since he had recently learned that the",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "text": "out by the Saucer Bureau. This magazine contains numerous articles and",
-      "status": "image_matched"
+      "text": "FBI is involved in this affair. [REDACTED] explained that [REDACTED] formed the",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 32,
-      "text": "squibs concerning the sighting of flying saucers throughout the world.",
-      "status": "image_matched"
+      "text": "[REDACTED] in Bridgeport, Connecticut, in 1952",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 33,
-      "text": "It does not appear to have any security significance.",
-      "status": "image_matched"
+      "text": "to look into the flying saucer mystery. In 1953 [REDACTED] allegedly stated",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 34,
-      "status": "blank"
+      "text": "that he knew what the saucers are. Then according to [REDACTED] \"three men",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 35,
-      "text": "RECOMMENDATION:",
-      "status": "image_matched"
+      "text": "in black suits\" silenced [REDACTED] to the extent that even today [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 36,
-      "status": "blank"
+      "text": "will not discuss the matter of his \"hush-up\" with anyone. [REDACTED] pointed",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 37,
-      "text": "There is a possibility that [REDACTED] may be suffering from de-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "out he has learned that \"the secret of the saucers lies the 'dreadful",
+      "status": "image_matched"
     },
     {
       "lineNumber": 38,
-      "text": "lusions; however, in view of the fact that he stated the FBI is involved",
+      "text": "underground menace' that is threatening the world\" and that he has",
       "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "text": "in a matter of which we are not cognizant as well as the implications in",
-      "status": "image_matched"
+      "text": "important information concerning this menace. [REDACTED] also requested our",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 40,
-      "text": "his description of the \"hush-up\" of [REDACTED], it is recommended he be inter-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "help in getting in touch with [REDACTED].",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 41,
-      "text": "viewed and all information in his possession concerning this incident be",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "text": "obtained so that we can decide whether the facts warrant investigation.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "At the same time his letter will be orally acknowledged.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
       "status": "blank"
     },
     {
+      "lineNumber": 42,
+      "text": "Bufiles contain no information on [REDACTED]. The only identifiable",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 43,
+      "text": "data in our files on [REDACTED] is a letter he wrote on 10/26/52 on the",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 44,
+      "text": "letterhead of the [REDACTED] to a Mr. [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 45,
-      "text": "A letter to Phoenix is enclosed. REC-37 62-93971-378",
-      "status": "image_matched"
+      "text": "[REDACTED] Franklin, Indiana, in which he suggested how [REDACTED] could organize",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 46,
-      "text": "Enclosure",
+      "text": "a chapter of the Saucer Bureau in Franklin. Also in Bufiles is a copy",
       "status": "image_matched"
     },
     {
       "lineNumber": 47,
-      "text": "JFW:jas",
+      "text": "of the January, 1953, magazine \"Space Review\" which apparently was put",
       "status": "image_matched"
     },
     {
       "lineNumber": 48,
-      "text": "(4)",
+      "text": "out by the Saucer Bureau. This magazine contains numerous articles and",
       "status": "image_matched"
     },
     {
       "lineNumber": 49,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "squibs concerning the sighting of flying saucers throughout the world.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 50,
-      "text": "DEC 17 1958",
+      "text": "It does not appear to have any security significance.",
       "status": "image_matched"
     },
     {
       "lineNumber": 51,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
+    },
+    {
+      "lineNumber": 52,
+      "text": "RECOMMENDATION:",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 53,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 54,
+      "text": "There is a possibility that [REDACTED] may be suffering from de-",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 55,
+      "text": "lusions; however, in view of the fact that he stated the FBI is involved",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 56,
+      "text": "in a matter of which we are not cognizant as well as the implications in",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 57,
+      "text": "his description of the \"hush-up\" of [REDACTED], it is recommended he be inter-",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 58,
+      "text": "viewed and all information in his possession concerning this incident be",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 59,
+      "text": "obtained so that we can decide whether the facts warrant investigation.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 60,
+      "text": "At the same time his letter will be orally acknowledged.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 61,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 62,
+      "text": "A letter to Phoenix is enclosed. REC-37 62-83894-378",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 63,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 64,
+      "text": "Enclosure",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 65,
+      "text": "JFW:jas",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 66,
+      "text": "(4)",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 67,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 68,
+      "text": "11 DEC 17 1958",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 69,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 70,
+      "text": "EX-109",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 71,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 72,
+      "text": "NAT. INT. SEC.",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

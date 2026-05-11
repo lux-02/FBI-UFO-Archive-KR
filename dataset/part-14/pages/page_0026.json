@@ -8,14 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 42 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0026-l0004"
-  ],
-  "lineCount": 45,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 49,
   "lines": [
     {
       "lineNumber": 1,
@@ -35,8 +33,7 @@
     {
       "lineNumber": 4,
       "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 5,
@@ -70,8 +67,8 @@
     },
     {
       "lineNumber": 11,
-      "text": "Tele. Room",
-      "status": "image_matched"
+      "text": "Tels. Room",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
@@ -89,13 +86,13 @@
     },
     {
       "lineNumber": 15,
-      "text": "FEDERAL BUREAU OF INVESTIGATION",
-      "status": "image_matched"
+      "text": "FEDERAL [unclear] OF [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 16,
-      "text": "U. S. DEPARTMENT OF JUSTICE",
-      "status": "image_matched"
+      "text": "U. S. [unclear] OF JUSTICE",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 17,
@@ -123,123 +120,141 @@
     },
     {
       "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
       "text": "TO DIRECTOR, FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
-      "text": "FROM SAC DETROIT 165-2677/ 2P",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 24,
-      "text": "UNIDENTIFIED FLYING OBJECT., JOSEPH PERRY, GRAND BLANC, MICHIGAN -",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 25,
+      "text": "FROM SAC DETROIT /65-2677/ 2P",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 26,
+      "text": "Saucers",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 27,
+      "text": "UNIDENTIFIED FLYING OBJECT., JOSEPH PERRY, GRAND BLANC, MICHIGAN - [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 28,
       "text": "COMPLAINANT. FOLLOWING BEING SUBMITTED BUREAU IN VIEW OF ARTICLES",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 29,
       "text": "APPEARING DETROIT TIMES TODAY, DATELINE GRAND BLANC, MICHIGAN,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 30,
       "text": "REFLECTING THE FBI FLINT RESIDENT AGENCY WAS FURNISHED SLIDES OF",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 31,
       "text": "PHOTOGRAPHS TAKEN BY JOSEPH PERRY ALLEGEDLY SHOWING A SAUCER-LIKE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 32,
       "text": "OBJECT SILHOUETTED AGAINST THE MOON. ARTICLE INDICATES FBI IS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 33,
       "text": "INTERESTED IN THE PICTURE. JOSEPH PERRY, THREE NAUGHT SEVEN NINE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 34,
       "text": "EDWARDS STREET, GRAND BLANC, MICHIGAN, ON MARCH FOUR LAST",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 35,
       "text": "TELEPHONICALLY CALLED THE FLINT RESIDENT AGENCY AND ADVISED AGENTS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 36,
       "text": "HE HAS BEEN A PROFESSIONAL PHOTOGRAPHER THE PAST THIRTY YEARS. HE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 37,
       "text": "HAS A HOBBY OF TAKING PHOTOGRAPHS OF THE MOON THROUGH A HOMEMADE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 38,
       "text": "TELESCOPE, AND AT ABOUT ONE A.M., FEBRUARY TWENTYONE LAST, TOOK",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 39,
       "text": "PHOTOGRAPHS OF THE MOON, AND AFTER DEVELOPING SAME NOTED IN ONE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
-      "text": "WHAT APPEARED TO BE A FLYING OBJECT. CUSTOMERS OF HIS PIZZA PIE",
-      "status": "image_matched"
+      "lineNumber": 40,
+      "text": "WHAT APPEARED TO BE A FLYING OBJECT.. CUSTOMERS OF HIS PIZZA PIE",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 41,
       "text": "RESTAURANT SUGGESTED THE PHOTOGRAPH MAY REFLECT FLYING SAUCER.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 42,
       "text": "INFORMATION FURNISHED PRESS BY JOE PERRY REFERRED TO ABOVE. FLINT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 43,
       "text": "END PAGE ONE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
-      "text": "Mr. Belmont",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
+      "lineNumber": 44,
       "text": "REC-33",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 45,
       "text": "62-83894-410",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 46,
+      "text": "Mr. Belmont",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 47,
+      "text": "64 MAR 21 1960",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 48,
       "text": "MAR 17 1960",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
-      "text": "5-88",
-      "status": "image_matched"
+      "lineNumber": 49,
+      "text": "5-",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

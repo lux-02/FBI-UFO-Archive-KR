@@ -8,53 +8,40 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 20 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0076-l0001",
-    "page_0076-l0004",
-    "page_0076-l0013",
-    "page_0076-l0014",
-    "page_0076-l0017",
-    "page_0076-l0018",
-    "page_0076-l0021",
-    "page_0076-l0032"
-  ],
-  "lineCount": 37,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 45,
   "lines": [
     {
       "lineNumber": 1,
       "text": "Office Memorandum • UNITED STATES GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "TO : DIRECTOR, FBI DATE: January 30, 1958",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "FROM SAC, KANSAS CITY (62-7386)",
-      "status": "image_matched"
+      "text": "TO : DIRECTOR, FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "SUBJECT: [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "DATE: January 30, 1958",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "MISCELLANEOUS - INFORMATION CONCERNING",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
-      "text": "FLYING SAUCERS",
-      "status": "image_matched"
+      "text": "FROM : SAC, KANSAS CITY (62-7386)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
@@ -62,75 +49,70 @@
     },
     {
       "lineNumber": 8,
-      "text": "Re St. Louis letter to Bureau 1-6-58 and Bureau",
-      "status": "image_matched"
+      "text": "SUBJECT: MISCELLANEOUS - INFORMATION CONCERNING",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "letter to Director of Special Investigations, Department",
+      "text": "FLYING SAUCERS",
       "status": "image_matched"
     },
     {
       "lineNumber": 10,
-      "text": "of the Air Force, dated 1-23-58.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
       "status": "blank"
     },
     {
+      "lineNumber": 11,
+      "text": "Re St. Louis letter to Bureau 1-6-58 and Bureau",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 12,
-      "text": "The files of the Kansas City Office contain no",
+      "text": "letter to Director of Special Investigations, Department",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "information identifiable with [REDACTED] or the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "of the Air Force, dated 1-23-58.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 15,
       "status": "blank"
     },
     {
+      "lineNumber": 15,
+      "text": "The files of the Kansas City Office contain no",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 16,
+      "text": "information identifiable with [REDACTED] or the",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 17,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 18,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 19,
       "text": "It should be noted that the 1957 Independence,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
-      "text": "Missouri Directory does not list [REDACTED] This",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 18,
-      "text": "directory lists [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 19,
-      "status": "blank"
-    },
-    {
       "lineNumber": 20,
-      "text": "Terrace, Independence, Missouri. The files of the Kansas",
-      "status": "image_matched"
+      "text": "Missouri Directory does not list [REDACTED] This",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,
-      "text": "City Office contain nothing identifiable with [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "directory lists [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
@@ -138,40 +120,40 @@
     },
     {
       "lineNumber": 23,
-      "text": "RUC.",
+      "text": "Terrace, Independence, Missouri. The files of the Kansas",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "status": "blank"
+      "text": "City Office contain nothing identifiable with [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 25,
-      "text": "2 - Bureau",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 26,
-      "text": "1 - St. Louis (62-0) (info)",
+      "text": "RUC.",
       "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "1 - Kansas City (62-7386)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
       "status": "blank"
     },
     {
+      "lineNumber": 28,
+      "text": "2 - Bureau",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 29,
-      "text": "RHA:MEJ",
+      "text": "1 - St. Louis (62-0) (info)",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "(4)",
+      "text": "1 - Kansas City (62-7386)",
       "status": "image_matched"
     },
     {
@@ -180,24 +162,22 @@
     },
     {
       "lineNumber": 32,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "RHA:MEJ",
+      "status": "image_matched"
     },
     {
       "lineNumber": 33,
-      "text": "3 FEB 4 1953",
+      "text": "(4)",
       "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "text": "RECORDED - 4103",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 35,
-      "text": "EX-103",
-      "status": "image_matched"
+      "text": "[unclear] - [unclear] - 38[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 36,
@@ -205,8 +185,45 @@
     },
     {
       "lineNumber": 37,
-      "text": "6 0 FEB 7 1958",
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 38,
+      "text": "RECORDED - [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 39,
+      "text": "EX-103",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 41,
+      "text": "3 FEB 4 1958",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 43,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 44,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 45,
+      "text": "60 FEB 7 1958",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

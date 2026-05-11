@@ -8,20 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 19 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0033-l0012",
-    "page_0033-l0017",
-    "page_0033-l0020",
-    "page_0033-l0023",
-    "page_0033-l0024",
-    "page_0033-l0030",
-    "page_0033-l0034"
-  ],
-  "lineCount": 37,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 40,
   "lines": [
     {
       "lineNumber": 1,
@@ -44,165 +36,175 @@
     },
     {
       "lineNumber": 5,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 6,
       "text": "OKLAHOMA CITY, OKLA.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "status": "blank"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "text": "August 24, 1959",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "status": "blank"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "United States Dept. Of Justice",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "Federal Bureau Of Investigation",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "Washington 25, D.C.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
-      "text": "ATTENTION: J.Edgar Hoover",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 13,
-      "status": "blank"
+      "text": "ATTENTION: J.Edgar Hoover",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
       "text": "Dear Mr. Hoover:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
+      "text": "Flying Saucer",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 17,
       "status": "blank"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 18,
       "text": "The purpose of our organization is to investigate and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 19,
       "text": "study UFO ( Unidentified Flying Objects ) or flying saucer re-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 20,
       "text": "ports.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 20,
-      "text": "Also we are planing to publish a publication on the same",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 21,
+      "text": "Also we are planing to publish a publication on the same",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 22,
       "text": "subject some time in September ( I hope ).",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 23,
       "status": "blank"
     },
     {
-      "lineNumber": 23,
-      "text": "I was wondering is you would take the time to write an",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 24,
-      "text": "artical for our publication? It may be on the subject you care too",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "I was wondering is you would take the time to write an",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
+      "text": "artical for our publication? It may be on the subject you care too",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 26,
       "text": "write on, typed, and about 350 words long.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 27,
       "status": "blank"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 28,
       "text": "Thank you, trusting to hear from you in the near future.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 29,
       "status": "blank"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 30,
       "text": "Very truly yours,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 31,
-      "status": "blank"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 32,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 33,
       "text": "EX 109",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
-      "status": "blank"
-    },
-    {
       "lineNumber": 34,
-      "text": "REC-103",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "REC-10",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 35,
-      "text": "62-83894-467",
-      "status": "image_matched"
+      "text": "62-83894-407",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 36,
-      "text": "23 SEP 3 1959",
-      "status": "image_matched"
+      "text": "[unclear] SEP 3 1959",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 37,
-      "text": "EXP. PROG.",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 38,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 39,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 40,
+      "text": "EXP.PROG.",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

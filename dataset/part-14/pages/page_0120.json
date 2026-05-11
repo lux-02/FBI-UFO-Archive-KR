@@ -8,15 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 17 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0120-l0003",
-    "page_0120-l0008"
-  ],
-  "lineCount": 31,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 35,
   "lines": [
     {
       "lineNumber": 1,
@@ -29,125 +26,125 @@
     },
     {
       "lineNumber": 3,
-      "text": "L2-8394-471",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "REC-21",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "CA-102",
-      "status": "image_matched"
+      "text": "62-83894-471",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "status": "blank"
+      "text": "EX-102",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 7,
       "text": "Belleville, New Jersey 07109",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
-      "status": "blank"
-    },
-    {
       "lineNumber": 8,
-      "text": "Dear Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 9,
-      "status": "blank"
+      "text": "Dear Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
       "text": "I have received your letter of April 30th",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "concerning an article you are preparing on Aerial Phenomena.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "status": "blank"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 14,
       "text": "Although I would like to be of assistance, matters",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "text": "pertaining to Unidentified Flying Objects and Aerial Phenomena",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
       "text": "are not within the jurisdiction of the FBI. I regret we are unable",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "text": "to be of help.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "status": "blank"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 19,
       "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "status": "blank"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 21,
       "text": "J. Edgar Hoover",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 23,
       "text": "NOTE: Our files contain no information identifiable with correspondent.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 24,
       "status": "blank"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
       "text": "JCF:pls (5)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 26,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 27,
       "text": "MAILED 10",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 28,
       "text": "MAY 7 - 1969",
       "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
-      "status": "blank"
     },
     {
       "lineNumber": 29,
@@ -160,8 +157,27 @@
     },
     {
       "lineNumber": 31,
-      "text": "55MAY 14 1969 TELETYPE UNIT",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 32,
+      "text": "elm",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 33,
+      "text": "ndu 1238",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
+      "text": "55 MAY 14 1969 TELETYPE UNIT",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

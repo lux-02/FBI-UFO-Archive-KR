@@ -8,33 +8,17 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "15 permanent_unresolved line(s) excluded under SRC-896. 33 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0043-l0006",
-    "page_0043-l0008",
-    "page_0043-l0013",
-    "page_0043-l0017",
-    "page_0043-l0018",
-    "page_0043-l0029",
-    "page_0043-l0030",
-    "page_0043-l0031",
-    "page_0043-l0032",
-    "page_0043-l0033",
-    "page_0043-l0034",
-    "page_0043-l0035",
-    "page_0043-l0038",
-    "page_0043-l0040",
-    "page_0043-l0041"
-  ],
-  "lineCount": 54,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 57,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "SAC, Phoenix .2-667)",
-      "status": "image_matched"
+      "text": "SAC, Phoenix (2-667)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -57,258 +41,256 @@
     },
     {
       "lineNumber": 6,
-      "text": "MISCELLANEOUS INFORMATION CONCERNING",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 7,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 8,
+      "text": "MISCELLANEOUS - INFORMATION CONCERNING",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
       "text": "(Nationalities Intelligence)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 10,
       "text": "FLYING DISCS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 11,
       "status": "blank"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
       "text": "Reurlet 12/19/58. In paragraph two thereof",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 13,
       "text": "reference is made to a book written by Gray Barker and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
       "text": "published by University Books Publisher entitled \"They",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
-      "text": "Knew For Much About Flying Saucers.\" Reference books",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 15,
+      "text": "Knew Too Much About Flying Saucers.\" Reference books",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 16,
       "text": "at the Seat of Government fail to reflect the location",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 17,
       "text": "of this publisher and since the Bureau is desirous of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 18,
       "text": "obtaining a copy of this book, it is requested that you",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
-      "text": "recontact [REDACTED] to obtain the correct",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 18,
-      "text": "address of the publisher. In the event [REDACTED] volunteers",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 19,
+      "text": "recontact [REDACTED] to obtain the correct",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 20,
+      "text": "address of the publisher. In the event [REDACTED] volunteers",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 21,
       "text": "to make a copy of this book available, it is permissible",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "text": "for you to accept same and furnish it to the Bureau.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 23,
       "status": "blank"
     },
     {
-      "lineNumber": 22,
-      "text": "62-83894-400",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
+      "lineNumber": 24,
       "text": "EX-12",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
       "text": "REC-32",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
-      "text": "DEC 31 1958",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 26,
-      "text": "JFW:jac",
+      "text": "62-83894-400",
       "status": "image_matched"
     },
     {
       "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
+      "text": "JFW:jac",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
       "text": "(4)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 29,
-      "text": "NOTE: By letter 12/7/58 [REDACTED] inquired whether we",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 30,
-      "text": "could furnish him any data concerning the [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "23 DEC 31 1958",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 31,
-      "text": "He explained that [REDACTED] formed the [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 32,
-      "text": "[REDACTED] in Connecticut in 1952 to look into the flying",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 33,
-      "text": "saucer mystery. In 1953 [REDACTED] allegedly stated he knew what",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 34,
-      "text": "the saucers are; then, according to [REDACTED] \"Three men in black",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 35,
-      "text": "suits\" silenced [REDACTED] to the extent that even today [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 36,
-      "text": "will not discuss the matter of his \"hush-up\" with anyone.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "text": "explained that he recently learned that the FBI is involved in",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 38,
-      "text": "the [REDACTED] On 12/19/58 [REDACTED] was interviewed to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 39,
-      "text": "obtain all information in his possession concerning the \"hush-up\"",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "of [REDACTED] as well as what part the FBI was alleged to have",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 41,
-      "text": "played in the [REDACTED] Concerning the [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 42,
-      "text": "he referred the Interviewing Agents to the book set out above. In",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "addition to information regarding this incident it is possible",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "text": "this book may contain other data of interest. Accordingly, not",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
-      "text": "only to resolve this matter but also to ascertain whether any",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
-      "text": "allegations of interest to the Bureau are contained in the book,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 47,
-      "text": "we should if possible obtain a copy. Upon receipt, it will be",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "text": "reviewed with the Bureau's interest in mind.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 49,
       "status": "blank"
     },
     {
-      "lineNumber": 50,
+      "lineNumber": 32,
       "text": "MAILED 27",
       "status": "image_matched"
     },
     {
-      "lineNumber": 51,
+      "lineNumber": 33,
       "text": "DEC 30 1958",
       "status": "image_matched"
     },
     {
-      "lineNumber": 52,
+      "lineNumber": 34,
       "text": "COMM-FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 53,
+      "lineNumber": 35,
       "status": "blank"
     },
     {
-      "lineNumber": 54,
-      "text": "6 JAN 1959",
+      "lineNumber": 36,
+      "text": "NOTE: By letter 12/7/58 [REDACTED] inquired whether we",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 37,
+      "text": "could furnish him any data concerning the [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 38,
+      "text": "He explained that [REDACTED] formed the [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 39,
+      "text": "[REDACTED] in Connecticut in 1952 to look into the flying",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 40,
+      "text": "saucer mystery. In 1953 [REDACTED] allegedly stated he knew what",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 41,
+      "text": "the saucers are; then, according to [REDACTED], \"Three men in black",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 42,
+      "text": "suits\" silenced [REDACTED] to the extent that even today [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 43,
+      "text": "will not discuss the matter of his \"hush-up\" with anyone. [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 44,
+      "text": "explained that he recently learned that the FBI is involved in",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "text": "the [REDACTED].\" On 12/19/58 [REDACTED] was interviewed to",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 46,
+      "text": "obtain all information in his possession concerning the \"hush-up\"",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 47,
+      "text": "of [REDACTED] as well as what part the FBI was alleged to have",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 48,
+      "text": "played in the [REDACTED].\" Concerning the [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 49,
+      "text": "he referred the interviewing Agents to the book set out above. In",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "text": "addition to information regarding this incident it is possible",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "text": "this book may contain other data of interest. Accordingly, not",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 52,
+      "text": "only to resolve this matter but also to ascertain whether any",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 53,
+      "text": "allegations of interest to the Bureau are contained in the book,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 54,
+      "text": "we should if possible obtain a copy. Upon receipt, it will be",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 55,
+      "text": "reviewed with the Bureau's interest in mind.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 56,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 57,
+      "text": "67 JAN 1959",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

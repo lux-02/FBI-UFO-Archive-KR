@@ -8,15 +8,11 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "typed_or_printed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 10 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0095-l0006",
-    "page_0095-l0007",
-    "page_0095-l0015"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 15,
   "lines": [
     {
@@ -47,14 +43,12 @@
     {
       "lineNumber": 6,
       "text": "may be found in Gale's Encyclopedia of Associations (Edition 8,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
       "text": "Vol I, pp. 432-3). Such timely review of the situation by",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
@@ -92,8 +86,7 @@
     {
       "lineNumber": 15,
       "text": "2",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

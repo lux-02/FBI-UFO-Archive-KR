@@ -8,27 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "14 permanent_unresolved line(s) excluded under SRC-896. 34 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0049-l0004",
-    "page_0049-l0007",
-    "page_0049-l0009",
-    "page_0049-l0013",
-    "page_0049-l0022",
-    "page_0049-l0026",
-    "page_0049-l0029",
-    "page_0049-l0031",
-    "page_0049-l0032",
-    "page_0049-l0033",
-    "page_0049-l0036",
-    "page_0049-l0041",
-    "page_0049-l0043",
-    "page_0049-l0048"
-  ],
-  "lineCount": 48,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 60,
   "lines": [
     {
       "lineNumber": 1,
@@ -37,252 +22,286 @@
     },
     {
       "lineNumber": 2,
-      "text": "TO : Director, FBI DATE: December 9, 1958",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
+      "text": "TO : Director, FBI",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 4,
+      "text": "DATE: December 9, 1958",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "FROM : SAC, Oklahoma City 62-2044",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "SUBJECT: [REDACTED] Flying Discs",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 7,
+      "text": "SUBJECT: [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 5,
-      "text": "Oklahoma City, Oklahoma",
-      "status": "image_matched"
+      "lineNumber": 8,
+      "text": "Oklahoma City 6, Oklahoma",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 9,
       "text": "RESEARCH (CRIME RECORDS)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
-      "text": "ReBulet 12/2/58 to [REDACTED] of Oklahoma City,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 10,
+      "status": "blank"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 11,
+      "text": "\"Flying Discs\"",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 12,
+      "text": "[unclear] 100-31527",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
+      "text": "ReBulet 12/2/58 to [REDACTED] of Oklahoma City,",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 15,
       "text": "with copy to the Oklahoma City Office.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
-      "text": "On 12/8/58 [REDACTED] Oklahoma City, Oklahoma, was contacted by SA [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 16,
+      "status": "blank"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 17,
+      "text": "On 12/8/58 [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 18,
+      "text": "Oklahoma City, Oklahoma, was contacted by SA [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 19,
       "text": "and advised that the FBI has not discouraged the investiga-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 20,
       "text": "tion of flying saucers and that the FBI does not conduct",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 21,
       "text": "investigation concerning unidentified flying objects (UFO).",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
-      "text": "[REDACTED] who advised he is 13 years of age,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 22,
+      "status": "blank"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 23,
+      "text": "[REDACTED] who advised he is 13 years of age,",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 24,
       "text": "stated he had read reports in some of the literature concern-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 25,
       "text": "ing UFO which indicated that the FBI had discouraged some",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 26,
       "text": "of the investigators from carrying out their research. He",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 27,
       "text": "exhibited a copy of a publication entitled \"The Saucerian",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 28,
       "text": "Bulletin\" which could not be given to the interviewing",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 29,
       "text": "Agent since he had borrowed the publication from an unidenti-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 30,
       "text": "fied friend. An examination of the publication reflected",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 31,
       "text": "it to be Vol. 3, #4, Released October 15, 1958, edited and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 32,
       "text": "published by [REDACTED] West Virginia.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 33,
       "text": "The publication consisted of approximately 30 pages, contained",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 34,
       "text": "several book reviews and advertisements for books pertaining",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 35,
       "text": "to UFO. Page 20 of the publication contained an editorial",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 36,
       "text": "by [REDACTED] consisting in part of a letter which [REDACTED] stated",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 37,
       "text": "he had received from a researcher in the western part of the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 38,
       "text": "U. S. This letter stated in part as follows:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
-      "text": "\"Dear Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 39,
+      "status": "blank"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 40,
+      "text": "\"Dear Mr. [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 41,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 42,
       "text": "\"You have often wondered where the 3 men came",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
-      "text": "from that silenced [REDACTED] I",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 43,
+      "text": "from that silenced [REDACTED]. I can give you the",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 44,
       "text": "answer because 3 men tried to silence [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 45,
       "text": "[REDACTED] tells me that the 3 men were from the FBI,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 46,
       "text": "Air Force Intelligence, and the Central Intelligence",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 47,
       "text": "Agency. It was the man from the CIA who made the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 48,
       "text": "threats that were designed to shut [REDACTED] up.\"",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 37,
-      "text": "2-Bureau",
-      "status": "image_matched"
+      "lineNumber": 49,
+      "status": "blank"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 50,
+      "text": "2-Bureau AM",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
       "text": "1-Oklahoma City",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 52,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 53,
       "text": "JAG:PM",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 54,
       "text": "(3)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 55,
+      "status": "blank"
     },
     {
-      "lineNumber": 42,
-      "text": "12-16-58",
-      "status": "image_matched"
+      "lineNumber": 56,
+      "text": "62-83894-396",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 43,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 57,
+      "text": "REC-76",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 44,
-      "text": "REC 76",
-      "status": "image_matched"
+      "lineNumber": 58,
+      "text": "25 DEC 11 1958",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 45,
-      "text": "62-83979-396",
-      "status": "image_matched"
+      "lineNumber": 59,
+      "status": "blank"
     },
     {
-      "lineNumber": 46,
-      "text": "DEC 1958",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 47,
-      "text": "CRIME REO.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 60,
+      "text": "[unclear handwritten notes]",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

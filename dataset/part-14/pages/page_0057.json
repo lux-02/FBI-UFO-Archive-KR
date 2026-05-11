@@ -8,17 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 52 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0057-l0003",
-    "page_0057-l0005",
-    "page_0057-l0048",
-    "page_0057-l0049"
-  ],
-  "lineCount": 67,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 73,
   "lines": [
     {
       "lineNumber": 1,
@@ -31,24 +26,22 @@
     },
     {
       "lineNumber": 3,
-      "text": "TO : [REDACTED] DATE: October 13, 1958",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "TO : MR. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
-      "status": "blank"
+      "text": "DATE: October 13, 1958",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "FROM : [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
-      "text": "SUBJECT: FLYING SAUCERS",
-      "status": "image_matched"
+      "text": "FROM : [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
@@ -56,232 +49,230 @@
     },
     {
       "lineNumber": 8,
-      "text": "This memorandum summarizes Bureau policy regarding",
+      "text": "SUBJECT: FLYING SAUCERS",
       "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "unidentified flying objects commonly referred to as \"flying",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "text": "saucers.\"",
+      "text": "This memorandum summarizes Bureau policy regarding",
       "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "status": "blank"
+      "text": "unidentified flying objects commonly referred to as \"flying",
+      "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "Reports of \"flying saucers\" became prevalent in 1947 and at",
+      "text": "saucers.\"",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "request of Army Air Forces Intelligence, Bureau agreed to cooperate in",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 14,
-      "text": "investigation of flying discs. By Bureau Bulletin Number 42, 7-30-47,",
+      "text": "Reports of \"flying saucers\" became prevalent in 1947 and at",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "field instructed to investigate each instance to determine if bona fide",
+      "text": "request of Army Air Forces Intelligence, Bureau agreed to cooperate in",
       "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "sighting, a prank, or hallucination. Coordination with Army through",
+      "text": "investigation of flying discs. By Bureau Bulletin Number 42, 7-30-47,",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "liaison channels in field and at SOG.",
+      "text": "field instructed to investigate each instance to determine if bona fide",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "status": "blank"
+      "text": "sighting, a prank, or hallucination. Coordination with Army through",
+      "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "By letter 9-3-47 from Headquarters Air Defense Command addressed",
+      "text": "liaison channels in field and at SOG.",
       "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "to Commanding Generals of the various Air Forces it was noted original",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 21,
-      "text": "intent of Air Force was that Air Force would interview responsible ob-",
+      "text": "By letter 9-3-47 from Headquarters Air Defense Command addressed",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "text": "servers and Bureau would investigate incidents of so-called discs found",
+      "text": "to Commanding Generals of the various Air Forces it was noted original",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "on ground. Letter stated services of the FBI were enlisted in order to",
+      "text": "intent of Air Force was that Air Force would interview responsible ob-",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "text": "relieve the burdened Air Forces of the task of tracking down all the",
+      "text": "servers and Bureau would investigate incidents of so-called discs found",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "many instances which turned out to be \"trash can covers, toilet seats",
+      "text": "on ground. Letter stated services of the FBI were enlisted in order to",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "and what not.\" As result, Bureau Bulletin Number 57 of 10/1/47 instructed",
-      "status": "image_matched"
+      "text": "relieve the numbered Air Forces of the task of tracking down all the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
-      "text": "\"all future reports connected with flying discs should be referred to",
+      "text": "many instances which turned out to be \"trash can covers, toilet seats",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "text": "the Air Forces and no investigative action should be taken by Bureau",
+      "text": "and what not.\" As result, Bureau Bulletin Number 57 of 10/1/47 instructed",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "Agents.\" Letter of 9-27-47 advised Air Force that personnel and time",
+      "text": "\"all future reports connected with flying discs should be referred to",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "of FBI could not be dissipated in this manner (62-83894-121).",
+      "text": "the Air Forces and no investigative action should be taken by Bureau",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "status": "blank"
+      "text": "Agents.\" Letter of 9-27-47 advised Air Force that personnel and time",
+      "status": "image_matched"
     },
     {
       "lineNumber": 32,
-      "text": "SAC Letter Number 30, 3-25-49, advised that from reliable",
+      "text": "of FBI could not be dissipated in this manner (62-83894-121).",
       "status": "image_matched"
     },
     {
       "lineNumber": 33,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 34,
+      "text": "SAC Letter Number 36, 3-25-49, advised that from reliable",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 35,
       "text": "source it had been determined the USSR had been experimenting for four",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 36,
       "text": "years on unknown type of flying disc. SAC Letter listed for field data",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 37,
       "text": "desired by Air Force in connection with reports of sighting of flying",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 38,
       "text": "saucers. Letter again called attention to fact no investigation should",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 39,
       "text": "be conducted by Bureau but if reports made, information should be taken",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 40,
       "text": "and furnished to Air Force.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 41,
       "status": "blank"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 42,
       "text": "SAC Letter Number 63, 6-29-52, referred to prior Bulletins",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 43,
       "text": "and SAC Letters and cautioned that the type of information desired by",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 44,
       "text": "Air Force should be obtained from complainants and furnished promptly",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
-      "text": "to CGI locally. This SAC Letter again reminded field investigation is",
-      "status": "image_matched"
+      "lineNumber": 45,
+      "text": "to OSI locally. This SAC Letter again reminded field investigation is",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 46,
       "text": "responsibility of Air Force.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 47,
       "status": "blank"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 48,
       "text": "ESS:jas",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 49,
       "text": "(3)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
-      "text": "1 - Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 49,
-      "text": "1 - Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 50,
-      "status": "blank"
+      "text": "1 - [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 51,
-      "text": "62-83894",
-      "status": "image_matched"
+      "text": "1 - [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 52,
-      "text": "67 OCT 17 1958",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 53,
       "status": "blank"
     },
     {
+      "lineNumber": 53,
+      "text": "62-83894-39",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 54,
-      "text": "REC-77 14 OCT 14 1958",
+      "text": "67 OCT 17 1958",
       "status": "image_matched"
     },
     {
@@ -325,28 +316,56 @@
     },
     {
       "lineNumber": 63,
+      "text": "Tamm",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 64,
       "text": "Trotter",
       "status": "image_matched"
     },
     {
-      "lineNumber": 64,
+      "lineNumber": 65,
       "text": "Clayton",
       "status": "image_matched"
     },
     {
-      "lineNumber": 65,
+      "lineNumber": 66,
       "text": "Tele. Room",
       "status": "image_matched"
     },
     {
-      "lineNumber": 66,
+      "lineNumber": 67,
       "text": "Holloman",
       "status": "image_matched"
     },
     {
-      "lineNumber": 67,
+      "lineNumber": 68,
       "text": "Gandy",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 69,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 70,
+      "text": "62-83894-39:",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 71,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 72,
+      "text": "REC-77",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 73,
+      "text": "14 OCT 14 1958",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

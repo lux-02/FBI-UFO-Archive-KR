@@ -8,179 +8,284 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 29 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0112-l0002",
-    "page_0112-l0007",
-    "page_0112-l0008"
-  ],
-  "lineCount": 32,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 60,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "REC-30",
-      "status": "image_matched"
+      "text": "REC-30 EX-117",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "462-1392 475-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "4 62-139L 475-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "October 13, 1969",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 5,
       "text": "67",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
       "text": "51",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 9,
       "text": "Ajax, Ontario, Canada",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
       "text": "Dear [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 12,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 13,
       "text": "The letter from you, [REDACTED] and [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 14,
       "text": "was received on October 8th.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 15,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 16,
       "text": "The investigation of Unidentified Flying Objects is not",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 17,
       "text": "and never has been a matter that is within the investigative jurisdiction",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 18,
       "text": "of the FBI. I can assure you the photograph you mentioned does not",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 19,
       "text": "represent employees of this Bureau.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 20,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 21,
       "text": "Enclosed is some material relating to the work of this",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 22,
       "text": "Bureau which I hope will be of interest to you.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 23,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 24,
       "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
-      "text": "MAILED 4",
-      "status": "image_matched"
+      "lineNumber": 25,
+      "status": "blank"
     },
     {
-      "lineNumber": 18,
-      "text": "OCT 13 1969",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
+      "lineNumber": 26,
       "text": "J. Edgar Hoover",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
-      "text": "COMM-FBI",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "text": "Enclosures (6)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "3 copies of The Story of the FBI",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "text": "3 copies of 99 Facts About the FBI",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "text": "NOTE: Correspondents are not identifiable in Bufiles. The photograph in",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "text": "question has previously come to the Bureau's attention and is known to have",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "text": "appeared in a publication in Europe concerning unidentified flying objects.",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 27,
-      "text": "A caption under the photograph alleges two FBI Agents are leading a person",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 28,
-      "text": "from outer space down the street.",
+      "text": "MAILED 4",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "DCL:eaf (3)",
+      "text": "OCT 13 1969",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "51 OCT 20 1969",
+      "text": "COMM-FBI",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "text": "MAIL ROOM",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 32,
-      "text": "TELETYPE UNIT",
+      "text": "Enclosures (6)",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "3 copies of The Story of the FBI",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "3 copies of 99 Facts About the FBI",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
+      "text": "NOTE: Correspondents are not identifiable in Bufiles. The photograph in",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 37,
+      "text": "question has previously come to the Bureau's attention and is known to have",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "text": "appeared in a publication in Europe concerning unidentified flying objects.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 39,
+      "text": "A caption under the photograph alleges two FBI Agents are leading a person",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "from outer space down the street.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 42,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 43,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 44,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 45,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 46,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 47,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 48,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 49,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 50,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 51,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 52,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 53,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 54,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 55,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 56,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 57,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 58,
+      "text": "DCL:eaf (3)",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 59,
+      "text": "51 OCT 20 1969",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 60,
+      "text": "MAIL ROOM ☐ TELETYPE UNIT ☐",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

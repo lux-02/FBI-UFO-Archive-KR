@@ -10,14 +10,91 @@
   "sourceLayer": "line_audit",
   "translationReadiness": "not_ready",
   "pageType": "unknown_or_low_text_scan",
-  "pageRecommendation": "NO_SAFE_SOURCE_TEXT",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
   "pageReadinessNote": null,
   "excludedLineIds": [],
-  "lineCount": 1,
+  "lineCount": 17,
   "lines": [
     {
       "lineNumber": 1,
+      "text": "Dear Sirs:",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Would you please co",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 3,
+      "text": "[unclear] on the enclosed pic",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 4,
+      "text": "that is marked with an \"",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
+      "text": "and return the picture wi",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
+      "text": "your reply. Thank you.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
       "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Winchester, Va. 2260",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
+      "text": "ENCLOSURE",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 12,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
+      "text": "EX-111 PROC.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "40 SEP 28 1967",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 17,
+      "text": "CORRESPONDENCE",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

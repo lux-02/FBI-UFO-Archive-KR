@@ -8,34 +8,30 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 41 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0010-l0001"
-  ],
-  "lineCount": 50,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 52,
   "lines": [
     {
       "lineNumber": 1,
       "text": "1 - Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
       "text": "REC-68",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
-      "text": "62-83894-416",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 4,
-      "text": "EF 105",
+      "text": "62-83894-416",
       "status": "image_matched"
     },
     {
@@ -164,31 +160,31 @@
     },
     {
       "lineNumber": 31,
-      "text": "John Edgar Hoover",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "text": "Director",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 34,
       "text": "MAILED 5",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 32,
       "text": "APR 2 1 1960",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 33,
       "text": "COMM-FBI",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
+      "text": "John Edgar Hoover",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "text": "Director",
       "status": "image_matched"
     },
     {
@@ -212,51 +208,60 @@
     },
     {
       "lineNumber": 41,
-      "text": "Air Force (By separate letter)",
-      "status": "image_matched"
+      "text": "Air Force",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 42,
-      "text": "JFW:tp Attn: Chief, Counterintelligence Division",
-      "status": "image_matched"
+      "text": "(By separate letter)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
+      "text": "JFW:tp:hj Attn: Chief, Counterintelligence Division",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 44,
       "text": "(5)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 45,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 46,
       "text": "NOTE: Perry, proprietor of a restaurant in Grand Blanc",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 47,
       "text": "and an amateur photographer with a hobby of taking pictures",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
-      "text": "of the sky, on 3-5-60 advised Detroit Office that two of",
-      "status": "image_matched"
+      "lineNumber": 48,
+      "text": "of the sun, on 3-5-60 advised Detroit Office that two of",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 49,
       "text": "his pictures showed a foreign object which he believed to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
+      "lineNumber": 50,
       "text": "MAIL ROOM",
       "status": "image_matched"
     },
     {
-      "lineNumber": 49,
+      "lineNumber": 51,
       "text": "TELETYPE UNIT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 50,
+      "lineNumber": 52,
       "text": "APR 27 1960",
       "status": "image_matched"
     }

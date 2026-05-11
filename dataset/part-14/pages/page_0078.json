@@ -8,13 +8,11 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 29 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0078-l0031"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 38,
   "lines": [
     {
@@ -67,8 +65,8 @@
     },
     {
       "lineNumber": 11,
-      "text": "to notice it. It is the public we must depend upon",
-      "status": "image_matched"
+      "text": "- to notice it. It is the public we must depend upon",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
@@ -164,8 +162,7 @@
     {
       "lineNumber": 31,
       "text": "/S/ R. T. STONE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,

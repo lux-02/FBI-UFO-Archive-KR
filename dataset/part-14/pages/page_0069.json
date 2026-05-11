@@ -8,17 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 27 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0069-l0002",
-    "page_0069-l0017",
-    "page_0069-l0026",
-    "page_0069-l0032"
-  ],
-  "lineCount": 32,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 26,
   "lines": [
     {
       "lineNumber": 1,
@@ -27,9 +22,8 @@
     },
     {
       "lineNumber": 2,
-      "text": "from outer space 5 or 6 years ago.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "from outer space 5 or 6 years ago,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -103,8 +97,7 @@
     {
       "lineNumber": 17,
       "text": "then wait untill she was ready to go home.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
@@ -128,13 +121,13 @@
     },
     {
       "lineNumber": 22,
-      "text": "for just a second when the lights were gone",
-      "status": "image_matched"
+      "text": "for just a second when the lights were off we",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
-      "text": "I could see a dark moving object or shape is a",
-      "status": "image_matched"
+      "text": "could see a dark moving object or shape is a",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
@@ -148,40 +141,8 @@
     },
     {
       "lineNumber": 26,
-      "text": "human beings guiding it. I was three people.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 27,
-      "text": "MAR 10 1958",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
-      "text": "BEC-92",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 29,
-      "text": "MAR 10 1958",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
-      "text": "BEC",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 31,
-      "text": "NAGLE",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "human beings guiding it. I was three [unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

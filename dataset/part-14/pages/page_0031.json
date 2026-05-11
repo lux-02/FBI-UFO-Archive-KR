@@ -8,23 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 24 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0031-l0008",
-    "page_0031-l0012",
-    "page_0031-l0014",
-    "page_0031-l0025",
-    "page_0031-l0026",
-    "page_0031-l0028",
-    "page_0031-l0029",
-    "page_0031-l0030",
-    "page_0031-l0031",
-    "page_0031-l0034"
-  ],
-  "lineCount": 39,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 56,
   "lines": [
     {
       "lineNumber": 1,
@@ -38,191 +27,264 @@
     },
     {
       "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "DATE: October 5, 1959",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "FROM",
-      "status": "image_matched"
+      "lineNumber": 5,
+      "text": "TO: [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
+      "text": "Tolson",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
+      "text": "Belmont",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 8,
+      "text": "DeLoach",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
+      "text": "McGuire",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 10,
+      "text": "Mohr",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Parsons",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Rosen",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
+      "text": "Tamm",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Trotter",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "W.C. Sullivan",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Tele. Room",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Holloman",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 18,
+      "text": "Gandy",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 19,
+      "text": "FROM: [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 20,
       "text": "SUBJECT: UNIDENTIFIED FLYING OBJECTS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "text": "(FLYING SAUCERS)",
-      "status": "image_matched"
+      "lineNumber": 21,
+      "text": "O (FLYING SAUCERS)",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 23,
       "text": "Lemo 10-13-58 pointed out",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 24,
       "text": "that our policy concerning unidentified flying objects",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 25,
       "text": "(flying saucers) is to conduct no investigation but",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 26,
       "text": "immediately refer facts to the Air Force (Bureau Bulletin",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 27,
       "text": "Number 57, 10-1-47); that SAC Letter Number 38, 3-25-49,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 28,
       "text": "reiterated this policy and set out data desired by Air Force",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 29,
       "text": "to be obtained when complaint received; that SAC Letter",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 30,
       "text": "Number 83, 8-29-52, again pointed out our policy; that",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 31,
       "text": "Air Force, as late as 11-12-57, assured Bureau would be advised",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 32,
       "text": "of any developments in this field of interest to us; and that",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 33,
       "text": "there appeared to be no necessity for further instructions",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 34,
       "text": "to field or insertion in Agents' Handbook or Manual of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
-      "text": "instructions of our policy relating to flying saucers.",
-      "status": "image_matched"
+      "lineNumber": 35,
+      "text": "Instructions of our policy relating to flying saucers.",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 36,
       "status": "blank"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 37,
       "text": "During past 12 months no complaints regarding",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 38,
       "text": "flying saucers have been referred to Bureau. During this",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 39,
       "text": "period we have received two inquiries regarding this alleged",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
-      "text": "[unclear] and on both occasions the person making the inquiry",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 40,
+      "text": "phenomena and on both occasions the person making the inquiry",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 41,
       "text": "been referred to OSI.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 42,
       "status": "blank"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 43,
       "text": "your information. At this time there appears",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 44,
       "text": "ity for additional instructions for the field",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 30,
-      "text": "the FBI Handbook or Manual relative to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 45,
+      "text": "the FBI Handbook or Manuals relative to",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 46,
       "text": "This matter will again be reviewed on or",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 47,
       "status": "blank"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 48,
       "text": "mahoe",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 49,
+      "text": "acks",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 50,
       "status": "blank"
     },
     {
-      "lineNumber": 36,
-      "text": "REC-583-83994-408",
-      "status": "image_matched"
+      "lineNumber": 51,
+      "text": "REC-57",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 52,
       "text": "EX-17",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 53,
+      "text": "83-83894-408",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 54,
       "text": "14 OCT 7 1959",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 55,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 56,
       "text": "8 OCT 9 1959",
       "status": "image_matched"
     }

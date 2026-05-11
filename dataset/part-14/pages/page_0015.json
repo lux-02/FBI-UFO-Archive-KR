@@ -8,27 +8,17 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 56 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0015-l0001",
-    "page_0015-l0028",
-    "page_0015-l0029",
-    "page_0015-l0044",
-    "page_0015-l0048",
-    "page_0015-l0051",
-    "page_0015-l0056",
-    "page_0015-l0071"
-  ],
-  "lineCount": 72,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 55,
   "lines": [
     {
       "lineNumber": 1,
       "text": "1 - Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
@@ -46,18 +36,18 @@
     },
     {
       "lineNumber": 5,
-      "text": "62-83894-413",
-      "status": "image_matched"
+      "text": "EX. 112",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "Ex. 112",
-      "status": "image_matched"
+      "text": "Date:",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "text": "Dates",
-      "status": "image_matched"
+      "text": "62-83894-4X3",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
@@ -122,8 +112,8 @@
     },
     {
       "lineNumber": 21,
-      "text": "MISCELLANEOUS - INFORMATION",
-      "status": "image_matched"
+      "text": "MISCELLANEOUS - INFORMATION CONCERNING",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
@@ -156,233 +146,138 @@
     {
       "lineNumber": 28,
       "text": "By letter dated March 21, 1960, Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
-      "text": "[REDACTED] N. W.,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] Washington, D. C., referred this Bureau to an article",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 30,
-      "text": "Washington, D. C., referred this Bureau to an article",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 31,
       "text": "appearing in the \"Detroit Times,\" issue of March 9, 1960,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 31,
       "text": "a copy of which is enclosed, and requested to be advised",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 32,
       "text": "whether there had been any change in our policy with",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 33,
       "text": "respect to unidentified flying objects; whether this",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 34,
       "text": "Bureau gathered evidence of unidentified flying objects for the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 35,
       "text": "Department of the Air Force; and whether the photograph",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 36,
       "text": "described in the article had been analyzed at FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 37,
       "text": "Laboratories or for FBI purposes. This Bureau's letter",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 38,
       "text": "to the afore-mentioned organization of September 26, 1958,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 39,
       "text": "had pointed out that we do not investigate incidents",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 40,
       "text": "involving unidentified flying objects but furnished data",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 41,
       "text": "received concerning them to the Department of the Air Force.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 42,
       "status": "blank"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 43,
       "text": "This Bureau advised Mr. [REDACTED] in our letter",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 44,
       "text": "dated March 25, 1960, that there has been no change in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 45,
       "text": "our policy in regard to unidentified flying objects;",
       "status": "image_matched"
     },
     {
+      "lineNumber": 46,
+      "text": "[unclear]-Detroit (Enclosure)(S)[unclear] note pages 2 and 3)",
+      "status": "needs_image_check"
+    },
+    {
       "lineNumber": 47,
-      "text": "Detroit (Enclosure) (See note pages 2 and 3)",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 48,
-      "text": "[REDACTED] (6)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "51 APR [unclear] 1960",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 49,
-      "text": "TELETYPE UNIT",
-      "status": "image_matched"
+      "text": "MAIL ROOM [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 50,
+      "text": "(6)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
+      "text": "TELETYPE UNIT ☐",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 52,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 53,
       "text": "SEE NOTE PAGE 3",
       "status": "image_matched"
     },
     {
-      "lineNumber": 51,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 52,
-      "text": "FBI READING ROOM",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 53,
-      "text": "36 APR - 7",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 54,
-      "text": "COMM-FBI",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 55,
-      "text": "BY COURIER SVC.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 56,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 57,
-      "text": "Belmont",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 58,
-      "text": "Callahan",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 59,
-      "text": "DeLoach",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 60,
-      "text": "Malone",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 61,
-      "text": "McGuire",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 62,
-      "text": "Rosen",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 63,
-      "text": "Tamm",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 64,
-      "text": "Trotter",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 65,
-      "text": "W.C. Sullivan",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 66,
-      "text": "Tele. Room",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 67,
-      "text": "Ingram",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 68,
-      "text": "Gandy",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 69,
-      "text": "5 APR 1960",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 70,
-      "text": "MAIL ROOM",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 71,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 72,
-      "text": "62-83894-413",
-      "status": "image_matched"
+      "text": "62-83894-4X3",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

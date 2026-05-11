@@ -8,140 +8,126 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "9 permanent_unresolved line(s) excluded under SRC-896. 16 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0101-l0010",
-    "page_0101-l0013",
-    "page_0101-l0019",
-    "page_0101-l0023",
-    "page_0101-l0028",
-    "page_0101-l0029",
-    "page_0101-l0030",
-    "page_0101-l0031",
-    "page_0101-l0032"
-  ],
-  "lineCount": 32,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 40,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Arlington, Virginia 22204",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
+      "text": "Arrington, Virginia 22204",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 3,
       "text": "March 31, 1974",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 4,
       "status": "blank"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 5,
       "text": "Director",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
       "text": "Federal Bureau of Investigation",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "text": "Washington, D. C.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "status": "blank"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
+      "text": "Flying Saucers",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
       "text": "Dear Sir:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 12,
       "status": "blank"
     },
     {
-      "lineNumber": 10,
-      "text": "On September 17, 1963, Mr. [REDACTED], an FBI agent of the Newport",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 13,
+      "text": "On September 17, 1963, Mr. [REDACTED] an FBI agent of the Newport",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 14,
       "text": "News, Va. contingent, visited me at my place of employment (Ft. Eustis, Va.)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 15,
       "text": "to interview me as to my interest in the subject of unidentified flying",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 16,
       "text": "objects (UFO's). I understand that Mr. [REDACTED] prepared a formal report of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 17,
       "text": "that interview.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 18,
       "status": "blank"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 19,
       "text": "Since President Nixon recently has expressed his intention to assure that",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 20,
       "text": "the privacy and civil liberties of individual citizens receive the protection",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 21,
       "text": "they deserve under our form of government, it is in the spirit of that assurance",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 22,
       "text": "that I respectfully request that you send me a copy of Mr. [REDACTED] report along",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 23,
       "text": "with a copy of all other documents in your files pertaining to my activities in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "text": "the UFO-research field.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 23,
-      "text": "EX-111 REC-10 62-83894-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 24,
-      "text": "Yours sincerely,",
+      "text": "the UFO-research field.",
       "status": "image_matched"
     },
     {
@@ -150,42 +136,74 @@
     },
     {
       "lineNumber": 26,
-      "text": "4 APR 16 1974",
-      "status": "image_matched"
+      "text": "EX-111",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
-      "status": "blank"
+      "text": "REC-10 62-83894-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 28,
-      "text": "Copy furnished to: Director, Washington, D. C. Office, American Civil Liberties Uni",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Yours sincerely,",
+      "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 30,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 31,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "4 APR 16 1[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 32,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 33,
+      "text": "Copy furnished to: Director, Washington, D. C. Office, American Civil Liberties Uni[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
+      "text": "956",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 36,
+      "text": "2-15-14",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
+      "text": "2x/enc",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 38,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Legal Counsel",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 40,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

@@ -8,26 +8,17 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 33 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0054-l0004",
-    "page_0054-l0006",
-    "page_0054-l0028",
-    "page_0054-l0030",
-    "page_0054-l0034",
-    "page_0054-l0035",
-    "page_0054-l0038",
-    "page_0054-l0041"
-  ],
-  "lineCount": 47,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 56,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "62-83894-14",
-      "status": "image_matched"
+      "text": "gw 62-83894-114",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -36,25 +27,21 @@
     },
     {
       "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "December 2, 1958",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 5,
-      "text": "Oklahoma City 6, Oklahoma",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
-      "text": "Dear [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "EX-102",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
@@ -62,17 +49,17 @@
     },
     {
       "lineNumber": 8,
-      "text": "Your letter dated November 22, 1958, has been",
-      "status": "image_matched"
+      "text": "Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
-      "text": "received, and I am instructing a Special Agent of our Oklahoma",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
-      "text": "City Office to contact you concerning the matter you mentioned.",
+      "text": "Oklahoma City 6, Oklahoma",
       "status": "image_matched"
     },
     {
@@ -81,8 +68,8 @@
     },
     {
       "lineNumber": 12,
-      "text": "Sincerely yours,",
-      "status": "image_matched"
+      "text": "Dear [REDACTED]:",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
@@ -90,17 +77,17 @@
     },
     {
       "lineNumber": 14,
-      "text": "MAILED SO",
+      "text": "Your letter dated November 22, 1958, has been",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "DEC 3 - 1958",
+      "text": "received, and I am instructing a Special Agent of our Oklahoma",
       "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "COMM-FBI",
+      "text": "City Office to contact you concerning the matter you mentioned.",
       "status": "image_matched"
     },
     {
@@ -109,157 +96,192 @@
     },
     {
       "lineNumber": 18,
-      "text": "J. Edgar Hoover",
+      "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "John Edgar Hoover",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 20,
-      "text": "Director",
+      "text": "MAILED SO",
       "status": "image_matched"
     },
     {
       "lineNumber": 21,
-      "status": "blank"
+      "text": "DEC 3 - 1958",
+      "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "text": "DEC 2 627 PM '58",
+      "text": "COMM-FBI",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "REC'D-READING ROOM",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 24,
-      "text": "F B I",
+      "text": "J. Edgar Hoover",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "status": "blank"
+      "text": "John Edgar Hoover",
+      "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "2 - Oklahoma City - Enclosures (2)",
+      "text": "Director",
       "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "ATTENTION SAC: Background as described not identifiable",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 28,
-      "text": "in Bufiles. An Agent of your office should contact [REDACTED] immediately",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "DEC 2 6 27 PM '58",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
-      "text": "and secure copies of or information concerning the periodicals",
+      "text": "REC'D-READING ROOM",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "described. Inform [REDACTED] that the FBI has not taken the action he",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 31,
-      "text": "suggested, and we have conducted no investigation concerning unidentified",
+      "text": "F B I",
       "status": "image_matched"
     },
     {
+      "lineNumber": 31,
+      "status": "blank"
+    },
+    {
       "lineNumber": 32,
-      "text": "flying objects. The suggestion should be made that he may wish to",
+      "text": "2 - Oklahoma City - Enclosures (2)",
       "status": "image_matched"
     },
     {
       "lineNumber": 33,
-      "text": "contact the Office of Special Investigations of the Air Force, which has made",
+      "text": "ATTENTION SAC: Background as described not identifiable",
       "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "text": "some related studies. Sulet with requested data under caption \"Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "in Bufiles. An Agent of your office should contact [REDACTED] immediately",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 35,
-      "text": "[REDACTED] Oklahoma City 6, Oklahoma, Research",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 36,
-      "text": "(Crime Records)\" no later than December 9, 1958.",
+      "text": "and secure copies of or information concerning the periodicals",
       "status": "image_matched"
     },
     {
+      "lineNumber": 36,
+      "text": "described. Inform [REDACTED] that the FBI has not taken the action he",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 37,
-      "text": "Follow-up 12-11-58",
+      "text": "suggested, and we have conducted no investigation concerning unidentified",
       "status": "image_matched"
     },
     {
       "lineNumber": 38,
-      "text": "NOTE: One reference appears in Bufiles wherein one [REDACTED] of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "flying objects. The suggestion should be made that he may wish to",
+      "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "text": "the same address requested general material on the FBI and stated that",
+      "text": "contact the Office of Special Investigations of the Air Force, which has made",
       "status": "image_matched"
     },
     {
       "lineNumber": 40,
-      "text": "his hobby was collecting letterhead stationery. There is a Special Agent",
-      "status": "image_matched"
+      "text": "some related studies. Sulet with requested data under caption \"Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 41,
-      "text": "[REDACTED] GS-12, assigned to the New York Office.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED], Oklahoma City 6, Oklahoma, Research",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 42,
-      "text": "No other possibly pertinent references located.",
+      "text": "(Crime Records)\" no later than December 9, 1958.",
       "status": "image_matched"
     },
     {
       "lineNumber": 43,
-      "text": "1-53 DEC 29 1958",
-      "status": "image_matched"
+      "text": "Follow-up 12-11-58 [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 44,
-      "text": "DCL:miz",
-      "status": "image_matched"
+      "text": "[unclear] 12-9-58",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 45,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 46,
+      "text": "NOTE: One reference appears in Bufiles wherein one [REDACTED] of",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 47,
+      "text": "the same address requested general material on the FBI and stated that",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 48,
+      "text": "his hobby was collecting letterhead stationery. There is a Special Agent",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "text": "[REDACTED] GS-12, assigned to the New York Office.",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 50,
+      "text": "No other possibly pertinent references located.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "text": "A-I 53 DEC 19 1958",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 52,
+      "text": "DCL:mfz",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
       "text": "(6)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
-      "text": "MAX ROOM TELETYPE UNIT",
-      "status": "image_matched"
+      "lineNumber": 54,
+      "text": "[unclear] ROOM [unclear] TELETYPE UNIT [unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 47,
-      "text": "bel",
-      "status": "image_matched"
+      "lineNumber": 55,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 56,
+      "text": "[unclear] bcl",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

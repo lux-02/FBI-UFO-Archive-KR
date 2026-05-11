@@ -8,35 +8,27 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 36 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0065-l0002",
-    "page_0065-l0003",
-    "page_0065-l0046",
-    "page_0065-l0051",
-    "page_0065-l0052"
-  ],
-  "lineCount": 52,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 51,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "- Mr. Belmont",
-      "status": "image_matched"
+      "text": "1 - Mr. Belmont",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "- Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "1 - Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 3,
-      "text": "- Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "1 - Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
@@ -68,8 +60,8 @@
     },
     {
       "lineNumber": 10,
-      "text": "1530 Connecticut Avenue",
-      "status": "image_matched"
+      "text": "1536 Connecticut Avenue",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
@@ -240,8 +232,7 @@
     {
       "lineNumber": 46,
       "text": "ESS:jas See cover memo [REDACTED] to Belmont, captioned",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 47,
@@ -260,20 +251,13 @@
     },
     {
       "lineNumber": 50,
-      "text": "ENCLOSURE",
-      "status": "image_matched"
+      "text": "ENCLOSURE File 62-83894",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 51,
-      "text": "62-73894-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 52,
-      "text": "File 62-83894",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "62-33894-",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

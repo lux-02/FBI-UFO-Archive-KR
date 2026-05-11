@@ -8,21 +8,17 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 22 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0134-l0001",
-    "page_0134-l0017"
-  ],
-  "lineCount": 35,
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 41,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "UNITED STATES C [unclear]RNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "UNITED STATES G[unclear]RNMENT",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
@@ -35,70 +31,69 @@
     },
     {
       "lineNumber": 4,
-      "text": "TO : DIRECTOR, FBI DATE: 10/10/67",
-      "status": "image_matched"
+      "text": "TO : DIRECTOR, FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "status": "blank"
+      "text": "DATE: 10/10/67",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "FROM SAC, DALLAS (62-0)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
       "status": "blank"
     },
     {
+      "lineNumber": 7,
+      "text": "FROM : SAC, DALLAS (62-0)",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
       "text": "SUBJECT: UNIDENTIFIED FLYING OBJECTS;",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "ANONYMOUS INFORMANT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "DALLAS, TEXAS, 10/9/67",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "INFORMATION CONCERNING",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "status": "blank"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 14,
       "text": "Enclosed are six copies of an LHM containing information",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "text": "of interest to the Air Force. One copy has been furnished to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
       "text": "OSI, Tinker AFB, Oklahoma.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
-      "status": "blank"
-    },
-    {
       "lineNumber": 17,
-      "text": "SA [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 18,
@@ -107,80 +102,108 @@
     },
     {
       "lineNumber": 19,
-      "status": "blank"
+      "text": "SA [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 20,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 21,
       "text": "No further information is being taken.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 23,
       "text": "EXP. PROC.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 24,
       "status": "blank"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
       "text": "REC 45",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 26,
       "text": "EX 109",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 27,
       "status": "blank"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 28,
       "text": "2 - Bureau (encls-6)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 29,
       "text": "1 - Dallas",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 30,
       "text": "EOC:jeg",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 31,
       "text": "(3)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 32,
       "status": "blank"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 33,
+      "text": "16",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 34,
+      "text": "18 OCT 22 1967",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
       "text": "ENCLOSURE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 37,
       "status": "blank"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 38,
+      "text": "NAT [unclear] SEC",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 39,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 40,
       "text": "OCT 19 1967",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 41,
       "text": "Buy U.S. Savings Bonds Regularly on the Payroll Savings Plan",
       "status": "image_matched"
     }

@@ -8,225 +8,240 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 39 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0018-l0019"
-  ],
-  "lineCount": 43,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 47,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Mr. Mohr",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 2,
-      "text": "Mr. Parsons",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 3,
-      "text": "Mr. Belmont",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 4,
-      "text": "Mr. Callahan",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 5,
-      "text": "Mr. DeLoach",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 6,
-      "text": "Mr. Evans",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
-      "text": "Mr. McGuire",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 8,
-      "text": "Mr. Rosen",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 9,
-      "text": "Mr. Tavel",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
-      "text": "Mr. Trotter",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
-      "text": "Mr. W.C.Sullivan",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "Tele. Room",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "Miss Gandy",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 14,
       "text": "THE WHITE HOUSE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 2,
       "text": "WASHINGTON",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "March 26, 1960",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 5,
       "status": "blank"
     },
     {
+      "lineNumber": 6,
+      "text": "Mr. Mohr",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "Mr. Parsons",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "Mr. Belmont",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Mr. Callahan",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "Mr. DeLoach",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Mr. Malone",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Mr. McGuire",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "Mr. Rosen",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Mr. Tamm",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "L. Trotter",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
+      "text": "W.C.Sullivan",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Tele. Room",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 18,
+      "text": "Mr. Ingram",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 19,
+      "text": "Miss Gandy",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 21,
       "text": "Respectfully referred to the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
-      "text": "Department of Justice for attentic",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 22,
+      "text": "Department of Justice for attention",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 23,
       "text": "and acknowledgment.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 22,
-      "text": "The Assistant to the Director",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "status": "blank"
-    },
-    {
       "lineNumber": 24,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 25,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 26,
+      "text": "The Assistant to the [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
       "text": "Bureau files reflect SAC, Detroit, 3/9/60, advised of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 29,
       "text": "article (which is attached to Perry's letter of 3/21/60)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 30,
       "text": "appearing in Detroit Times reflecting Flint, Michigan,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 31,
       "text": "Resident Agency furnished slides of photographs taken",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 32,
       "text": "by Perry allegedly showing a saucer-like object",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 33,
       "text": "silhouetted against the moon. Perry contacted Flint RA",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
-      "text": "3/4/60 advising he had been professional photographer,",
-      "status": "image_matched"
+      "lineNumber": 34,
+      "text": "3/4/60 advising he had taken professional photographs,",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 35,
       "text": "had taken photographs of moon and after developing same",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 36,
       "text": "noted what appeared to be flying object in one of them.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 37,
       "text": "Perry furnished information to press. Flint RA",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 38,
       "text": "received press inquiry, advised only that Perry had",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 39,
       "text": "turned 2 slides over to FBI and they were being made",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 40,
       "text": "available to appropriate authorities. Detroit Times",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 41,
       "text": "advised 3/9/60 FBI has not and is not conducting",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 42,
       "text": "investigation concerning slides but turned over the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 43,
       "text": "information to the Air Force. When slides turned over",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 44,
       "text": "to Air Force, they were requested to return slides to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 45,
       "text": "Perry and advised that no action contemplated by the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 46,
       "text": "Bureau and was being referred to them for any action",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 47,
       "text": "they deemed advisable.",
       "status": "image_matched"
     }

@@ -8,13 +8,11 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "typed_or_printed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 40 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0096-l0048"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 48,
   "lines": [
     {
@@ -57,13 +55,13 @@
     },
     {
       "lineNumber": 9,
-      "text": "Colorado, entitled, \"Scientific Study of Unidentified Flying",
-      "status": "image_matched"
+      "text": "Colorado entitled, \"Scientific Study of Unidentified Flying",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "Objects\"; a review of the University of Colorado's report by",
-      "status": "image_matched"
+      "text": "Objects;\" a review of the University of Colorado's report by",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
@@ -242,14 +240,13 @@
     },
     {
       "lineNumber": 47,
-      "text": "62-807-413",
-      "status": "image_matched"
+      "text": "62-83894-413",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 48,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

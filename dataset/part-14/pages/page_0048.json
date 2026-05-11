@@ -8,95 +8,62 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "22 permanent_unresolved line(s) excluded under SRC-896. 30 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0048-l0001",
-    "page_0048-l0002",
-    "page_0048-l0003",
-    "page_0048-l0004",
-    "page_0048-l0005",
-    "page_0048-l0006",
-    "page_0048-l0007",
-    "page_0048-l0008",
-    "page_0048-l0009",
-    "page_0048-l0010",
-    "page_0048-l0020",
-    "page_0048-l0028",
-    "page_0048-l0029",
-    "page_0048-l0030",
-    "page_0048-l0031",
-    "page_0048-l0033",
-    "page_0048-l0041",
-    "page_0048-l0045",
-    "page_0048-l0056",
-    "page_0048-l0057",
-    "page_0048-l0058",
-    "page_0048-l0061"
-  ],
-  "lineCount": 63,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 69,
   "lines": [
     {
       "lineNumber": 1,
       "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
       "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 3,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. Par[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 4,
       "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 5,
       "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 6,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. Tr[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 7,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. W.C. [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 8,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Tele. Room",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. Holl[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 10,
-      "text": "Miss [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Miss Ga[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 11,
@@ -142,8 +109,7 @@
     {
       "lineNumber": 20,
       "text": "I am extremely interested in the [REDACTED] and I will",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,
@@ -182,26 +148,22 @@
     {
       "lineNumber": 28,
       "text": "[REDACTED] He called the organization [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
       "text": "[REDACTED] And, during his study of the saucer mystery",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 30,
       "text": "[REDACTED] ran across something important. This information was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 31,
       "text": "evidently the solution to the mystery for in 1953 [REDACTED] stated",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 32,
@@ -211,8 +173,7 @@
     {
       "lineNumber": 33,
       "text": "suits\" silenced him. Even today [REDACTED] will not discuss the matter",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 34,
@@ -231,8 +192,8 @@
     },
     {
       "lineNumber": 37,
-      "text": "this \"menace\".",
-      "status": "image_matched"
+      "text": "this \"menace.\"",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 38,
@@ -251,13 +212,12 @@
     {
       "lineNumber": 41,
       "text": "[REDACTED] very much. For the story concerning this \"menace\" is",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 42,
-      "text": "certainly a \"hellish horror\" one, which reveals a fantastic",
-      "status": "image_matched"
+      "text": "certainly a \"hellish Horror\" one, which reveals a fantastic",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
@@ -272,8 +232,7 @@
     {
       "lineNumber": 45,
       "text": "could help me get in touch with [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 46,
@@ -310,8 +269,8 @@
     },
     {
       "lineNumber": 53,
-      "text": "I certainly will be looking forward to hearing from you.",
-      "status": "image_matched"
+      "text": "I certainly will be looking forward in hearing from you.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 54,
@@ -324,36 +283,31 @@
     },
     {
       "lineNumber": 56,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 57,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 58,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 59,
       "status": "blank"
     },
     {
+      "lineNumber": 59,
+      "text": "[unclear] 12/10/58",
+      "status": "needs_image_check"
+    },
+    {
       "lineNumber": 60,
-      "text": "DEC 17 1958",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 61,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] 12/16/58",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 62,
@@ -361,8 +315,35 @@
     },
     {
       "lineNumber": 63,
-      "text": "6C JAN 2 1959",
-      "status": "image_matched"
+      "text": "60 JAN 2 1959",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 64,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 65,
+      "text": "REC-87 62-83894-31",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 66,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 67,
+      "text": "11 DEC 17 1958",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 68,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 69,
+      "text": "EX-137",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

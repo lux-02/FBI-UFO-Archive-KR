@@ -10,14 +10,82 @@
   "sourceLayer": "line_audit",
   "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "NO_SAFE_SOURCE_TEXT",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
   "pageReadinessNote": null,
   "excludedLineIds": [],
-  "lineCount": 1,
+  "lineCount": 15,
   "lines": [
     {
       "lineNumber": 1,
+      "text": "Director of Operations",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 2,
+      "text": "Electronics Service Unit A",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 3,
+      "text": "Route 2",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 4,
+      "text": "Roseau, Minnesota",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
       "status": "blank"
+    },
+    {
+      "lineNumber": 6,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 7,
+      "text": "ROSEAU",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 8,
+      "text": "730 PM",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
+      "text": "1954",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 10,
+      "text": "MINN.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Mr. Domenic Gerardi",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Torrington, Connecticut",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

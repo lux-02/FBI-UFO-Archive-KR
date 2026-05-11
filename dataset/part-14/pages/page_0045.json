@@ -8,22 +8,11 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 31 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0045-l0004",
-    "page_0045-l0005",
-    "page_0045-l0015",
-    "page_0045-l0021",
-    "page_0045-l0024",
-    "page_0045-l0026",
-    "page_0045-l0031",
-    "page_0045-l0033",
-    "page_0045-l0036",
-    "page_0045-l0040"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 47,
   "lines": [
     {
@@ -43,14 +32,12 @@
     {
       "lineNumber": 4,
       "text": "of [REDACTED] while he was absent therefrom, that his",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
       "text": "sister, [REDACTED] carried on exclusive",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
@@ -100,8 +87,7 @@
     {
       "lineNumber": 15,
       "text": "with [REDACTED] it was apparent to agents that he is",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 16,
@@ -130,8 +116,7 @@
     {
       "lineNumber": 21,
       "text": "Inquiry was made as to the length of time [REDACTED] spent in",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
@@ -146,8 +131,7 @@
     {
       "lineNumber": 24,
       "text": "serial number. [REDACTED] made available his discharge paper",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 25,
@@ -157,8 +141,7 @@
     {
       "lineNumber": 26,
       "text": "1946 as Private First Class, Army Serial No. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 27,
@@ -182,8 +165,7 @@
     {
       "lineNumber": 31,
       "text": "After conversation with [REDACTED] it was apparent that the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 32,
@@ -193,8 +175,7 @@
     {
       "lineNumber": 33,
       "text": "locate the present whereabouts of [REDACTED] and",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 34,
@@ -208,9 +189,8 @@
     },
     {
       "lineNumber": 36,
-      "text": "whereabouts of [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "whereabouts of [REDACTED].",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 37,
@@ -229,8 +209,7 @@
     {
       "lineNumber": 40,
       "text": "appear that [REDACTED] is a \"chronic\", living",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 41,

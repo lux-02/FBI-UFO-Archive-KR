@@ -8,75 +8,58 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "12 permanent_unresolved line(s) excluded under SRC-896. 33 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0119-l0001",
-    "page_0119-l0007",
-    "page_0119-l0009",
-    "page_0119-l0014",
-    "page_0119-l0015",
-    "page_0119-l0017",
-    "page_0119-l0023",
-    "page_0119-l0032",
-    "page_0119-l0036",
-    "page_0119-l0043",
-    "page_0119-l0051",
-    "page_0119-l0052"
-  ],
-  "lineCount": 58,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 61,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "UNITED STATES GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "OPTIONAL FORM NO. 10",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
+      "text": "MAY 1962 EDITION",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 3,
+      "text": "GSA GEN. REG. NO. 27",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "UNITED STATES GOVERNMENT",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
       "text": "Memorandum",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 7,
       "status": "blank"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 8,
       "text": "TO : Mr. Gale",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "FROM : W. V. Cleveland",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 6,
+      "lineNumber": 9,
       "status": "blank"
     },
     {
-      "lineNumber": 7,
-      "text": "SUBJECT: [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 8,
-      "text": "Compton, California",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 9,
-      "text": "Telephone No. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 10,
-      "text": "INFORMATION CONCERNING",
+      "text": "DATE: 5/16/69",
       "status": "image_matched"
     },
     {
@@ -85,7 +68,7 @@
     },
     {
       "lineNumber": 12,
-      "text": "DATE: 5/16/69",
+      "text": "FROM : W. V. Cleveland",
       "status": "image_matched"
     },
     {
@@ -94,45 +77,41 @@
     },
     {
       "lineNumber": 14,
-      "text": "Mr. [REDACTED] telephonically contacted the Bureau at",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "SUBJECT: [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
-      "text": "12:50 a.m. 5/16/69 and spoke with SA [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Compton, California",
+      "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "Special Investigative Division.",
-      "status": "image_matched"
+      "text": "Telephone No. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
-      "text": "[REDACTED] stated he is a former CIA Agent and wanted",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "INFORMATION CONCERNING",
+      "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "to report to the Director that recently he has been seeing",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 19,
-      "text": "flying objects. He requested that the Director call him on",
-      "status": "image_matched"
+      "text": "Mr. [REDACTED] telephonically contacted the Bureau at",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 20,
-      "text": "5/16/69 concerning this matter. He was advised that",
-      "status": "image_matched"
+      "text": "12:50 a.m. 5/16/69 and spoke with SA [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,
-      "text": "Mr. Hoover would be unavailable.",
+      "text": "Special Investigative Division.",
       "status": "image_matched"
     },
     {
@@ -141,158 +120,152 @@
     },
     {
       "lineNumber": 23,
-      "text": "From [REDACTED] tone of voice it appeared he was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] stated he is a former CIA Agent and wanted",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 24,
-      "text": "intoxicated. He advised that he was recently discharged",
+      "text": "to report to the Director that recently he has been seeing",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "as a patient from the psycho ward of a Veteran's hospital.",
-      "status": "image_matched"
+      "text": "flying/objects. He requested that the Director call him on",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 26,
-      "status": "blank"
+      "text": "5/16/69 concerning this matter. He was advised that",
+      "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "Information in Bureau indices (66-3182-8679)",
+      "text": "Mr. Hoover would be unavailable.",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "text": "indicates individual possibly identical with captioned",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 29,
-      "text": "subject called Bureau 5/1/69, at which time he rambled",
-      "status": "image_matched"
+      "text": "From [REDACTED] tone of voice it appeared he was",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 30,
-      "text": "about numerous subjects and his speech indicated he had",
+      "text": "intoxicated. He advised that he was recently discharged",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "text": "been drinking. At that time no record identifiable with",
+      "text": "as a patient from the psycho ward of a Veteran's hospital.",
       "status": "image_matched"
     },
     {
       "lineNumber": 32,
-      "text": "[REDACTED] was located in Bureau files.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 33,
       "status": "blank"
     },
     {
+      "lineNumber": 33,
+      "text": "Information in Bureau indices (66-3182-8679)",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 34,
-      "text": "ACTION: For information. A check is being made with CIA",
+      "text": "indicates individual possibly identical with captioned",
       "status": "image_matched"
     },
     {
       "lineNumber": 35,
-      "text": "to determine if they have a former agent identical with",
+      "text": "subject called Bureau 5/1/69, at which time he rambled",
       "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "about numerous subjects and his speech indicated he had",
+      "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "status": "blank"
+      "text": "been drinking. At that time no record identifiable with",
+      "status": "image_matched"
     },
     {
       "lineNumber": 38,
-      "text": "1 - Miss Holmes",
-      "status": "image_matched"
+      "text": "[REDACTED] was located in Bureau files.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 39,
-      "text": "1 - Mr. DeLoach",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 40,
-      "text": "1 - Mr. Bishop",
+      "text": "ACTION: For information. A check is being made with CIA",
       "status": "image_matched"
     },
     {
       "lineNumber": 41,
-      "text": "1 - Mr. Gale",
-      "status": "image_matched"
+      "text": "to determine if they have a former agent identical with [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 42,
-      "text": "1 - Mr. Cleveland",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "1 - Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 44,
       "status": "blank"
     },
     {
+      "lineNumber": 43,
+      "text": "1 - Miss Holmes",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "1 - Mr. DeLoach",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 45,
-      "text": "SFM:jb",
+      "text": "1 - Mr. Bishop",
       "status": "image_matched"
     },
     {
       "lineNumber": 46,
-      "text": "(7)",
+      "text": "1 - Mr. Gale",
       "status": "image_matched"
     },
     {
       "lineNumber": 47,
-      "status": "blank"
+      "text": "1 - Mr. Cleveland",
+      "status": "image_matched"
     },
     {
       "lineNumber": 48,
-      "text": "REC-134",
-      "status": "image_matched"
+      "text": "1 - Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 49,
-      "text": "62-83144-472",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 50,
       "status": "blank"
     },
     {
+      "lineNumber": 50,
+      "text": "SFM:jb",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 51,
-      "text": "* Liaison Agent [REDACTED] caused complete",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "(7)",
+      "status": "image_matched"
     },
     {
       "lineNumber": 52,
-      "text": "search of CIA indices regarding [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 53,
-      "text": "with negative results. WVC:pnb",
-      "status": "image_matched"
+      "text": "61MAY 26 1969",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 54,
@@ -300,21 +273,36 @@
     },
     {
       "lineNumber": 55,
-      "text": "ST-103",
-      "status": "image_matched"
+      "text": "REC-134 62-83894-472",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 56,
-      "text": "10 MAY 1969",
-      "status": "image_matched"
+      "text": "* Liaison Agent [REDACTED] caused complete",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 57,
-      "status": "blank"
+      "text": "search of CIA indices regarding [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 58,
-      "text": "51 MAY 26 1969",
+      "text": "with negative results. WVC:pnb",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 59,
+      "text": "TO MAY 19 1969",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 60,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 61,
+      "text": "ST-103",
       "status": "image_matched"
     }
   ],

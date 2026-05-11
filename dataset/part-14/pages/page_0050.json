@@ -8,21 +8,11 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "9 permanent_unresolved line(s) excluded under SRC-896. 12 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0050-l0005",
-    "page_0050-l0008",
-    "page_0050-l0010",
-    "page_0050-l0011",
-    "page_0050-l0013",
-    "page_0050-l0014",
-    "page_0050-l0017",
-    "page_0050-l0019",
-    "page_0050-l0020"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 24,
   "lines": [
     {
@@ -47,8 +37,7 @@
     {
       "lineNumber": 5,
       "text": "his publisher is [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
@@ -62,8 +51,7 @@
     {
       "lineNumber": 8,
       "text": "[REDACTED] advised that the above letter had",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
@@ -73,14 +61,12 @@
     {
       "lineNumber": 10,
       "text": "and that the writer's name was listed as [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
       "text": "Seattle, Washington. [REDACTED] advised he is unable to recall",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 12,
@@ -90,14 +76,12 @@
     {
       "lineNumber": 13,
       "text": "the present time. He stated that the [REDACTED] referred to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 14,
       "text": "in [REDACTED] letter was [REDACTED] of Bridgeport, Connecticut,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
@@ -112,8 +96,7 @@
     {
       "lineNumber": 17,
       "text": "unidentified men. According to [REDACTED] there has been a",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
@@ -123,14 +106,12 @@
     {
       "lineNumber": 19,
       "text": "men who tried to silence [REDACTED] He stated that [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 20,
       "text": "[REDACTED] had written",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,

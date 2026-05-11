@@ -8,31 +8,17 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "12 permanent_unresolved line(s) excluded under SRC-896. 30 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0099-l0001",
-    "page_0099-l0004",
-    "page_0099-l0014",
-    "page_0099-l0015",
-    "page_0099-l0016",
-    "page_0099-l0023",
-    "page_0099-l0025",
-    "page_0099-l0026",
-    "page_0099-l0027",
-    "page_0099-l0031",
-    "page_0099-l0034",
-    "page_0099-l0035"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 49,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "UNITED STATES GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "UNITED STATES GOV[unclear]NMENT",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
@@ -41,34 +27,31 @@
     },
     {
       "lineNumber": 3,
+      "text": "1 - Mr. W. I. Wannall",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
       "text": "TO : Mr. W. R. Wannall",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "FROM : [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 5,
-      "text": "SUBJECT: MILITARY INQUIRY REGARDING UNIDENTIFIED",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 6,
-      "text": "OBJECT THAT FELL FROM SKY AT MILWAUKEE,",
+      "text": "DATE: 8/22/74",
       "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "WISCONSIN 8/21/74;",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
-      "text": "INFORMATION CONCERNING",
-      "status": "image_matched"
+      "text": "FROM : [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
@@ -76,206 +59,196 @@
     },
     {
       "lineNumber": 10,
-      "text": "1 - Mr. W. I Wannall",
+      "text": "SUBJECT: MILITARY INQUIRY REGARDING UNIDENTIFIED",
       "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": "DATE: 8/22/74",
+      "text": "OBJECT THAT FELL FROM SKY AT MILWAUKEE,",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "status": "blank"
+      "text": "WISCONSIN 8/21/74;",
+      "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "At 12:07 a.m., 8/22/74, Security Patrol Clerk (SPC)",
+      "text": "INFORMATION CONCERNING",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "[REDACTED] Intelligence Division received a call via",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 15,
-      "text": "Command Center telephone from a Major [REDACTED] NMCC (National",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "At 12:07 a.m., 8/22/74, Security Patrol Clerk (SPC)",
+      "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "Military Command Center). Major [REDACTED] asked for any informa-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] Intelligence Division received a call via",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
+      "text": "Command Center telephone from a Major [REDACTED] NMCC (National",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 18,
+      "text": "Military Command Center). Major [REDACTED] asked for any informa-",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 19,
       "text": "tion the FBI might have concerning a report that an unidentified",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 20,
       "text": "object which fell from the sky at Milwaukee, Wisconsin, had",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 21,
       "text": "been recovered by local police and turned over to the Milwaukee",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "text": "Office of the FBI.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 23,
       "status": "blank"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 24,
       "text": "No information available at Intelligence Division.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 25,
       "text": "Night Duty Supervisor [REDACTED] called SPC [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 26,
       "text": "Milwaukee Office, who advised an unidentified object",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
-      "text": "had been recovered by [REDACTED] at about 5:55 p.m.,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 26,
-      "text": "8/21/74, but that it was still in possession of [REDACTED]. He",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 27,
-      "text": "said a [REDACTED] had",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "had been recovered by [REDACTED] at about 5:55 p.m.,",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 28,
+      "text": "8/21/74, but that it was still in possession of [REDACTED]. He",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 29,
+      "text": "said [REDACTED] had",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 30,
       "text": "called the Milwaukee FBI Office to report the recovery. Very",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 31,
       "text": "little was known about the object which was described as about",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 32,
       "text": "13 x 8 x 5 inches, metallic in substance and color, jagged on",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 33,
       "text": "one side and had an \"internal heat source.\" [REDACTED] notified",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 34,
       "text": "military locally.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 35,
       "status": "blank"
     },
     {
-      "lineNumber": 34,
-      "text": "Above information was relayed to Major [REDACTED] with [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 35,
-      "text": "suggestion he might like to contact Captain [REDACTED] Milwaukee",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 36,
+      "text": "Above information was relayed to Major [REDACTED] with [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 37,
+      "text": "suggestion he might like to contact Captain [REDACTED] Milwaukee",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 38,
       "text": "Police Department.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 39,
       "status": "blank"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 40,
       "text": "This matter received United Press International",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
-      "text": "coverage on morning of 8/22/74.",
-      "status": "image_matched"
+      "lineNumber": 41,
+      "text": "Coverage on morning of 8/22/74.",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 42,
       "text": "REC-101",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 43,
       "status": "blank"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 44,
       "text": "ACTION:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 45,
       "text": "For information.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 46,
       "status": "blank"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 47,
       "text": "HEM:ldf",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 48,
       "text": "(2)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
-      "text": "30 AUG 29 1974",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "text": "AUG 26 1974",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 49,
-      "text": "FIVE",
+      "text": "30 AUG 29 1974",
       "status": "image_matched"
     }
   ],

@@ -8,22 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "9 permanent_unresolved line(s) excluded under SRC-896. 13 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0128-l0008",
-    "page_0128-l0012",
-    "page_0128-l0013",
-    "page_0128-l0015",
-    "page_0128-l0016",
-    "page_0128-l0021",
-    "page_0128-l0023",
-    "page_0128-l0024",
-    "page_0128-l0025"
-  ],
-  "lineCount": 25,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 29,
   "lines": [
     {
       "lineNumber": 1,
@@ -32,129 +22,138 @@
     },
     {
       "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
       "text": "I am a student at Glendale City College in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 4,
       "text": "Glendale, California. This semester I'm doing a",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "research paper on U.F.O's. I was wondering if",
-      "status": "image_matched"
+      "lineNumber": 5,
+      "text": "research paper on U. F. O.'s. I was wondering if",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
       "text": "you could send me any information you might",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "text": "have regarding the U.F.O. controversy. I would",
-      "status": "image_matched"
+      "lineNumber": 7,
+      "text": "have regarding the U. F. O. controversy. I would",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "text": "appreciate it very much if you could send me",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
-      "text": "this information before march 20th as I would like",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 9,
+      "text": "this information before March 20th as I would like",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "to get started as soon as possible. Thank you very",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "much for your time.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 13,
-      "text": "LA Cañada, Calif. 91011",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 14,
-      "status": "blank"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
-      "text": "P.S - If you can't possibly get the information",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "La Cañada, Calif. 91011",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
-      "text": "me by the 20th, I would appreciate it if it was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 17,
+      "text": "P.S. - If you can't possibly get the information...",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 18,
+      "text": "me by the 20th, I would appreciate it if it was sent",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 19,
       "text": "to me as close to that date as possible.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 20,
       "status": "blank"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 21,
       "text": "ITC",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "text": "3-18-68",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 22,
-      "status": "blank"
-    },
-    {
       "lineNumber": 23,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "mn",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 25,
-      "text": "CORRESPONDENCE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "A-1",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 26,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 27,
+      "text": "-17-68",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
+      "text": "CORRESPONDENC",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

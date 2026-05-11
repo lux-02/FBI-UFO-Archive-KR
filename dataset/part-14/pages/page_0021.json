@@ -8,16 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 36 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0021-l0014",
-    "page_0021-l0033",
-    "page_0021-l0035"
-  ],
-  "lineCount": 42,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 46,
   "lines": [
     {
       "lineNumber": 1,
@@ -31,27 +27,26 @@
     },
     {
       "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "Transmit the following in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 5,
       "text": "(Type in plain text or code)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "AIRTEL",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 6,
-      "text": "AIR MAIL",
-      "status": "image_matched"
+      "text": "Via AIRTEL",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "text": "Via",
+      "text": "AIR MAIL",
       "status": "image_matched"
     },
     {
@@ -61,171 +56,183 @@
     },
     {
       "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
       "text": "TO: Director, FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "FROM: SAC, Detroit (65-2677)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 13,
       "text": "UNIDENTIFIED FLYING OBJECT;",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
-      "text": "JOSEPH PERRY, Grand Blanc, Michigan -",
-      "status": "image_matched"
+      "lineNumber": 14,
+      "text": "JOSEPH [REDACTED] PERRY, Grand Blanc, Michigan -",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 15,
       "text": "COMPLAINANT AKA \"Joe\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
-      "text": "ReDetroit airtel dated 3/28/60. FLYING SAUCERS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 16,
+      "text": "ReDetroit airtel dated 3/28/60. OFLYING SAUCERS",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 17,
       "status": "blank"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 18,
       "text": "Enclosed herewith is one copy of the news article referred",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 19,
       "text": "to in reairtel. This article appeared in the \"Flint Journal\",",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 20,
       "text": "Flint, Mich., Sunday, 3/27/60, and was written by ALLAN R.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 21,
       "text": "WILHELM. A copy of the article is also being furnished to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "text": "OSI, Selfridge AFB, Mt. Clemens, Mich. No inquiries have",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 23,
       "text": "been received from the press or radio in addition to the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 24,
       "text": "inquiries set forth in myairtel and teletype of 3/9/60.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 25,
       "status": "blank"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 26,
       "text": "The above is for the information of the Bureau and no",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 27,
       "text": "further action is being contemplated by this Office inasmuch",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 28,
       "text": "as the Air Force (OSI) has been furnished all facts in our",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 29,
       "text": "possession.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 30,
       "status": "blank"
     },
     {
-      "lineNumber": 29,
-      "text": "3 - Bureau (Encl)",
-      "status": "image_matched"
+      "lineNumber": 31,
+      "text": "3 - Bureau (Encl.)",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 32,
       "text": "1 - Detroit",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
-      "text": "WLS: SMC",
-      "status": "image_matched"
+      "lineNumber": 33,
+      "text": "WLS:SMC",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 34,
       "text": "(4)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 35,
       "text": "ENCLOSURE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 36,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 37,
       "text": "REC-78 62-83894-412",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
-      "text": "23 APR 1 1960",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 36,
-      "text": "5-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "text": "CRIM REC",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 38,
+      "text": "23 APR 1 1960",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 39,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 40,
+      "text": "5- [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 41,
+      "text": "CRIM. REC.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 43,
       "text": "Approved:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
-      "text": "Sent",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "M Per",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
+      "lineNumber": 44,
       "text": "Special Agent in Charge",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 45,
+      "text": "Sent M Per",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 46,
       "text": "62 APR 13 1960",
       "status": "image_matched"
     }

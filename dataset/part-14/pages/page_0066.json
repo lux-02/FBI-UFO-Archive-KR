@@ -8,17 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 42 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0066-l0004",
-    "page_0066-l0006",
-    "page_0066-l0030",
-    "page_0066-l0031"
-  ],
-  "lineCount": 54,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 55,
   "lines": [
     {
       "lineNumber": 1,
@@ -36,20 +31,18 @@
     },
     {
       "lineNumber": 4,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "1 [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
-      "text": "belmont",
-      "status": "image_matched"
+      "text": "1 Belmont",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "1 [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
@@ -76,8 +69,8 @@
     },
     {
       "lineNumber": 12,
-      "text": "Subject. Director of National Investigations Committee on",
-      "status": "image_matched"
+      "text": "Subject, Director of National Investigations Committee on",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
@@ -165,14 +158,12 @@
     {
       "lineNumber": 30,
       "text": "Merchant Marine.\" This article indicated the Bureau had in its possess",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 31,
       "text": "documents concerning such a plan by Hitler which indication was complet",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
@@ -230,13 +221,13 @@
     },
     {
       "lineNumber": 43,
-      "text": "to be no point in discussing this matter further with him. JANAP 146 is",
-      "status": "image_matched"
+      "text": "to be no point in discussing this matter further with him. JANAP 146 i",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 44,
-      "text": "ACTION: Defense document re reporting intelligence sightings.",
-      "status": "image_matched"
+      "text": "defense document re reporting intelligence sightings.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 45,
@@ -244,47 +235,52 @@
     },
     {
       "lineNumber": 46,
+      "text": "ACTION:",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 47,
       "text": "That the attached suggested letter be forwarded to Keyhoe. In",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 48,
       "text": "view of Air Force interest, copy of incoming with copy of our",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
+      "lineNumber": 49,
       "text": "62-103581 reply being sent Air Force separately.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 49,
+      "lineNumber": 50,
       "text": "Enclosure",
       "status": "image_matched"
     },
     {
-      "lineNumber": 50,
+      "lineNumber": 51,
       "text": "ESS:jas",
       "status": "image_matched"
     },
     {
-      "lineNumber": 51,
+      "lineNumber": 52,
       "text": "(5)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 52,
+      "lineNumber": 53,
       "status": "blank"
     },
     {
-      "lineNumber": 53,
-      "text": "62-53594",
-      "status": "image_matched"
+      "lineNumber": 54,
+      "text": "[unclear] 62-83894",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 54,
-      "text": "62-73794-",
-      "status": "image_matched"
+      "lineNumber": 55,
+      "text": "62-83894-55",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

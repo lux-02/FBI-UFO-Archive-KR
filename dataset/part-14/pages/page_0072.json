@@ -8,14 +8,11 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 25 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0072-l0015",
-    "page_0072-l0020"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 27,
   "lines": [
     {
@@ -65,8 +62,8 @@
     },
     {
       "lineNumber": 10,
-      "text": "every evening I'd put out The Elkhart Truth",
-      "status": "image_matched"
+      "text": "every evening I'd put out The Elkhart Truth &",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
@@ -91,8 +88,7 @@
     {
       "lineNumber": 15,
       "text": "off. I'll never forget the sound of it. I supposed",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
@@ -117,8 +113,7 @@
     {
       "lineNumber": 20,
       "text": "over just as he ran. he was unconscious",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
@@ -147,8 +142,8 @@
     },
     {
       "lineNumber": 26,
-      "text": "wanted to. He came to enough to pull him",
-      "status": "image_matched"
+      "text": "wanted to. He came to enough to pull him-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,

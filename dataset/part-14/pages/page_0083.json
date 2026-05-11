@@ -8,16 +8,11 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "typed_or_printed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 39 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0083-l0018",
-    "page_0083-l0028",
-    "page_0083-l0038",
-    "page_0083-l0047"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 55,
   "lines": [
     {
@@ -75,8 +70,8 @@
     },
     {
       "lineNumber": 12,
-      "text": "the emphasis is on photographic data, despite",
-      "status": "image_matched"
+      "text": "for the emphasis is on photographic data, despite",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
@@ -105,8 +100,7 @@
     {
       "lineNumber": 18,
       "text": "who can devote from one to three hours a day on skywatch,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
@@ -115,8 +109,8 @@
     },
     {
       "lineNumber": 20,
-      "text": "and ready to photograph these objects should immediately",
-      "status": "image_matched"
+      "text": "and ready tophotograph these objects should immediately",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
@@ -153,9 +147,8 @@
     },
     {
       "lineNumber": 28,
-      "text": "INTER CONTINENTAL AERIAL",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "\"INTER CONTINENTAL AERIAL",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
@@ -202,8 +195,7 @@
     {
       "lineNumber": 38,
       "text": "Mr. [REDACTED] stated that this is a peculiar",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 39,
@@ -246,8 +238,7 @@
     {
       "lineNumber": 47,
       "text": "check its indices on ROBERT T. STOLL and the Inter",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 48,

@@ -8,16 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 28 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0116-l0004",
-    "page_0116-l0016",
-    "page_0116-l0037"
-  ],
-  "lineCount": 40,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 43,
   "lines": [
     {
       "lineNumber": 1,
@@ -36,8 +32,7 @@
     {
       "lineNumber": 4,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
@@ -93,9 +88,8 @@
     },
     {
       "lineNumber": 16,
-      "text": "It is also rumored these creatures have impersonated armed forces officer",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "It is also rumored these creatures have impersonated armed forces officers",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
@@ -119,8 +113,8 @@
     },
     {
       "lineNumber": 21,
-      "text": "were supposed to have learned some dark secret about extraterrestrial craft",
-      "status": "image_matched"
+      "text": "were supposed to have learned some dark secret about extraterrestial craft",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
@@ -190,26 +184,40 @@
     },
     {
       "lineNumber": 36,
+      "text": "EX-100",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
       "text": "Yours Truly,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
-      "text": "/s/ Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 38,
-      "status": "blank"
+      "text": "REC-124",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 39,
+      "text": "/s/ Mr. [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 40,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 41,
+      "text": "MAY 22 1969",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
       "text": "P.S. If there are any pamphets covering the FBI's functions you feel I",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 43,
       "text": "will need, please send them along.",
       "status": "image_matched"
     }

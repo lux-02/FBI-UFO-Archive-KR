@@ -8,76 +8,69 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0055-l0010",
-    "page_0055-l0011",
-    "page_0055-l0016",
-    "page_0055-l0025"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 34,
   "lines": [
     {
       "lineNumber": 1,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 2,
       "text": "Oklahoma City 6, Oklahoma,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 2,
+      "lineNumber": 3,
       "text": "22 November 1958",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 4,
       "status": "blank"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 5,
       "text": "The Honorable J. Edgar Hoover, Director,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
       "text": "Federal Bureau of Investigation,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "text": "Washington 25, D. C.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "status": "blank"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "Dear Mr. Hoover:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "status": "blank"
     },
     {
-      "lineNumber": 10,
-      "text": "I am Acting Deputy Director of a local Oklahoma City know which is known",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 11,
-      "text": "as the [REDACTED] which is int-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "I am Acting Deputy Director of a local Oklahoma City know which is known",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "erested in the serious investigation of UFO.",
-      "status": "image_matched"
+      "text": "as the [REDACTED] which is interested in the serious investigation of UFO.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
@@ -85,106 +78,102 @@
     },
     {
       "lineNumber": 14,
-      "text": "Recently many rumors have been printed in UFO periodicals, concerning rep-",
-      "status": "image_matched"
+      "text": "Recently many rumors have been printed in UFO periodicals, concerning reports that Special Agents of the Federal Bureau of Investigation have discouraged certain saucer investigators, particularly Mr. [REDACTED] of Drid[unclear]eport, Connecticut from further research into the secret of these elusive discs. Since, you are the Director of the F.B.I., I would like to know whether or not these reports are factual or whether they are just rumors.",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 15,
-      "text": "orts that Special Agents of the Federal Bureau of Investigation have discouraged",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "text": "certain saucer investigators, particularly Mr. [REDACTED] of Bridgeport, Connecticut,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 17,
-      "text": "from further research into the secret of these elusive discs. Since, you are",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "the Director of the F.D.I., I would like to know whether or not these reports are",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "text": "factual or whether they are just rumors.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
       "status": "blank"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 16,
       "text": "Thank you very much. Trusting to hear from you in the near future, I rem",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 17,
       "status": "blank"
     },
     {
-      "lineNumber": 23,
-      "text": "REC-35",
-      "status": "image_matched"
+      "lineNumber": 18,
+      "text": "REC-35 62-82894-394",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 19,
       "text": "Very truly yours,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 20,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 21,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 22,
       "text": "for IIOUFO",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 23,
       "status": "blank"
     },
     {
-      "lineNumber": 28,
-      "text": "62-8-894-394",
-      "status": "image_matched"
+      "lineNumber": 24,
+      "text": "[Handwritten note:]",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 29,
-      "text": "DEC 4 1958",
-      "status": "image_matched"
+      "lineNumber": 25,
+      "text": "2 time expires 12-1-59",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 30,
-      "text": "CRIME REC.",
-      "status": "image_matched"
+      "lineNumber": 26,
+      "text": "typed 12-1-59",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 31,
-      "text": "2 time copies",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "text": "typed 12-1-58",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
+      "lineNumber": 27,
       "text": "ack 12/2/58",
       "status": "image_matched"
     },
     {
+      "lineNumber": 28,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 29,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 30,
+      "text": "[Stamp:]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 31,
+      "text": "DEC 4 1958",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 33,
+      "text": "[Stamp:]",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 34,
-      "text": "ack",
+      "text": "CRIME REC.",
       "status": "image_matched"
     }
   ],

@@ -8,41 +8,22 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "16 permanent_unresolved line(s) excluded under SRC-896. 24 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0105-l0001",
-    "page_0105-l0002",
-    "page_0105-l0009",
-    "page_0105-l0011",
-    "page_0105-l0012",
-    "page_0105-l0013",
-    "page_0105-l0014",
-    "page_0105-l0016",
-    "page_0105-l0017",
-    "page_0105-l0018",
-    "page_0105-l0022",
-    "page_0105-l0024",
-    "page_0105-l0029",
-    "page_0105-l0031",
-    "page_0105-l0033",
-    "page_0105-l0047"
-  ],
-  "lineCount": 47,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 49,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "STATES DEPARTMENT OF JUSTICE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "UNITED STATES DEPARTMENT OF JUSTICE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
       "text": "FEDERAL BUREAU OF INVESTIGATION",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -51,230 +32,224 @@
     },
     {
       "lineNumber": 4,
-      "text": "March 20, 1973",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 5,
       "status": "blank"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 5,
       "text": "In Reply, Please Refer to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 6,
       "text": "File No.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 7,
       "status": "blank"
     },
     {
+      "lineNumber": 8,
+      "text": "March 20, 1973",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 9,
-      "text": "On March 9, 1973, Sergeant [REDACTED] United",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "On March 9, 1973, Sergeant [REDACTED] United",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 13,
       "text": "States Air Force, Recruiting Office, Professional Building,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
-      "text": "Waco, Texas, advised that a man identifying himself as [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 12,
-      "text": "contacted the night-shift supervisor at the [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 13,
-      "text": "and inquired regarding any information [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 14,
-      "text": "the [REDACTED] could be able to furnish him concerning any",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Waco, Texas, advised that a man identifying himself as [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
+      "text": "[REDACTED] contacted the night-shift supervisor at the [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 16,
+      "text": "[REDACTED] and inquired regarding any information",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 17,
+      "text": "the [REDACTED] could be able to furnish him concerning any",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 18,
       "text": "unidentified flying objects observed in the Waco, Texas area.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
-      "text": "[REDACTED] identified himself as a Captain in the United States",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 17,
-      "text": "Air Force. [REDACTED] was described as having on an Air Force",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 18,
-      "text": "uniform with a chaplain's badge on the uniform. [REDACTED] also",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 19,
+      "text": "[REDACTED] had identified himself as a Captain in the United States",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 20,
+      "text": "Air Force. [REDACTED] was described as having on an Air Force",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 21,
+      "text": "uniform with a chaplain's badge on the uniform. [REDACTED] also",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 22,
       "text": "had in his possession at the time a folder marked Top Secret",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 23,
       "text": "which contained pictures of various military installations.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 24,
       "text": "No specific information concerning these photos could be",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 25,
       "text": "provided by Sergeant [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 26,
       "status": "blank"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 27,
       "text": "Sergeant [REDACTED] stated that when [REDACTED] was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 28,
       "text": "informed that they could provide no information to him he",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 29,
       "text": "left his card which contained his name and the following",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 30,
       "text": "information:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 31,
       "status": "blank"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 32,
       "text": "Address: [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 33,
       "text": "Dallas, Texas",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 34,
       "text": "Phone: [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 35,
       "status": "blank"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 36,
       "text": "Sergeant [REDACTED] advised that the individual did",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 37,
       "text": "not act in any strange manner, and did not attempt to obtain",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 38,
       "text": "anything other than information from the newspaper. Sergeant",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 39,
       "text": "Stigliano advised that this information was being furnished",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 40,
       "text": "to the proper authorities only for information purposes as",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 41,
       "text": "they do not suspect any unlawful activity.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 42,
       "status": "blank"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 43,
       "text": "This document contains neither recommendations nor",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 44,
       "text": "conclusions of the FBI. It is the property of the FBI and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 45,
       "text": "is loaned to your agency; it and its contents are not to be",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 46,
       "text": "distributed outside your agency.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 47,
       "status": "blank"
     },
     {
-      "lineNumber": 45,
-      "text": "1*",
-      "status": "image_matched"
+      "lineNumber": 48,
+      "text": "62-83894-411",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 46,
-      "text": "62-83994-411",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 47,
-      "text": "ENCLOSU",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 49,
+      "text": "ENCLOSU..",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

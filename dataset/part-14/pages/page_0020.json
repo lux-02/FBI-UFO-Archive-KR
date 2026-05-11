@@ -8,26 +8,22 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 67 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0020-l0001",
-    "page_0020-l0069"
-  ],
-  "lineCount": 69,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 89,
   "lines": [
     {
       "lineNumber": 1,
       "text": "but when the [unclear] started, it became",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
-      "text": "painfully evident that the public didn't know",
-      "status": "image_matched"
+      "text": "painfully evident that [unclear] don't know very much",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 3,
@@ -36,334 +32,422 @@
     },
     {
       "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
       "text": "AF WANTS TO KNOW",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
       "text": "Pizza Pie-Or",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 8,
       "text": "Flying Saucer?",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
-      "text": "GRAND BLANC, March 9 asked to see it again and",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 8,
-      "text": "-The FBI today probed into again.",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 9,
-      "text": "a color photograph of the \"It's a flying saucer,\" they",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "text": "moon taken by Joe Perry, a said.",
-      "status": "image_matched"
+      "text": "GRAND BLANC, March 9",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "talented pizza pie maker, The FBI got wind of it",
-      "status": "image_matched"
+      "text": "-The FBI today probed into",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "who also takes potshots at last Friday and the next day",
-      "status": "image_matched"
+      "text": "a color photograph of the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "text": "the sky with a home-made two agents from the Flint",
-      "status": "image_matched"
+      "text": "moon taken by Joe Perry, a",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
+      "text": "talented pizza pie maker,",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "who also takes potshots at",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
+      "text": "the sky with a home-made",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 17,
       "text": "telescope-camera.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
-      "text": "office visited Joe's place",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "text": "The FBI is interested in here.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 17,
-      "text": "the picture Joe snapped last \"I showed them several",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 18,
-      "text": "month on the second night slides of photographs I took",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 19,
+      "text": "The FBI is interested in",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 20,
+      "text": "the picture Joe snapped last",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
+      "text": "month on the second night",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 22,
       "text": "of the full moon.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
-      "text": "on that particular night,\" Joe",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "text": "said. \"They did not seem to",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "The picture shows a be interested until I showed",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 23,
-      "text": "saucer-like object silhouetted this particular one and then",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 24,
+      "text": "The picture shows a",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 25,
+      "text": "saucer-like object silhouetted",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 26,
       "text": "against the moon.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
-      "text": "both of them jumped up.\"",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "text": "The \"thing\" radiates a The agents took the photo-",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 27,
-      "text": "trail in green and appears graph and several others.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 28,
+      "text": "The \"thing\" radiates a",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 29,
+      "text": "trail in green and appears",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 30,
       "text": "nearer to the earth than the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
-      "text": "moon,\" Joe said. \"It is round, JOE, A grandfather at 44,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
-      "text": "much smaller than the moon, hopes he has been of some",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 31,
+      "text": "moon,\" Joe said. \"It is round,",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 32,
+      "text": "much smaller than the moon,",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 33,
       "text": "and it has a dome.\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
-      "text": "service to government ex-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
-      "text": "perts in their search for an-",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 34,
-      "text": "JOE DID not think any- swers in outer space.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 35,
-      "text": "thing of the photograph until \"But I hope I get that pic-",
-      "status": "image_matched"
+      "text": "JOE DID not think any-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 36,
-      "text": "customers in his restaurant ture back,\" he said.",
-      "status": "image_matched"
+      "text": "thing of the photograph until",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 37,
-      "text": "Oi",
-      "status": "image_matched"
+      "text": "customers in his restaurant",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 38,
-      "text": "Pr",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 39,
-      "text": "Fo",
-      "status": "image_matched"
+      "text": "asked to see it again and",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 40,
-      "text": "JACI",
-      "status": "image_matched"
+      "text": "again.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 41,
-      "text": "-Fired",
-      "status": "image_matched"
+      "text": "\"It's a flying saucer,\" they",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 42,
-      "text": "searing",
-      "status": "image_matched"
+      "text": "said.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
-      "text": "today",
-      "status": "image_matched"
+      "text": "The FBI got wind of it",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 44,
-      "text": "oil wel",
-      "status": "image_matched"
+      "text": "last Friday and the next day",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 45,
-      "text": "fifth d",
-      "status": "image_matched"
+      "text": "two agents from the Flint",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 46,
-      "text": "A cr",
+      "text": "office visited Joe's place",
       "status": "image_matched"
     },
     {
       "lineNumber": 47,
-      "text": "a crant",
-      "status": "image_matched"
+      "text": "here.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 48,
-      "text": "of debr",
-      "status": "image_matched"
+      "text": "\"I showed them several",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 49,
-      "text": "the are",
-      "status": "image_matched"
+      "text": "slides of photographs I took",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 50,
-      "text": "can sm",
+      "text": "on that particular night,\" Joe",
       "status": "image_matched"
     },
     {
       "lineNumber": 51,
-      "text": "an expl",
+      "text": "said. \"They did not seem to",
       "status": "image_matched"
     },
     {
       "lineNumber": 52,
-      "text": "The",
-      "status": "image_matched"
+      "text": "be interested until I showed",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 53,
-      "text": "hauling",
-      "status": "image_matched"
+      "text": "this particular one and then",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 54,
-      "text": "built at",
+      "text": "both of them jumped up.\"",
       "status": "image_matched"
     },
     {
       "lineNumber": 55,
-      "text": "miles v",
-      "status": "image_matched"
+      "text": "The agents took the photo-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 56,
-      "text": "houn C",
-      "status": "image_matched"
+      "text": "graph and several others.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 57,
-      "text": "Se he",
-      "status": "image_matched"
+      "text": "JOE, A grandfather at 44,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 58,
-      "text": "burned",
-      "status": "image_matched"
+      "text": "hopes he has been of some",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 59,
-      "text": "feet are",
+      "text": "service to government ex-",
       "status": "image_matched"
     },
     {
       "lineNumber": 60,
-      "text": "engines,",
+      "text": "perts in their search for an-",
       "status": "image_matched"
     },
     {
       "lineNumber": 61,
-      "text": "drilling",
-      "status": "image_matched"
+      "text": "swers in outer space.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 62,
-      "text": "into gro",
-      "status": "image_matched"
+      "text": "\"But I hope I get that pic-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 63,
-      "text": "the late",
-      "status": "image_matched"
+      "text": "ture back,\" he said.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 64,
-      "text": "The",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 65,
-      "text": "headed",
+      "text": "Oi",
       "status": "image_matched"
     },
     {
       "lineNumber": 66,
-      "text": "Houston",
+      "text": "Pr",
       "status": "image_matched"
     },
     {
       "lineNumber": 67,
-      "text": "well exp",
+      "text": "Fo",
       "status": "image_matched"
     },
     {
       "lineNumber": 68,
-      "text": "ENCIOS",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 69,
-      "text": "[unclear] -413",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "JACI",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 70,
+      "text": "-Fired",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 71,
+      "text": "searing",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 72,
+      "text": "today.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 73,
+      "text": "oil wel",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 74,
+      "text": "fifth d",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 75,
+      "text": "A cr",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 76,
+      "text": "a cranc",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 77,
+      "text": "of debr",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 78,
+      "text": "the are",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 79,
+      "text": "can sm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 80,
+      "text": "an expl",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 81,
+      "text": "The",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 82,
+      "text": "hauling",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 83,
+      "text": "built at",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 84,
+      "text": "miles v",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 85,
+      "text": "houn C",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 86,
+      "text": "So ho",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 87,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 88,
+      "text": "ENCLOSURE",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 89,
+      "text": "[unclear]-554-413",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

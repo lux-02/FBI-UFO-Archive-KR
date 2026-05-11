@@ -8,20 +8,12 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 21 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0117-l0002",
-    "page_0117-l0014",
-    "page_0117-l0017",
-    "page_0117-l0020",
-    "page_0117-l0022",
-    "page_0117-l0023",
-    "page_0117-l0030"
-  ],
-  "lineCount": 30,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 28,
   "lines": [
     {
       "lineNumber": 1,
@@ -30,153 +22,136 @@
     },
     {
       "lineNumber": 2,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 3,
       "text": "Del City, Okla",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "7311:",
-      "status": "image_matched"
+      "lineNumber": 3,
+      "text": "[REDACTED] 7311[unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 4,
       "status": "blank"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 5,
       "text": "Federal Bureau of Investigation",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 6,
       "text": "Penn. Ave. & 9th. NW.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 7,
       "text": "Wash., D.C. 19806",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 8,
       "status": "blank"
     },
     {
-      "lineNumber": 10,
-      "text": "Dear Sir;",
-      "status": "image_matched"
+      "lineNumber": 9,
+      "text": "Dear Sirs;",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 10,
       "text": "There currently are rumors over the grapevine and in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "text": "print that suggest men with oriental features wearing",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 12,
       "text": "dark clothes go around terrorizing people who have had",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
-      "text": "close-upsviews of UFO's. It is also rumored these",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 13,
+      "text": "close-up views of UFO's. It is also rumored these",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 14,
       "text": "creatures have impersonated armed forces officers and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "text": "FBI investigators. They are supposed to ride around in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 16,
       "text": "black or dark automobiles that either have old license tags",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 17,
       "text": "or none at all. Several are reported to have attempted to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 18,
       "text": "run down witnesses of UFO sightings, made disturbing",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
-      "text": "almost macabre phone calls, silenced several investi",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 19,
+      "text": "almost macabre phone calls, silenced several investi-",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 20,
       "text": "gators who were supposed to have learned some dark",
       "status": "image_matched"
     },
     {
+      "lineNumber": 21,
+      "text": "secret about extraterrestial craft or mission plans and",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 22,
-      "text": "secret about existenterestial craft or mission plans and",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "opened mailed, tapped telephones and even taken",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
-      "text": "opened mailed, tapped telephones and even taken",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 24,
       "text": "pictures of several homes where UFO witnesses",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 24,
       "text": "lived.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
-      "text": "Can you give me any information on such rumors",
-      "status": "image_matched"
+      "lineNumber": 25,
+      "text": "Can you give me any information on such 473 rumors",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 26,
       "text": "Or can you refer me to a source whose facilities can",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 27,
       "text": "answer my questions?",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
-      "text": "473",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 28,
+      "text": "CORRESPONDENCE",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

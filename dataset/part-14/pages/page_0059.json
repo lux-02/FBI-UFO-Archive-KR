@@ -8,23 +8,17 @@
     "sha256": "db87b2051dc434188f23e59904c375d0b52b3692763d48ef6163a0f309554da3"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0059-l0001",
-    "page_0059-l0042",
-    "page_0059-l0044",
-    "page_0059-l0045"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 45,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "ial Phenomena Research G.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Aerial Phenomena Research G[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
@@ -85,13 +79,13 @@
     },
     {
       "lineNumber": 14,
-      "text": "\"intelligently controled craft whose ports of origin are outside",
-      "status": "image_matched"
+      "text": "'intelligently controlled craft whose ports of origin are outside",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
-      "text": "Earths atmosphere.\"",
-      "status": "image_matched"
+      "text": "Earths atmosphere.'",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
@@ -215,14 +209,13 @@
     },
     {
       "lineNumber": 41,
-      "text": "special \"secrecy status\" they have been given and the aura of mystery",
-      "status": "image_matched"
+      "text": "special \"secret\" status\" they have been given and the aura of mystery",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 42,
-      "text": "they have unfortunatly acquired. END.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "they have unfortunately acquired. END.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
@@ -231,14 +224,12 @@
     {
       "lineNumber": 44,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 45,
-      "text": "62-FBA 14-395",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "62-83814-395",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null
