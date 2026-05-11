@@ -8,14 +8,12 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 8 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0017-l0004"
-  ],
-  "lineCount": 12,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 24,
   "lines": [
     {
       "lineNumber": 1,
@@ -34,8 +32,7 @@
     {
       "lineNumber": 4,
       "text": "his fishing trip by [REDACTED] Kokomo, Indiana. Dr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
@@ -72,6 +69,55 @@
     },
     {
       "lineNumber": 12,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 16,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 17,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 18,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 19,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 20,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 21,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
+      "text": "- 2 -",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 24,
       "text": "SECURITY INFORMATION - CONFIDENTIAL",
       "status": "image_matched"
     }

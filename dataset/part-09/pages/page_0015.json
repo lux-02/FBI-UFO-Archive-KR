@@ -8,16 +8,11 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 40 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0015-l0014",
-    "page_0015-l0019",
-    "page_0015-l0025",
-    "page_0015-l0053"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 55,
   "lines": [
     {
@@ -31,8 +26,8 @@
     },
     {
       "lineNumber": 3,
-      "text": "August 12, 1952",
-      "status": "image_matched"
+      "text": "[REDACTED] August 12, 1952",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
@@ -84,8 +79,7 @@
     {
       "lineNumber": 14,
       "text": "saucer. In about four days the physicist [REDACTED] gave out",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
@@ -110,8 +104,7 @@
     {
       "lineNumber": 19,
       "text": "Mr. [REDACTED] start his experiment? Which office did my letter",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 20,
@@ -140,8 +133,7 @@
     {
       "lineNumber": 25,
       "text": "Mr. [REDACTED], which has been before me all along, until I hit",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 26,
@@ -275,8 +267,7 @@
     {
       "lineNumber": 53,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 54,

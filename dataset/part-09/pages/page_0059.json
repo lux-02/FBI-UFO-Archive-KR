@@ -8,24 +8,12 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "11 permanent_unresolved line(s) excluded under SRC-896. 27 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0059-l0009",
-    "page_0059-l0013",
-    "page_0059-l0014",
-    "page_0059-l0016",
-    "page_0059-l0019",
-    "page_0059-l0020",
-    "page_0059-l0022",
-    "page_0059-l0023",
-    "page_0059-l0025",
-    "page_0059-l0027",
-    "page_0059-l0030"
-  ],
-  "lineCount": 45,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 49,
   "lines": [
     {
       "lineNumber": 1,
@@ -34,194 +22,183 @@
     },
     {
       "lineNumber": 2,
-      "text": "TO : DIRECTOR, FBI DATE: July 29, 1952",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
+      "text": "TO : Director, FBI",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 4,
+      "text": "DATE: July 29, 1952",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
       "text": "FROM : SAC, WASHINGTON FIELD 62-0",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 6,
       "text": "SUBJECT: AERIAL OBJECTS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 7,
       "text": "\"Flying Saucers\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 8,
       "text": "INFORMATION CONCERNING",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 9,
       "status": "blank"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 10,
       "text": "On July 28, 1952, at the Weekly Intelligence Conference,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 11,
       "text": "Captain [REDACTED] Office of Special Investigations, 4th Air",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
       "text": "Force Base, Bolling Field, advised the representative of the FBI,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 13,
       "text": "Washington Field Office, over the prior weekend, his office had",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
       "text": "received reports concerning the observation of aerial objects.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
-      "text": "Captain [REDACTED] referred to a phone call made to his office by",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 14,
-      "text": "Special Agent [REDACTED] of the Washington Field Office,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 15,
+      "text": "Captain [REDACTED] referred to a phone call made to his office by [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Special Agent [REDACTED] of the Washington Field Office,",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 17,
       "text": "furnishing to OSI the identity of a woman who reportedly had observed",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
-      "text": "an aerial object. [REDACTED] praised the WFO for the expeditious noti-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 17,
-      "text": "fication in this instance.",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 18,
-      "status": "blank"
+      "text": "an aerial object. [REDACTED] praised the WFO for the expeditious notification",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 19,
-      "text": "Captain [REDACTED] Colonel [REDACTED] superior office,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "in this instance.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "text": "and Special Agent [REDACTED] in a conference on July 28,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 21,
+      "text": "Captain [REDACTED], Colonel [REDACTED], [REDACTED] superior office,",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 22,
+      "text": "and Special Agent [REDACTED] in a conference on July 28,",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 23,
       "text": "1952, discussed the matter of immediate notification of OSI. This",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
-      "text": "conference resulted in the request by Colonel [REDACTED] and Captain",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 23,
-      "text": "[REDACTED] that in the event, whenever information is received by the FBI,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 24,
+      "text": "conference resulted in the request by Colonel [REDACTED] and Captain",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 25,
+      "text": "[REDACTED] that in the event, whenever information is received by the FBI,",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 26,
       "text": "in which it is alleged that someone has observed a \"Flying Saucer\",",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 27,
       "text": "this information be immediately relayed to Captain [REDACTED] office.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 28,
       "text": "It is to be noted that this office may be reached by dialing Code 1261",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 29,
       "text": "and asking for Extension 509. Captain [REDACTED] said this number should be",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 30,
       "text": "called under these circumstances at any time, day or night.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 31,
       "status": "blank"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 32,
       "text": "Captain [REDACTED] stated that the Air Force is greatly concerned",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 33,
       "text": "about this matter of aerial objects and said that the Air Force",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 34,
       "text": "Intelligence would appreciate the execution of the requested procedure,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 35,
       "text": "mentioned above. It is suggested that the Bureau bring this matter",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 36,
       "text": "to the attention of its night supervisors, since these night supervisors",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 37,
       "text": "also receive complaints from persons outside of the Bureau and may",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
-      "text": "receive information concerning the observation of aerial objects.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "status": "blank"
-    },
-    {
       "lineNumber": 38,
-      "text": "JMD:NPB",
+      "text": "receive information concerning the observation of aerial objects.",
       "status": "image_matched"
     },
     {
@@ -230,7 +207,7 @@
     },
     {
       "lineNumber": 40,
-      "text": "RECORDED - 59",
+      "text": "JMD:NPB",
       "status": "image_matched"
     },
     {
@@ -239,22 +216,41 @@
     },
     {
       "lineNumber": 42,
-      "text": "JUL 31 1952",
+      "text": "RECORDED - 59",
       "status": "image_matched"
     },
     {
       "lineNumber": 43,
-      "status": "blank"
+      "text": "62-83894-289",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 44,
-      "text": "SEP 24 1952",
+      "text": "JUL 31 1952",
       "status": "image_matched"
     },
     {
       "lineNumber": 45,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 46,
+      "text": "SEP 24 1952",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 47,
       "text": "SEP 15 1954",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 48,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 49,
+      "text": "UNRECORDED COPY FILED IN 62-[unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

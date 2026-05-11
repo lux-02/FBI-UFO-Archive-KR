@@ -8,21 +8,12 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 24 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0052-l0004",
-    "page_0052-l0007",
-    "page_0052-l0008",
-    "page_0052-l0025",
-    "page_0052-l0026",
-    "page_0052-l0027",
-    "page_0052-l0033",
-    "page_0052-l0035"
-  ],
-  "lineCount": 35,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 33,
   "lines": [
     {
       "lineNumber": 1,
@@ -31,19 +22,17 @@
     },
     {
       "lineNumber": 2,
-      "text": "Charleston,",
-      "status": "image_matched"
+      "text": "Charleston, S.C.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "S.C.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 4,
-      "text": "Mr. Edgar Hoover,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "J. Edgar Hoover,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -52,157 +41,140 @@
     },
     {
       "lineNumber": 6,
-      "text": "my opinions on the flying",
-      "status": "image_matched"
+      "text": "my aponions on the flying",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
       "text": "saucers, and guess it will",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
-      "text": "be as good as some one",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "be as good as some I've",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "mad.",
-      "status": "image_matched"
+      "text": "read. OFLYING [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 10,
-      "text": "OF FLYING SAUCERS",
-      "status": "image_matched"
+      "text": "I can't remember of seeing",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "I can't remember of hearing",
-      "status": "image_matched"
+      "text": "anything about them",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "any thing about them",
-      "status": "image_matched"
+      "text": "until television come",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "text": "until television came",
-      "status": "image_matched"
+      "text": "into existence",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "into existence.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
       "text": "I wondered if the rays",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "text": "could be strong enough",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 16,
       "text": "to give off a bright",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 17,
       "text": "object looking deposition",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 18,
       "text": "No, special reason for",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 19,
       "text": "sending you my idea",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "text": "just could't think of any",
-      "status": "image_matched"
+      "lineNumber": 20,
+      "text": "just couldn't think of any",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 21,
       "text": "one else to send it to.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 22,
       "text": "Sincerely",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 23,
       "status": "blank"
     },
     {
+      "lineNumber": 24,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
       "lineNumber": 25,
-      "text": "[unclear] [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 26,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 27,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 28,
       "status": "blank"
     },
     {
-      "lineNumber": 29,
-      "text": "65-03X30NI",
-      "status": "image_matched"
+      "lineNumber": 28,
+      "text": "65 - 03X30NI [unclear] 414-281",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 29,
       "text": "RECORDED - 50",
       "status": "image_matched"
     },
     {
+      "lineNumber": 30,
+      "text": "AUG 4 1952",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 31,
-      "text": "1-4-281",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 32,
-      "text": "AUG. 4 1952",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 34,
       "status": "blank"
     },
     {
-      "lineNumber": 35,
-      "text": "FILE [unclear] 107",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 33,
+      "text": "FILE [unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

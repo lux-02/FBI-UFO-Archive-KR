@@ -8,147 +8,192 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 24 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0006-l0008",
-    "page_0006-l0020"
-  ],
-  "lineCount": 26,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 38,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "STANDARD FORM NO. 64",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 2,
       "text": "Office Memorandum • UNITED STATES GOVERNMENT",
       "status": "image_matched"
     },
     {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
       "lineNumber": 3,
-      "text": "TO : THE DIRECTOR DATE: July 12, 1949",
-      "status": "image_matched"
+      "text": "TO: THE DIRECTOR",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "FROM : D. M. Ladd",
-      "status": "image_matched"
+      "text": "DATE: July 12, 1949",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
+      "text": "FROM: D. M. Ladd",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
       "text": "SUBJECT:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
       "text": "You inquired as to what was being done with",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 9,
       "text": "reference to the information concerning flying saucers,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
-      "text": "which information was furnished by [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 10,
+      "text": "which information was furnished by [REDACTED].",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
       "text": "I desire to advise that a letter is being prepared",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 13,
       "text": "for the Los Angeles Office suggesting that they make a discreet",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 14,
       "text": "check of the background of the individual who wrote the letter",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 15,
       "text": "to Winchell and thereafter interview him for details.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 16,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 17,
       "text": "It is believed that a letter is satisfactory inasmuch",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 18,
       "text": "as it is noted that this alleged incident occurred in 1947.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 19,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 20,
       "text": "DML:dad",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 21,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 22,
       "text": "This should have been",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 23,
       "text": "done the first thing",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
-      "text": "Monday instead of",
-      "status": "image_matched"
+      "lineNumber": 24,
+      "text": "monday instead of",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 25,
       "text": "waiting until Wed",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
-      "text": "[unclear] out.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 26,
+      "text": "to get it out.",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
+      "text": "Teletype to LA",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 29,
+      "text": "7-13-49",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
       "text": "RECORDED - 59",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 32,
       "text": "INDEXED - 59",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 33,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 34,
       "text": "62-83894-190",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 35,
       "text": "F B I",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
-      "text": "3 AUG 9 1949",
-      "status": "image_matched"
+      "lineNumber": 36,
+      "text": "S. AUG. 9 1949",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 26,
-      "text": "6 7 AUG 11 1949",
-      "status": "image_matched"
+      "lineNumber": 37,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 38,
+      "text": "67 AUG 11 1949",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

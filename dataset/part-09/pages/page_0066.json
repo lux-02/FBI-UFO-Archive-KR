@@ -8,36 +8,17 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "17 permanent_unresolved line(s) excluded under SRC-896. 26 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0066-l0001",
-    "page_0066-l0004",
-    "page_0066-l0009",
-    "page_0066-l0013",
-    "page_0066-l0014",
-    "page_0066-l0021",
-    "page_0066-l0023",
-    "page_0066-l0024",
-    "page_0066-l0025",
-    "page_0066-l0028",
-    "page_0066-l0029",
-    "page_0066-l0035",
-    "page_0066-l0037",
-    "page_0066-l0042",
-    "page_0066-l0043",
-    "page_0066-l0045",
-    "page_0066-l0047"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 49,
   "lines": [
     {
       "lineNumber": 1,
       "text": "On April 17, 1950, Mr. [REDACTED] advised the Phoenix",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
@@ -52,8 +33,7 @@
     {
       "lineNumber": 4,
       "text": "that time [REDACTED] was referred to OSI, Fourth Air Force Base,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
@@ -77,13 +57,12 @@
     {
       "lineNumber": 9,
       "text": "advised the Bureau that on the previous day Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
-      "text": "OSI representative, Phoenix, Arizona, called the",
-      "status": "image_matched"
+      "text": "[REDACTED], OSI representative, Phoenix, Arizona, called the",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
@@ -98,14 +77,12 @@
     {
       "lineNumber": 13,
       "text": "negatives since [REDACTED] had requested their return. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 14,
-      "text": "pointed out that [REDACTED] recollection on the matter was \"hazy,\"",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "pointed out that [REDACTED] recollection on the matter was \"hazy.\"",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
@@ -138,8 +115,7 @@
     {
       "lineNumber": 21,
       "text": "On June 4, 1952, Mr. [REDACTED] in the office",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
@@ -149,20 +125,17 @@
     {
       "lineNumber": 23,
       "text": "[REDACTED] stated Pearson had been in contact with the captioned",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 24,
       "text": "individual concerning photographs which [REDACTED] had taken of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 25,
       "text": "flying discs in the Phoenix area in July of 1947. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 26,
@@ -177,14 +150,12 @@
     {
       "lineNumber": 28,
       "text": "negatives were not available. [REDACTED] inquired whether there",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
       "text": "was any truth to [REDACTED] statement and what the Bureau knew",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 30,
@@ -213,8 +184,7 @@
     {
       "lineNumber": 35,
       "text": "Mr. [REDACTED] was advised by Wick that the FBI",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 36,
@@ -223,9 +193,8 @@
     },
     {
       "lineNumber": 37,
-      "text": "[REDACTED] and in fact [REDACTED] knew full well the [REDACTED] turned them",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] and in fact [REDACTED] knew full well the FBI turned them",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 38,
@@ -249,14 +218,12 @@
     {
       "lineNumber": 42,
       "text": "[REDACTED] was advised the FBI did not investigate",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 43,
       "text": "this matter, did not investigate [REDACTED] and had no interest",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 44,
@@ -266,8 +233,7 @@
     {
       "lineNumber": 45,
       "text": "from Hamilton Field while interviewing [REDACTED]. [REDACTED] was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 46,
@@ -277,8 +243,7 @@
     {
       "lineNumber": 47,
       "text": "concerning the reliability of [REDACTED].",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 48,

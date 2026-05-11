@@ -8,80 +8,73 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0024-l0011"
-  ],
-  "lineCount": 24,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 34,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Office Memorandum",
-      "status": "image_matched"
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "TO",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "FROM",
-      "status": "image_matched"
+      "text": "TO : Director, FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "SUBJECT:",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 5,
-      "text": "UNITED STATES GOVERNMENT",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 6,
-      "text": "Director, FBI",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
-      "text": "SAC, Philadelphia",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 8,
-      "text": "FLYING SAUCERS",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 9,
       "text": "DATE: 8/7/52",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 5,
+      "text": "FROM : SAC, Philadelphia",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
+      "text": "SUBJECT: FLYING SAUCERS",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
       "text": "At the weekly liaison conference held in the Philadelphia",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 9,
       "text": "Office on August 5, 1952, Major [REDACTED] advised that OSI is no longer",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 10,
       "text": "interested in receiving reports concerning flying saucers.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
       "text": "The above is submitted for the Bureau's information.",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "status": "blank"
     },
     {
       "lineNumber": 14,
@@ -90,53 +83,91 @@
     },
     {
       "lineNumber": 15,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 16,
       "text": "RECORDED - 76",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "text": "Letter to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "text": "SAC, Philadelphia",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 19,
       "text": "8/15/52",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "text": "NWP",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 21,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 22,
       "text": "EX-99",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "text": "40-839-295",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "24 AUG 11 1952",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 23,
-      "text": "2-00",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 24,
-      "text": "CO",
-      "status": "image_matched"
+      "text": "62-83894-295",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 25,
+      "text": "34 AUG 11 1952",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 26,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 32,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 33,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 34,
+      "status": "blank"
     }
   ],
   "blockCount": null

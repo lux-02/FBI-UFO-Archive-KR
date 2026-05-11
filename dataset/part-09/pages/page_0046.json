@@ -8,24 +8,17 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 15 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0046-l0001",
-    "page_0046-l0003",
-    "page_0046-l0006",
-    "page_0046-l0013",
-    "page_0046-l0016"
-  ],
-  "lineCount": 20,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 25,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "N.O. Palestine Ind",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "N.C. Palestine, Ind",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -34,97 +27,115 @@
     },
     {
       "lineNumber": 3,
-      "text": "Federal Bureau of Investigation",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 4,
+      "text": "Federal Bureau of Investigation",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
       "text": "The War Dept.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
       "text": "Washington D.C.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "text": "Gentlemen, \"FLYING SAUCERS\"",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 7,
+      "status": "blank"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
+      "text": "FLYING SAUCERS",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "Gentlemen,",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 11,
       "text": "Since reading & hearing",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 12,
       "text": "over Radio about the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
-      "text": "\"flying saucers\", I",
-      "status": "image_matched"
+      "lineNumber": 13,
+      "text": "\"flying saucers\",",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 10,
-      "text": "am compelled to write",
-      "status": "image_matched"
+      "lineNumber": 14,
+      "text": "I am compelled to write",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 15,
       "text": "to you.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 16,
       "text": "I am a strong believer",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
-      "text": "our alone of God & Christ",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 14,
-      "text": "our Lord.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "text": "62-83894-288",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "text": "I have [unclear] AUG 4 1952",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 17,
+      "text": "our [unclear] of God & Christ",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 18,
+      "text": "our L[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 19,
+      "text": "RECORDED 62-83894-288",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 20,
+      "text": "I have [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 21,
+      "text": "AUG 4 1952",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 22,
       "text": "I feel that these saucers are",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
-      "text": "Piloted from a secret Cave",
-      "status": "image_matched"
+      "lineNumber": 23,
+      "text": "piloted from a secret [unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 19,
-      "text": "Operated by some of the",
-      "status": "image_matched"
+      "lineNumber": 24,
+      "text": "operated by something like",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 20,
-      "text": "J.W. I do believe it.",
-      "status": "image_matched"
+      "lineNumber": 25,
+      "text": "J.V. I do believe etc",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

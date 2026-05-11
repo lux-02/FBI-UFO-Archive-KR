@@ -8,14 +8,12 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 27 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0060-l0038"
-  ],
-  "lineCount": 38,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 41,
   "lines": [
     {
       "lineNumber": 1,
@@ -33,37 +31,36 @@
     },
     {
       "lineNumber": 4,
-      "text": "Mr.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
+      "text": "Mr. [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 6,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 7,
       "text": "Robinson, Illinois",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "text": "62-8374-273",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
-      "text": "Dear Mr.",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 8,
-      "status": "blank"
+      "text": "62-83794-273",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "Your letter of July 8, 1952, has been",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "text": "received.",
-      "status": "image_matched"
+      "text": "Dear Mr. [REDACTED]:",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
@@ -71,65 +68,65 @@
     },
     {
       "lineNumber": 12,
-      "text": "While I would like to be of service, the",
+      "text": "Your letter of July 8, 1952, has been",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "subject matter of your communication does not relate",
+      "text": "received.",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "to an activity within the investigative jurisdiction",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 15,
-      "text": "of the FBI. I have, however, taken the liberty of",
+      "text": "While I would like to be of service, the",
       "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "referring a copy of your letter to The Honorable, The",
+      "text": "subject matter of your communication does not relate",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "Secretary of the Air Force, Department of Defense",
+      "text": "to an activity within the investigative jurisdiction",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "Building, The Pentagon, Washington 25, D. C., who may",
+      "text": "of the FBI. I have, however, taken the liberty of",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "be able to be of assistance.",
+      "text": "referring a copy of your letter to The Honorable, The",
       "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "status": "blank"
+      "text": "Secretary of the Air Force, Department of Defense, The",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
-      "text": "Sincerely yours,",
+      "text": "Building, The Pentagon, Washington 25, D. C., who may",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 23,
-      "text": "John Edgar Hoover",
+      "text": "be able to be of assistance.",
       "status": "image_matched"
     },
     {
+      "lineNumber": 23,
+      "status": "blank"
+    },
+    {
       "lineNumber": 24,
-      "text": "Director",
+      "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
@@ -138,22 +135,22 @@
     },
     {
       "lineNumber": 26,
-      "text": "Copy of incoming to Secretary of the Air Force by form letter.",
+      "text": "John Edgar Hoover",
       "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "status": "blank"
+      "text": "Director",
+      "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "text": "FBI",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 29,
-      "text": "RECEIVED",
-      "status": "image_matched"
+      "text": "Copy of incoming to Secretary of the Air Force [unclear] form letter.",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 30,
@@ -161,42 +158,56 @@
     },
     {
       "lineNumber": 31,
-      "text": "TEB:pa",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 32,
-      "status": "blank"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 33,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 34,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
       "text": "53 AUG 1 1952",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 37,
       "text": "COMM-FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
-      "text": "JUL 1 6 1952",
-      "status": "image_matched"
+      "lineNumber": 38,
+      "text": "JUL 16 1952",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 36,
-      "text": "MAILED 16",
-      "status": "image_matched"
+      "lineNumber": 39,
+      "text": "MAILED 18",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 40,
       "status": "blank"
     },
     {
-      "lineNumber": 38,
-      "text": "62 8374-273 FEB",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 41,
+      "text": "62 83794-299",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

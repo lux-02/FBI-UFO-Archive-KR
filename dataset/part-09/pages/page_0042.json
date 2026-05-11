@@ -8,17 +8,12 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 16 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0042-l0002",
-    "page_0042-l0003",
-    "page_0042-l0005",
-    "page_0042-l0016"
-  ],
-  "lineCount": 23,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 21,
   "lines": [
     {
       "lineNumber": 1,
@@ -27,25 +22,23 @@
     },
     {
       "lineNumber": 2,
-      "text": "and may [unclear] one again",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": ")",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "because I laugh of this",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "and may [unclear] me again",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 4,
-      "status": "blank"
+      "text": "because I lauff of this",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "[unclear] that put in",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mistery that put in",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -54,85 +47,76 @@
     },
     {
       "lineNumber": 7,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 8,
       "text": "Just I was waiting for",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
-      "text": "this to write to you again",
-      "status": "image_matched"
+      "lineNumber": 8,
+      "text": "this to write to you again.",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 9,
       "text": "Now you are in the line",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 10,
       "text": "because you don't know",
       "status": "image_matched"
     },
     {
+      "lineNumber": 11,
+      "text": "what happen.",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 12,
-      "text": "what happens.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 14,
       "text": "The letter that you",
       "status": "image_matched"
     },
     {
+      "lineNumber": 13,
+      "text": "\"refused\" from Washington",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 14,
+      "text": "to me; was sended again",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 15,
-      "text": "refused from Washington",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "text": "to me, was sendet again",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 17,
       "text": "to the Organization of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 16,
       "text": "the United Nations",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 17,
       "text": "at the New York State.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 18,
       "text": "So if you like to know",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "text": "about the \"flying plates\"",
-      "status": "image_matched"
+      "lineNumber": 19,
+      "text": "about the \"flying Plates\"",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 20,
       "text": "look for this letter that",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 21,
       "text": "should be there. And also",
       "status": "image_matched"
     }

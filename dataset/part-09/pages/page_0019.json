@@ -8,14 +8,12 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 22 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0019-l0008"
-  ],
-  "lineCount": 34,
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 35,
   "lines": [
     {
       "lineNumber": 1,
@@ -38,22 +36,22 @@
     },
     {
       "lineNumber": 5,
-      "status": "blank"
+      "text": "62-83894-296",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "Baltimore 18, Maryland",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
       "status": "blank"
     },
     {
+      "lineNumber": 7,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 8,
-      "text": "Dear [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Baltimore 18, Maryland",
+      "status": "image_matched"
     },
     {
       "lineNumber": 9,
@@ -61,55 +59,55 @@
     },
     {
       "lineNumber": 10,
+      "text": "Dear [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
       "text": "Your letter postmarked July 30, 1952, has been",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 13,
       "text": "received, and I appreciate the interest prompting you to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
       "text": "bring your comments to my attention.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 15,
       "status": "blank"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 16,
       "text": "Since your communication may be of interest",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 17,
       "text": "to another governmental agency, I am taking the liberty",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 18,
       "text": "of forwarding a copy of it to The Honorable, The Secre-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 19,
       "text": "tary of the Air Force, Department of Defense Building,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
-      "text": "The Pentagon, Washington 25, D. C.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "status": "blank"
-    },
-    {
       "lineNumber": 20,
-      "text": "Sincerely yours,",
+      "text": "The Pentagon, Washington 25, D. C.",
       "status": "image_matched"
     },
     {
@@ -118,21 +116,21 @@
     },
     {
       "lineNumber": 22,
-      "text": "John Edgar Hoover",
+      "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "Director",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
       "status": "blank"
     },
     {
+      "lineNumber": 24,
+      "text": "John Edgar Hoover",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 25,
-      "text": "DIC:omk:mf",
+      "text": "Director",
       "status": "image_matched"
     },
     {
@@ -141,39 +139,44 @@
     },
     {
       "lineNumber": 27,
+      "text": "DIC:omk:fol",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 28,
       "text": "CoCopy of incoming sent to the Secretary of the Air Force",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 29,
       "text": "by short form.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 30,
       "status": "blank"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 31,
       "text": "COMM - FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 32,
       "text": "AUG 5 1952",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 33,
       "text": "MAILED 28",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 34,
       "status": "blank"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 35,
       "text": "65 AUG 14 1952",
       "status": "image_matched"
     }

@@ -8,37 +8,12 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "24 permanent_unresolved line(s) excluded under SRC-896. 5 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0032-l0003",
-    "page_0032-l0005",
-    "page_0032-l0006",
-    "page_0032-l0007",
-    "page_0032-l0008",
-    "page_0032-l0009",
-    "page_0032-l0011",
-    "page_0032-l0012",
-    "page_0032-l0014",
-    "page_0032-l0015",
-    "page_0032-l0016",
-    "page_0032-l0017",
-    "page_0032-l0018",
-    "page_0032-l0020",
-    "page_0032-l0021",
-    "page_0032-l0022",
-    "page_0032-l0023",
-    "page_0032-l0024",
-    "page_0032-l0025",
-    "page_0032-l0026",
-    "page_0032-l0027",
-    "page_0032-l0029",
-    "page_0032-l0030",
-    "page_0032-l0031"
-  ],
-  "lineCount": 37,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 50,
   "lines": [
     {
       "lineNumber": 1,
@@ -51,177 +26,152 @@
     },
     {
       "lineNumber": 3,
-      "text": "Date: August 12, 1952",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "EX-125",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "EX-123",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
-      "text": "To: Director of Special Investigations",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Date: August 12, 1952",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": " The Inspector General",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 7,
-      "text": " Department of the Air Force",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "To: Director of Special Investigations",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
-      "text": " The Pentagon",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "The Inspector General",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": " Washington 25, D. C.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Department of the Air Force",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "status": "blank"
+      "text": "The Pentagon",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "From: John Edgar Hoover, Director",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Washington 25, D. C.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": " Federal Bureau of Investigation",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 13,
-      "status": "blank"
+      "text": "From: John Edgar Hoover, Director",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "Subject: ANONYMOUS COMMUNICATION WRITTEN",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Federal Bureau of Investigation",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
-      "text": " IN THE GERMAN LANGUAGE, RECEIVED",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 16,
-      "text": " BY THE \"CINCINNATI ENQUIRER\"",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Subject: ANONYMOUS COMMUNICATION WRITTEN",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "text": " PERTAINING TO \"FLYING SAUCERS\"",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "IN THE GERMAN LANGUAGE, RECEIVED",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": " SECURITY MATTER - I",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "BY THE \"CINCINNATI ENQUIRER\"",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
-      "status": "blank"
+      "text": "PERTAINING TO \"FLYING SAUCERS\"",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "text": " There is attached for your information",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "SECURITY MATTER - X",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
-      "text": " and any action you desire to take in this matter",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 22,
-      "text": " a Photostat of a letter, written in German, received",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "There is attached for your information",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
-      "text": " from an anonymous source, which was addressed to the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "and any action you desire to take in this matter",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
-      "text": " [REDACTED] a Photostat of the envelope,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "a Photostat of a letter, written in German, received",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
-      "text": " in which the letter was forwarded, is attached and",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "from an anonymous source, which was addressed to the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 26,
-      "text": " indicates it was mailed on July 31, 1952, at",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED].\" A Photostat of the envelope,",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 27,
-      "text": " Cincinnati, Ohio.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "in which the letter was forwarded, is attached and",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 28,
-      "status": "blank"
+      "text": "indicates it was mailed on July 31, 1952, at",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
-      "text": " For your further assistance in this matter",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Cincinnati, Ohio.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 30,
-      "text": " a translation of the attached letter from the German",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 31,
-      "text": " is attached.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 32,
       "status": "blank"
     },
     {
+      "lineNumber": 31,
+      "text": "For your further assistance in this matter",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 32,
+      "text": "a translation of the attached letter from the German",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 33,
-      "text": "Attachment",
-      "status": "image_matched"
+      "text": "is attached.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 34,
@@ -229,7 +179,7 @@
     },
     {
       "lineNumber": 35,
-      "text": "1259",
+      "text": "Attachment",
       "status": "image_matched"
     },
     {
@@ -238,8 +188,69 @@
     },
     {
       "lineNumber": 37,
-      "text": "53 AUG 29 1952",
+      "text": "EHH:kc",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 38,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 39,
+      "text": "1259",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "10-28-72",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 41,
+      "text": "550160",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 43,
+      "text": "10/31/52",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 44,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 45,
+      "text": "58 AUG 29 1952",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 46,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 47,
+      "text": "AUG 13 5 11 PM '52",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 48,
+      "text": "RECEIVED",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 49,
+      "text": "DOM",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "text": "CUA",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

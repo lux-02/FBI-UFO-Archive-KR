@@ -8,16 +8,12 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 29 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0051-l0020",
-    "page_0051-l0022",
-    "page_0051-l0030"
-  ],
-  "lineCount": 32,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 38,
   "lines": [
     {
       "lineNumber": 1,
@@ -46,68 +42,65 @@
     },
     {
       "lineNumber": 6,
-      "text": "To:",
-      "status": "image_matched"
+      "text": "To: Director of Special Investigations",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "text": "Director of Special Investigations",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 8,
       "text": "The Inspector General",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 8,
       "text": "Department of the Air Force",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 9,
       "text": "The Pentagon",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 10,
       "text": "Washington 25, D. C.",
       "status": "image_matched"
     },
     {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
       "lineNumber": 12,
-      "text": "From:",
-      "status": "image_matched"
+      "text": "From: John Edgar Hoover - Director",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "text": "John Edgar Hoover - Director",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 14,
       "text": "Federal Bureau of Investigation",
       "status": "image_matched"
     },
     {
+      "lineNumber": 14,
+      "status": "blank"
+    },
+    {
       "lineNumber": 15,
-      "text": "Subject:",
-      "status": "image_matched"
+      "text": "Subject: AERIAL OBJECTS;",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
-      "text": "AERIAL OBJECTS;",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 17,
       "text": "\"FLYING SAUCERS\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 17,
       "text": "MISCELLANEOUS - INFORMATION CONCERNING",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "status": "blank"
     },
     {
       "lineNumber": 19,
@@ -117,8 +110,7 @@
     {
       "lineNumber": 20,
       "text": "August 1, 1952, from [REDACTED] Post Office Box 526,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,
@@ -127,58 +119,80 @@
     },
     {
       "lineNumber": 22,
-      "text": "Miss [REDACTED] communication has been acknowledged",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 23,
+      "text": "Miss [REDACTED] communication has been acknowledged",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 24,
       "text": "and she has been informed of this referral.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
       "text": "No investigation is contemplated with regard to this",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 27,
       "text": "matter.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
       "text": "Attachment",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
       "text": "KWD:mes",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 32,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 33,
       "text": "APPROPRIATE AGENCIES",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 34,
       "text": "AND FIELD OFFICES",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
-      "text": "[unclear] BY ROUTING",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 35,
+      "text": "ADVISED BY ROUTING",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 31,
-      "text": "SLIP(S) OF",
-      "status": "image_matched"
+      "lineNumber": 36,
+      "text": "SLIP(S) OF [unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 37,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 38,
       "text": "66 AUG 14 1952",
       "status": "image_matched"
     }

@@ -8,41 +8,31 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 13 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0018-l0001",
-    "page_0018-l0002",
-    "page_0018-l0003",
-    "page_0018-l0022",
-    "page_0018-l0025"
-  ],
-  "lineCount": 25,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 33,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Office Memora [unclear] UNITED STAT GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "TO [REDACTED] DATE: August 12, 1952",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "FROM [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "TO : [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
-      "text": "SUBJECT: FLYING DISKS",
-      "status": "image_matched"
+      "text": "DATE: August 12, 1952",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -50,41 +40,40 @@
     },
     {
       "lineNumber": 6,
-      "text": "There is attached a copy of a periodical",
-      "status": "image_matched"
+      "text": "FROM : [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
-      "text": "entitled \"Sunday Graphic\" dated July 6, 1952, received",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
-      "text": "by the Bureau from the Office of the Legal Attache,",
+      "text": "SUBJECT: FLYING DISKS",
       "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "American Embassy, London, England.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
       "status": "blank"
     },
     {
-      "lineNumber": 11,
-      "text": "It is desired that the attached periodical",
+      "lineNumber": 10,
+      "text": "There is attached a copy of a periodical",
       "status": "image_matched"
     },
     {
+      "lineNumber": 11,
+      "text": "entitled Sunday Graphic dated July 6, 1952, received",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 12,
-      "text": "containing an article relating to the captioned matter",
+      "text": "by the Bureau from the Office of the Legal Attache,",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "be filed in the captioned file.",
+      "text": "American Embassy, London, England.",
       "status": "image_matched"
     },
     {
@@ -93,16 +82,17 @@
     },
     {
       "lineNumber": 15,
-      "text": "Attachment",
+      "text": "It is desired that the attached periodical",
       "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "status": "blank"
+      "text": "containing an article relating to the captioned matter",
+      "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "EHH:kc",
+      "text": "be filed in the captioned file.",
       "status": "image_matched"
     },
     {
@@ -111,38 +101,72 @@
     },
     {
       "lineNumber": 19,
-      "text": "ENCL",
+      "text": "Attachment",
       "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "44",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
       "status": "blank"
     },
     {
+      "lineNumber": 21,
+      "text": "EHH:kc",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 22,
-      "text": "RECORDED - 44 [unclear]-8384-297",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 23,
-      "text": "INDEXED - 44 AUG 13 1952",
+      "text": "ENCL",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "status": "blank"
+      "text": "44",
+      "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "AUG 28 1952",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
+      "text": "5-EH",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
+      "text": "RECORDED - 44 62-83894-297",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 29,
+      "text": "INDEXED - 44 AUG 13 1952",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
+      "text": "ENCLO. ATTACHED",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 32,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 33,
+      "text": "[unclear] AUG 28 1952",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

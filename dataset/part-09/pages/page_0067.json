@@ -8,56 +8,42 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 15 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0067-l0001",
-    "page_0067-l0002",
-    "page_0067-l0003",
-    "page_0067-l0004",
-    "page_0067-l0005",
-    "page_0067-l0006",
-    "page_0067-l0021"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 26,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "was most appreciative for receiving",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] was most appreciative for receiving",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
       "text": "this information and said he would contact the office of Special",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
       "text": "Investigations of the Air Force for what assistance they might",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
       "text": "be to him. He said also he would straighten out [REDACTED] informing",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
       "text": "him the FBI only as a courtesy to the Air Force representatives",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
       "text": "received the negatives from him and transmitted them.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
@@ -129,8 +115,7 @@
     {
       "lineNumber": 21,
       "text": "subject in this case. Inasmuch as [REDACTED] indicated he",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,

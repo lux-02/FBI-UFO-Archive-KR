@@ -8,31 +8,22 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 10 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0027-l0001",
-    "page_0027-l0002",
-    "page_0027-l0011",
-    "page_0027-l0012",
-    "page_0027-l0013",
-    "page_0027-l0014"
-  ],
-  "lineCount": 16,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 19,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Electric or General Motors Rechers",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Electric of Several Motors Reclure",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "Historian",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 3,
@@ -41,18 +32,18 @@
     },
     {
       "lineNumber": 4,
-      "text": "about Electric is to grab a half of one",
-      "status": "image_matched"
+      "text": "about Electric is to grab ahold of one",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "wire at a time on alternating current",
-      "status": "image_matched"
+      "text": "wire at a time on alternating curren",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "and let our current strictly alone.",
-      "status": "image_matched"
+      "text": "and low current strictly alone.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
@@ -71,40 +62,51 @@
     },
     {
       "lineNumber": 10,
-      "text": "a lot of pressure, and permanent magnets",
-      "status": "image_matched"
+      "text": "a lot of pressure, and permenent magnets",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "(power [unclear]) fulls on their sides",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "(power full one) fields on their sides",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "with the north polls outside.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "with the north poles outside.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[STAMP: S. DEPT. OF JUSTICE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "[REDACTED] object approach",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 15,
+      "text": "REC'D ESPIONAGE",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
+      "text": "S. NY 10 02 AM '5[unclear]]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 17,
+      "text": "when an object approaches",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 18,
       "text": "them they are repulsed at the same",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 19,
       "text": "speed as the approaching object.",
       "status": "image_matched"
     }

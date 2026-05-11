@@ -8,27 +8,22 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 13 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0031-l0002",
-    "page_0031-l0005",
-    "page_0031-l0016"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 16,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "that is coming out",
-      "status": "image_matched"
+      "text": "[unclear] is coming out",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
-      "text": "here by radio activity",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "hit by radio activity",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -37,19 +32,18 @@
     },
     {
       "lineNumber": 4,
-      "text": "be attacking the atomic",
-      "status": "image_matched"
+      "text": "be [unclear] the atomic",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 5,
-      "text": "Bomb here so try",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Bomb which so try",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "to stop this. Are you",
-      "status": "image_matched"
+      "text": "to stop this are now",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
@@ -88,19 +82,18 @@
     },
     {
       "lineNumber": 14,
-      "text": "Suicide planes without",
-      "status": "image_matched"
+      "text": "suicide planes without",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
-      "text": "our pilot here to bomb",
-      "status": "image_matched"
+      "text": "air pilots [unclear] to bomb",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 16,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

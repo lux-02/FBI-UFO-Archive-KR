@@ -8,118 +8,137 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 14 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0030-l0005",
-    "page_0030-l0007",
-    "page_0030-l0011",
-    "page_0030-l0012",
-    "page_0030-l0017"
-  ],
-  "lineCount": 19,
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 25,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Flying Saucers",
-      "status": "image_matched"
+      "text": "flying saucers",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
+      "text": "Winding Gulf",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 3,
+      "text": "W. Va. Aug 5, 1952",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 4,
       "text": "Mr. Edgar Hoover",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 5,
       "text": "A few lines to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "let you know a few little",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 5,
-      "text": "things that the Govern",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 6,
+      "text": "let you know a few bit",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
+      "text": "things that the Gove-",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 8,
       "text": "ment should know",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
-      "text": "for all of US people",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 9,
+      "text": "for all of US Dake Ps",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 10,
       "text": "Stop the people from",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
-      "text": "Broadcasting how",
-      "status": "image_matched"
+      "lineNumber": 11,
+      "text": "Broad casting how",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
       "text": "far these flying",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
-      "text": "saucers are going and",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 12,
-      "text": "where they are going",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 13,
+      "text": "saucers are going and",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 14,
+      "text": "while they are seeing",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
       "text": "RECORDED - 118",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 16,
       "text": "INDEXED-118",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
-      "text": "things at",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "text": "Reason Russia is",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 17,
-      "text": "making some thing",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "62-83894-293",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": "no address",
-      "status": "image_matched"
+      "text": "AUG 7 1952",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
+      "text": "things at. The",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 20,
+      "text": "reason Russia is",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
+      "text": "inventing some thing",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 22,
+      "text": "EX-130",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 23,
       "text": "68 AUG 13 1952",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "no name or",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 25,
+      "text": "address given",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

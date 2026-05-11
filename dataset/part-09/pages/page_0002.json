@@ -8,20 +8,17 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 24 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0002-l0016",
-    "page_0002-l0027"
-  ],
-  "lineCount": 38,
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 18,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Walter Winchell",
-      "status": "image_matched"
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -29,172 +26,76 @@
     },
     {
       "lineNumber": 3,
-      "text": "TO",
-      "status": "image_matched"
+      "text": "TO : THE DIRECTOR",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "FROM",
-      "status": "image_matched"
+      "text": "DATE: July 12, 1949",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "SUBJECT:",
-      "status": "image_matched"
+      "text": "FROM : D. M. Ladd",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "status": "blank"
+      "text": "SUBJECT: FLYING SAUCERS",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "text": "Office Memorandum",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
-      "status": "blank"
+      "text": "I took a call from [unclear] of your office Saturday relative to a letter Mr. Winchell received from a man in Los Angeles. He stated that the Bureau had no objection to a column on this letter if the Bureau was not mentioned.",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 9,
-      "text": "THE DIRECTOR",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "status": "blank"
+      "text": "I told him that whatever he did with reference to writing the story concerning this letter was entirely up to him and wouldn't in any way affect the Bureau one way or another inasmuch as the handling of flying saucers with the Air Corps was a matter of primary interest to them. He stated, \"To hell with the Air Force.\" He just didn't want to release the information if it would affect the Bureau.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "UNITED STATES GOVERNMENT",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 12,
-      "status": "blank"
+      "text": "Walter Winchell",
+      "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "DATE:",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 14,
-      "text": "JULY 12, 1949",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 16,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 17,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 18,
-      "text": "FLYING SAUCERS",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 20,
-      "text": "I took a call from his call of last",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "text": "Saturday relative to a letter Mr. Winchell received from",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "a man who had no objection to a column on this letter if the",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "text": "Bureau had no objection.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 25,
-      "text": "I told him that whatever he did with reference to",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "text": "writing the story concerning this letter was entirely up to",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "text": "him and wouldn't he might desire anything to check with the Air Corps",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 28,
-      "text": "inasmuch as the handling of flying saucers was a matter of primary",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 29,
-      "text": "interest to them. He stated, \"I'll tell the Air Force. He",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
-      "text": "just didn't want to release the information if it would affect",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 31,
-      "text": "the Bureau.\"",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 33,
       "text": "RECORDED - 59",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 15,
       "text": "INDEXED - 59",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 16,
       "status": "blank"
     },
     {
-      "lineNumber": 36,
-      "text": "162-143599-15",
-      "status": "image_matched"
+      "lineNumber": 17,
+      "text": "162-143894-15",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 37,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 38,
+      "lineNumber": 18,
       "text": "3 AUG 19 1949",
       "status": "image_matched"
     }

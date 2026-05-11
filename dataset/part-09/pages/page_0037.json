@@ -8,21 +8,16 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 26 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0037-l0007",
-    "page_0037-l0010",
-    "page_0037-l0013",
-    "page_0037-l0034"
-  ],
-  "lineCount": 44,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 39,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "RECORDED-24",
+      "text": "August 14, 1952",
       "status": "image_matched"
     },
     {
@@ -31,7 +26,7 @@
     },
     {
       "lineNumber": 3,
-      "text": "August 14, 1952",
+      "text": "RECORDED-24",
       "status": "image_matched"
     },
     {
@@ -45,109 +40,106 @@
     },
     {
       "lineNumber": 6,
-      "text": "Mrs.",
-      "status": "image_matched"
+      "text": "Mrs. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 8,
       "text": "EX-25 Fairmont, West Virginia",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 8,
       "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Dear Mrs. [REDACTED]:",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
-      "text": "Dear Mrs. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 11,
       "status": "blank"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "text": "I have received your letter of August 1,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 12,
       "text": "1952, and want to thank you for making the informa-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 13,
       "text": "tion contained therein available to this Bureau.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 14,
       "status": "blank"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "text": "The matter referred to in your letter is",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 16,
       "text": "not within the jurisdiction of this Bureau and I",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 17,
       "text": "have taken the liberty of forwarding a copy of your",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 18,
       "text": "letter to the Department of the Air Force for",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 19,
       "text": "appropriate action.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 20,
       "status": "blank"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 21,
       "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 23,
       "text": "John Edgar Hoover",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 24,
       "text": "Director",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 25,
       "status": "blank"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 26,
       "text": "EH:kc",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "cc - 1 - Pittsburgh (Attachment)",
       "status": "image_matched"
     },
     {
@@ -156,17 +148,18 @@
     },
     {
       "lineNumber": 29,
-      "text": "cc - 1 - Pittsburgh (Attachment)",
+      "text": "NOTE:",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "status": "blank"
+      "text": "Bureau files fail to reflect any information",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 31,
-      "text": "NOTE:",
-      "status": "image_matched"
+      "text": "that can be identified with Mrs. [REDACTED].",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 32,
@@ -174,14 +167,13 @@
     },
     {
       "lineNumber": 33,
-      "text": "\"Bureau files fail to reflect any information",
-      "status": "image_matched"
+      "text": "[unclear] AUG 13 6 12 PM '52",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 34,
-      "text": "that can be identified with Mrs. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "RECEIVED - FBI - WFO",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 35,
@@ -189,45 +181,22 @@
     },
     {
       "lineNumber": 36,
-      "text": "SO AUG 20 1952",
-      "status": "image_matched"
+      "text": "60 AUG 20 1952",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 37,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 38,
       "text": "COMM-FBI",
       "status": "image_matched"
     },
     {
+      "lineNumber": 38,
+      "text": "AUG 1 1952",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 39,
-      "text": "AUG 11 1952",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
       "text": "MAILED 18",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 42,
-      "text": "RECEIVED",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "AUG 13 6 12 PM '52",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "text": "ADM",
       "status": "image_matched"
     }
   ],

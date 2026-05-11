@@ -8,18 +8,11 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 16 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0026-l0004",
-    "page_0026-l0005",
-    "page_0026-l0012",
-    "page_0026-l0013",
-    "page_0026-l0021",
-    "page_0026-l0022"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 22,
   "lines": [
     {
@@ -29,92 +22,87 @@
     },
     {
       "lineNumber": 2,
-      "text": "Aug 5, '52",
-      "status": "image_matched"
+      "text": "Aug 5 '52",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "Flying Discs",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 4,
-      "text": "F.B.I. Wash. D.C.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Flying Discs.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "Gentlemen: - Ladies: -",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "F.B.I. Wash. D.C.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
+      "text": "Gentlemen:- Kind Sirs.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
       "text": "I have a theory on the so called",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "text": "flying saucers.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "I don't know where to write to express",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "my opinion.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
-      "text": "But yours is the best office in the U.S.",
-      "status": "image_matched"
+      "lineNumber": 11,
+      "text": "But yours is the best office in the [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "when it comes to investigations.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
-      "text": "If and when you get ready to commit a crime",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 13,
-      "text": "I will expect to get caught and to be it.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "If and when I get ready to count a [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 14,
-      "text": "If the flying saucers are real (which",
-      "status": "image_matched"
+      "text": "I will offer to get caught and so be it.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
+      "text": "If the flying saucers are real [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 16,
       "text": "RECORDED - 134",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
-      "text": "INDEXED - 134",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 17,
-      "text": "62-83994-294",
-      "status": "image_matched"
+      "text": "INDEXED - 134 62-83894-294",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": "in my opinion they are) and from another",
-      "status": "image_matched"
+      "text": "in my opinion they are [unclear] from another",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 19,
@@ -129,14 +117,12 @@
     {
       "lineNumber": 21,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
-      "text": "[REDACTED] Liles, Elenor.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] [unclear] a lot of [unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

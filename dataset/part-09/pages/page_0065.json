@@ -8,28 +8,12 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "15 permanent_unresolved line(s) excluded under SRC-896. 26 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0065-l0002",
-    "page_0065-l0017",
-    "page_0065-l0020",
-    "page_0065-l0026",
-    "page_0065-l0027",
-    "page_0065-l0028",
-    "page_0065-l0029",
-    "page_0065-l0033",
-    "page_0065-l0034",
-    "page_0065-l0036",
-    "page_0065-l0038",
-    "page_0065-l0041",
-    "page_0065-l0043",
-    "page_0065-l0048",
-    "page_0065-l0049"
-  ],
-  "lineCount": 49,
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 31,
   "lines": [
     {
       "lineNumber": 1,
@@ -38,56 +22,53 @@
     },
     {
       "lineNumber": 2,
-      "text": "TO : A. H. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "FROM :",
-      "status": "image_matched"
+      "text": "TO : A. H. Belmont",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "SUBJECT: MISCELLANEOUS - INFORMATION CONCERNING",
-      "status": "image_matched"
+      "text": "DATE: June 10, 1952",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
+      "text": "FROM : [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "SUBJECT: [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 9,
+      "text": "MISCELLANEOUS - INFORMATION CONCERNING",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 10,
       "text": "FLYING DISCS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 7,
-      "text": "PURPOSE",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 8,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 9,
-      "text": "To recommend that Bureau liaison contact",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
-      "text": "OSI to determine whether photographs allegedly taken",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 11,
-      "text": "by the captioned individual of a flying disc in 1947",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 12,
-      "text": "were furnished by OSI to the office of Drew Pearson.",
+      "text": "PURPOSE",
       "status": "image_matched"
     },
     {
@@ -96,8 +77,8 @@
     },
     {
       "lineNumber": 14,
-      "text": "BACKGROUND",
-      "status": "image_matched"
+      "text": "To recommend that Bureau Liaison contact OSI to determine whether photographs allegedly taken by the captioned individual of a flying disc in 1947 were furnished by OSI to the office of Drew Pearson.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
@@ -105,40 +86,35 @@
     },
     {
       "lineNumber": 16,
-      "text": "Bureau files reflect that on August 29, 1947,",
+      "text": "BACKGROUND",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "a [REDACTED], called at the Phoenix Office",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 18,
-      "text": "exhibiting credentials reflecting he represented A-2,",
-      "status": "image_matched"
+      "text": "Bureau files reflect that on August 29, 1947, a [REDACTED], called at the Phoenix Office exhibiting credentials reflecting he represented A-2, Fourth Air Force, Hamilton Field, California. He asked an Agent to accompany him to interview [REDACTED] who previously reported the photographing of a flying disc in Phoenix on the afternoon of July 7, 1947.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 19,
-      "text": "Fourth Air Force, Hamilton Field, California. He asked an",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 20,
-      "text": "Agent to accompany him to interview [REDACTED] who",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "The Phoenix Office contacted SAC Harry Kimball of the San Francisco Office and Mr. Kimball verified the fact that [REDACTED] came to Phoenix as a representative of Colonel [REDACTED] of Hamilton Field, and it was suggested the Phoenix Office assist [REDACTED] not in investigating the matter, but in simply talking with Dr. [REDACTED].",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,
-      "text": "previously reported the photographing of a flying disc in",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 22,
-      "text": "Phoenix on the afternoon of July 7, 1947.",
-      "status": "image_matched"
+      "text": "By letter dated September 4, 1947, the Phoenix Office set forth in four pages the results of this interview and stated [REDACTED] had requested the negatives from [REDACTED] who did not have them in his immediate possession. [REDACTED] stated, however, he would deliver them to the FBI the following morning for transmittal to [REDACTED] at Hamilton Field, California.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 23,
@@ -146,142 +122,42 @@
     },
     {
       "lineNumber": 24,
-      "text": "The Phoenix Office contacted SAC Harry Kimball of",
-      "status": "image_matched"
+      "text": "On the morning of August 30, 1947, [REDACTED] delivered the negatives to the Phoenix Office at which time they were accepted with the understanding they were being given to Mr. [REDACTED], a representative of the Army Air Force Intelligence, United States Army, and that there was little, if any, chance of his getting the negatives back. Mr. [REDACTED] turned the negatives over to the FBI with the full understanding they were being given to the Air Force and he would not get them back.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 25,
-      "text": "the San Francisco Office and Mr. Kimball verified the fact",
-      "status": "image_matched"
+      "text": "(62-83894-80, page 4)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 26,
-      "text": "that [REDACTED] come to Phoenix as a representative of Colonel",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 27,
-      "text": "[REDACTED] of Hamilton Field, and it was suggested the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 28,
-      "text": "Phoenix Office assist [REDACTED] not in investigating the matter",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "RECORDED - 78",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
-      "text": "but in simply talking with Dr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "INDEXED - 78",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 30,
-      "status": "blank"
+      "text": "62-83894-279",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 31,
-      "text": "By letter dated September 4, 1947, the Phoenix",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "text": "Office set forth in four pages the results of this interview",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
-      "text": "and stated [REDACTED] had requested the negatives from [REDACTED] who",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 34,
-      "text": "did not have them in his immediate possession. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 35,
-      "text": "stated, however, he would deliver them to the FBI the following",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 36,
-      "text": "morning for transmittal to [REDACTED] at Hamilton Field, California.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 37,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 38,
-      "text": "On the morning of August 30, 1947, [REDACTED] delivered",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 39,
-      "text": "the negatives to the Phoenix Office at which time they were",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "accepted with the understanding they were being given to Mr.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
-      "text": "[REDACTED], a representative of the Army Air Force Intelligence,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 42,
-      "text": "United States Army, and that there was little, if any, chance",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "of his getting the negatives back. Mr. [REDACTED] turned the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 44,
-      "text": "negatives over to the FBI with the full understanding they were",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
-      "text": "being given to the Air Force and he would not get them back.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
-      "text": "(62-85894-80, page 4)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 47,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 48,
-      "text": "[REDACTED] from [REDACTED] RECORDED 78 [REDACTED] 85894-279",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 49,
-      "text": "[REDACTED] 6/17/5 INDEXED JUN 18 1957 [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "JUN 18 1952",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

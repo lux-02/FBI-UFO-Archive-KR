@@ -8,24 +8,17 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 30 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0056-l0015",
-    "page_0056-l0021",
-    "page_0056-l0027",
-    "page_0056-l0031",
-    "page_0056-l0032",
-    "page_0056-l0033"
-  ],
-  "lineCount": 36,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 45,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "02-83894 - 285",
-      "status": "image_matched"
+      "text": "62-83894-285",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -34,38 +27,36 @@
     },
     {
       "lineNumber": 3,
-      "text": "FX - 69",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 4,
       "text": "REGISTERED AIR MAIL",
       "status": "image_matched"
     },
     {
+      "lineNumber": 4,
+      "text": "FX.-69",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 5,
-      "text": "Date:",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
-      "text": "August 11, 1952",
-      "status": "image_matched"
+      "text": "Date: August 11, 1952",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "text": "For",
-      "status": "image_matched"
+      "text": "For: [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
-      "text": "From:",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 9,
-      "text": "John Edgar Hoover - Director",
-      "status": "image_matched"
+      "text": "From: John Edgar Hoover - Director",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
@@ -74,13 +65,12 @@
     },
     {
       "lineNumber": 11,
-      "text": "Subject:",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 12,
-      "text": "FLYING SAUCERS SEEN NEAR THESSALON LAKE,",
-      "status": "image_matched"
+      "text": "Subject: FLYING SAUCERS SEEN NEAR THESSALON LAKE,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
@@ -94,117 +84,152 @@
     },
     {
       "lineNumber": 15,
-      "text": "Dr. [REDACTED] advised that on July 27, 1952,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 16,
+      "text": "Dr. [REDACTED] of [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Indiana, on July 30, 1952, advised that on July 27, 1952,",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 18,
       "text": "at approximately 10:00 A.M. while fishing in the back",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 19,
       "text": "waters of Thessalon Lake, Ontario, Canada, he noticed a",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 20,
       "text": "formation of bombing planes, sixteen to twenty in number,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 21,
       "text": "in two groups flying south at a height estimated by him to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "text": "be four or five miles.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "text": "Dr. [REDACTED] stated that the planes went over the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 23,
+      "status": "blank"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 24,
+      "text": "Dr. [REDACTED] stated that the planes went over the",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 25,
       "text": "lake and suddenly dropped objects, at first thought by him",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 26,
       "text": "to be parachutes. He continued that these objects fell",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 27,
       "text": "straight for a short time, then suddenly spurted vapor",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 28,
       "text": "and at a high rate of speed flew off in a southwesterly",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 29,
       "text": "direction.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
-      "text": "Dr. [REDACTED] was unable to identify the nationality",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 30,
+      "status": "blank"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 31,
+      "text": "Dr. [REDACTED] was unable to identify the nationality",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 32,
       "text": "of the planes, but stated that they had twin trails of bluish",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 33,
       "text": "smoke. He further stated that the objects which had been",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 34,
       "text": "dropped from the planes had single trails of bluish smoke.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 32,
-      "text": "EX:mes [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 33,
-      "text": "cc - Foreign Service Desk, [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 34,
-      "text": "66 AUG 13 1952 COMM - FBI",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 37,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 38,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 39,
+      "text": "[REDACTED] EX-Times [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 40,
+      "text": "[REDACTED] cc - Foreign Service Desk [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 41,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 42,
+      "text": "[REDACTED] COMM - FBI",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 43,
+      "text": "68 AUG 13 1952",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 44,
       "text": "AUG 11 1952",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 45,
       "text": "MAILED 30",
       "status": "image_matched"
     }

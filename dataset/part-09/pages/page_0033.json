@@ -8,25 +8,17 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 27 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0033-l0013",
-    "page_0033-l0015",
-    "page_0033-l0020",
-    "page_0033-l0032",
-    "page_0033-l0033",
-    "page_0033-l0045",
-    "page_0033-l0046"
-  ],
-  "lineCount": 46,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 51,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Office Memorandum",
-      "status": "image_matched"
+      "text": "Office Memorandum . UNITED STATES GOVERNMENT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -39,214 +31,231 @@
     },
     {
       "lineNumber": 4,
-      "status": "blank"
+      "text": "DATE: August 6, 1952",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "FROM : SAC, Cincinnati (100-0)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "status": "blank"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "text": "SUBJECT: ANONYMOUS COMMUNICATION WRITTEN",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "IN GERMAN LANGUAGE RECEIVED BY",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "\"CINCINNATI ENQUIRER\" PERTAINING",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "TO \"FLYING SAUCERS\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "SECURITY MATTER - X",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "status": "blank"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 14,
       "text": "[REDACTED] furnished",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "text": "the Cincinnati Office with the enclosed letter and envelope received",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
       "text": "anonymously at the [REDACTED] in an envelope postmarked 7-3-52",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "text": "at Cincinnati, Ohio.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "status": "blank"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 19,
       "text": "It will be noted that the enclosed letter is written in the German",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "text": "language, and I am also enclosing a rather loose translation of the letter",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
-      "text": "as furnished by the [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 21,
-      "status": "blank"
+      "text": "as furnished by the [REDACTED].",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
       "text": "In view of the widespread interest in so-called \"flying saucers,\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 24,
       "text": "I am forwarding this material to the Bureau, with the thought in mind that",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
       "text": "the Bureau may desire to have a careful translation made of the attached",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 26,
       "text": "letter, and the results, if deemed advisable, made available to other",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 27,
       "text": "Governmental agencies.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 28,
       "status": "blank"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 29,
       "text": "Enclosures (3)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 30,
       "status": "blank"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 31,
       "text": "ENT:LM",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
-      "status": "blank"
-    },
-    {
       "lineNumber": 32,
-      "text": "[unclear] [unclear] [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 33,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "RECORDED - 78",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 34,
-      "text": "RECORDED-78",
-      "status": "image_matched"
+      "text": "162-82554-292",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 35,
-      "status": "blank"
+      "text": "22 AUG 22 1952",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 36,
-      "text": "162-82574-292",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "text": "22 AUG 21 1952",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 38,
       "status": "blank"
     },
     {
+      "lineNumber": 37,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 38,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
       "lineNumber": 39,
-      "text": "COPIES FORWARDED TO LAB",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 40,
-      "text": "FOR LAB ACTION AND REPORT",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 41,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 42,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 43,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 44,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 45,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 46,
       "text": "T-13861",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
-      "text": "2H2L8/152",
-      "status": "image_matched"
+      "lineNumber": 47,
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 48,
       "status": "blank"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 49,
       "text": "8-13-52",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 50,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 51,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

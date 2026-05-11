@@ -8,89 +8,80 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 21 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0005-l0003",
-    "page_0005-l0005",
-    "page_0005-l0006"
-  ],
-  "lineCount": 24,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 22,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "JULY 18, 1949",
-      "status": "image_matched"
+      "text": "JULY 18, 1949 URGENT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "URGENT",
-      "status": "image_matched"
+      "text": "SAC, LOS ANGELES",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "SAC, LOS ANGELES",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] INFORMATION CONCERNING [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
-      "text": "INFORMATION CONCERNING",
-      "status": "image_matched"
+      "text": "REMYTEL JULY TWELVE LAST. BUTEL RESULTS YOUR",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "REMYTEL JULY TWELVE LAST. BUTEL RESULTS YOUR",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "INVESTIGATION",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "BACKGROUND INVESTIGATION AND INTERVIEW OF SUBJECT.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "BACKGROUND [unclear] AND INTERVIEW OF SUBJECT.",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 7,
-      "text": "HOOVER",
-      "status": "image_matched"
+      "text": "HOOVER [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 8,
-      "text": "INITIALED",
-      "status": "image_matched"
+      "text": "EHM:jps",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "DIRECTOR",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "text": "EHM:jp",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
       "text": "RECORDED - 59",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "text": "INDEXED - 59",
       "status": "image_matched"
     },
     {
+      "lineNumber": 12,
+      "text": "62-83894-79",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 13,
-      "text": "62-3894-79",
-      "status": "image_matched"
+      "text": "AUG 10 1949",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "3 AUG 1949",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 15,
@@ -109,36 +100,26 @@
     },
     {
       "lineNumber": 18,
-      "text": "RECEIVED",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
       "text": "JUL 18 1949",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
-      "text": "RECEIVED",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
+      "lineNumber": 19,
       "text": "COPIES DESTROYED",
       "status": "image_matched"
     },
     {
+      "lineNumber": 20,
+      "text": "TELEMETER 270 NOV 13 1964",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
+      "text": "[unclear] P M",
+      "status": "needs_image_check"
+    },
+    {
       "lineNumber": 22,
-      "text": "TELEME TER 270 NOV 13 1964",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "text": "10:2PM",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
       "text": "AUG 11 1949",
       "status": "image_matched"
     }

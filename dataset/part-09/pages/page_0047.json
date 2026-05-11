@@ -8,16 +8,11 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 11 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0047-l0004",
-    "page_0047-l0005",
-    "page_0047-l0009",
-    "page_0047-l0012"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 15,
   "lines": [
     {
@@ -37,20 +32,18 @@
     },
     {
       "lineNumber": 4,
-      "text": "Our United States. By radio",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Our United States. by radar",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
       "text": "Every group of saucers has",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "a picture. The best pictures",
-      "status": "image_matched"
+      "text": "a picture, the best pictures",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
@@ -59,14 +52,13 @@
     },
     {
       "lineNumber": 8,
-      "text": "purposes.",
-      "status": "image_matched"
+      "text": "purpose.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
       "text": "Why we see them just",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
@@ -80,9 +72,8 @@
     },
     {
       "lineNumber": 12,
-      "text": "U.S. to Catch one.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "U.S. to catch one.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,

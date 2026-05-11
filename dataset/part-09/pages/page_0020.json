@@ -8,19 +8,12 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 26 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0020-l0016",
-    "page_0020-l0017",
-    "page_0020-l0018",
-    "page_0020-l0021",
-    "page_0020-l0026",
-    "page_0020-l0035"
-  ],
-  "lineCount": 35,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 31,
   "lines": [
     {
       "lineNumber": 1,
@@ -34,171 +27,146 @@
     },
     {
       "lineNumber": 3,
-      "text": "Washington DC",
-      "status": "image_matched"
+      "text": "Washn DC",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "Dear Sir,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 5,
-      "text": "I would like to submit a theory",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 6,
-      "text": "that may lead to a solution of what",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
-      "text": "the flying saucers really are -",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 8,
-      "text": "these objects could be Lights",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 9,
-      "text": "caused by Radio Television Beams",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
-      "text": "illuminating moist vapor, not unlike",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
-      "text": "phosphorus on rain soaked wood in",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "certain seasons - the northern lights",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "\"Aurora Borealis\" have manifested themselves",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 14,
-      "text": "for years, setting up Electro Magnetism",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "text": "+ Earth potential which distort normal",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "text": "Telegraph communications. The lights is",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 17,
-      "text": "are somewhat like a Fan + Can",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 18,
-      "text": "be seen as in south",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 19,
-      "text": "It is my opinion that",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "text": "Saucers are Electrically",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "text": "currents into a space (small clouds)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 22,
-      "text": "and causing it to glow - the",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "text": "clouds being Electrically",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "text": "and a magnetic polarity being same",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "text": "as the interceptor it can never",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "text": "[unclear] act P-1152DC",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 27,
       "status": "blank"
     },
     {
-      "lineNumber": 28,
-      "text": "Baltimore 8. Md",
-      "status": "image_matched"
+      "lineNumber": 5,
+      "text": "Baltimore 8, Md",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 6,
       "text": "July 28 - 1952",
       "status": "image_matched"
     },
     {
+      "lineNumber": 7,
+      "text": "OFYING SAUCERS",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Dear Sir,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "I would like to submit a theory",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "text": "that may lead to a solution of what",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "the flying saucers really are -",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "These objects could be Lights",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Caused by Radio Television Beams",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "illuminating moist vapor, not unlike",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "phosphorus on rain soaked wood in",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "certain seasons. - the northern lights",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 18,
+      "text": "\"aurora Borealis\" have manifested themselves",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 19,
+      "text": "for years, setting up Electro magnetism",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 20,
+      "text": "& Earth potential which distorts normal",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
+      "text": "Telegraph communications. The lights es",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 22,
+      "text": "are somewhat like, a Fan + can",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 23,
+      "text": "be seen as in south [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 24,
+      "text": "It is my opinion that RECORDED - 57 62-83874-294",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 25,
+      "text": "Saucers are Electrically INDEX-25 AUG 5 1952",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 26,
+      "text": "Currents onto a space (small clouds)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 27,
+      "text": "and causing it to glow - this",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 28,
+      "text": "cloud being charged Electrically with",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 29,
+      "text": "and a magnetic polarity being same",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 30,
-      "text": "OF FLYING SAUCERS",
+      "text": "as the interceptor it can never",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 32,
-      "text": "RECORDED 57-83894-294",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
-      "text": "EX 25 AUG 3 1952",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 34,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 35,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] P-11 52 [unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

@@ -8,23 +8,17 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 9 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0040-l0001",
-    "page_0040-l0010",
-    "page_0040-l0011",
-    "page_0040-l0012"
-  ],
-  "lineCount": 14,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 18,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "19 051",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] 051 [unclear] Saucers",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
@@ -33,65 +27,79 @@
     },
     {
       "lineNumber": 3,
-      "text": "July 31/52",
-      "status": "image_matched"
+      "text": "July 31/52-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "Department of Justice",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
+      "text": "Department of Justice-",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
       "text": "Washington D.C.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "text": "Dear Sirs:",
-      "status": "image_matched"
+      "lineNumber": 7,
+      "status": "blank"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
+      "text": "Dear sirs:-",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
       "text": "Am sorry hearing",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 11,
       "text": "and reading too much",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
-      "text": "noise about the \"Flying Plates\"",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
-      "text": "RECORDED - 9A 165-6 14-290",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 11,
-      "text": "INDEXED AUG 5 1952",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 12,
-      "text": "said [unclear] of you",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "noise about the [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 13,
-      "status": "blank"
+      "text": "of the \"Flying Plates\"",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "62-9394-290",
-      "status": "image_matched"
+      "text": "RECORDED - 94 165-28 14-290",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "INEDXED [unclear] AUG 5 1952",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 16,
+      "text": "said about you",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 17,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 18,
+      "text": "62-83944-290",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

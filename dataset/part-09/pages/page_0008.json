@@ -8,26 +8,12 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "13 permanent_unresolved line(s) excluded under SRC-896. 31 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0008-l0002",
-    "page_0008-l0007",
-    "page_0008-l0014",
-    "page_0008-l0022",
-    "page_0008-l0023",
-    "page_0008-l0024",
-    "page_0008-l0029",
-    "page_0008-l0032",
-    "page_0008-l0035",
-    "page_0008-l0038",
-    "page_0008-l0039",
-    "page_0008-l0040",
-    "page_0008-l0041"
-  ],
-  "lineCount": 44,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 57,
   "lines": [
     {
       "lineNumber": 1,
@@ -36,19 +22,17 @@
     },
     {
       "lineNumber": 2,
-      "text": "FEDERAL BY",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "FEDERAL BUREAU OF INVESTIGATION",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "OF INVESTIGATION",
+      "text": "UNITED STATES DEPARTMENT OF JUSTICE",
       "status": "image_matched"
     },
     {
       "lineNumber": 4,
-      "text": "UNITED STATES DEPARTMENT OF JUSTICE",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
@@ -57,210 +41,250 @@
     },
     {
       "lineNumber": 6,
-      "text": "Mr. Clegg",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 7,
-      "text": "Mr. Glavi",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. [REDACTED] thru. opr. from",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
-      "text": "Mr. Ladd",
-      "status": "image_matched"
+      "text": "called-phoned NYC",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "Mr. Nichols",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "text": "Mr. Rosen",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
-      "text": "Mr. Tracy",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "Mr. Egan",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "Mr. Gurley",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 14,
-      "text": "Mr. Harbo",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 15,
-      "text": "Mr. Jones",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "text": "Mr. Mohr",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 17,
-      "text": "Mr. Pennington",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "Tele. Room",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "text": "Mr. Nease",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "text": "Miss Holmes",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "text": "Miss Gandy",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "Mr.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 23,
-      "text": "[unclear] thru. [unclear] from",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 24,
-      "text": "called-phoned. NYC",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 25,
       "text": "Phone No.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
       "text": "Hour 10:29am Date July 12, 1949",
       "status": "image_matched"
     },
     {
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
+      "text": "Mr. Clegg",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Mr. Glavin",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
+      "text": "Mr. Ladd",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Mr. Nichols",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "Mr. Rosen",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "Mr. Tracy",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "Mr. Egan",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "text": "Mr. Gurnea",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 22,
+      "text": "Mr. Harbo",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 23,
+      "text": "Mr. Jones",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "Mr. Mohr",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "text": "Mr. Pennington",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "Tele. Room",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 27,
-      "text": "REMARKS",
+      "text": "Mr. Nease",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "text": "When informed that Mr. Hoover was not in his",
+      "text": "Miss Holmes",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "office, Mr. [REDACTED] asked to speak with Mr. Ladd,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 30,
-      "text": "and after checking the call was transferred to",
+      "text": "Miss Gandy",
       "status": "image_matched"
     },
     {
+      "lineNumber": 30,
+      "status": "blank"
+    },
+    {
       "lineNumber": 31,
-      "text": "Mr. Ladd.",
+      "text": "REMARKS",
       "status": "image_matched"
     },
     {
       "lineNumber": 32,
-      "text": "Mr. Ladd advised that Mr. [REDACTED] was calling",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 33,
-      "text": "about the matter he discussed with Mr. Ladd",
+      "text": "When informed that Mr. Hoover was not in his",
       "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "text": "on last Saturday re: flying saucers in Califor-",
-      "status": "image_matched"
+      "text": "office, Mr. [REDACTED] asked to speak with Mr. Ladd,",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 35,
-      "text": "nia. He [unclear] asked if he could please the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "and after checking the call was transferred to",
+      "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "text": "story.",
+      "text": "Mr. Ladd.",
       "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "text": "He was told that this was up to him",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 38,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. Ladd advises that Mr. [REDACTED] was calling",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 39,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "about the matters he dicussed with Mr. Ladd",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 40,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "on last Saturday re flying saucers in Califor-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 41,
-      "text": "RECORDED 59 162-82894-48",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "nia. Mr. [REDACTED] asked if he could release the",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 42,
-      "text": "INDEXED 59",
-      "status": "image_matched"
+      "text": "story. He was told that this was up to him.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
-      "text": "3 AUG 1949",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 44,
-      "text": "3 6 1 AUG 15 1949",
-      "status": "image_matched"
+      "text": "rjp/mhm",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 45,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 46,
+      "text": "What have done re",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 47,
+      "text": "it?",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 48,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 49,
+      "text": "RECORDED - 59",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "text": "INDEXED - 59",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 52,
+      "text": "62-83894-88",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 54,
+      "text": "F B I",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 55,
+      "text": "3 AUG 10 1949",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 56,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 57,
+      "text": "61 AUG 10 1949",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

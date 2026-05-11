@@ -8,19 +8,17 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 33 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0022-l0043"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 43,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "TI COPY",
-      "status": "image_matched"
+      "text": "COPY",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -80,8 +78,8 @@
     },
     {
       "lineNumber": 14,
-      "text": "be lights, caused by Radio Television Beams illuminating",
-      "status": "image_matched"
+      "text": "be Lights, caused by Radio Television Beams illuminating",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
@@ -90,8 +88,8 @@
     },
     {
       "lineNumber": 16,
-      "text": "certain seasons-the northern lights \"aurora Borealis\" have",
-      "status": "image_matched"
+      "text": "certain seasons-the northern lights \"Aurora Borealus\" have",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
@@ -134,8 +132,8 @@
     },
     {
       "lineNumber": 25,
-      "text": "being some as the interceptor it can never be overtaken, and",
-      "status": "image_matched"
+      "text": "being same as the interceptor it can never be overtaken, and",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 26,
@@ -144,8 +142,8 @@
     },
     {
       "lineNumber": 27,
-      "text": "the impression that it out didstanced the persuer with a great",
-      "status": "image_matched"
+      "text": "the impression that it out distanced the persuer with a great",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 28,
@@ -221,8 +219,7 @@
     {
       "lineNumber": 43,
       "text": "/s/ [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

@@ -8,21 +8,17 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 18 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0049-l0001",
-    "page_0049-l0015"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 21,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "When they were over [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "When they was over Washington",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -31,8 +27,8 @@
     },
     {
       "lineNumber": 3,
-      "text": "the tallest building there.",
-      "status": "image_matched"
+      "text": "the tallest building there",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -46,13 +42,13 @@
     },
     {
       "lineNumber": 6,
-      "text": "ever seen. trace back.",
-      "status": "image_matched"
+      "text": "ever seen. trace back",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "text": "You might find the",
-      "status": "image_matched"
+      "text": "you might find the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
@@ -86,14 +82,13 @@
     },
     {
       "lineNumber": 14,
-      "text": "in God pray secretly.",
-      "status": "image_matched"
+      "text": "in God. pray secretly.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "ents. God.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
@@ -121,8 +116,8 @@
     },
     {
       "lineNumber": 21,
-      "text": "U S DEPT OF JUSTICE",
-      "status": "image_matched"
+      "text": "U. S. DEPT. OF JUSTICE",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

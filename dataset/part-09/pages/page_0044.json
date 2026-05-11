@@ -8,162 +8,191 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 26 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0044-l0001",
-    "page_0044-l0003",
-    "page_0044-l0010"
-  ],
-  "lineCount": 29,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 38,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Office Memrandum • UNITED STATES GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Office Mem[unclear]dum • UNITED S[unclear]S GOVERNMENT",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
-      "text": "TO : A. H. Belmont DATE: July 31, 1952",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "FROM : [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "TO : A. H. Belmont",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
+      "text": "DATE: July 31, 1952",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
+      "text": "FROM : [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 6,
       "text": "SUBJECT: UNUSUAL FLASHES DURING",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 7,
       "text": "ELECTRICAL STORM, JERSEY SHORE, PA.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 8,
       "text": "JULY 28, 1952",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 9,
       "text": "COMPLAINANT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
-      "text": "FLYING SAUCERS",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 9,
-      "text": "At 2:15 AM on July 31, 1952,",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 10,
-      "text": "[REDACTED], Jersey Shore, Pa.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] FLYING SAUCERS",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "At 2:15 AM on July 31, 1952, [REDACTED], Jersey Shore, Pa.,",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 13,
       "text": "telephonically advised that in the early morning of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
       "text": "7-28-52, during a severe electrical storm in the area",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 15,
       "text": "of his residence, he had observed seven unusual flashes in the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 16,
       "text": "sky, each flash being accompanied by a loud report.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 17,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 18,
       "text": "Complainant, who appeared to be under the influence",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 19,
       "text": "of intoxicants, called as a result of recent newspaper stories",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 20,
       "text": "regarding phenomena allegedly observed during past week in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 21,
       "text": "this country.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
       "text": "Bureau indices contain no information identifiable",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 24,
       "text": "with the complainant.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
       "text": "Action:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
       "text": "File.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
-      "text": "J.H.Hadad",
-      "status": "image_matched"
+      "lineNumber": 29,
+      "status": "blank"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 30,
+      "text": "J. Hadad",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 31,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 32,
       "text": "RECORDED - 34",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 33,
       "text": "EX. - 8",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 34,
       "text": "INDEXED - 34",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
-      "text": "62-93834-287",
-      "status": "image_matched"
+      "lineNumber": 35,
+      "text": "62-83874-287",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 36,
       "text": "JUL 31 1952",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 37,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 38,
       "text": "65 AUG 7 1952",
       "status": "image_matched"
     }

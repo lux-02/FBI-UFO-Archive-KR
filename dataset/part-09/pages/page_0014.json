@@ -8,17 +8,12 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 15 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0014-l0002",
-    "page_0014-l0009",
-    "page_0014-l0016",
-    "page_0014-l0019"
-  ],
-  "lineCount": 19,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 20,
   "lines": [
     {
       "lineNumber": 1,
@@ -27,9 +22,8 @@
     },
     {
       "lineNumber": 2,
-      "text": "in conjunction in atom and hydro, bombs or to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "in conjunction with atom and hydro, bombs or to",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -64,8 +58,7 @@
     {
       "lineNumber": 9,
       "text": "my country comes first if the information should be",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
@@ -74,8 +67,8 @@
     },
     {
       "lineNumber": 11,
-      "text": "I signed my other letter respectfully, when a",
-      "status": "image_matched"
+      "text": "I signed my other letter \"respectfully\", when a",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
@@ -99,25 +92,28 @@
     },
     {
       "lineNumber": 16,
-      "text": "mrs [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mrs. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
-      "text": "S. Taunton",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
+      "text": "Staunton",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 19,
       "text": "Virginia",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
-      "text": "mrs [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 20,
+      "text": "Mrs. [REDACTED]",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

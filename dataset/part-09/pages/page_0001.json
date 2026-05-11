@@ -8,40 +8,12 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "27 permanent_unresolved line(s) excluded under SRC-896. 39 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0001-l0015",
-    "page_0001-l0016",
-    "page_0001-l0017",
-    "page_0001-l0018",
-    "page_0001-l0019",
-    "page_0001-l0020",
-    "page_0001-l0021",
-    "page_0001-l0022",
-    "page_0001-l0023",
-    "page_0001-l0025",
-    "page_0001-l0028",
-    "page_0001-l0029",
-    "page_0001-l0030",
-    "page_0001-l0032",
-    "page_0001-l0040",
-    "page_0001-l0043",
-    "page_0001-l0044",
-    "page_0001-l0048",
-    "page_0001-l0052",
-    "page_0001-l0054",
-    "page_0001-l0055",
-    "page_0001-l0056",
-    "page_0001-l0061",
-    "page_0001-l0068",
-    "page_0001-l0070",
-    "page_0001-l0071",
-    "page_0001-l0072"
-  ],
-  "lineCount": 77,
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 23,
   "lines": [
     {
       "lineNumber": 1,
@@ -59,390 +31,95 @@
     },
     {
       "lineNumber": 4,
-      "text": "FROM : Mr. Ladd",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 5,
-      "text": "SUBJECT: FLYING SAUCERS",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 6,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 7,
       "text": "DATE: July 9, 1949",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 5,
       "status": "blank"
+    },
+    {
+      "lineNumber": 6,
+      "text": "FROM : Mr. Ladd",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "SUBJECT: FLYING SAUCERS",
+      "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "Mr. Tolson",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "text": "Mr. Clegg",
-      "status": "image_matched"
+      "text": "[REDACTED] advised that Walter Winchell had received a letter from [REDACTED], Los Angeles 7, California. Mr. [REDACTED] read the letter to me and it was very well written, obviously by a man of intelligence. In this letter [REDACTED] stated that in August of 1947 he left Los Angeles for the mountains and started hiking through the mountains. About 10:00 A. M. he was lying on the ground when he observed about one-half block away from him a large silver metal, greenish in color, shaped like a child's top and about the size of the balloons used at County Fairs. He stated that there appeared to be two windows in the object and portions of metal appeared transparent and that he gained the impression that there was some life within this object although he saw no persons. The object appeared as though [unclear] as a pressure chamber. He stood up and waved towards this object and this so-called flying saucer was off the ground in a second, knocking [REDACTED] to the ground. In its flight he stated that its power was silent and he raised the question as to whether this was an inter-global landing on our planet. He thought that it might be a device to land in our planet because the occupants of another planet had become curious as to the reaction caused by the explosion of the atomic bomb causing trouble in an expanded universe. He left the question as to whether it was possible that the occupants of another planet might have solved the theory of negative gravity.",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 11,
-      "text": "Mr. Glavin",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 12,
-      "text": "Mr. Ladd",
-      "status": "image_matched"
+      "text": "Mr. [REDACTED] stated that this letter indicated a very good knowledge of physics and that he thought it would be interesting to check into Jones' background and then possibly interview him about this alleged flying saucer. Mr. [REDACTED] stated that it would appear that [REDACTED] may have actually seen a flying saucer, that in any event it made an awfully good story and he requested that the Bureau keep the matter in confidence.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
-      "text": "Mr. Nichols",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 14,
-      "text": "Mr. Rosen",
-      "status": "image_matched"
+      "text": "I would recommend that the Los Angeles Office discreetly check into the background of [REDACTED] and thereafter interview him for the purpose of determining any facts he possesses about flying saucers in order that it may be determined whether his story is in any way accurate.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 16,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "DML:dhb",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 18,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 19,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 20,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 21,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 22,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 23,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 24,
-      "text": "Miss Holmes",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "text": "Miss [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 26,
-      "text": "Miss Gandy",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 28,
-      "text": "[REDACTED] advised that Walter Winchell had received",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 29,
-      "text": "a letter from [REDACTED], Los",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 30,
-      "text": "Angeles 7, California. Mr. [REDACTED] read the letter to me and it",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 31,
-      "text": "was very well written, obviously by a man of intelligence. In",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "text": "this letter [REDACTED] stated that in August of 1947 he left Los Angeles",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 33,
-      "text": "for the mountains and started hiking through the mountains. About",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 34,
-      "text": "10:00 A. M. he was lying on the ground when he observed about one-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 35,
-      "text": "half block away from him a large silver metal, greenish in color,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 36,
-      "text": "shaped like a child's top and about the size of the balloons used",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "text": "at County Fairs. He stated that there appeared to be two windows",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 38,
-      "text": "in the object and portions of metal appeared transparent and that he",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 39,
-      "text": "gained the impression that there was some life within this object,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "although he saw no persons. The object appeared as though [unclear] as",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 41,
-      "text": "a pressure chamber. He stood up and waved towards this object and",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "text": "this so-called flying saucer was off the ground in a second, knocking",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "[REDACTED] to the ground. In its flight he stated that its power was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 44,
-      "text": "silent and he raised the question as to whether this was [unclear] an",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 45,
-      "text": "inter-global landing on our planet. He thought that it might be a",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
-      "text": "device to land on our planet because the occupants of another planet",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 47,
-      "text": "had become curious as to the reaction caused by the explosion of the",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "text": "atomic bomb causing trouble in an expanded universe. He [unclear] the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 49,
-      "text": "question as to whether it was possible that the occupants of another",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 50,
-      "text": "planet might have solved the theory of negative gravity.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 51,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 52,
-      "text": "Mr. [REDACTED] stated that this letter indicated a very good",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 53,
-      "text": "knowledge of physics and that he thought it would be interesting to",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 54,
-      "text": "check into [unclear] background and then possibly interview him about",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 55,
-      "text": "this alleged flying saucer. Mr. [REDACTED] stated that it would appear",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 56,
-      "text": "that [REDACTED] may have actually seen a flying saucer, that in any event",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 57,
-      "text": "it made an awfully good story and he requested that the Bureau keep",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 58,
-      "text": "the matter in confidence.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 59,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 60,
-      "text": "I would recommend that the Los Angeles Office discreetly",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 61,
-      "text": "check into the background of [REDACTED] and thereafter interview him for",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 62,
-      "text": "the purpose of determining any facts he possesses about flying",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 63,
-      "text": "saucers in order that it may be determined whether his story is in",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 64,
-      "text": "any way accurate.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 65,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 66,
       "text": "RECORDED - 59",
       "status": "image_matched"
     },
     {
-      "lineNumber": 67,
-      "status": "blank"
+      "lineNumber": 19,
+      "text": "INDEXED - 59",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 68,
-      "text": "[unclear]:dhb",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 20,
+      "text": "162-83894-195",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 69,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 70,
-      "text": "[unclear] LA [unclear] 59",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 71,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 72,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 73,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 74,
-      "text": "62-83894-195",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 75,
+      "lineNumber": 21,
       "text": "3 AUG 10 1949",
       "status": "image_matched"
     },
     {
-      "lineNumber": 76,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 77,
-      "text": "01 AUG 11 1949",
-      "status": "image_matched"
+      "lineNumber": 23,
+      "text": "61 AUG 10 1949",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

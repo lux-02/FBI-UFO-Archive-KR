@@ -8,31 +8,22 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 10 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0029-l0001",
-    "page_0029-l0002",
-    "page_0029-l0009",
-    "page_0029-l0012",
-    "page_0029-l0015",
-    "page_0029-l0016"
-  ],
-  "lineCount": 16,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 15,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "due see a steel bar, say in your",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "did see, a steel bar, say in your",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
       "text": "at auto show, it was merely two",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -46,8 +37,8 @@
     },
     {
       "lineNumber": 5,
-      "text": "Or push your watch or a piece",
-      "status": "image_matched"
+      "text": "or Push your watch or a piece",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -61,14 +52,13 @@
     },
     {
       "lineNumber": 8,
-      "text": "If a plane were equipped with",
-      "status": "image_matched"
+      "text": "If a plane were equiped with",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "a magnet of about two 93 Gs",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "a magnet of about two or 3 Gs",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
@@ -82,14 +72,13 @@
     },
     {
       "lineNumber": 12,
-      "text": "of the profiles a foot or two of such",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "of the propellor a foot or two I think",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "text": "force powers would be caught.",
-      "status": "image_matched"
+      "text": "those saucers would be caught.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
@@ -98,15 +87,8 @@
     },
     {
       "lineNumber": 15,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 16,
-      "text": "Postman 1:12",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] Postman 11.12",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

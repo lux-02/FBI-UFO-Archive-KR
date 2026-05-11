@@ -8,17 +8,12 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0023-l0003",
-    "page_0023-l0009",
-    "page_0023-l0016",
-    "page_0023-l0022"
-  ],
-  "lineCount": 30,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 46,
   "lines": [
     {
       "lineNumber": 1,
@@ -32,144 +27,207 @@
     },
     {
       "lineNumber": 3,
-      "text": "RECORDED-29 DIRECTOR, FBI (62-83894) - 29",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "RECORDED-29",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
+      "text": "DIRECTOR, FBI (62-83894) - 295",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
       "text": "FLYING SAUCERS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
       "text": "OSI LIAISON",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "text": "EX-25",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
       "text": "Reurlet August 7, 1952, in which you stated that at",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 10,
       "text": "a weekly liaison conference held in Philadelphia Major",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 11,
       "text": "[REDACTED] advised that OSI is no longer interested in",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
       "text": "receiving reports concerning flying saucers.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 13,
       "status": "blank"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
       "text": "OSI, as the official Air Force liaison agency, has",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 15,
       "text": "agreed to accept reports regarding flying saucers and to transmit",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 16,
       "text": "these reports to the Air Technical Intelligence Center at",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 17,
       "text": "Wright-Patterson Air Force Base, Ohio, where all information",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 18,
       "text": "pertaining to flying saucers is coordinated. If Major [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 19,
       "text": "still insists that he does not desire to receive reports",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 20,
       "text": "regarding flying saucers, you should advise the Bureau and the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 21,
       "text": "matter will be discussed further with OSI Headquarters in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "text": "Washington, D. C.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 22,
-      "text": "NWP:phk:hke",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 23,
-      "text": "mr",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 24,
-      "status": "blank"
+      "text": "NWP:hke/hke",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
-      "text": "MAILED 3",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 26,
-      "text": "AUG 1 5 1952",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 27,
-      "text": "COMM-FBI",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 32,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 33,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 37,
       "text": "60 AUG 20 1952",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 38,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 39,
+      "text": "MAILED 3",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "AUG 15 1952",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 41,
+      "text": "COMM-FBI",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 42,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 43,
+      "text": "[unclear] 12 [unclear] 33 [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 44,
+      "text": "[unclear] DEPT OF JUSTICE",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 45,
       "text": "FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
-      "text": "RECEIVED-WHT ROOM",
-      "status": "image_matched"
+      "lineNumber": 46,
+      "text": "RECEIVED-[unclear] NOON",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

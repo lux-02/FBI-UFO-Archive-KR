@@ -8,19 +8,12 @@
     "sha256": "e24a99efc7719ce63bef015b75413e02beed234aced91b450d84f70b11db06fe"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0009-l0002",
-    "page_0009-l0011",
-    "page_0009-l0012",
-    "page_0009-l0023",
-    "page_0009-l0025",
-    "page_0009-l0041"
-  ],
-  "lineCount": 43,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 50,
   "lines": [
     {
       "lineNumber": 1,
@@ -30,8 +23,7 @@
     {
       "lineNumber": 2,
       "text": "FEDERAL BUREAU OF INVESTIGATION",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -40,201 +32,225 @@
     },
     {
       "lineNumber": 4,
-      "text": "Record of Telephone Call or Visit to",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
+      "text": "Record of Telephone Call or Visitor",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
       "text": "Flying Saucers",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "text": "Mr.",
-      "status": "image_matched"
+      "lineNumber": 8,
+      "status": "blank"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 9,
+      "text": "Mr. [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 10,
       "text": "called phoned from New York City",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
       "text": "Phone No.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
       "text": "Hour 10:54am Date July 11, 1949",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 15,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 16,
       "text": "REMARKS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
-      "text": "When informed of Mr. Hoover's and Mr. [REDACTED] declined",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 17,
+      "text": "When informed of Mr. Hoover's and Mr. Ladd's",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 18,
       "text": "absence from their office, Mr. [REDACTED] declined",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 19,
       "text": "to speak to anyone else and stated that he was",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 20,
       "text": "just following up on a conversation he had with",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 21,
       "text": "Mr. Ladd over the weekend. He asked that Mr.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 22,
       "text": "Ladd be informed of his call.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 23,
       "status": "blank"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 24,
       "text": "RECORDED - 59",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 25,
       "text": "INDEXED - 59",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 21,
-      "text": "62-38894-184",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 23,
-      "text": "MET [unclear] 3 AUG [unclear] 1949 WEB",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 24,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 25,
-      "text": "RECEIVED - [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 26,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 27,
+      "text": "62-83894-187",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
+      "text": "[unclear] 3 AUG [unclear] 1949 [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 30,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 31,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 32,
+      "text": "RECEIVED - [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 33,
       "text": "61 AUG 11 1949",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 34,
       "status": "blank"
     },
     {
-      "lineNumber": 28,
-      "text": "Tolick",
-      "status": "image_matched"
+      "lineNumber": 35,
+      "text": "Tolson",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 36,
       "text": "Clegg",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
-      "text": "Glavin",
-      "status": "image_matched"
+      "lineNumber": 37,
+      "text": "Mr. Glavin",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 31,
-      "text": "Ladd",
-      "status": "image_matched"
+      "lineNumber": 38,
+      "text": "Mr. Ladd",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 39,
       "text": "Nichols",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 40,
       "text": "Mr. Rosen",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 41,
       "text": "Mr. Tracy",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 42,
       "text": "Mr. Egan",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 43,
       "text": "Mr. Gurnea",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 44,
       "text": "Mr. Harbo",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 45,
       "text": "Mr. Jones",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 46,
       "text": "Mr. Mohr",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 47,
       "text": "Mr. Pennington",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
-      "text": "[unclear] Room",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 48,
+      "text": "Tele. Room",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 49,
       "text": "Mr. Nease",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 50,
       "text": "Miss Holmes",
       "status": "image_matched"
     }
