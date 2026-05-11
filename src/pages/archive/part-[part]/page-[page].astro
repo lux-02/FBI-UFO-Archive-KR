@@ -69,6 +69,7 @@ const sourceOcrText = (sourcePage?.lines ?? [])
   .filter(Boolean)
   .join("\n")
   .trim();
+const formatSourceDisplayText = (text: string) => text.trim();
 ---
 
 <Layout title={`Part ${partNo} p. ${pageLabel}`}>
@@ -232,11 +233,9 @@ const sourceOcrText = (sourcePage?.lines ?? [])
             <p class="mb-4 leading-loose text-[var(--color-text-primary)]">{unit.translation.text}</p>
             <details class="source-peek">
               <summary class="source-peek-trigger" aria-label="원문 대조 펼치기">
-                <span class="source-peek-preview">{unit.source.text}</span>
+                <span class="source-peek-preview">{formatSourceDisplayText(unit.source.text)}</span>
               </summary>
-              <p class="source-peek-body">
-                {unit.source.text}
-              </p>
+              <p class="source-peek-body">{formatSourceDisplayText(unit.source.text)}</p>
             </details>
           </li>
         ))
@@ -251,9 +250,7 @@ const sourceOcrText = (sourcePage?.lines ?? [])
                   <summary class="source-peek-trigger" aria-label="원문 대조 접기">
                     <span class="source-peek-preview">{sourceOcrText}</span>
                   </summary>
-                  <p class="source-peek-body">
-                    {sourceOcrText}
-                  </p>
+                  <p class="source-peek-body">{sourceOcrText}</p>
                 </details>
               ) : (
                 <p class="mt-4 border-t border-[var(--color-border-subtle)] pt-3 text-xs leading-6 text-[var(--color-text-muted)]">
