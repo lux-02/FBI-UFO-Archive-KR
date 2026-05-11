@@ -1,6 +1,8 @@
 ---
 import Layout from "@/components/Layout.astro";
+import PageJump from "@/components/PageJump.astro";
 import {
+  classifyReaderPage,
   formatPage,
   getPublishedDatasetParts,
   getReaderPart,
@@ -46,10 +48,22 @@ if (!readerPart) {
 }
 const pages = getReaderPagesForPart(partEntry.part);
 const pageIndex = pages.findIndex((page) => page.page === pageNumber);
+const currentPage = pages.find((page) => page.page === pageNumber);
 const previousPage = pageIndex > 0 ? pages[pageIndex - 1] : undefined;
 const nextPage = pageIndex >= 0 && pageIndex < pages.length - 1 ? pages[pageIndex + 1] : undefined;
+const previousHref = previousPage
+  ? `/archive/${partEntry.slug}/page-${formatPage(previousPage.page)}`
+  : "";
+const nextHref = nextPage ? `/archive/${partEntry.slug}/page-${formatPage(nextPage.page)}` : "";
 const pageImage = getReaderPageImage(partEntry.part, pageNumber);
 const pageLabel = formatPage(pageNumber);
+const pageStatus = currentPage?.status ?? classifyReaderPage(sourcePage, translationPage);
+const untranslatedMessage =
+  pageStatus.kind === "no_text"
+    ? "원문 이미지 중심 페이지입니다."
+    : pageStatus.kind === "review_hold"
+      ? "판독 보류 페이지입니다."
+      : "한국어 복원본이 없는 원문 페이지입니다.";
 const sourceOcrText = (sourcePage?.lines ?? [])
   .map((line) => line.text?.trim())
   .filter(Boolean)
@@ -66,27 +80,48 @@ const sourceOcrText = (sourcePage?.lines ?? [])
       <span class="mx-1">›</span>
       <span>PAGE {pageLabel}</span>
     </nav>
-    <a
-      href={`/archive/${partEntry.slug}`}
-      class="icon-nav-button icon-nav-button--index"
-      aria-label={`Part ${partNo} 페이지 목록으로 이동`}
-      title={`Part ${partNo} 페이지 목록`}
-    >
-      <svg
-        class="icon-nav-glyph"
-        viewBox="0 0 24 24"
-        aria-hidden="true"
-        focusable="false"
+    <div class="reader-actions">
+      <PageJump partSlug={partEntry.slug} maxPage={pages.length} currentPage={pageNumber} />
+      <button
+        type="button"
+        class="icon-nav-button"
+        data-copy-page-link
+        aria-label="현재 페이지 링크 복사"
+        title="현재 페이지 링크 복사"
       >
-        <path d="M8 6h12" />
-        <path d="M8 12h12" />
-        <path d="M8 18h12" />
-        <path d="M4 6h.01" />
-        <path d="M4 12h.01" />
-        <path d="M4 18h.01" />
-      </svg>
-      <span class="icon-nav-label">FILE INDEX</span>
-    </a>
+        <svg
+          class="icon-nav-glyph"
+          viewBox="0 0 24 24"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <path d="M10 13a5 5 0 0 0 7.07 0l2.83-2.83a5 5 0 0 0-7.07-7.07L11 4.93" />
+          <path d="M14 11a5 5 0 0 0-7.07 0L4.1 13.83a5 5 0 0 0 7.07 7.07L13 19.07" />
+        </svg>
+        <span class="icon-nav-label" data-copy-page-link-label>LINK</span>
+      </button>
+      <a
+        href={`/archive/${partEntry.slug}`}
+        class="icon-nav-button icon-nav-button--index"
+        aria-label={`Part ${partNo} 페이지 목록으로 이동`}
+        title={`Part ${partNo} 페이지 목록`}
+      >
+        <svg
+          class="icon-nav-glyph"
+          viewBox="0 0 24 24"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <path d="M8 6h12" />
+          <path d="M8 12h12" />
+          <path d="M8 18h12" />
+          <path d="M4 6h.01" />
+          <path d="M4 12h.01" />
+          <path d="M4 18h.01" />
+        </svg>
+        <span class="icon-nav-label">INDEX</span>
+      </a>
+    </div>
   </div>
 
   <section class="grid gap-6 lg:grid-cols-[minmax(20rem,32rem)_minmax(0,1fr)]">
@@ -98,8 +133,9 @@ const sourceOcrText = (sourcePage?.lines ?? [])
               <img
                 src={pageImage.url}
                 alt={pageImage.alt}
-                loading="lazy"
+                loading="eager"
                 decoding="async"
+                fetchpriority="high"
                 class="max-h-[76vh] w-full bg-[var(--color-surface-sunken)] object-contain grayscale"
               />
             </a>
@@ -207,7 +243,7 @@ const sourceOcrText = (sourcePage?.lines ?? [])
         ) : (
           <li class="document-sheet p-4">
             <p class="leading-7 text-[var(--color-text-secondary)]">
-              한국어 복원본이 없는 페이지입니다.
+              {untranslatedMessage}
             </p>
             {
               sourceOcrText ? (
@@ -230,4 +266,51 @@ const sourceOcrText = (sourcePage?.lines ?? [])
       }
     </ol>
   </section>
+
+  <script is:inline define:vars={{ previousHref, nextHref }}>
+    const copyButton = document.querySelector("[data-copy-page-link]");
+    const copyLabel = document.querySelector("[data-copy-page-link-label]");
+
+    copyButton?.addEventListener("click", async () => {
+      const url = new URL(window.location.href);
+      url.hash = "";
+      try {
+        await navigator.clipboard.writeText(url.href);
+        if (copyLabel) copyLabel.textContent = "COPIED";
+        window.setTimeout(() => {
+          if (copyLabel) copyLabel.textContent = "LINK";
+        }, 1400);
+      } catch {
+        if (copyLabel) copyLabel.textContent = "COPY FAIL";
+      }
+    });
+
+    document.addEventListener("keydown", (event) => {
+      if (event.metaKey || event.ctrlKey || event.altKey || event.shiftKey) return;
+      const target = event.target;
+      if (
+        target instanceof HTMLInputElement ||
+        target instanceof HTMLTextAreaElement ||
+        target instanceof HTMLSelectElement ||
+        (target instanceof HTMLElement && target.isContentEditable)
+      ) {
+        return;
+      }
+      if (event.key === "ArrowLeft" && previousHref) {
+        window.location.href = previousHref;
+      }
+      if (event.key === "ArrowRight" && nextHref) {
+        window.location.href = nextHref;
+      }
+    });
+
+    for (const details of document.querySelectorAll("details.source-peek")) {
+      details.addEventListener("toggle", () => {
+        if (!(details instanceof HTMLDetailsElement) || !details.open) return;
+        for (const other of document.querySelectorAll("details.source-peek[open]")) {
+          if (other !== details && other instanceof HTMLDetailsElement) other.open = false;
+        }
+      });
+    }
+  </script>
 </Layout>

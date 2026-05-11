@@ -3,7 +3,7 @@ import { defineConfig } from "astro/config";
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
-  site: "https://fbi-ufo-archive-kr.local",
+  site: "https://ufo.n2f.site",
   output: "static",
   trailingSlash: "ignore",
   vite: {

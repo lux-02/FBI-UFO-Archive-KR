@@ -61,16 +61,12 @@ if (!part) {
   <ol class="archive-frame">
     {
       pages.map((page) => {
-        const statusClass = page.translationPage
-          ? page.translationPage.excludedLineCount > 0
-            ? "hold-label"
-            : "source-label"
-          : "stale-label";
-        const statusText = page.translationPage
-          ? page.translationPage.excludedLineCount > 0
-            ? "판독 보류"
-            : "한국어 복원"
-          : "원본만";
+        const statusClass =
+          page.status.tone === "source"
+            ? "source-label"
+            : page.status.tone === "hold"
+              ? "hold-label"
+              : "stale-label";
 
         return (
         <li class="ledger-row">
@@ -85,7 +81,7 @@ if (!part) {
                 "w-fit justify-self-end",
               ]}
             >
-              {statusText}
+              {page.status.labelKo}
             </span>
           </a>
         </li>

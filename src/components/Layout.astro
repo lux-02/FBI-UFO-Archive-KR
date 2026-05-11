@@ -10,6 +10,9 @@ const { title, description } = Astro.props;
 const siteName = "Public Vault Terminal · 한국어";
 const fullDescription =
   description ?? "FBI Vault UFO PDF를 원본 스캔과 한국어 복원본으로 읽습니다.";
+const productionOrigin = "https://ufo.n2f.site";
+const canonicalUrl = new URL(Astro.url.pathname, productionOrigin).toString();
+const fullTitle = `${title} · ${siteName}`;
 ---
 
 <!doctype html>
@@ -18,9 +21,18 @@ const fullDescription =
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="generator" content={Astro.generator} />
-    <title>{title} · {siteName}</title>
+    <title>{fullTitle}</title>
     <meta name="description" content={fullDescription} />
+    <link rel="canonical" href={canonicalUrl} />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta property="og:site_name" content={siteName} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={fullDescription} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={fullDescription} />
   </head>
   <body class="archive-shell min-h-screen flex flex-col">
     <header class="terminal-header text-[var(--color-text-primary)]">
@@ -58,6 +70,20 @@ const fullDescription =
           target="_blank"
           rel="noopener noreferrer"
           class="underline">GitHub</a
+        >
+        <span aria-hidden="true">·</span>
+        <a
+          href="https://github.com/lux-02/FBI-UFO-Archive-KR/blob/main/LICENSE"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="underline">License</a
+        >
+        <span aria-hidden="true">·</span>
+        <a
+          href="https://github.com/lux-02/FBI-UFO-Archive-KR/blob/main/NOTICE.md"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="underline">Notice</a
         >
       </div>
     </footer>

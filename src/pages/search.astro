@@ -1,74 +1,190 @@
 ---
 import Layout from "@/components/Layout.astro";
-import CitationBadge from "@/components/CitationBadge.astro";
-import { formatPage, getAllTranslationUnits, partSlug } from "@/lib/public-dataset";
+import { formatPage, getAllTranslationUnits, getPublishedDatasetParts, partSlug } from "@/lib/public-dataset";
 
 const units = getAllTranslationUnits();
+const parts = getPublishedDatasetParts().filter((part) => part.hasReader);
+const searchEntries = units.map((unit) => {
+  const pageLabel = formatPage(unit.page);
+  const partLabel = String(unit.part).padStart(2, "0");
+  return {
+    id: unit.id,
+    part: unit.part,
+    partLabel,
+    page: unit.page,
+    pageLabel,
+    href: `/archive/${partSlug(unit.part)}/page-${pageLabel}#${unit.id}`,
+    label: `Part ${partLabel}, p. ${pageLabel}`,
+    lineLabel: unit.source.lineIds.join(", "),
+    ko: unit.translation.text,
+    source: unit.source.text,
+  };
+});
+const searchPayload = JSON.stringify(searchEntries).replace(/</g, "\\u003c");
 ---
 
 <Layout title="검색">
-  <h1 class="text-xl font-semibold mb-4">검색</h1>
+  <section class="archive-frame mb-5 p-5">
+    <div class="mb-3 flex flex-wrap items-center gap-2">
+      <span class="lcd-label">SEARCH</span>
+      <span class="source-label">{units.length.toLocaleString("ko-KR")} UNITS</span>
+    </div>
+    <h1 class="terminal-title mb-2 text-2xl font-semibold">DOCUMENT SEARCH</h1>
+    <p class="max-w-2xl text-sm leading-7 text-[var(--color-text-secondary)]">
+      한국어 복원본과 OCR 원문을 Part/page 기준으로 찾습니다.
+    </p>
+  </section>
 
-  <label class="mb-4 block">
-    <span class="mb-2 block text-xs font-mono text-[var(--color-text-muted)]">검색어</span>
-    <input
-      id="dataset-search"
-      type="search"
-      placeholder="예: 비행접시, memorandum, July 1947"
-      class="w-full rounded-md border border-[var(--color-border-subtle)] bg-[var(--color-surface-raised)] px-3 py-2 text-sm text-[var(--color-text-primary)] outline-none focus:border-[var(--color-border-strong)]"
-    />
-  </label>
+  <section class="archive-frame mb-5 p-4">
+    <div class="grid gap-3 lg:grid-cols-[minmax(0,1fr)_10rem_10rem]">
+      <label class="block">
+        <span class="mb-2 block font-mono text-xs text-[var(--color-text-muted)]">QUERY</span>
+        <input
+          id="dataset-search"
+          type="search"
+          placeholder="예: 비행접시, memorandum, July 1947"
+          class="w-full border border-[var(--color-border-subtle)] bg-[var(--color-surface-sunken)] px-3 py-2 text-sm text-[var(--color-text-primary)] outline-none focus:border-[var(--color-accent-signal)]"
+          autocomplete="off"
+        />
+      </label>
 
-  <p id="search-count" class="mb-4 text-xs text-[var(--color-text-muted)]">
-    {units.length}개 결과
-  </p>
+      <label class="block">
+        <span class="mb-2 block font-mono text-xs text-[var(--color-text-muted)]">PART</span>
+        <select
+          id="part-filter"
+          class="w-full border border-[var(--color-border-subtle)] bg-[var(--color-surface-sunken)] px-3 py-2 text-sm text-[var(--color-text-primary)] outline-none focus:border-[var(--color-accent-signal)]"
+        >
+          <option value="all">전체</option>
+          {parts.map((part) => <option value={part.part}>Part {part.partLabel}</option>)}
+        </select>
+      </label>
 
-  <ol id="search-results" class="space-y-3">
-    {
-      units.map((unit) => {
-        const haystack = `${unit.translation.text} ${unit.source.text} ${unit.id}`;
-        return (
-          <li
-            class="search-item rounded-md border border-[var(--color-border-subtle)] bg-[var(--color-surface-raised)] p-4"
-            data-search-text={haystack.toLocaleLowerCase("ko-KR")}
-          >
-            <div class="mb-2 flex flex-wrap items-center justify-between gap-2">
-              <a href={`/archive/${partSlug(unit.part)}/page-${formatPage(unit.page)}#${unit.id}`}>
-                <CitationBadge part={unit.part} page={unit.page} blockId={unit.source.lineIds.join(", ")} />
-              </a>
-            </div>
-            <p class="line-clamp-3 text-sm leading-7 text-[var(--color-text-primary)]">
-              {unit.translation.text}
-            </p>
-            <details class="mt-2 text-xs text-[var(--color-text-muted)]">
-              <summary class="cursor-pointer hover:underline">OCR 원문</summary>
-              <p class="mt-2 line-clamp-2 font-mono leading-6">
-                {unit.source.text}
-              </p>
-            </details>
-          </li>
-        );
-      })
-    }
-  </ol>
+      <label class="block">
+        <span class="mb-2 block font-mono text-xs text-[var(--color-text-muted)]">SCOPE</span>
+        <select
+          id="scope-filter"
+          class="w-full border border-[var(--color-border-subtle)] bg-[var(--color-surface-sunken)] px-3 py-2 text-sm text-[var(--color-text-primary)] outline-none focus:border-[var(--color-accent-signal)]"
+        >
+          <option value="all">전체</option>
+          <option value="ko">한국어</option>
+          <option value="source">원문</option>
+        </select>
+      </label>
+    </div>
+  </section>
 
+  <div class="mb-3 flex flex-wrap items-center justify-between gap-2">
+    <p id="search-count" class="font-mono text-xs text-[var(--color-text-muted)]">
+      검색어를 입력하세요.
+    </p>
+    <p class="font-mono text-xs text-[var(--color-text-muted)]">MAX 80</p>
+  </div>
+
+  <ol id="search-results" class="space-y-3"></ol>
+
+  <script id="search-data" type="application/json" is:inline set:html={searchPayload} />
   <script>
+    type SearchEntry = {
+      id: string;
+      part: number;
+      partLabel: string;
+      page: number;
+      pageLabel: string;
+      href: string;
+      label: string;
+      lineLabel: string;
+      ko: string;
+      source: string;
+    };
+
     const input = document.querySelector("#dataset-search");
+    const partFilter = document.querySelector("#part-filter");
+    const scopeFilter = document.querySelector("#scope-filter");
     const count = document.querySelector("#search-count");
-    const items = Array.from(document.querySelectorAll(".search-item"));
+    const results = document.querySelector("#search-results");
+    const dataNode = document.querySelector("#search-data");
+    const entries = (dataNode?.textContent ? JSON.parse(dataNode.textContent) : []) as SearchEntry[];
+    const maxResults = 80;
+
+    function normalize(value: unknown): string {
+      return String(value ?? "").trim().toLocaleLowerCase("ko-KR");
+    }
+
+    function escapeHtml(value: unknown): string {
+      return String(value ?? "")
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;");
+    }
+
+    function escapeRegExp(value: string): string {
+      return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    }
+
+    function highlight(value: unknown, terms: string[]): string {
+      let output = escapeHtml(value);
+      for (const term of terms) {
+        if (!term) continue;
+        output = output.replace(new RegExp(`(${escapeRegExp(escapeHtml(term))})`, "gi"), "<mark>$1</mark>");
+      }
+      return output;
+    }
+
+    function renderEmpty(message: string): void {
+      if (count) count.textContent = message;
+      if (results) results.innerHTML = "";
+    }
 
     function updateSearch() {
-      const query = input instanceof HTMLInputElement ? input.value.trim().toLocaleLowerCase("ko-KR") : "";
-      let visible = 0;
-      for (const item of items) {
-        const text = item instanceof HTMLElement ? item.dataset.searchText ?? "" : "";
-        const show = query.length === 0 || text.includes(query);
-        item.toggleAttribute("hidden", !show);
-        if (show) visible += 1;
+      const query = input instanceof HTMLInputElement ? normalize(input.value) : "";
+      const selectedPart = partFilter instanceof HTMLSelectElement ? partFilter.value : "all";
+      const selectedScope = scopeFilter instanceof HTMLSelectElement ? scopeFilter.value : "all";
+      const terms = query.split(/\s+/).filter(Boolean);
+
+      if (terms.length === 0) {
+        renderEmpty("검색어를 입력하세요.");
+        return;
       }
-      if (count) count.textContent = `${visible}개 결과`;
+
+      const matches = [];
+      for (const entry of entries) {
+        if (selectedPart !== "all" && String(entry.part) !== selectedPart) continue;
+        const haystack =
+          selectedScope === "ko"
+            ? entry.ko
+            : selectedScope === "source"
+              ? entry.source
+              : `${entry.ko} ${entry.source} ${entry.id} ${entry.label}`;
+        const normalizedHaystack = normalize(haystack);
+        if (!terms.every((term) => normalizedHaystack.includes(term))) continue;
+        matches.push(entry);
+      }
+
+      if (count) {
+        const suffix = matches.length > maxResults ? ` / ${maxResults}개 표시` : "";
+        count.textContent = `${matches.length.toLocaleString("ko-KR")}개 결과${suffix}`;
+      }
+
+      if (!results) return;
+      results.innerHTML = matches
+        .slice(0, maxResults)
+        .map((entry) => {
+          return `
+            <li class="search-item">
+              <a class="search-result-card" href="${entry.href}">
+                <span class="evidence-tag">${entry.label}</span>
+                <p class="search-snippet">${highlight(entry.ko, terms)}</p>
+                <p class="search-source-snippet">${highlight(entry.source, terms)}</p>
+              </a>
+            </li>
+          `;
+        })
+        .join("");
     }
 
     input?.addEventListener("input", updateSearch);
+    partFilter?.addEventListener("change", updateSearch);
+    scopeFilter?.addEventListener("change", updateSearch);
   </script>
 </Layout>

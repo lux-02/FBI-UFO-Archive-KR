@@ -169,6 +169,36 @@ export type ReaderPageIndexEntry = {
   sourcePage: PublicSourcePage | undefined;
   translationPage: PublicTranslationSummary["pages"][number] | undefined;
   hasImage: boolean;
+  sourceTextLineCount: number;
+  status: ReaderPageStatus;
+};
+
+export type ReaderPageStatusKind =
+  | "translated"
+  | "partial_translation"
+  | "source_only"
+  | "no_text"
+  | "review_hold";
+
+export type ReaderPageStatusTone = "source" | "hold" | "stale";
+
+export type ReaderPageStatus = {
+  kind: ReaderPageStatusKind;
+  labelKo: string;
+  tone: ReaderPageStatusTone;
+  isTranslated: boolean;
+};
+
+export type ReaderPartCoverageStats = {
+  part: number;
+  pageCount: number;
+  translatedPageCount: number;
+  partialTranslationPageCount: number;
+  sourceOnlyPageCount: number;
+  noTextPageCount: number;
+  reviewHoldPageCount: number;
+  imagePageCount: number;
+  missingImageCount: number;
 };
 
 function readJson<T>(path: string): T {
@@ -292,6 +322,68 @@ export function getSourcePagesForPart(part: number): PublicSourcePage[] {
     .sort((a, b) => a.page - b.page);
 }
 
+export function getSourceTextLineCount(sourcePage: PublicSourcePage | undefined): number {
+  return (
+    sourcePage?.lines.filter((line) => typeof line.text === "string" && line.text.trim().length > 0).length ?? 0
+  );
+}
+
+export function classifyReaderPage(
+  sourcePage: PublicSourcePage | undefined,
+  translationPage: Pick<PublicTranslationPage, "unitCount" | "excludedLineCount"> | undefined,
+): ReaderPageStatus {
+  if (translationPage && translationPage.unitCount > 0) {
+    if (translationPage.excludedLineCount > 0) {
+      return {
+        kind: "partial_translation",
+        labelKo: "일부 보류",
+        tone: "hold",
+        isTranslated: true,
+      };
+    }
+    return {
+      kind: "translated",
+      labelKo: "한국어",
+      tone: "source",
+      isTranslated: true,
+    };
+  }
+
+  if (!sourcePage) {
+    return {
+      kind: "review_hold",
+      labelKo: "원문 대기",
+      tone: "hold",
+      isTranslated: false,
+    };
+  }
+
+  if (getSourceTextLineCount(sourcePage) === 0) {
+    return {
+      kind: "no_text",
+      labelKo: "텍스트 없음",
+      tone: "stale",
+      isTranslated: false,
+    };
+  }
+
+  if (sourcePage.translationReadiness && sourcePage.translationReadiness !== "ready") {
+    return {
+      kind: "review_hold",
+      labelKo: "판독 보류",
+      tone: "hold",
+      isTranslated: false,
+    };
+  }
+
+  return {
+    kind: "source_only",
+    labelKo: "원문만",
+    tone: "stale",
+    isTranslated: false,
+  };
+}
+
 export function getTranslationPagesForPart(
   part: number,
   mode: ReaderExposureMode = "dataset_review",
@@ -318,14 +410,45 @@ export function getReaderPagesForPart(
 
   return Array.from({ length: source.pageCount }, (_, index) => {
     const page = index + 1;
+    const sourcePage = sourcePageByNumber.get(page);
+    const translationPage = translationPageByNumber.get(page);
+    const pageImage = getReaderPageImage(part, page);
     return {
       page,
       pageId: pageSlug(page),
-      sourcePage: sourcePageByNumber.get(page),
-      translationPage: translationPageByNumber.get(page),
-      hasImage: Boolean(getReaderPageImage(part, page)),
+      sourcePage,
+      translationPage,
+      hasImage: Boolean(pageImage),
+      sourceTextLineCount: getSourceTextLineCount(sourcePage),
+      status: classifyReaderPage(sourcePage, translationPage),
     };
   });
+}
+
+export function getReaderPartCoverage(
+  part: number,
+  mode: ReaderExposureMode = "dataset_review",
+): ReaderPartCoverageStats | undefined {
+  const source = getSourcePart(part);
+  if (!source) return undefined;
+  const pages = getReaderPagesForPart(part, mode);
+  return {
+    part,
+    pageCount: source.pageCount,
+    translatedPageCount: pages.filter((page) => page.status.kind === "translated").length,
+    partialTranslationPageCount: pages.filter((page) => page.status.kind === "partial_translation").length,
+    sourceOnlyPageCount: pages.filter((page) => page.status.kind === "source_only").length,
+    noTextPageCount: pages.filter((page) => page.status.kind === "no_text").length,
+    reviewHoldPageCount: pages.filter((page) => page.status.kind === "review_hold").length,
+    imagePageCount: pages.filter((page) => page.hasImage).length,
+    missingImageCount: pages.filter((page) => !page.hasImage).length,
+  };
+}
+
+export function getArchiveCoverage(mode: ReaderExposureMode = "dataset_review"): ReaderPartCoverageStats[] {
+  return getSourceParts()
+    .map((source) => getReaderPartCoverage(source.part, mode))
+    .filter((stats): stats is ReaderPartCoverageStats => Boolean(stats));
 }
 
 export function getPublishedDatasetParts(): ArchivePartSummary[] {
