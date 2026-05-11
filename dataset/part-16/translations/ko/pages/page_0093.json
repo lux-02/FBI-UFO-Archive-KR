@@ -1,0 +1,815 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 16,
+  "page": 93,
+  "pageId": "page_0093",
+  "source": {
+    "pdfPath": "docs/ufo16.pdf",
+    "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-11T01:48:40.049Z",
+  "unitCount": 10,
+  "sourceLineCount": 37,
+  "excludedLineCount": 6,
+  "excludedLines": [
+    {
+      "part": 16,
+      "page": 93,
+      "pageId": "page_0093",
+      "lineId": "page_0093-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 93,
+      "pageId": "page_0093",
+      "lineId": "page_0093-l0007",
+      "lineNumber": 7,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "Re telephone call to [REDACTED] at the Bureau on July 12, 1950.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 93,
+      "pageId": "page_0093",
+      "lineId": "page_0093-l0009",
+      "lineNumber": 9,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "On July 11, 1950, [REDACTED], furnished",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 93,
+      "pageId": "page_0093",
+      "lineId": "page_0093-l0033",
+      "lineNumber": 33,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 93,
+      "pageId": "page_0093",
+      "lineId": "page_0093-l0040",
+      "lineNumber": 40,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] relative to this matter. There is also enclosed a",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 93,
+      "pageId": "page_0093",
+      "lineId": "page_0093-l0041",
+      "lineNumber": 41,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "memorandum submitted by clerk [REDACTED] on the same matter.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p16-page-0093-u001",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 93,
+      "pageId": "page_0093",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0093-l0003",
+          "page_0093-l0004",
+          "page_0093-l0005"
+        ],
+        "lineNumbers": [
+          3,
+          4,
+          5
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "TO : DIRECTOR, F.B.I. DATE: July 14, 1950\nFROM : SAC, OKLAHOMA CITY\nSUBJECT: INFORMATION CONCERNING AIR MAIL SPECIAL DELIVERY"
+      },
+      "translation": {
+        "text": "수신: 국장, F.B.I. 날짜: 1950년 7월 14일\n발신: SAC, 오클라호마 시티\n제목: 항공 우편 특급 배달 관련 정보",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0093-u002",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 93,
+      "pageId": "page_0093",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0093-l0010",
+          "page_0093-l0011",
+          "page_0093-l0012",
+          "page_0093-l0013"
+        ],
+        "lineNumbers": [
+          10,
+          11,
+          12,
+          13
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "this Office with a copy of a letter addressed to the Daily Oklahoman and\nTimes, Oklahoma City, Oklahoma, dated July 10, 1950. Copies of this letter\nwere designated for the FBI, Washington, and the Oklahoma City Police\nDepartment. The letter itself is quoted:"
+      },
+      "translation": {
+        "text": "본 사무실에 1950년 7월 10일자 Daily Oklahoman and Times, 오클라호마 시티, 오클라호마에 보낸 편지 사본이 접수되었습니다. 이 편지의 사본은 FBI 워싱턴과 오클라호마 시티 경찰서로 지정되었습니다. 편지 내용은 다음과 같습니다.",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0093-u003",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 93,
+      "pageId": "page_0093",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0093-l0015"
+        ],
+        "lineNumbers": [
+          15
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "\"Gentlemen:"
+      },
+      "translation": {
+        "text": "\"신사 숙녀 여러분:",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0093-u004",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 93,
+      "pageId": "page_0093",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0093-l0017",
+          "page_0093-l0018",
+          "page_0093-l0019",
+          "page_0093-l0020"
+        ],
+        "lineNumbers": [
+          17,
+          18,
+          19,
+          20
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "\"Reference to a fellow being 'soused', in your paper\nof this date, applied to me. To say that, was not libel, because,\nsometimes that is true and, here in the Bible Belt, who determines\nwhen one is 'soused'.?"
+      },
+      "translation": {
+        "text": "\"오늘자 귀지에서 '술에 취한' 동료에 대한 언급은 저에게 해당됩니다. 그렇게 말한 것은 명예훼손이 아닙니다. 왜냐하면 때로는 그것이 사실이고, 여기 바이블 벨트에서는 누가 언제 '술에 취했는지'를 결정합니까?\"",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0093-u005",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 93,
+      "pageId": "page_0093",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0093-l0022",
+          "page_0093-l0023",
+          "page_0093-l0024",
+          "page_0093-l0025"
+        ],
+        "lineNumbers": [
+          22,
+          23,
+          24,
+          25
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0024",
+            "lineNumber": 24,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "\"What I have to say is, that the 'piece of an old meteorite'\nwas no doubt true. But, on close accord with the circumstances, I\nexamined the piece and found a wire attached. That was the reason for\ncalling the FBI and the Oklahoma City Police Department."
+      },
+      "translation": {
+        "text": "\"제가 말하고 싶은 것은 '오래된 운석 조각'이 의심할 여지 없이 사실이었다는 것입니다. 하지만 상황을 면밀히 검토한 결과, 저는 그 조각을 조사했고 전선이 부착되어 있는 것을 발견했습니다. 그것이 FBI와 오클라호마 시티 경찰서에 전화한 이유였습니다.",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0093-u006",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 93,
+      "pageId": "page_0093",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0093-l0027",
+          "page_0093-l0028",
+          "page_0093-l0029",
+          "page_0093-l0030"
+        ],
+        "lineNumbers": [
+          27,
+          28,
+          29,
+          30
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0027",
+            "lineNumber": 27,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0028",
+            "lineNumber": 28,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0030",
+            "lineNumber": 30,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "\"The Oklahoma City Police Department did their duty, in\nthis little incident, but the FBI office seemed to care little about\nit. Had it been of major importance, would the local office acted as\nit did?"
+      },
+      "translation": {
+        "text": "\"오클라호마 시티 경찰서는 이 작은 사건에서 그들의 의무를 다했지만, FBI 사무실은 그것에 대해 거의 신경 쓰지 않는 것 같았습니다. 만약 그것이 중요한 일이었다면, 지역 사무실은 그렇게 행동했을까요?",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0093-u007",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 93,
+      "pageId": "page_0093",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0093-l0032"
+        ],
+        "lineNumbers": [
+          32
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0032",
+            "lineNumber": 32,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "Yours very truly,"
+      },
+      "translation": {
+        "text": "진심으로,",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0093-u008",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 93,
+      "pageId": "page_0093",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0093-l0035",
+          "page_0093-l0036",
+          "page_0093-l0037"
+        ],
+        "lineNumbers": [
+          35,
+          36,
+          37
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0035",
+            "lineNumber": 35,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0036",
+            "lineNumber": 36,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0037",
+            "lineNumber": 37,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "In the Oklahoma City Times of July 10, 1950, there appeared an\narticle entitled, \"Flying Saucer Lands in Police Trophy Room.\" This article\nis attached."
+      },
+      "translation": {
+        "text": "1950년 7월 10일자 오클라호마 시티 타임즈에 \"경찰 트로피룸에 착륙한 비행접시\"라는 제목의 기사가 실렸습니다. 이 기사가 첨부되어 있습니다.",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0093-u009",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 93,
+      "pageId": "page_0093",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0093-l0039"
+        ],
+        "lineNumbers": [
+          39
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0039",
+            "lineNumber": 39,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "Submitted herewith is a copy of a memorandum by night clerk"
+      },
+      "translation": {
+        "text": "야간 근무자의 메모 사본이 함께 제출됩니다.",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0093-u010",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 93,
+      "pageId": "page_0093",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0093-l0043",
+          "page_0093-l0044",
+          "page_0093-l0045",
+          "page_0093-l0046",
+          "page_0093-l0047",
+          "page_0093-l0048",
+          "page_0093-l0049",
+          "page_0093-l0050",
+          "page_0093-l0051",
+          "page_0093-l0052",
+          "page_0093-l0053",
+          "page_0093-l0054"
+        ],
+        "lineNumbers": [
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0043",
+            "lineNumber": 43,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0044",
+            "lineNumber": 44,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0045",
+            "lineNumber": 45,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0046",
+            "lineNumber": 46,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0047",
+            "lineNumber": 47,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0048",
+            "lineNumber": 48,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0049",
+            "lineNumber": 49,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0050",
+            "lineNumber": 50,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0051",
+            "lineNumber": 51,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0052",
+            "lineNumber": 52,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0053",
+            "lineNumber": 53,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 93,
+            "pageId": "page_0093",
+            "lineId": "page_0093-l0054",
+            "lineNumber": 54,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "62-0\nDRS:dc/vs\nENCLOSURES\n(1)\n52 AUG 14 1950\nSE-3\n69 - RECORDED\nINDEXED - 69\nCOPIES DESTROYED\n135 NOV 25 1964\nN 162-92605-\nJUL 27 1950"
+      },
+      "translation": {
+        "text": "62-0\nDRS:dc/vs\n첨부 문서\n(1)\n52 1950년 8월 14일\nSE-3\n69 - 기록됨\n색인됨 - 69\n사본 파기됨\n135 1964년 11월 25일\nN 162-92605-\n1950년 7월 27일",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

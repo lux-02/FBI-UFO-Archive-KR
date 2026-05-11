@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 16,
+  "page": 90,
+  "pageId": "page_0090",
+  "source": {
+    "pdfPath": "docs/ufo16.pdf",
+    "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 3 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0090-l0003",
+    "page_0090-l0004",
+    "page_0090-l0005",
+    "page_0090-l0006",
+    "page_0090-l0007"
+  ],
+  "lineCount": 10,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "14 November 1950",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "On 25 October 1950, between 0200 and 0300 hours, the Radar",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 4,
+      "text": "Site at the McGhee-Tyson Airport, Knoxville, Tennessee, reported",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 5,
+      "text": "several small, slow-moving targets as described in Summary of",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 6,
+      "text": "Information, Subject: \"Objects Sighted Over Oak Ridge, Tennessee,\"",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 7,
+      "text": "dated 21 October 1950, Enclosure 4.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "/s/ WILLIAM B. GRAY",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "SAC, KNOXVILLE",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}

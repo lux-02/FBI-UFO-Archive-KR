@@ -1,0 +1,443 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 16,
+  "page": 78,
+  "pageId": "page_0078",
+  "source": {
+    "pdfPath": "docs/ufo16.pdf",
+    "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-11T01:48:40.049Z",
+  "unitCount": 8,
+  "sourceLineCount": 12,
+  "excludedLineCount": 3,
+  "excludedLines": [
+    {
+      "part": 16,
+      "page": 78,
+      "pageId": "page_0078",
+      "lineId": "page_0078-l0003",
+      "lineNumber": 3,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "below the ridge of the mountain. (Note: [REDACTED] stated that for the object to",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 78,
+      "pageId": "page_0078",
+      "lineId": "page_0078-l0006",
+      "lineNumber": 6,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "Information on Subject - [REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 78,
+      "pageId": "page_0078",
+      "lineId": "page_0078-l0019",
+      "lineNumber": 19,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "S/A OSI",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p16-page-0078-u001",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 78,
+      "pageId": "page_0078",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0078-l0001",
+          "page_0078-l0002"
+        ],
+        "lineNumbers": [
+          1,
+          2
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "COPY\n67C"
+      },
+      "translation": {
+        "text": "사본\n67C",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0078-u002",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 78,
+      "pageId": "page_0078",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0078-l0004",
+          "page_0078-l0005"
+        ],
+        "lineNumbers": [
+          4,
+          5
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "be as large as he described and to be six (6) miles distant its size would be\ncomparable to a three (3) story building a half a block long)."
+      },
+      "translation": {
+        "text": "그가 묘사한 만큼 크고 6마일 떨어져 있다면 그 크기는\n반 블록 길이의 3층 건물과 비슷할 것이다).",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0078-u003",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 78,
+      "pageId": "page_0078",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0078-l0008",
+          "page_0078-l0009",
+          "page_0078-l0010"
+        ],
+        "lineNumbers": [
+          8,
+          9,
+          10
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "6. Weather and wind conditions - according to the Weather Bureau\nat Oak Ridge, the temperature was 51 degrees and there was a nine (9) to\ntwelve (12) mile an hour West wind. Visibility was unlimited."
+      },
+      "translation": {
+        "text": "6. 날씨 및 바람 상태 - 오크리지 기상청에 따르면\n기온은 51도였고 서풍이 시속 9~12마일로 불었다. 시야는 무제한이었다.",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0078-u004",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 78,
+      "pageId": "page_0078",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0078-l0012"
+        ],
+        "lineNumbers": [
+          12
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "7. Unknown"
+      },
+      "translation": {
+        "text": "7. 미상",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0078-u005",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 78,
+      "pageId": "page_0078",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0078-l0014"
+        ],
+        "lineNumbers": [
+          14
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "8. Physical Evidence - None"
+      },
+      "translation": {
+        "text": "8. 물리적 증거 - 없음",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0078-u006",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 78,
+      "pageId": "page_0078",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0078-l0016"
+        ],
+        "lineNumbers": [
+          16
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "9. Interception or identification action taken - None"
+      },
+      "translation": {
+        "text": "9. 요격 또는 식별 조치 - 없음",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0078-u007",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 78,
+      "pageId": "page_0078",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0078-l0018"
+        ],
+        "lineNumbers": [
+          18
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "/s/ WILLIAM M. PRICE"
+      },
+      "translation": {
+        "text": "/s/ 윌리엄 M. 프라이스",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0078-u008",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 78,
+      "pageId": "page_0078",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0078-l0020"
+        ],
+        "lineNumbers": [
+          20
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 78,
+            "pageId": "page_0078",
+            "lineId": "page_0078-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "Detachment Commander"
+      },
+      "translation": {
+        "text": "파견대장",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

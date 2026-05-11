@@ -1,0 +1,618 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 16,
+  "page": 79,
+  "pageId": "page_0079",
+  "source": {
+    "pdfPath": "docs/ufo16.pdf",
+    "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-11T01:48:40.049Z",
+  "unitCount": 9,
+  "sourceLineCount": 23,
+  "excludedLineCount": 5,
+  "excludedLines": [
+    {
+      "part": 16,
+      "page": 79,
+      "pageId": "page_0079",
+      "lineId": "page_0079-l0003",
+      "lineNumber": 3,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "On 13 November 1940, the undersigned was informed by personnel at the",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 79,
+      "pageId": "page_0079",
+      "lineId": "page_0079-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "Airport, Knoxville, Tennessee, that [REDACTED], Boston, Mass.,",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 79,
+      "pageId": "page_0079",
+      "lineId": "page_0079-l0008",
+      "lineNumber": 8,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "great rate of speed. [REDACTED], who has considerable flying experience, was",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 79,
+      "pageId": "page_0079",
+      "lineId": "page_0079-l0011",
+      "lineNumber": 11,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "information may be obtained concerning this sighting, [REDACTED] should be",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 79,
+      "pageId": "page_0079",
+      "lineId": "page_0079-l0017",
+      "lineNumber": 17,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED], Knoxville Airport,",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p16-page-0079-u001",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 79,
+      "pageId": "page_0079",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0079-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "14 November 1950"
+      },
+      "translation": {
+        "text": "1950년 11월 14일",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0079-u002",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 79,
+      "pageId": "page_0079",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0079-l0004"
+        ],
+        "lineNumbers": [
+          4
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "Civil Aeronautical Administration (CAA), Communications Section, Knoxville"
+      },
+      "translation": {
+        "text": "민간 항공국(CAA), 통신과, 녹스빌",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0079-u003",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 79,
+      "pageId": "page_0079",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0079-l0006",
+          "page_0079-l0007"
+        ],
+        "lineNumbers": [
+          6,
+          7
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "commercial airline pilot, and six other persons (names unknown), while awaiting\na flight at Knoxville Airport, saw an object traveling to the Southwest at a"
+      },
+      "translation": {
+        "text": "상업 항공사 조종사와 다른 6명(이름 미상)이 녹스빌 공항에서 비행을 기다리던 중 남서쪽으로 이동하는 물체를 보았습니다.",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0079-u004",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 79,
+      "pageId": "page_0079",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0079-l0009",
+          "page_0079-l0010"
+        ],
+        "lineNumbers": [
+          9,
+          10
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "extremely excited and stated that this object was not an aircraft. He\ndescribed it as a circular object, leaving a trail of smoke. Before further"
+      },
+      "translation": {
+        "text": "극도로 흥분하여 이 물체가 항공기가 아니라고 진술했습니다. 그는 그것을 연기 흔적을 남기는 원형 물체로 묘사했습니다. 추가적인",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0079-u005",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 79,
+      "pageId": "page_0079",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0079-l0012",
+          "page_0079-l0013"
+        ],
+        "lineNumbers": [
+          12,
+          13
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "interviewed in an attempt to learn the names of the other five observers. The\nincident occurred on 29 October 1950."
+      },
+      "translation": {
+        "text": "다른 다섯 명의 관찰자들의 이름을 알아내기 위해 인터뷰했습니다. 이 사건은 1950년 10월 29일에 발생했습니다.",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0079-u006",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 79,
+      "pageId": "page_0079",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0079-l0015"
+        ],
+        "lineNumbers": [
+          15
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "672"
+      },
+      "translation": {
+        "text": "672",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0079-u007",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 79,
+      "pageId": "page_0079",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0079-l0018",
+          "page_0079-l0019",
+          "page_0079-l0020",
+          "page_0079-l0021",
+          "page_0079-l0022",
+          "page_0079-l0023",
+          "page_0079-l0024",
+          "page_0079-l0025",
+          "page_0079-l0026",
+          "page_0079-l0027"
+        ],
+        "lineNumbers": [
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0024",
+            "lineNumber": 24,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0026",
+            "lineNumber": 26,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0027",
+            "lineNumber": 27,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "Knoxville, Tennessee, maintains a record of unidentified and identified objects,\nand/or aircrafts which he is requested to contact by radio prior to the Air\nForce Fighters attempted interception. His record further verified some of\nthe sightings and listed Air Force activity heretofore not reported. Apparently\nan object traveling at eighty (80) miles per hour from the Northeast to the\nSouthwest, over the restricted area, on 5 November 1950, at 0929 hours, was\nintercepted by a fighter aircraft according to radar screen readings. The\nfighter intercepted this object near or over the restricted zone and circled\nto the right, so as to trail the object for about 20 miles. The pilot reported\nthat he made no visual contact with any object during this interception."
+      },
+      "translation": {
+        "text": "테네시주 녹스빌은 미확인 및 확인된 물체 및/또는 항공기에 대한 기록을 유지하고 있으며, 공군 전투기가 요격 시도 전에 무선으로 연락하도록 요청받습니다. 그의 기록은 일부 목격 사실을 추가로 확인했으며 이전에 보고되지 않은 공군 활동을 나열했습니다. 1950년 11월 5일 09시 29분에 제한 구역 상공에서 북동쪽에서 남서쪽으로 시속 80마일로 이동하는 물체가 레이더 화면 판독에 따라 전투기에 의해 요격된 것으로 보입니다. 전투기는 제한 구역 근처 또는 상공에서 이 물체를 요격하고 오른쪽으로 선회하여 약 20마일 동안 물체를 추적했습니다. 조종사는 이 요격 중 어떤 물체와도 시각적 접촉을 하지 않았다고 보고했습니다.",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0079-u008",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 79,
+      "pageId": "page_0079",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0079-l0029",
+          "page_0079-l0030"
+        ],
+        "lineNumbers": [
+          29,
+          30
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0030",
+            "lineNumber": 30,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "NOTES: No record of this interception or radar sighting was found to be\nlisted at the USAF Radar Site at the Knoxville Airport."
+      },
+      "translation": {
+        "text": "참고: 이 요격 또는 레이더 목격 기록은 녹스빌 공항의 USAF 레이더 기지에서 발견되지 않았습니다.",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0079-u009",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 79,
+      "pageId": "page_0079",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0079-l0032",
+          "page_0079-l0033"
+        ],
+        "lineNumbers": [
+          32,
+          33
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0032",
+            "lineNumber": 32,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 79,
+            "pageId": "page_0079",
+            "lineId": "page_0079-l0033",
+            "lineNumber": 33,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "/s/ WILLIAM B. GRAY\nSAC, KNOXVILLE"
+      },
+      "translation": {
+        "text": "/s/ 윌리엄 B. 그레이\nSAC, 녹스빌",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

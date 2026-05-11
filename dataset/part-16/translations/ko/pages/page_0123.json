@@ -1,0 +1,153 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 16,
+  "page": 123,
+  "pageId": "page_0123",
+  "source": {
+    "pdfPath": "docs/ufo16.pdf",
+    "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-11T01:48:40.049Z",
+  "unitCount": 1,
+  "sourceLineCount": 2,
+  "excludedLineCount": 7,
+  "excludedLines": [
+    {
+      "part": 16,
+      "page": 123,
+      "pageId": "page_0123",
+      "lineId": "page_0123-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "The Literal-minded FBI, skeptical but determined could not",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 123,
+      "pageId": "page_0123",
+      "lineId": "page_0123-l0002",
+      "lineNumber": 2,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "let the flying saucer excitement go by without getting to the bottom of",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 123,
+      "pageId": "page_0123",
+      "lineId": "page_0123-l0003",
+      "lineNumber": 3,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "it. Such a profusion of strange objects littering the American skies",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 123,
+      "pageId": "page_0123",
+      "lineId": "page_0123-l0004",
+      "lineNumber": 4,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "was too important to ignore.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 123,
+      "pageId": "page_0123",
+      "lineId": "page_0123-l0006",
+      "lineNumber": 6,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "A 10-page report by the nuclear physics branch of the Office",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 123,
+      "pageId": "page_0123",
+      "lineId": "page_0123-l0007",
+      "lineNumber": 7,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "of Naval Research, has given the answer:",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 123,
+      "pageId": "page_0123",
+      "lineId": "page_0123-l0009",
+      "lineNumber": 9,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Flying saucers were, and are, undeniably real.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p16-page-0123-u001",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 123,
+      "pageId": "page_0123",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0123-l0011",
+          "page_0123-l0012"
+        ],
+        "lineNumbers": [
+          11,
+          12
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 123,
+            "pageId": "page_0123",
+            "lineId": "page_0123-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 123,
+            "pageId": "page_0123",
+            "lineId": "page_0123-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "ENCLOSURE\n94-3-4-317-321"
+      },
+      "translation": {
+        "text": "첨부 문서\n94-3-4-317-321",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

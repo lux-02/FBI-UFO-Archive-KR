@@ -1,0 +1,708 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 16,
+  "page": 86,
+  "pageId": "page_0086",
+  "source": {
+    "pdfPath": "docs/ufo16.pdf",
+    "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-11T01:48:40.049Z",
+  "unitCount": 7,
+  "sourceLineCount": 38,
+  "excludedLineCount": 4,
+  "excludedLines": [
+    {
+      "part": 16,
+      "page": 86,
+      "pageId": "page_0086",
+      "lineId": "page_0086-l0007",
+      "lineNumber": 7,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "[unclear]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 86,
+      "pageId": "page_0086",
+      "lineId": "page_0086-l0023",
+      "lineNumber": 23,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "called [REDACTED], HKPA Division,",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 86,
+      "pageId": "page_0086",
+      "lineId": "page_0086-l0026",
+      "lineNumber": 26,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "A later check with [REDACTED] indicated that his home was located in a",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 16,
+      "page": 86,
+      "pageId": "page_0086",
+      "lineId": "page_0086-l0031",
+      "lineNumber": 31,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "While returning to my car I met a friend, [REDACTED] of Knoxville,",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p16-page-0086-u001",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 86,
+      "pageId": "page_0086",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0086-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "UNIDENTIFIED OBJECT OVER OAK RIDGE, TENNESSEE - October 1950."
+      },
+      "translation": {
+        "text": "테네시주 오크리지 상공의 미확인 물체 - 1950년 10월.",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0086-u002",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 86,
+      "pageId": "page_0086",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0086-l0003",
+          "page_0086-l0004",
+          "page_0086-l0005",
+          "page_0086-l0006"
+        ],
+        "lineNumbers": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "On the evening of October 24, 1950 I was attending a moving picture\nshow at the Oak Ridge out-door drive-in theater. I arrived approximately\nat 6:45 which was about 15 minutes prior to show time. While sitting in\nthe car with my wife and children I casually glanced skyward towards"
+      },
+      "translation": {
+        "text": "1950년 10월 24일 저녁, 저는 오크리지 야외 자동차 극장에서 영화를 보고 있었습니다. 저는 상영 시간 약 15분 전인 대략 6시 45분에 도착했습니다. 아내와 아이들과 함께 차에 앉아 있다가 무심코 하늘을 올려다보았고",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0086-u003",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 86,
+      "pageId": "page_0086",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0086-l0008",
+          "page_0086-l0009",
+          "page_0086-l0010",
+          "page_0086-l0011",
+          "page_0086-l0012",
+          "page_0086-l0013",
+          "page_0086-l0014",
+          "page_0086-l0015",
+          "page_0086-l0016",
+          "page_0086-l0017",
+          "page_0086-l0018",
+          "page_0086-l0019"
+        ],
+        "lineNumbers": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0019",
+            "lineNumber": 19,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "and observed what I at first thought to be an unusually bright\nstar. The exceptional brilliance caused me to continue to observe it\nIt suddenly seemed to change color rapidly from a reddish hue to a bright\norange and again to a brilliant light blue. My son noticed that I was\nobserving something and questioned me to what it was at which time I asked\nhim to look at the star and tell me what he saw. At first glance he\nimmediately said that it did not look like a star to him at all because\nof the change in coloring. My wife also noticed the same phenomena. By\nnow I was certain that I was not merely having an optical illusion. A few\nmoments later I heard a plane directly over head making passes over the\nOak Ridge area, which was later identified as one of the F-82 fighter planes\nfrom the Air Force unit stationed at the McGhee-Tyson Airport."
+      },
+      "translation": {
+        "text": "처음에는 유난히 밝은 별이라고 생각했던 것을 보았습니다. 그 특별한 밝기 때문에 저는 계속해서 그것을 관찰하게 되었습니다. 그것은 갑자기 붉은색에서 밝은 주황색으로, 그리고 다시 밝은 하늘색으로 빠르게 색이 변하는 것처럼 보였습니다. 제 아들이 제가 무언가를 관찰하고 있다는 것을 알아차리고 그것이 무엇인지 물었고, 저는 그에게 별을 보고 무엇을 보는지 말해달라고 부탁했습니다. 그는 첫눈에 색깔 변화 때문에 전혀 별처럼 보이지 않는다고 즉시 말했습니다. 제 아내도 같은 현상을 목격했습니다. 이제 저는 단순히 착시 현상을 겪고 있는 것이 아니라고 확신했습니다. 잠시 후 저는 머리 위에서 오크리지 상공을 비행하는 비행기 소리를 들었는데, 나중에 맥기-타이슨 공항에 주둔한 공군 부대의 F-82 전투기 중 하나로 확인되었습니다.",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0086-u004",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 86,
+      "pageId": "page_0086",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0086-l0021",
+          "page_0086-l0022"
+        ],
+        "lineNumbers": [
+          21,
+          22
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0022",
+            "lineNumber": 22,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "I hesitated to approach other vehicles in the theater to witness the\nobject, but managed to reach a telephone at the projection building and"
+      },
+      "translation": {
+        "text": "저는 극장 내 다른 차량에 접근하여 그 물체를 목격하게 하는 것을 망설였지만, 영사 건물에 있는 전화기에 겨우 연락하여",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0086-u005",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 86,
+      "pageId": "page_0086",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0086-l0024",
+          "page_0086-l0025"
+        ],
+        "lineNumbers": [
+          24,
+          25
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0024",
+            "lineNumber": 24,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0025",
+            "lineNumber": 25,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "Fairchild Engine and Airplane Corporation, at his home to ask him whether\nor not he could see in that direction and possibly observe the object."
+      },
+      "translation": {
+        "text": "페어차일드 엔진 및 항공기 회사에 있는 그에게 그 방향을 볼 수 있는지, 그리고 그 물체를 관찰할 수 있는지 물어보기 위해 그의 집으로 전화했습니다.",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0086-u006",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 86,
+      "pageId": "page_0086",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0086-l0027",
+          "page_0086-l0028",
+          "page_0086-l0029"
+        ],
+        "lineNumbers": [
+          27,
+          28,
+          29
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0027",
+            "lineNumber": 27,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0028",
+            "lineNumber": 28,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "poor geographical position to observe anything towards the southwest because\nof hills and other obliterating features of the terrain. He did, however,\ndrive to a higher location but failed to see the object."
+      },
+      "translation": {
+        "text": "언덕과 다른 지형적 특징 때문에 남서쪽 방향으로 아무것도 관찰하기에 지리적 위치가 좋지 않았습니다. 그러나 그는 더 높은 곳으로 차를 몰고 갔지만 그 물체를 보지 못했습니다.",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p16-page-0086-u007",
+      "unitVersion": 1,
+      "part": 16,
+      "page": 86,
+      "pageId": "page_0086",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo16.pdf",
+        "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc",
+        "lineIds": [
+          "page_0086-l0032",
+          "page_0086-l0033",
+          "page_0086-l0034",
+          "page_0086-l0035",
+          "page_0086-l0036",
+          "page_0086-l0037",
+          "page_0086-l0038",
+          "page_0086-l0039",
+          "page_0086-l0040",
+          "page_0086-l0041",
+          "page_0086-l0042",
+          "page_0086-l0043",
+          "page_0086-l0044",
+          "page_0086-l0045"
+        ],
+        "lineNumbers": [
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ],
+        "refs": [
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0032",
+            "lineNumber": 32,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0033",
+            "lineNumber": 33,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0034",
+            "lineNumber": 34,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0035",
+            "lineNumber": 35,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0036",
+            "lineNumber": 36,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0037",
+            "lineNumber": 37,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0038",
+            "lineNumber": 38,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0039",
+            "lineNumber": 39,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0040",
+            "lineNumber": 40,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0041",
+            "lineNumber": 41,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0042",
+            "lineNumber": 42,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0043",
+            "lineNumber": 43,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0044",
+            "lineNumber": 44,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          },
+          {
+            "part": 16,
+            "page": 86,
+            "pageId": "page_0086",
+            "lineId": "page_0086-l0045",
+            "lineNumber": 45,
+            "sourcePath": "docs/ufo16.pdf",
+            "sourceSha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+          }
+        ],
+        "text": "to whom I pointed out the object. He stated he had been observing the\nobject. I continued to observe the object together with my wife but it\nseemed to be in a slightly more northerly position which caused me to\nselect a fixed point to determine whether or not the object was changing\nin either altitude or direction. There seemed to be a deviation from north\nto south for approximately five to ten degrees. The changing in colors were\nstill very evident but the object seemed to be continually getting smaller\nsmaller as though it was becoming more distant. At approximately 7:10 by my\nwatch it disappeared from view entirely. During these observations my wife\ncontinued to report to me the identical things that I was observing. During\nthe entire time the F-82 airplane continued to make passes over the area until\napproximately 7:15. The weather conditions were excellent; the air was\ncalm; and the sky was cloudless with the exception of a very slight haze over\nthe distant horizon."
+      },
+      "translation": {
+        "text": "제가 그 물체를 가리킨 사람입니다. 그는 그 물체를 관찰하고 있었다고 말했습니다. 저는 아내와 함께 그 물체를 계속 관찰했지만, 그것은 약간 더 북쪽에 있는 것처럼 보였고, 이로 인해 저는 그 물체가 고도나 방향을 바꾸고 있는지 여부를 판단하기 위해 고정된 지점을 선택하게 되었습니다. 북쪽에서 남쪽으로 약 5도에서 10도 정도의 편차가 있는 것 같았습니다. 색깔 변화는 여전히 매우 분명했지만, 그 물체는 점점 더 멀어지는 것처럼 계속 작아지는 것 같았습니다. 제 시계로 약 7시 10분경에 그것은 시야에서 완전히 사라졌습니다. 이러한 관찰 동안 제 아내는 제가 관찰하고 있는 것과 동일한 것들을 계속해서 저에게 보고했습니다. 그 시간 내내 F-82 비행기는 약 7시 15분까지 그 지역 상공을 계속 비행했습니다. 날씨는 훌륭했습니다. 공기는 고요했고, 먼 수평선 위에 아주 약간의 안개가 낀 것을 제외하고는 하늘은 구름 한 점 없었습니다.",
+        "reviewedAt": "2026-05-11T01:48:29.193Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

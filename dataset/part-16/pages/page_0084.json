@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 16,
+  "page": 84,
+  "pageId": "page_0084",
+  "source": {
+    "pdfPath": "docs/ufo16.pdf",
+    "sha256": "0b6c69fbd948cf9f75e75cdc487d50b41c7fe3ccee97ab5c89486ceee57adadc"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 6 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0084-l0005",
+    "page_0084-l0006"
+  ],
+  "lineCount": 10,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "COPY",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "AGENT'S NOTES:",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "The weather and wind conditions at the time of observation,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "according to the Weather Bureau at Oak Ridge, Tennessee, was:",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 6,
+      "text": "\"Visibility: Unlimited. Wind: Nine (9) to twelve (12) m.p.h.",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 7,
+      "text": "West Wind. Temperature: Fifty-one (51) degrees.\"",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "/s/ WILLIAM B. GRAY(initialed)",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "SAC, Knoxville",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}
