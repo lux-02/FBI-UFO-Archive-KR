@@ -1,0 +1,271 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 15,
+  "page": 40,
+  "pageId": "page_0040",
+  "source": {
+    "pdfPath": "docs/ufo15.pdf",
+    "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-11T00:34:30.427Z",
+  "unitCount": 4,
+  "sourceLineCount": 9,
+  "excludedLineCount": 2,
+  "excludedLines": [
+    {
+      "part": 15,
+      "page": 40,
+      "pageId": "page_0040",
+      "lineId": "page_0040-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED]",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 15,
+      "page": 40,
+      "pageId": "page_0040",
+      "lineId": "page_0040-l0013",
+      "lineNumber": 13,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "SECRET",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p15-page-0040-u001",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 40,
+      "pageId": "page_0040",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0040-l0001",
+          "page_0040-l0002",
+          "page_0040-l0003",
+          "page_0040-l0004"
+        ],
+        "lineNumbers": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "SECRET\nMEX 105-5844\nSECRET\nb1"
+      },
+      "translation": {
+        "text": "비밀\nMEX 105-5844\n비밀\nb1",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p15-page-0040-u002",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 40,
+      "pageId": "page_0040",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0040-l0006",
+          "page_0040-l0007"
+        ],
+        "lineNumbers": [
+          6,
+          7
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0007",
+            "lineNumber": 7,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "No information was located in the indices of the Mexico\nCity Office identifiable with the Subject."
+      },
+      "translation": {
+        "text": "멕시코시티 지부 색인에서 해당 주제와 관련된 정보는 찾을 수 없었습니다.",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p15-page-0040-u003",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 40,
+      "pageId": "page_0040",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0040-l0009",
+          "page_0040-l0010"
+        ],
+        "lineNumbers": [
+          9,
+          10
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0010",
+            "lineNumber": 10,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "The foregoing is furnished for information of the Bureau\nand San Antonio."
+      },
+      "translation": {
+        "text": "위 내용은 국 및 샌안토니오에 정보 제공을 위해 제공됩니다.",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p15-page-0040-u004",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 40,
+      "pageId": "page_0040",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0040-l0012"
+        ],
+        "lineNumbers": [
+          12
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 40,
+            "pageId": "page_0040",
+            "lineId": "page_0040-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "SECRET"
+      },
+      "translation": {
+        "text": "비밀",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

@@ -4,76 +4,81 @@ This directory contains public-facing OCR and Korean translation datasets derive
 
 ## Status
 
-- **part-01** (`ufo1.pdf`, 69 pages) — OCR + translation export complete (2026-05-10).
+- **part-01** (`ufo1.pdf`, 69 pages) — OCR + translation export complete (2026-05-11).
   - 1,737 source-bearing lines promoted through conservative image-match closure.
   - 321 lines marked permanent_unresolved and excluded from translation body text.
   - Page-level breakdown: 9 READY · 54 PARTIAL_READY · 6 NOT_READY.
   - Korean translation export: 490 reviewed units across 63 pages, not final owner-approved.
-- **part-02** (`ufo2.pdf`, 79 pages) — OCR + translation export complete (2026-05-10).
+- **part-02** (`ufo2.pdf`, 79 pages) — OCR + translation export complete (2026-05-11).
   - 2,859 source-bearing lines promoted through conservative image-match closure.
   - 721 lines marked permanent_unresolved and excluded from translation body text.
   - Page-level breakdown: 5 READY · 72 PARTIAL_READY · 2 NOT_READY.
   - Korean translation export: 722 reviewed units across 77 pages, not final owner-approved.
-- **part-03** (`ufo3.pdf`, 111 pages) — OCR + translation export complete (2026-05-10).
+- **part-03** (`ufo3.pdf`, 111 pages) — OCR + translation export complete (2026-05-11).
   - 2,570 source-bearing lines promoted through conservative image-match closure.
   - 893 lines marked permanent_unresolved and excluded from translation body text.
   - Page-level breakdown: 7 READY · 102 PARTIAL_READY · 2 NOT_READY.
   - Korean translation export: 895 reviewed units across 109 pages, not final owner-approved.
-- **part-04** (`ufo4.pdf`, 77 pages) — OCR + translation export complete (2026-05-10).
+- **part-04** (`ufo4.pdf`, 77 pages) — OCR + translation export complete (2026-05-11).
   - 1,637 source-bearing lines promoted through conservative image-match closure.
   - 786 lines marked permanent_unresolved and excluded from translation body text.
   - Page-level breakdown: 2 READY · 74 PARTIAL_READY · 1 NOT_READY.
   - Korean translation export: 708 reviewed units across 76 pages, not final owner-approved.
-- **part-05** (`ufo5.pdf`, 74 pages) — OCR + translation export complete (2026-05-10).
+- **part-05** (`ufo5.pdf`, 74 pages) — OCR + translation export complete (2026-05-11).
   - 1,577 source-bearing lines promoted through conservative image-match closure.
   - 860 lines marked permanent_unresolved and excluded from translation body text.
   - Page-level breakdown: 3 READY · 66 PARTIAL_READY · 5 NOT_READY.
   - Korean translation export: 780 reviewed units across 69 pages, not final owner-approved.
-- **part-06** (`ufo6.pdf`, 129 pages) — OCR + translation export complete (2026-05-10).
+- **part-06** (`ufo6.pdf`, 129 pages) — OCR + translation export complete (2026-05-11).
   - 3,543 source-bearing lines promoted through conservative image-match closure.
   - 852 lines marked permanent_unresolved and excluded from translation body text.
   - Page-level breakdown: 8 READY · 120 PARTIAL_READY · 1 NOT_READY.
   - Korean translation export: 1,178 reviewed units across 128 pages, not final owner-approved.
-- **part-07** (`ufo7.pdf`, 84 pages) — OCR + translation export complete (2026-05-10).
+- **part-07** (`ufo7.pdf`, 84 pages) — OCR + translation export complete (2026-05-11).
   - 1,631 source-bearing lines promoted through conservative image-match closure.
   - 377 lines marked permanent_unresolved and excluded from translation body text.
   - Page-level breakdown: 4 READY · 71 PARTIAL_READY · 9 NOT_READY.
   - Korean translation export: 491 reviewed units across 75 pages, not final owner-approved.
-- **part-08** (`ufo8.pdf`, 66 pages) — OCR + translation export complete (2026-05-10).
+- **part-08** (`ufo8.pdf`, 66 pages) — OCR + translation export complete (2026-05-11).
   - 1,869 source-bearing lines promoted through conservative image-match closure.
   - 471 lines marked permanent_unresolved and excluded from translation body text.
   - Page-level breakdown: 4 READY · 57 PARTIAL_READY · 5 NOT_READY.
   - Korean translation export: 585 reviewed units across 61 pages, not final owner-approved.
-- **part-09** (`ufo9.pdf`, 67 pages) — OCR + translation export complete (2026-05-10).
+- **part-09** (`ufo9.pdf`, 67 pages) — OCR + translation export complete (2026-05-11).
   - 1,449 source-bearing lines promoted through conservative image-match closure.
   - 404 lines marked permanent_unresolved and excluded from translation body text.
   - Page-level breakdown: 1 READY · 64 PARTIAL_READY · 2 NOT_READY.
   - Korean translation export: 501 reviewed units across 65 pages, not final owner-approved.
-- **part-10** (`ufo10.pdf`, 56 pages) — OCR + translation export complete (2026-05-10).
+- **part-10** (`ufo10.pdf`, 56 pages) — OCR + translation export complete (2026-05-11).
   - 1,462 source-bearing lines promoted through conservative image-match closure.
   - 229 lines marked permanent_unresolved and excluded from translation body text.
   - Page-level breakdown: 5 READY · 48 PARTIAL_READY · 3 NOT_READY.
   - Korean translation export: 409 reviewed units across 53 pages, not final owner-approved.
-- **part-11** (`ufo11.pdf`, 127 pages) — OCR + translation export complete (2026-05-10).
+- **part-11** (`ufo11.pdf`, 127 pages) — OCR + translation export complete (2026-05-11).
   - 5,825 source-bearing lines promoted through conservative image-match closure.
   - 827 lines marked permanent_unresolved and excluded from translation body text.
   - Page-level breakdown: 10 READY · 105 PARTIAL_READY · 12 NOT_READY.
   - Korean translation export: 1,210 reviewed units across 115 pages, not final owner-approved.
-- **part-12** (`ufo12.pdf`, 142 pages) — OCR + translation export complete (2026-05-10).
+- **part-12** (`ufo12.pdf`, 142 pages) — OCR + translation export complete (2026-05-11).
   - 4,092 source-bearing lines promoted through conservative image-match closure.
   - 748 lines marked permanent_unresolved and excluded from translation body text.
   - Page-level breakdown: 13 READY · 115 PARTIAL_READY · 14 NOT_READY.
   - Korean translation export: 941 reviewed units across 128 pages, not final owner-approved.
-- **part-13** (`ufo13.pdf`, 148 pages) — OCR + translation export complete (2026-05-10).
+- **part-13** (`ufo13.pdf`, 148 pages) — OCR + translation export complete (2026-05-11).
   - 3,218 source-bearing lines promoted through conservative image-match closure.
   - 803 lines marked permanent_unresolved and excluded from translation body text.
   - Page-level breakdown: 14 READY · 113 PARTIAL_READY · 21 NOT_READY.
   - Korean translation export: 1,064 reviewed units across 127 pages, not final owner-approved.
-- **part-14** (`ufo14.pdf`, 141 pages) — OCR + translation export complete (2026-05-10).
+- **part-14** (`ufo14.pdf`, 141 pages) — OCR + translation export complete (2026-05-11).
   - 3,800 source-bearing lines promoted through conservative image-match closure.
   - 603 lines marked permanent_unresolved and excluded from translation body text.
   - Page-level breakdown: 17 READY · 113 PARTIAL_READY · 11 NOT_READY.
   - Korean translation export: 1,080 reviewed units across 130 pages, not final owner-approved.
+- **part-15** (`ufo15.pdf`, 77 pages) — OCR + translation export complete (2026-05-11).
+  - 4,779 source-bearing lines promoted through conservative image-match closure.
+  - 549 lines marked permanent_unresolved and excluded from translation body text.
+  - Page-level breakdown: 8 READY · 60 PARTIAL_READY · 9 NOT_READY.
+  - Korean translation export: 654 reviewed units across 68 pages, not final owner-approved.
 
 ## Disclaimer
 
@@ -169,6 +174,10 @@ dataset/
     manifest.json
     pages/
     translations/ko/
+  part-15/
+    manifest.json
+    pages/
+    translations/ko/
 ```
 
 ## Content Conventions
@@ -201,8 +210,9 @@ dataset/
 | 12 | 142 | 0 | 0 | 0 | `IMAGE_MATCHED` lines only |
 | 13 | 148 | 0 | 0 | 0 | `IMAGE_MATCHED` lines only |
 | 14 | 141 | 0 | 0 | 0 | `IMAGE_MATCHED` lines only |
+| 15 | 77 | 0 | 0 | 0 | `IMAGE_MATCHED` lines only |
 
-Parts 01-14 use line-level closure for every page. Only `IMAGE_MATCHED` lines are translation source; unresolved lines are retained as excluded source-line records.
+Parts 01-15 use line-level closure for every page. Only `IMAGE_MATCHED` lines are translation source; unresolved lines are retained as excluded source-line records.
 
 ## Korean Translation Status
 
@@ -250,6 +260,9 @@ This export now includes reviewed Korean translation data for:
 - `dataset/part-14/translations/ko/summary.json`
 - `dataset/part-14/translations/ko/units.json`
 - `dataset/part-14/translations/ko/pages/page_NNNN.{txt,json}`
+- `dataset/part-15/translations/ko/summary.json`
+- `dataset/part-15/translations/ko/units.json`
+- `dataset/part-15/translations/ko/pages/page_NNNN.{txt,json}`
 The translation input is limited to `IMAGE_MATCHED` source lines. Unresolved OCR lines are listed in each part's `excluded_source_lines.json` and are intentionally not translated as confirmed body text.
 
 The current Korean export is `reviewed` / `not_approved`: suitable for public inspection and dataset review, but not labeled as final approved publication text.
@@ -297,6 +310,9 @@ FBI-UFO-Archive-KR Project. (2026). FBI UFO Archive KR — Public OCR + Translat
 Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 
 FBI-UFO-Archive-KR Project. (2026). FBI UFO Archive KR — Public OCR + Translation Dataset, part-14.
+Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
+
+FBI-UFO-Archive-KR Project. (2026). FBI UFO Archive KR — Public OCR + Translation Dataset, part-15.
 Source: FBI Vault UFO documents (https://vault.fbi.gov/UFO).
 ```
 

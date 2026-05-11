@@ -1,0 +1,824 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 15,
+  "page": 34,
+  "pageId": "page_0034",
+  "source": {
+    "pdfPath": "docs/ufo15.pdf",
+    "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-11T00:34:30.427Z",
+  "unitCount": 12,
+  "sourceLineCount": 36,
+  "excludedLineCount": 2,
+  "excludedLines": [
+    {
+      "part": 15,
+      "page": 34,
+      "pageId": "page_0034",
+      "lineId": "page_0034-l0022",
+      "lineNumber": 22,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "individual who asked him to kill his mother. [REDACTED] appeared",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 15,
+      "page": 34,
+      "pageId": "page_0034",
+      "lineId": "page_0034-l0027",
+      "lineNumber": 27,
+      "sourceStatus": "REDACTION_MARKER_CHECK",
+      "sourceText": "[REDACTED] seemed genuinely concerned about the existence",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p15-page-0034-u001",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 34,
+      "pageId": "page_0034",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0034-l0001",
+          "page_0034-l0002",
+          "page_0034-l0003"
+        ],
+        "lineNumbers": [
+          1,
+          2,
+          3
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0002",
+            "lineNumber": 2,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "MAY 1967 EDITION\nUNITED STATES GOVERNMENT\nMemorandum"
+      },
+      "translation": {
+        "text": "1967년 5월판\n미국 정부\n메모",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p15-page-0034-u002",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 34,
+      "pageId": "page_0034",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0034-l0005",
+          "page_0034-l0006"
+        ],
+        "lineNumbers": [
+          5,
+          6
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0005",
+            "lineNumber": 5,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "TO : DIRECTOR, FBI\nDATE: 6/8/67"
+      },
+      "translation": {
+        "text": "수신: FBI 국장\n날짜: 67/6/8",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p15-page-0034-u003",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 34,
+      "pageId": "page_0034",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0034-l0008",
+          "page_0034-l0009"
+        ],
+        "lineNumbers": [
+          8,
+          9
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0008",
+            "lineNumber": 8,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0009",
+            "lineNumber": 9,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "FROM : SAC, MIAMI (62-0-11328 )\nSUBJECT: INFORMATION CONCERNING"
+      },
+      "translation": {
+        "text": "발신: SAC, 마이애미 (62-0-11328)\n제목: 관련 정보",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p15-page-0034-u004",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 34,
+      "pageId": "page_0034",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0034-l0011",
+          "page_0034-l0012",
+          "page_0034-l0013",
+          "page_0034-l0014",
+          "page_0034-l0015",
+          "page_0034-l0016",
+          "page_0034-l0017",
+          "page_0034-l0018"
+        ],
+        "lineNumbers": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0011",
+            "lineNumber": 11,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0012",
+            "lineNumber": 12,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0013",
+            "lineNumber": 13,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0014",
+            "lineNumber": 14,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0015",
+            "lineNumber": 15,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0016",
+            "lineNumber": 16,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0017",
+            "lineNumber": 17,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0018",
+            "lineNumber": 18,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "A review of the Miami indices revealed information\nreflecting subject appeared at the Miami Office on July 24,\n1959, and volunteered to return to Austria as an intelligence\nagent. His expressed motivation was to do something to repay\nthe debt he felt he owed the United States. He was afforded\nthe Washington, D. C. Headquarters address of the Central\nIntelligence Agency and told his inquiry should be directed\nthere."
+      },
+      "translation": {
+        "text": "마이애미 색인 검토 결과, 해당 인물이 1959년 7월 24일 마이애미 사무실에 나타나 정보 요원으로 오스트리아로 돌아가겠다고 자원했다는 정보가 드러났습니다. 그는 미국에 빚진 것을 갚기 위해 무언가를 하고 싶다는 동기를 표명했습니다. 그는 중앙정보국 워싱턴 D.C. 본부 주소를 받았고, 그곳으로 문의해야 한다고 들었습니다.",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p15-page-0034-u005",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 34,
+      "pageId": "page_0034",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0034-l0020",
+          "page_0034-l0021"
+        ],
+        "lineNumbers": [
+          20,
+          21
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0020",
+            "lineNumber": 20,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0021",
+            "lineNumber": 21,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "Also, on July 4, 1961, he appeared at the Miami\nOffice and gave an incoherent story of recently meeting an"
+      },
+      "translation": {
+        "text": "또한, 1961년 7월 4일, 그는 마이애미 사무실에 나타나 최근 만난 사람에 대한 앞뒤가 맞지 않는 이야기를 했습니다.",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p15-page-0034-u006",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 34,
+      "pageId": "page_0034",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0034-l0023",
+          "page_0034-l0024"
+        ],
+        "lineNumbers": [
+          23,
+          24
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0023",
+            "lineNumber": 23,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0024",
+            "lineNumber": 24,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "to be somewhat bewildered and continuously gazed away from the\ninterviewing Agent."
+      },
+      "translation": {
+        "text": "다소 당황한 듯 보였고 계속해서 면담 요원에게서 시선을 돌렸습니다.",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p15-page-0034-u007",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 34,
+      "pageId": "page_0034",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0034-l0026"
+        ],
+        "lineNumbers": [
+          26
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0026",
+            "lineNumber": 26,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "During his most recent visit to the Miami Office,"
+      },
+      "translation": {
+        "text": "그의 가장 최근 마이애미 사무실 방문 동안,",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p15-page-0034-u008",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 34,
+      "pageId": "page_0034",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0034-l0028",
+          "page_0034-l0029",
+          "page_0034-l0030"
+        ],
+        "lineNumbers": [
+          28,
+          29,
+          30
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0028",
+            "lineNumber": 28,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0029",
+            "lineNumber": 29,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0030",
+            "lineNumber": 30,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "of the object he allegedly photographed during November, 1944.\nHe exhibited no emotional nor mental disorder and appeared to\nbe rational."
+      },
+      "translation": {
+        "text": "그가 1944년 11월에 촬영했다고 주장하는 물체에 대한 것입니다. 그는 정서적 또는 정신적 장애를 보이지 않았고 이성적으로 보였습니다.",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p15-page-0034-u009",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 34,
+      "pageId": "page_0034",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0034-l0032",
+          "page_0034-l0033",
+          "page_0034-l0034",
+          "page_0034-l0035"
+        ],
+        "lineNumbers": [
+          32,
+          33,
+          34,
+          35
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0032",
+            "lineNumber": 32,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0033",
+            "lineNumber": 33,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0034",
+            "lineNumber": 34,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0035",
+            "lineNumber": 35,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "In view of recent publicity afforded UFO sightings,\nsome apparently by responsible sources, this information\nis submitted to the Bureau for consideration of transmittal\nto the U. S. Air Force."
+      },
+      "translation": {
+        "text": "최근 UFO 목격에 대한 언론 보도, 일부는 신뢰할 수 있는 출처에서 나온 것으로 보이는 점을 고려하여, 이 정보는 미 공군으로의 전달을 고려하기 위해 국에 제출됩니다.",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p15-page-0034-u010",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 34,
+      "pageId": "page_0034",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0034-l0037",
+          "page_0034-l0038"
+        ],
+        "lineNumbers": [
+          37,
+          38
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0037",
+            "lineNumber": 37,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0038",
+            "lineNumber": 38,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "REC-40\n62-75904-460"
+      },
+      "translation": {
+        "text": "REC-40\n62-75904-460",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p15-page-0034-u011",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 34,
+      "pageId": "page_0034",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0034-l0040"
+        ],
+        "lineNumbers": [
+          40
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0040",
+            "lineNumber": 40,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "14 JUN 12 1967"
+      },
+      "translation": {
+        "text": "1967년 6월 12일 14",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p15-page-0034-u012",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 34,
+      "pageId": "page_0034",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0034-l0042",
+          "page_0034-l0043",
+          "page_0034-l0044",
+          "page_0034-l0045",
+          "page_0034-l0046",
+          "page_0034-l0047"
+        ],
+        "lineNumbers": [
+          42,
+          43,
+          44,
+          45,
+          46,
+          47
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0042",
+            "lineNumber": 42,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0043",
+            "lineNumber": 43,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0044",
+            "lineNumber": 44,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0045",
+            "lineNumber": 45,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0046",
+            "lineNumber": 46,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 34,
+            "pageId": "page_0034",
+            "lineId": "page_0034-l0047",
+            "lineNumber": 47,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "Bureau (Enc. 4)\nMiami\nLB/bab\n(3)\nJUN 27 1967\nBuy U.S. Savings Bonds Regularly on the Payroll Savings Plan"
+      },
+      "translation": {
+        "text": "국 (첨부 문서 4)\n마이애미\nLB/bab\n(3)\n1967년 6월 27일\n급여 공제 저축 계획으로 미국 저축 채권을 정기적으로 구매하십시오",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

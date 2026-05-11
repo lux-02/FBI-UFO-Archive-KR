@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 15,
+  "page": 67,
+  "pageId": "page_0067",
+  "source": {
+    "pdfPath": "docs/ufo15.pdf",
+    "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-11T00:34:30.427Z",
+  "unitCount": 2,
+  "sourceLineCount": 3,
+  "excludedLineCount": 2,
+  "excludedLines": [
+    {
+      "part": 15,
+      "page": 67,
+      "pageId": "page_0067",
+      "lineId": "page_0067-l0002",
+      "lineNumber": 2,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "President of Understanding, Inc. of P. O. Box 76, Merlin, Oregon 97532. Your editor enlarged them",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 15,
+      "page": 67,
+      "pageId": "page_0067",
+      "lineId": "page_0067-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "photographed near Merlin, Oregon in a wooded section, and again near Joshua Tree, Calif. on the desert.",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p15-page-0067-u001",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0067-l0001"
+        ],
+        "lineNumbers": [
+          1
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0001",
+            "lineNumber": 1,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "NEW SAUCER PHOTOS: These remarkable photos of Flying Saucers were taken by Dr. Daniel W. Fry,"
+      },
+      "translation": {
+        "text": "새로운 비행접시 사진: 이 놀라운 비행접시 사진들은 다니엘 W. 프라이 박사가 촬영한 것입니다.",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p15-page-0067-u002",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 67,
+      "pageId": "page_0067",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0067-l0003",
+          "page_0067-l0004"
+        ],
+        "lineNumbers": [
+          3,
+          4
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0003",
+            "lineNumber": 3,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          },
+          {
+            "part": 15,
+            "page": 67,
+            "pageId": "page_0067",
+            "lineId": "page_0067-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "from the original 16mm color movie film. Spots on the photos are due to the extreme enlargement of\nscratches and dust spots on the film. Of special interest is the fact that the same type of craft was"
+      },
+      "translation": {
+        "text": "원본 16mm 컬러 영화 필름에서 가져온 것입니다. 사진의 점들은 필름의 긁힘과 먼지 얼룩을 극도로 확대한 결과입니다. 특히 흥미로운 점은 동일한 유형의 비행체가",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

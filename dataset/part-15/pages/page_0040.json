@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 15,
+  "page": 40,
+  "pageId": "page_0040",
+  "source": {
+    "pdfPath": "docs/ufo15.pdf",
+    "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "typed_or_printed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 9 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0040-l0005",
+    "page_0040-l0013"
+  ],
+  "lineCount": 13,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "SECRET",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "MEX 105-5844",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "SECRET",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "text": "b1",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "[REDACTED]",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 6,
+      "text": "No information was located in the indices of the Mexico",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "City Office identifiable with the Subject.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "The foregoing is furnished for information of the Bureau",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 10,
+      "text": "and San Antonio.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "SECRET",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "SECRET",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    }
+  ],
+  "blockCount": null
+}

@@ -1,0 +1,152 @@
+{
+  "schemaVersion": "public_translation_page.v1",
+  "language": "ko",
+  "part": 15,
+  "page": 62,
+  "pageId": "page_0062",
+  "source": {
+    "pdfPath": "docs/ufo15.pdf",
+    "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+    "sourceUrl": "https://vault.fbi.gov/UFO"
+  },
+  "status": "reviewed",
+  "approvalStatus": "not_approved",
+  "exportedAt": "2026-05-11T00:34:30.427Z",
+  "unitCount": 2,
+  "sourceLineCount": 2,
+  "excludedLineCount": 4,
+  "excludedLines": [
+    {
+      "part": 15,
+      "page": 62,
+      "pageId": "page_0062",
+      "lineId": "page_0062-l0001",
+      "lineNumber": 1,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "FLYING SAUCERS ARE",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 15,
+      "page": 62,
+      "pageId": "page_0062",
+      "lineId": "page_0062-l0002",
+      "lineNumber": 2,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "AMALGAMATED FLYING SAUCER CLUBS",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 15,
+      "page": 62,
+      "pageId": "page_0062",
+      "lineId": "page_0062-l0003",
+      "lineNumber": 3,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Gabriel Green, Pres. 8004 S. [unclear] St., Los",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    },
+    {
+      "part": 15,
+      "page": 62,
+      "pageId": "page_0062",
+      "lineId": "page_0062-l0005",
+      "lineNumber": 5,
+      "sourceStatus": "CORRECTION_REQUIRED",
+      "sourceText": "Amalgamated Flying Saucer Clubs of America, In",
+      "reason": "line_not_translation_ready",
+      "translationUse": "excluded_from_public_translation_body"
+    }
+  ],
+  "units": [
+    {
+      "id": "TU-p15-page-0062-u001",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 62,
+      "pageId": "page_0062",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0062-l0004"
+        ],
+        "lineNumbers": [
+          4
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 62,
+            "pageId": "page_0062",
+            "lineId": "page_0062-l0004",
+            "lineNumber": 4,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "Official Journal of the"
+      },
+      "translation": {
+        "text": "공식 저널",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    },
+    {
+      "id": "TU-p15-page-0062-u002",
+      "unitVersion": 1,
+      "part": 15,
+      "page": 62,
+      "pageId": "page_0062",
+      "status": "reviewed",
+      "approvalStatus": "not_approved",
+      "language": "ko",
+      "source": {
+        "path": "docs/ufo15.pdf",
+        "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a",
+        "lineIds": [
+          "page_0062-l0006"
+        ],
+        "lineNumbers": [
+          6
+        ],
+        "refs": [
+          {
+            "part": 15,
+            "page": 62,
+            "pageId": "page_0062",
+            "lineId": "page_0062-l0006",
+            "lineNumber": 6,
+            "sourcePath": "docs/ufo15.pdf",
+            "sourceSha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+          }
+        ],
+        "text": "INTERNATIONAL"
+      },
+      "translation": {
+        "text": "국제",
+        "reviewedAt": "2026-05-11T00:34:22.094Z",
+        "reviewer": "codex",
+        "reviewMethod": "Gemini first draft with Codex source-faithfulness review",
+        "draftProvider": "gemini_api",
+        "draftModel": "gemini-2.5-flash",
+        "promptVersion": "gemini3_ko_translation_draft_v1",
+        "overrideApplied": false,
+        "overrideReason": null
+      }
+    }
+  ]
+}

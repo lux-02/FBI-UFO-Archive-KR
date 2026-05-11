@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "dataset_page.v1",
+  "part": 15,
+  "page": 2,
+  "pageId": "page_0002",
+  "source": {
+    "pdfPath": "docs/ufo15.pdf",
+    "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
+  },
+  "sourceLayer": "line_audit",
+  "translationReadiness": "partial_ready",
+  "pageType": "low_quality_or_mixed_document",
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 6 IMAGE_MATCHED line(s) eligible for handoff.",
+  "excludedLineIds": [
+    "page_0002-l0003"
+  ],
+  "lineCount": 8,
+  "lines": [
+    {
+      "lineNumber": 1,
+      "text": "ufo contact",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 2,
+      "text": "igap journal",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "text": "vol. 2 - no. 5",
+      "status": "permanent_unresolved",
+      "unresolvedReason": "other_documented"
+    },
+    {
+      "lineNumber": 4,
+      "text": "june 1967",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
+      "text": "international",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 7,
+      "text": "get acquainted",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "program",
+      "status": "image_matched"
+    }
+  ],
+  "blockCount": null
+}
