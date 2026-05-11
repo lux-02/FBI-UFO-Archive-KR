@@ -8,18 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 37 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0148-l0002",
-    "page_0148-l0004",
-    "page_0148-l0043",
-    "page_0148-l0044",
-    "page_0148-l0047"
-  ],
-  "lineCount": 49,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 51,
   "lines": [
     {
       "lineNumber": 1,
@@ -29,28 +23,24 @@
     {
       "lineNumber": 2,
       "text": "Memorandum",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "TO : A. H. Belmont",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "FROM : [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 5,
-      "text": "SUBJECT: UNIDENTIFIED FLYING OBJECTS",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
-      "text": "(FLYING SAUCERS)",
+      "text": "DATE: September 30, 1960",
       "status": "image_matched"
     },
     {
@@ -59,8 +49,8 @@
     },
     {
       "lineNumber": 8,
-      "text": "DATE: September 30, 1960",
-      "status": "image_matched"
+      "text": "FROM : [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
@@ -68,201 +58,204 @@
     },
     {
       "lineNumber": 10,
-      "text": "At this time there appears to be no necessity for",
+      "text": "SUBJECT: UNIDENTIFIED FLYING OBJECTS",
       "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": "additional instructions for the field or insertion in the FBI",
+      "text": "(FLYING SAUCERS)",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "Handbook or Manuals relative to flying saucers.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
       "status": "blank"
     },
     {
+      "lineNumber": 13,
+      "text": "At this time there appears to be no necessity for",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 14,
-      "text": "Memorandum 10-5-59 pointed out that our policy",
+      "text": "additional instructions for the field or insertion in the FBI",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "concerning unidentified flying objects is to conduct no",
+      "text": "Handbook or Manuals relative to flying saucers.",
       "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "investigation but immediately refer facts to the Air Force",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 17,
-      "text": "(Bureau Bulletin Number 57, 10-1-47); that SAC Letter Number",
+      "text": "Memorandum 10-5-59 pointed out that our policy",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "38, 3-25-49, reiterated this policy and set out data desired by",
+      "text": "concerning unidentified flying objects is to conduct no",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "Air Force to be obtained when complaint received; that SAC Letter",
+      "text": "investigation but immediately refer facts to the Air Force",
       "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "Number 83, 3-29-52, again pointed out our policy; that Air Force",
+      "text": "(Bureau Bulletin Number 57, 10-1-47); that SAC Letter Number",
       "status": "image_matched"
     },
     {
       "lineNumber": 21,
-      "text": "on 11-12-57 assured that Bureau would be advised of any developments",
+      "text": "38, 3-25-49, reiterated this policy and set out data desired by",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "text": "in this field of interest to us; and that there appeared to be no",
+      "text": "Air Force to be obtained when complaint received; that SAC Letter",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "necessity for further instructions to field or insertion in agents'",
-      "status": "image_matched"
+      "text": "Number 83, 8-29-52, again pointed out our policy; that Air Force",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
-      "text": "Handbook of Manual of Instructions of our policy relating to",
+      "text": "on 11-12-57 assured that Bureau would be advised of any developments",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "flying saucers.",
+      "text": "in this field of interest to us; and that there appeared to be no",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 27,
-      "text": "During the past twelve months only one complaint",
+      "text": "necessity for further instructions to field or insertion in agents'",
       "status": "image_matched"
     },
     {
+      "lineNumber": 27,
+      "text": "Handbook or Manual of Instructions of our policy relating to",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 28,
-      "text": "regarding flying saucers has been referred to the Bureau. That",
+      "text": "flying saucers.",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "immediately was turned over to Air Force, both in the field",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 30,
-      "text": "and at the Seat of Government.",
+      "text": "During the past twelve months only one complaint",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "status": "blank"
+      "text": "regarding flying saucers has been referred to the Bureau. That",
+      "status": "image_matched"
     },
     {
       "lineNumber": 32,
-      "text": "ACTION:",
+      "text": "immediately was turned over to Air Force, both in the field",
       "status": "image_matched"
     },
     {
       "lineNumber": 33,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 34,
-      "text": "For your information. There appears to be no necessity",
+      "text": "and at the Seat of Government.",
       "status": "image_matched"
     },
     {
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
       "lineNumber": 35,
-      "text": "for additional instructions for the field or insertion in the FBI",
+      "text": "ACTION:",
       "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "text": "Handbook or Manuals relative to flying saucers. This matter will",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 37,
-      "text": "again be reviewed on or about 10-1-61.",
+      "text": "For your information. There appears to be no necessity",
       "status": "image_matched"
     },
     {
       "lineNumber": 38,
-      "status": "blank"
+      "text": "for additional instructions for the field or insertion in the FBI",
+      "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "text": "62-83894",
+      "text": "Handbook or Manuals relative to flying saucers. This matter will",
       "status": "image_matched"
     },
     {
       "lineNumber": 40,
-      "text": "1 - Mr. Belmont",
+      "text": "again be reviewed on or about 10-1-61.",
       "status": "image_matched"
     },
     {
       "lineNumber": 41,
-      "text": "1 - Mr. Donahoe",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 42,
-      "text": "1 - Mr. Wacks",
+      "text": "62-83894",
       "status": "image_matched"
     },
     {
       "lineNumber": 43,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 44,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "1 - Mr. Belmont",
+      "status": "image_matched"
     },
     {
       "lineNumber": 45,
-      "text": "5 OCT 1960",
+      "text": "1 - Mr. Donahoe",
       "status": "image_matched"
     },
     {
       "lineNumber": 46,
-      "text": "REC-5 62-83894-422",
+      "text": "1 - Mr. Wacks",
       "status": "image_matched"
     },
     {
       "lineNumber": 47,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 48,
-      "text": "OCT 5 1960",
+      "text": "REC-5 62-83894-422",
       "status": "image_matched"
     },
     {
       "lineNumber": 49,
-      "text": "5 OCT 10 1960",
-      "status": "image_matched"
+      "text": "[unclear] OCT 5 1960",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 50,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 51,
+      "text": "50 OCT 10 1960",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

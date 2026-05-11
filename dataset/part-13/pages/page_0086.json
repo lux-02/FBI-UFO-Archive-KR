@@ -8,21 +8,17 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 18 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0086-l0001",
-    "page_0086-l0020"
-  ],
-  "lineCount": 24,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 28,
   "lines": [
     {
       "lineNumber": 1,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
@@ -79,8 +75,8 @@
     },
     {
       "lineNumber": 13,
-      "text": "allright to receive. If you",
-      "status": "image_matched"
+      "text": "alright to receive. If you",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
@@ -109,32 +105,49 @@
     },
     {
       "lineNumber": 19,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 20,
       "text": "Yours Truly,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 21,
-      "status": "blank"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
+      "text": "TC",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 24,
+      "text": "2-25-63",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
       "text": "CORRESPONDENCE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 27,
       "status": "blank"
     },
     {
-      "lineNumber": 24,
-      "text": "62- 83814-443",
-      "status": "image_matched"
+      "lineNumber": 28,
+      "text": "62- 83 814-443",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

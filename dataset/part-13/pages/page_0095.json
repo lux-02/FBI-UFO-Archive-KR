@@ -8,27 +8,17 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0095-l0001",
-    "page_0095-l0007",
-    "page_0095-l0018",
-    "page_0095-l0025",
-    "page_0095-l0027",
-    "page_0095-l0033",
-    "page_0095-l0034",
-    "page_0095-l0043"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 43,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "96-374 62-83894-440",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "96 [unclear] 62-83894-440",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
@@ -37,18 +27,17 @@
     },
     {
       "lineNumber": 3,
-      "text": "JUL 13 12 24 PM '64",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 4,
-      "text": "FBI",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
-      "text": "REC'D-READING ROOM",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
@@ -57,62 +46,59 @@
     },
     {
       "lineNumber": 7,
-      "text": "Dear [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 8,
       "status": "blank"
     },
     {
+      "lineNumber": 8,
+      "text": "Dear [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
       "text": "Your letter of July 5th has been received.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "status": "blank"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "It has been the FBI's long-standing policy not",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "text": "to conduct investigations regarding information this Bureau",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 14,
       "text": "receives about unidentified flying objects since such matters are",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "text": "not within our jurisdiction. All such data is immediately sent to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
       "text": "the Department of the Air Force for its consideration.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "status": "blank"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "text": "Sincerely yours,",
       "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
     },
     {
       "lineNumber": 19,
@@ -121,45 +107,41 @@
     },
     {
       "lineNumber": 20,
-      "text": "MAILED 19",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "text": "JUL 13 1964",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "COMM-FBI",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
       "text": "John Edgar Hoover",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 21,
       "text": "Director",
       "status": "image_matched"
     },
     {
+      "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
+      "text": "MAILED 19",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "JUL 13 1964",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 25,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "COMM-FBI",
+      "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "P/F.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 27,
       "text": "NOTE: Bufiles contain nothing derogatory concerning [REDACTED] and we have had",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 28,
@@ -189,14 +171,12 @@
     {
       "lineNumber": 33,
       "text": "officer. The individual interviewed was a police officer of the [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 34,
       "text": "[REDACTED] No additional investigation was conducted by",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 35,
@@ -235,14 +215,13 @@
     },
     {
       "lineNumber": 42,
-      "text": "MAIL ROOM [ ] TELETYPE UNIT [ ]",
-      "status": "image_matched"
+      "text": "JUL 20 1964",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "MAIL ROOM ☐ TELETYPE UNIT ☐",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

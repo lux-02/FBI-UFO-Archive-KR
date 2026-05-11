@@ -8,18 +8,11 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 4 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0145-l0002",
-    "page_0145-l0004",
-    "page_0145-l0005",
-    "page_0145-l0006",
-    "page_0145-l0008",
-    "page_0145-l0009"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 12,
   "lines": [
     {
@@ -30,8 +23,7 @@
     {
       "lineNumber": 2,
       "text": "Re: [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 3,
@@ -40,20 +32,17 @@
     {
       "lineNumber": 4,
       "text": "I desire that you have [REDACTED] interviewed by a Special Agent",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
-      "text": "in an attempt to determine if the [REDACTED] of [REDACTED]s letter is",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "in an attempt to determine if the [REDACTED] of [REDACTED] letter is",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
-      "text": "identical with Dr. [REDACTED] Ascertain also Mr. [REDACTED] reasons for",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "identical with Dr. [REDACTED]. Ascertain also Mr. [REDACTED] reasons for",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
@@ -63,14 +52,12 @@
     {
       "lineNumber": 8,
       "text": "former member of the FBI. I would also like to know the date [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
-      "text": "is expected to reappear at [REDACTED] Furnish the results of your",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "is expected to reappear at [REDACTED]. Furnish the results of your",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,

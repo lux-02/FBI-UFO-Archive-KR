@@ -8,14 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 10 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0120-l0006"
-  ],
-  "lineCount": 12,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 18,
   "lines": [
     {
       "lineNumber": 1,
@@ -29,43 +27,39 @@
     },
     {
       "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "MILITARY OFFICERS CONTACTED ADVISE THE TWO INCIDENTS REPORTED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 5,
       "text": "ARE NOT A PART OF A MILITARY EXERCISE TO THEIR KNOWLEDGE AND TO",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
       "text": "DATE HAVE NO EXPLANATION.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "text": "BUREAU WILL BE ADVISED OF ANY PERTENENT DEVELOPMENTS.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 7,
-      "text": "END",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
-      "text": "LLD",
-      "status": "image_matched"
+      "text": "BUREAU WILL BE ADVISED OF ANY PERTENENT DEVELOPMENTS.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "FBI WASH DC",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "text": "P",
+      "text": "END",
       "status": "image_matched"
     },
     {
@@ -74,8 +68,35 @@
     },
     {
       "lineNumber": 12,
-      "text": "CC-Mr. DeLoach",
+      "text": "LLD",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
+      "text": "FBI WASH DC",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 16,
+      "text": "P",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 18,
+      "text": "CC - Mr. DeLoach",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

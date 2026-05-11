@@ -8,51 +8,46 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 16 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0033-l0001",
-    "page_0033-l0015",
-    "page_0033-l0018"
-  ],
-  "lineCount": 20,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 21,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] Co. Cork",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
-      "text": "Glengariff Co. Cork",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 3,
       "text": "October 27, 1954",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 3,
       "status": "blank"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 4,
       "text": "Hon. J. Edgar Hoover",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 5,
       "text": "Washington D.C.",
       "status": "image_matched"
     },
     {
+      "lineNumber": 6,
+      "text": "Flying Saucers",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 7,
-      "text": "Dear Sir: Flying Saucers",
-      "status": "image_matched"
+      "text": "Dear Sir:",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
@@ -86,40 +81,43 @@
     },
     {
       "lineNumber": 14,
+      "text": "1.2.7874-231",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "RECORDER-45",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
       "text": "being seen in Oregon and Washington.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
-      "text": "I suddenly entered my mind that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 16,
-      "text": "may be there is some connection between",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 17,
-      "text": "DCC",
+      "text": "27 DEC 1-1954",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "I suddenly entered my mind that",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
-      "text": "RECORDED-45",
-      "status": "image_matched"
+      "text": "maybe there is a connection between",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "text": "27 DEC 1-1954",
-      "status": "image_matched"
+      "text": "D.C.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
+      "text": "[unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

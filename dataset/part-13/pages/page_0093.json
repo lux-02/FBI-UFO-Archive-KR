@@ -8,16 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 27 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0093-l0002",
-    "page_0093-l0013",
-    "page_0093-l0027"
-  ],
-  "lineCount": 39,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 41,
   "lines": [
     {
       "lineNumber": 1,
@@ -27,8 +23,7 @@
     {
       "lineNumber": 2,
       "text": "Orange, Texas 77651",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -80,8 +75,7 @@
     {
       "lineNumber": 13,
       "text": "taken from Harold T. Wilkins book \"Flying Saucers On The Attack.\"",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
@@ -133,8 +127,8 @@
     },
     {
       "lineNumber": 24,
-      "text": "appreciate a reply, since it is actually supposed to have occurred.",
-      "status": "image_matched"
+      "text": "appreciate a reply, since it is actually suppose to have occurred.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
@@ -147,66 +141,74 @@
     },
     {
       "lineNumber": 27,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 28,
       "status": "blank"
     },
     {
+      "lineNumber": 28,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 29,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 30,
       "text": "REC-1",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
-      "text": "62-83214-44",
-      "status": "image_matched"
+      "lineNumber": 31,
+      "text": "62-83211-411",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 32,
       "text": "EX-103",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 33,
       "text": "1 NOV 17 1964",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 34,
       "status": "blank"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 35,
       "text": "ENCLOSURE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 36,
       "text": "ack/11-16-64",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 37,
       "text": "Saw/lea",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
-      "text": "mrl",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 38,
-      "status": "blank"
+      "text": "nml",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 39,
-      "text": "CORRESPONDENCE",
-      "status": "image_matched"
+      "status": "blank"
+    },
+    {
+      "lineNumber": 40,
+      "text": "CORRESPONDENCY",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 41,
+      "text": "R.S.",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

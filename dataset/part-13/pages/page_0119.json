@@ -8,19 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 14 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0119-l0005",
-    "page_0119-l0006",
-    "page_0119-l0007",
-    "page_0119-l0009",
-    "page_0119-l0013",
-    "page_0119-l0016"
-  ],
-  "lineCount": 21,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 26,
   "lines": [
     {
       "lineNumber": 1,
@@ -38,97 +31,111 @@
     },
     {
       "lineNumber": 4,
-      "text": "HE WATCHED SCENE FOR ABOUT ONE MINUTE, WHEN FLAME VENT OUT.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
-      "text": "OBJECT NOT NOTED TO MOVE, WAS SILENT AT ALL TIMES. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "HE WATCHED SCENE FOR ABOUT ONE MINUTE, WHEN FLAME WENT OUT.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "INTO HOUSE, TOLD FATHER, WHO LAUGHED AT HIM. NEW MORNING HE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "OBJECT NOT NOTED TO MOVE, WAS SILENT AT ALL TIMES, [REDACTED] WENT",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
-      "text": "VISISTED SITE., SAW SMOLDERING AREA. LATER IN DAY SAW A STATE POLICE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "INTO HOUSE, TOLD FATHER, WHO LAUGHED AT HIM. NEW MORNING HE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
+      "text": "VISISTED SITE., SAW SMOLDERING AREA. LATER IN DAY SAW A STATE POLICE",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
       "text": "OFFICER AND RELATED INCIDENT TO HIM.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
-      "text": "[REDACTED] CONTINUED THAT HE CHECKED SITE AT SEVEN THIRTY PM",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 10,
+      "status": "blank"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
+      "text": "[REDACTED] CONTINUED THAT HE CHECKED SITE AT SEVEN THIRTY PM",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 12,
       "text": "FOUR TWENTYSIX LAST, NOTED SCORCHED CIRCULAR AREA ABOUT THIRTY TO",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 13,
       "text": "FORTY FEET IN DIAMETER. HE NOTED ONE RECTANGULAR, V SHAPED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
       "text": "INDENTATION IN GROUND, EIGHT BY TWELVE INCHES, AND ABOUT THREE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 15,
       "text": "TO FOUR INCHES' DEEP. [REDACTED] WHO WAS THERE EARLIER,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 16,
       "text": "POINTED TO PLACES OF THREE MORE INDENTATIONS, INDICATING THE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 17,
       "text": "INDENTATIONS WERE RECTANGULAR.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
-      "text": "[REDACTED] URTHER STATED HE SAW SEVERAL SMOOTH",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 18,
+      "status": "blank"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 19,
+      "text": "[REDACTED] URTHER STATED HE SAW SEVERAL SMOOTH",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 20,
       "text": "CIRCULAR PRINTS ON GROUND ABOUT THREE AND ONE HALF INCHES IN",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 21,
       "text": "DIAMETER AT SITE.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
       "text": "NO OTHER WITNESSES KNOWN TO HAVE OBSERVED THE OBJECT.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
-      "text": "PROPER MILITARY AUTHORITIES AT KIRTLAND AFB, ALBUQUERQUE",
-      "status": "image_matched"
+      "lineNumber": 24,
+      "text": "PROPER MILITARY AUTHORITIES AT KERTLAND AFB, ALBUQUERQUE",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
       "text": "END. PAGE TWO",
       "status": "image_matched"
     }

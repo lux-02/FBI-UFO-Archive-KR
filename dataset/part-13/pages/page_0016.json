@@ -8,23 +8,17 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 14 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0016-l0011",
-    "page_0016-l0012",
-    "page_0016-l0013",
-    "page_0016-l0015",
-    "page_0016-l0025"
-  ],
-  "lineCount": 26,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 28,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "7D-86",
-      "status": "image_matched"
+      "text": "FD-36",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -42,83 +36,79 @@
     },
     {
       "lineNumber": 5,
-      "text": "-----------",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 6,
       "status": "blank"
     },
     {
+      "lineNumber": 6,
+      "text": "------------",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
       "text": "Transmit the following Teletype message to:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "status": "blank"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "PAGE THREE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "status": "blank"
     },
     {
-      "lineNumber": 11,
-      "text": "POSSIBILITIES OF FLYING SAUCERS AND OUTER SPACE. MUCH OF [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 12,
-      "text": "STATEMENTS BEAR CLOST RESEMBLANCE TO THE WRITINGS OF [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "POSSIBILITIES OF FLYING SAUCERS AND OUTER SPACE. MUCH OF [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
-      "text": "[REDACTED], OAK PARK, ILLINOIS, MENTIONED IN DETROIT LETTER, 11-30-54.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "STATEMENTS BEAR CLOST RESEMBLANCE TO THE WRITINGS OF [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 14,
+      "text": "[REDACTED], OAK PARK, ILLINOIS, MENTIONED IN DETROIT LETTER, 11-30-54.",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 15,
       "text": "IT IS REQUESTED THE BUREAU ADVISE WHETHER ANY ATTEMPTS BE MADE BY",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
       "text": "DETROIT TO OBTAIN ANY OF THE MATERIAL MENTIONED BY [REDACTED] AS BEING IN",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "text": "POSSESSION OF THE FLYING SAUCER CLUB. THIS PROBABLY WOULD REQUIRE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "text": "CONTACTS WITH OTHER OFFICERS OF THE CLUB, WHICH MIGHT BE UNDESIRABLE,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 19,
       "text": "PARTICULARLY DUE TO THE DOUBT EXISTING THAT THEY COULD BE CONTACTED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "text": "ON A CONFIDENTIAL BASIS. REPORT FOLLOWS.",
       "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "status": "blank"
     },
     {
       "lineNumber": 21,
@@ -140,14 +130,22 @@
     },
     {
       "lineNumber": 25,
-      "text": "Approved: [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Approved: [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 26,
       "text": "Special Agent in Charge",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
+      "text": "Sent [REDACTED] Per [REDACTED]",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

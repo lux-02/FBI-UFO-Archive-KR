@@ -8,24 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "11 permanent_unresolved line(s) excluded under SRC-896. 28 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0058-l0025",
-    "page_0058-l0026",
-    "page_0058-l0027",
-    "page_0058-l0028",
-    "page_0058-l0030",
-    "page_0058-l0032",
-    "page_0058-l0035",
-    "page_0058-l0037",
-    "page_0058-l0038",
-    "page_0058-l0040",
-    "page_0058-l0043"
-  ],
-  "lineCount": 49,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 65,
   "lines": [
     {
       "lineNumber": 1,
@@ -90,8 +78,8 @@
     },
     {
       "lineNumber": 14,
-      "text": "Subject: FLYING SAUCERS: b7c",
-      "status": "image_matched"
+      "text": "Subject: FLYING SAUCERS; b7c",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
@@ -104,8 +92,8 @@
     },
     {
       "lineNumber": 17,
-      "text": "On July 29, 1954, Mr. John Helson, Security",
-      "status": "image_matched"
+      "text": "On July 29, 1954, Mr. John Hutson, Security",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
@@ -143,38 +131,33 @@
     },
     {
       "lineNumber": 25,
-      "text": "from [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "from [REDACTED] resided b7c",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 26,
-      "text": "[REDACTED] According to [REDACTED] and [REDACTED] resided b7c",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "near [REDACTED] According to [REDACTED] and [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 27,
-      "text": "near [REDACTED] who had been receiving messages",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] who had been receiving messages",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 28,
       "text": "through thought transmission. [REDACTED] approached [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
-      "text": "and cautioned him that \"flying saucers\" were here to help",
-      "status": "image_matched"
+      "text": "and advised him that \"flying saucers\" were here to help",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 30,
       "text": "mankind. Information received by [REDACTED] indicated that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 31,
@@ -184,8 +167,7 @@
     {
       "lineNumber": 32,
       "text": "[REDACTED] and felt that the matter should be investigated",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 33,
@@ -199,8 +181,7 @@
     {
       "lineNumber": 35,
       "text": "[REDACTED] advised that [REDACTED] wrote to Admiral",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 36,
@@ -210,14 +191,12 @@
     {
       "lineNumber": 37,
       "text": "enclosing some of the messages received by [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 38,
       "text": "Receiving no reply to his original communication, [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 39,
@@ -227,8 +206,7 @@
     {
       "lineNumber": 40,
       "text": "June 7, 1954. [REDACTED] advised that the first letter that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 41,
@@ -236,42 +214,119 @@
     },
     {
       "lineNumber": 42,
+      "text": "Tolson",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 43,
+      "text": "Boardman",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 44,
+      "text": "Nichols",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 45,
+      "text": "Belmont",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 46,
+      "text": "Harbo",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 47,
+      "text": "Mohr",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 48,
+      "text": "Parsons",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 49,
+      "text": "Rosen",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "text": "Tamm",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
+      "text": "Sizoo",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 52,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 53,
+      "text": "Tele. Room",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 54,
+      "text": "Holloman",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 55,
+      "text": "Gandy",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 56,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 57,
       "text": "cc - 1 - Records Administration Branch (0-6a routing slip)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
-      "text": "Attention: [REDACTED] Division (Same date)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 58,
+      "text": "Attention: Internal Security Division (Same date)",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 59,
       "status": "blank"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 60,
       "text": "AUG 9 1954",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 61,
       "text": "MAILED 12",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 62,
       "status": "blank"
     },
     {
-      "lineNumber": 48,
-      "text": "EHH:sjr:elk",
-      "status": "image_matched"
+      "lineNumber": 63,
+      "text": "EH:lsj:elk",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 49,
-      "text": "62- 93 594-346",
-      "status": "image_matched"
+      "lineNumber": 64,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 65,
+      "text": "67- 93 894-346 EH:",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

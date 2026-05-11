@@ -8,30 +8,22 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 14 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0005-l0001",
-    "page_0005-l0002",
-    "page_0005-l0006",
-    "page_0005-l0007",
-    "page_0005-l0015"
-  ],
-  "lineCount": 20,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 21,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "[unclear] and [unclear] of ability to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "directions and plenty of ability to",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "[unclear] the time the [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "us by giving the time the place",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -45,30 +37,28 @@
     },
     {
       "lineNumber": 5,
-      "text": "that will prove. Saucers and",
-      "status": "image_matched"
+      "text": "that will prove Saucers and",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "[unclear] are real and attacking",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "men are real and attacking",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "text": "us, via [unclear] [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "us, via [unclear] [unclear] and [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 8,
-      "text": "They never replied. No one",
-      "status": "image_matched"
+      "text": "They never replied, No one",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "will even check my story -",
-      "status": "image_matched"
+      "text": "will ever check my story -",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
@@ -96,9 +86,8 @@
     },
     {
       "lineNumber": 15,
-      "text": "[unclear] maniac. As it, I'm",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "raving maniac. As it is, I'm",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
@@ -107,23 +96,27 @@
     },
     {
       "lineNumber": 17,
-      "text": "by now.",
-      "status": "image_matched"
+      "text": "I guess.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 19,
       "text": "I guess, too, anyone who has",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "text": "the above mentioned qualities",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
-      "text": "can also have my hallucination",
-      "status": "image_matched"
+      "lineNumber": 21,
+      "text": "can also have my hallucinations",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

@@ -8,145 +8,142 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0122-l0030",
-    "page_0122-l0031"
-  ],
-  "lineCount": 31,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 40,
   "lines": [
     {
       "lineNumber": 1,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 2,
       "text": "Wickliffe, Ohio 44092",
       "status": "image_matched"
     },
     {
-      "lineNumber": 2,
+      "lineNumber": 3,
       "status": "blank"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 4,
       "text": "Jan. 15, 1964",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 5,
       "status": "blank"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
       "text": "FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "text": "Office of Public Information",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "text": "Washington 25, D.C.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "status": "blank"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "Dear Sir;",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "status": "blank"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "A research group that I am in is presently engaged in the study",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "text": "of the subject of UFOs (Unidentified Flying Objects), sometimes ludicrous-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 14,
       "text": "-ly termed \"flying saucers\".",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "status": "blank"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
       "text": "Since our research takes us into every aspect of the subject,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "text": "certain rumors and statements appear which we feel justify an examination",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "text": "to the fullest. One such statement is that, certain federal agencies,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 19,
       "text": "namely the FBI and CIA, have carried on private investigations of UFOs",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "text": "and/or that such agencies have, at times, worked in conjunction with the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 21,
       "text": "Air Force on its own study of the subject. Another such statement is that,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 22,
       "text": "agents of the intelligence bureaus (FBI and CIA) have, at times, pres-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 23,
       "text": "-sured private citizens to keep quiet about the \"mysterious objects\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 24,
       "text": "that they saw.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
-      "text": "My group would be very glad if your agency would either confirm",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 25,
-      "text": "or deny the above statements regarding, of course, only the FBI and its",
-      "status": "image_matched"
+      "text": "801-IS",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 26,
-      "text": "agents (a similar letter to this will be written to the CIA). Your",
-      "status": "image_matched"
+      "text": "[unclear] 338 65-58894-1",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 27,
-      "text": "answer will be greatly appreciated.",
-      "status": "image_matched"
+      "text": "434",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 28,
@@ -154,20 +151,62 @@
     },
     {
       "lineNumber": 29,
-      "text": "Sincerely,",
+      "text": "My group would be very glad if your agency would either confirm",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "or deny the above statements regarding..of course, only the FBI and its",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 31,
+      "text": "agents (a similar letter to this will be written to the CIA). Your",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "answer will be greatly appreciated.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "CORRESPONDENCE-EXPRESS",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
+      "text": "[unclear] 1-22-64",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 36,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 37,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 38,
+      "text": "Sincerely,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 39,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 40,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

@@ -8,18 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 16 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0044-l0005",
-    "page_0044-l0010",
-    "page_0044-l0015",
-    "page_0044-l0016",
-    "page_0044-l0021"
-  ],
-  "lineCount": 23,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 26,
   "lines": [
     {
       "lineNumber": 1,
@@ -43,8 +37,7 @@
     {
       "lineNumber": 5,
       "text": "[REDACTED] continued that he believes SPRINGFIELD is now",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
@@ -69,13 +62,12 @@
     {
       "lineNumber": 10,
       "text": "interview with Colonel O'MARA. At the same time, [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
-      "text": "reported that SPRINGFIELD, in talking about the possibility",
-      "status": "image_matched"
+      "text": "reported that STRINGFIELD, in talking about the possibility",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
@@ -84,8 +76,8 @@
     },
     {
       "lineNumber": 13,
-      "text": "ment to the effect that \"The Air Force can't do anything",
-      "status": "image_matched"
+      "text": "ment to the effect that, \"The Air Force can't do anything",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
@@ -94,48 +86,57 @@
     },
     {
       "lineNumber": 15,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 16,
-      "text": "[REDACTED] advised that he was furnishing the foregoing",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 18,
+      "text": "[REDACTED] advised that he was furnishing the foregoing",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 19,
       "text": "information because he thought that possibly the real",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 20,
       "text": "purpose of the Civilian Research, Interplanetary Flying",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 21,
       "text": "Objects organization might be to gather bits of information",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "text": "about a very secret U. S. Air Force Development Project.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 22,
+      "lineNumber": 23,
       "status": "blank"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 24,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
       "text": "- 3 -",
       "status": "image_matched"
     }

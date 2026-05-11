@@ -8,36 +8,17 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "18 permanent_unresolved line(s) excluded under SRC-896. 31 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0018-l0007",
-    "page_0018-l0008",
-    "page_0018-l0009",
-    "page_0018-l0010",
-    "page_0018-l0011",
-    "page_0018-l0012",
-    "page_0018-l0013",
-    "page_0018-l0014",
-    "page_0018-l0015",
-    "page_0018-l0016",
-    "page_0018-l0021",
-    "page_0018-l0022",
-    "page_0018-l0023",
-    "page_0018-l0027",
-    "page_0018-l0028",
-    "page_0018-l0030",
-    "page_0018-l0032",
-    "page_0018-l0037"
-  ],
-  "lineCount": 49,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 60,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "FEDERAL BUREAU OF INVESTIGATION",
-      "status": "image_matched"
+      "text": "FEDERAL BUREAU OF INVESTIGATI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -46,83 +27,72 @@
     },
     {
       "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "Mr. Tolson",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 5,
       "text": "Mr. Boardman",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
       "text": "Mr. Nichols",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "text": "Mr. Belmont",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
-      "text": "Mr. Connel",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 8,
       "text": "Mr. Harbo",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
       "text": "Mr. Mohr",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
       "text": "Mr. Parsons",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
       "text": "Mr. Rosen",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
       "text": "Mr. Tamm",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "text": "Mr. Siane",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. Sizoo",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
       "text": "Mr. Winterrowd",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
       "text": "Tele. Room",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
       "text": "Mr. Holloman",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
@@ -131,171 +101,211 @@
     },
     {
       "lineNumber": 18,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 19,
       "text": "Transmit the following Teletype message to:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
-      "text": "FBI, DETROIT 1/5/55 PM EST",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 20,
-      "text": "DIRECTOR, FBI (62-83894) AIRTEL AMSD",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 21,
-      "text": "DETROIT FLYING SAUCERS CLUB, ESP-X. ONE [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "FBI, DETROIT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
-      "text": "[REDACTED] WHO IS A MEMBER OF ABOVE CLUB,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "1/5/55",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
-      "text": "ADVISED THAT [REDACTED] TWICE HAS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "PM EST",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 25,
+      "text": "DIRECTOR, FBI (62-83894) AIRTEL",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 26,
+      "text": "AMSD",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
+      "text": "DETROIT FLYING SAUCERS CLUB, ESP-X. ONE [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 29,
+      "text": "[REDACTED] WHO IS A MEMBER OF ABOVE CLUB,",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 30,
+      "text": "ADVISED THAT [REDACTED] TWICE HAS",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 31,
       "text": "STATED HE IS \"WORKING IN CONJUNCTION WITH THE FBI AND HAS BEEN",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
-      "text": "TOLD TO REPORT TO WASHINGTON, D.C. FOR A CONFERENCE.\"",
-      "status": "image_matched"
+      "lineNumber": 32,
+      "text": "TOLD TO REPORT TO WASHINGTON, D.C. FOR A CONFERENCE.\" [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 33,
       "text": "REPORTEDLY SAID HE HAS BEEN INSTRUCTED TO BRING ANOTHER CLUB",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 34,
       "text": "OFFICER, [REDACTED], WITH HIM. [REDACTED] ARE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 35,
       "text": "COUSINS. WHEN THE TIME CAME TO GO TO WASHINGTON, [REDACTED] SAID IT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 36,
       "text": "WAS IMPOSSIBLE FOR HIM TO GO AND THEY WOULD DO SO LATER. BOTH",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 37,
       "text": "OF [REDACTED] STATEMENTS WERE MADE WITHIN PAST MONTH. THE DETROIT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 38,
       "text": "OFFICE IS PREPARING A REPORT SUITABLE FOR DISSEMINATION ON THIS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 39,
       "text": "CLUB. IMMEDIATELY AFTER 1/15/55, [REDACTED] WILL BE INTERVIEWED BY",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 40,
       "text": "DETROIT REGARDING ABOVE STATEMENTS, REPRIMANDED AND CAUTIONED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 41,
       "text": "TO REFRAIN FROM SUCH IN THE FUTURE, UACB. A REPORT WILL THEN",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 42,
       "text": "BE SUBMITTED.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 43,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 44,
+      "text": "END [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 45,
       "text": "MC INTIRE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
-      "text": "END [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 46,
+      "text": "EX-116 62-83894-355",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 38,
-      "text": "RBS:JEP #5",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 39,
-      "text": "(4)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "65-2677",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
-      "text": "OC: MR. BELMONT",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "text": "AND INTEL DIVISION",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
+      "lineNumber": 47,
       "text": "RECORDED-37",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 48,
       "text": "20 JAN 6 1955",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 49,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 50,
+      "text": "RBS:JEP #5",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "text": "(4)",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 52,
+      "text": "CC: MR. BELMONT",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
+      "text": "AND SUPERVISOR",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 54,
+      "text": "DOM. INTEL. DIVISION",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 55,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 56,
+      "text": "65-2677",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 57,
       "text": "AIRTEL",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
-      "text": "Approved:",
-      "status": "image_matched"
+      "lineNumber": 58,
+      "text": "Approved: [unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 59,
       "text": "Special Agent in Charge",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
-      "text": "Sent",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 49,
-      "text": "Per",
-      "status": "image_matched"
+      "lineNumber": 60,
+      "text": "Sent [unclear] Per [unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

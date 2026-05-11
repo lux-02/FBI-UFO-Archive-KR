@@ -8,20 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 21 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0127-l0009",
-    "page_0127-l0016",
-    "page_0127-l0025",
-    "page_0127-l0031",
-    "page_0127-l0035",
-    "page_0127-l0037",
-    "page_0127-l0039"
-  ],
-  "lineCount": 41,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 40,
   "lines": [
     {
       "lineNumber": 1,
@@ -63,8 +55,7 @@
     {
       "lineNumber": 9,
       "text": "This morning, your Newport News agent [REDACTED] visited",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
@@ -98,8 +89,7 @@
     {
       "lineNumber": 16,
       "text": "Mr. [REDACTED] stated that the objective of this interview was to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
@@ -127,7 +117,7 @@
     },
     {
       "lineNumber": 22,
-      "text": "Flying Discs",
+      "text": "Yours very truly,",
       "status": "image_matched"
     },
     {
@@ -136,89 +126,80 @@
     },
     {
       "lineNumber": 24,
-      "text": "Yours very truly,",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 25,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 26,
-      "status": "blank"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 27,
-      "text": "MAILED 31",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 28,
-      "text": "SEP 2 0 1963",
+      "text": "Flying Discs",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 30,
+      "text": "MAILED 31",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "text": "SEP 20 1963",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 32,
       "text": "COMM-FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 31,
-      "text": "REC-31 62- [unclear] 431",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 32,
-      "status": "blank"
-    },
-    {
       "lineNumber": 33,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 34,
+      "text": "REC-31 62- [unclear] 431",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
       "text": "911-X3",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 35,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 36,
-      "status": "blank"
-    },
-    {
       "lineNumber": 37,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 38,
-      "status": "blank"
+      "text": "NZ SEP 30 1963",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 39,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 40,
       "status": "blank"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 40,
       "text": "CORRESPONDENCE",
       "status": "image_matched"
     }

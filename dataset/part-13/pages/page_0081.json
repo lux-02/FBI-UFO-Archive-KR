@@ -8,16 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0081-l0004",
-    "page_0081-l0006",
-    "page_0081-l0020"
-  ],
-  "lineCount": 38,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 44,
   "lines": [
     {
       "lineNumber": 1,
@@ -36,20 +32,17 @@
     },
     {
       "lineNumber": 4,
-      "text": "Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
-      "text": "Raynham, Massachusetts 02767",
-      "status": "image_matched"
+      "text": "Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
-      "text": "Dear Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Raynham, Massachusetts 02767",
+      "status": "image_matched"
     },
     {
       "lineNumber": 7,
@@ -57,8 +50,8 @@
     },
     {
       "lineNumber": 8,
-      "text": "Your letter of April 11th has been received.",
-      "status": "image_matched"
+      "text": "Dear Mr. [REDACTED]:",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
@@ -66,148 +59,173 @@
     },
     {
       "lineNumber": 10,
-      "text": "With respect to your inquiry, sightings of",
+      "text": "Your letter of April 11th has been received.",
       "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": "Unidentified Flying Objects are not a matter within the",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 12,
-      "text": "investigative jurisdiction of the FBI. Inasmuch as your",
+      "text": "With respect to your inquiry, sightings of",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "communication is of interest to another governmental",
+      "text": "Unidentified Flying Objects are not a matter within the",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "agency, I am referring a copy of it to the Office of Special",
+      "text": "investigative jurisdiction of the FBI. Inasmuch as your",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "Investigations, Department of the Air Force.",
+      "text": "communication is of interest to another governmental",
       "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "status": "blank"
+      "text": "agency, I am referring a copy of it to the Office of Special",
+      "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "Sincerely yours,",
+      "text": "Investigations, Department of the Air Force.",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "J. Edgar Hoover",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 19,
-      "text": "1 - Boston - Enclosure",
+      "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "NOTE: [REDACTED] is not identifiable in Bufiles. Joseph F. Perry of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 21,
-      "text": "Grand Blanc, Michigan, was contacted by Bureau Agents from our",
+      "text": "J. Edgar Hoover",
       "status": "image_matched"
     },
     {
+      "lineNumber": 21,
+      "status": "blank"
+    },
+    {
       "lineNumber": 22,
-      "text": "Detroit Office at his request in March, 1960, regarding photographs",
+      "text": "1 - Boston - Enclosure",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "he had taken of what he believed to be unidentified flying objects.",
-      "status": "image_matched"
+      "text": "NOTE: [REDACTED] is not identifiable in Bufiles. Joseph F. Perry of",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 24,
-      "text": "These photographs were turned over to the Office of Special Investi-",
+      "text": "Grand Blanc, Michigan, was contacted by Bureau Agents from our",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "gations of the United States Air Force by our Detroit Office. Perry",
+      "text": "Detroit Office at his request in March, 1960, regarding photographs",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "reported to the local paper that the FBI was conducting an investiga-",
+      "text": "he had taken of what he believed to be unidentified flying objects.",
       "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "tion and it was necessary for this Bureau to straighten the record",
+      "text": "These photographs were turned over to the Office of Special Investi-",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "text": "with that newspaper. Perry was advised that we had furnished his",
+      "text": "gations of the United States Air Force by our Detroit Office. Perry",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "photographs to the Air Force and he subsequently wrote to the Director",
+      "text": "reported to the local paper that the FBI was conducting an investiga-",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "in April, 1960, indicating he was looking forward to the completion of",
+      "text": "tion and it was necessary for this Bureau to straighten the record",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "text": "the Air Force analysis of his photographs and their return to him. A",
+      "text": "with that newspaper. Perry was advised that we had furnished his",
       "status": "image_matched"
     },
     {
       "lineNumber": 32,
-      "text": "copy of his letter was referred to the Air Force for a reply to him.",
+      "text": "photographs to the Air Force and he subsequently wrote to the Director",
       "status": "image_matched"
     },
     {
       "lineNumber": 33,
-      "text": "DFC:rks",
+      "text": "in April, 1960, indicating he was looking forward to the completion of",
       "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "text": "(4)",
+      "text": "the Air Force analysis of his photographs and their return to him. A",
       "status": "image_matched"
     },
     {
       "lineNumber": 35,
-      "text": "MAILED 4",
+      "text": "copy of his letter was referred to the Air Force for a reply to him.",
       "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "text": "APR 15 1966",
+      "text": "DFC:rks",
       "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "text": "COMM-FBI",
+      "text": "(4)",
       "status": "image_matched"
     },
     {
       "lineNumber": 38,
-      "text": "54 APR 28 1966 TELETYPE UNIT",
+      "status": "blank"
+    },
+    {
+      "lineNumber": 39,
+      "text": "MAILED 4",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "APR 15 1966",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
+      "text": "COMM-FBI",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 42,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 43,
+      "text": "54 APR 28 1966",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 44,
+      "text": "TELETYPE UNIT",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

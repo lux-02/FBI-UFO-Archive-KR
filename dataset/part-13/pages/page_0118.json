@@ -8,16 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 28 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0118-l0020",
-    "page_0118-l0021",
-    "page_0118-l0022"
-  ],
-  "lineCount": 31,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 32,
   "lines": [
     {
       "lineNumber": 1,
@@ -46,135 +42,136 @@
     },
     {
       "lineNumber": 6,
-      "text": "P EXJTWØZ",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 7,
+      "text": "P BXJTWV Z",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 8,
       "text": "FBI WASH DC",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "3:06 AM MST DEFERRED 4/27/64 JNS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "TO DIRECTOR",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "FROM ALBUQUERQUE 62-1028 3P",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "UNIDENTIFIED FLYING OBJECTS SOCORRO, N.M., APRIL TWENTYFOUR SIXTYFOUR",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "text": "INFORMATION CONCERNING.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 14,
       "text": "RE ALBUQUERQUE TEL FOUR TWENTYFIVE LAST.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "text": "OSI, ALBUQUERQUE ADVISES INCIDENT NOT KNOWN TO BE CONNECTED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
       "text": "WITH MILITARY OR OPERATION CLOUD GAP.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "text": "AN ADDITIONAL INCIDENT HAS BEEN REPORTED AS HAPPENING AT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "text": "ONE AM, FOUR TWENTYSIX LAST, AT LA MADERIA, N.M., ABOUT SEVENTY MILES",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 19,
       "text": "NORTH OF SANTA FE, N.M.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
-      "text": "ESPANOLA, N.M., ADVISES HE",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 20,
-      "text": "INTERVIEWED ONLY KNOWN WITNESS, [REDACTED] AGE THIRTYFIVE, SOBER",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] ESPANOLA, N.M., ADVISES HE",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,
-      "text": "AND FRIGHTENED, OF SANTA FE, N.M. [REDACTED] WAS VISITING HIS FATHER",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "INTERVIEWED ONLY KNOWN WITNESS, [REDACTED] AGE THIRTYFIVE, SOBER",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
-      "text": "[REDACTED] AT LA MADERIA. [REDACTED] VENT OUT TO TEND SOME",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "AND FRIGHTENED, OF SANTA FE, N.M. [REDACTED] WAS VISITING HIS FATHER",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 23,
+      "text": "[REDACTED] AT LA MADERIA. [REDACTED] WENT OUT TO TEND SOME",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 24,
       "text": "NOISY HORSES AT ABOUT ONE AM, FOUR TWENTYSIX LAST AND NOTED,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
       "text": "LOCATED ABOUT THREE HUNDRED FEET FROM HOUSE, SOMETHING SHAPED LIKE A",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 26,
       "text": "BUTANE TANK, POSSIBLY TWELVE TO FOURTEEN FEET HIGH, AND \"LONG AS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
-      "text": "A TELEPHONE POLE\". APPARENTLY ON THE GROUND AND SURROUNDED WITH",
-      "status": "image_matched"
+      "lineNumber": 27,
+      "text": "A TELEPHONE POLE\". APPARENTLY ON THE GROUND AND SURRONDED WITH",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 28,
       "text": "END PAGE ONE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
-      "text": "REC-53 62-83894-435",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 29,
-      "text": "APR 29 1964",
-      "status": "image_matched"
+      "text": "EX-108 REC-53 62-83894-435",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 30,
-      "text": "MR. MOHR FOR THE DIRECTOR",
+      "text": "APR 29 1964",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
       "text": "58 MAY 5 1964",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "MR. MOHR FOR THE DIRECTOR",
       "status": "image_matched"
     }
   ],

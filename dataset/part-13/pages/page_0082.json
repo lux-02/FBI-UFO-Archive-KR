@@ -8,27 +8,22 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0082-l0001",
-    "page_0082-l0017",
-    "page_0082-l0036"
-  ],
-  "lineCount": 46,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 45,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Raynham, Mass.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "April 1, 1966",
-      "status": "image_matched"
+      "text": "April 11, 1966",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -98,8 +93,7 @@
     {
       "lineNumber": 17,
       "text": "[REDACTED] announced that the FBI had",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
@@ -191,8 +185,7 @@
     {
       "lineNumber": 36,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 37,
@@ -200,13 +193,13 @@
     },
     {
       "lineNumber": 38,
-      "text": "ack 4/11/66",
-      "status": "image_matched"
+      "text": "ack 4/15/66",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 39,
-      "text": "DEC:ls",
-      "status": "image_matched"
+      "text": "DEC-16",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 40,
@@ -214,30 +207,25 @@
     },
     {
       "lineNumber": 41,
-      "text": "REC 20",
-      "status": "image_matched"
+      "text": "REC 20 62-83874-445",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 42,
-      "text": "62-83794-445",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
       "text": "14",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
-      "text": "APR 13 1966",
-      "status": "image_matched"
+      "lineNumber": 43,
+      "text": "5 APR 13 1966",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 44,
       "status": "blank"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 45,
       "text": "CORRESPONDENCE",
       "status": "image_matched"
     }

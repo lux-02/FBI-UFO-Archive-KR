@@ -8,17 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 12 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0088-l0003",
-    "page_0088-l0009",
-    "page_0088-l0013",
-    "page_0088-l0016"
-  ],
-  "lineCount": 24,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 21,
   "lines": [
     {
       "lineNumber": 1,
@@ -27,78 +22,74 @@
     },
     {
       "lineNumber": 2,
-      "status": "blank"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 3,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 4,
       "text": "Talladega, Ala.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 4,
       "text": "February 21, 1963",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 5,
       "status": "blank"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 6,
       "text": "Dear Sir:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 7,
       "status": "blank"
     },
     {
-      "lineNumber": 9,
-      "text": "I am writing to ask about Flying Saucersreading material",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 8,
+      "text": "I am writing to ask about Flying Saucers reading material",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 9,
       "text": "that is being sent through the mail. I am wondering if some of this",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 10,
       "text": "material might be communist inspired, or is it alright to receive. If you",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "text": "would please send me a list that might be subversive I would appreciate",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 12,
       "text": "it-since I certainly do not want to receive any such communists inspired material.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 13,
       "status": "blank"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 14,
       "text": "Yours Truly,",
       "status": "image_matched"
     },
     {
+      "lineNumber": 15,
+      "status": "blank"
+    },
+    {
       "lineNumber": 16,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
@@ -106,33 +97,21 @@
     },
     {
       "lineNumber": 18,
-      "text": "REC 18",
-      "status": "image_matched"
+      "text": "REC-18",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
-      "status": "blank"
+      "text": "62-83874-44",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "text": "62-93874-44",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 22,
       "text": "18 MAR 2 1965",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 24,
+      "lineNumber": 21,
       "text": "899",
       "status": "image_matched"
     }

@@ -8,19 +8,11 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 15 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0104-l0002",
-    "page_0104-l0006",
-    "page_0104-l0008",
-    "page_0104-l0009",
-    "page_0104-l0012",
-    "page_0104-l0017",
-    "page_0104-l0018"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 25,
   "lines": [
     {
@@ -31,8 +23,7 @@
     {
       "lineNumber": 2,
       "text": "article, \"A Hard Look at UFO News Management,\" which was cleared",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -51,8 +42,7 @@
     {
       "lineNumber": 6,
       "text": "[REDACTED] Va., requesting any UFO sighting data",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
@@ -62,14 +52,12 @@
     {
       "lineNumber": 8,
       "text": "of September 17, I received a 10-minute visit from local FBI agent",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "[REDACTED] Not only did [REDACTED] inquire about the Sussex",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED]. Not only did [REDACTED] inquire about the Sussex",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
@@ -84,8 +72,7 @@
     {
       "lineNumber": 12,
       "text": "[REDACTED] the information he desired on my Civil Service position",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
@@ -110,14 +97,12 @@
     {
       "lineNumber": 17,
       "text": "write a \"memorandum for the files.\" [REDACTED] volunteered the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
       "text": "following: \"If the FBI has any such data [on UFO sightings], it",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,

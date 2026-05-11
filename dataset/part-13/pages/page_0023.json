@@ -8,14 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 16 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0023-l0019"
-  ],
-  "lineCount": 19,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 27,
   "lines": [
     {
       "lineNumber": 1,
@@ -24,48 +22,44 @@
     },
     {
       "lineNumber": 2,
-      "text": "TO Mr. Nichols DATE: July 26, 1955",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "FROM",
-      "status": "image_matched"
+      "text": "TO : Mr. Nichols",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "SUBJECT: INFORMATION CONCERNING",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
-      "text": "Correspondent submitted a six-page rambling and partly",
-      "status": "image_matched"
+      "text": "DATE: July 26, 1955",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "incoherent letter postmarked July 24, 1955, wherein she requests",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 7,
-      "text": "a number of \"F. B. I. men\" to assist her in watching for flying",
-      "status": "image_matched"
+      "text": "FROM : [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
-      "text": "saucers which she claims are real. She remarks she has previously",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 9,
-      "text": "written letters to the President, but that they have been ignored.",
-      "status": "image_matched"
+      "text": "SUBJECT: [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
-      "text": "Bufiles reflect no record identifiable with correspondent.",
-      "status": "image_matched"
+      "text": "INFORMATION CONCERNING",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
@@ -73,43 +67,79 @@
     },
     {
       "lineNumber": 12,
-      "text": "RECOMMENDATION:",
+      "text": "Correspondent submitted a six-page rambling and partly",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "No acknowledgment of correspondent's letter in view of",
+      "text": "incoherent letter postmarked July 24, 1955, wherein she requests",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "her apparent and disturbed condition.",
+      "text": "a number of \"F. B. I. men\" to assist her in watching for flying",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "status": "blank"
+      "text": "saucers which she claims are real. She remarks she has previously",
+      "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "JRB:ajb",
+      "text": "written letters to the President, but that they have been ignored.",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "(2)",
+      "text": "Bufiles reflect no record identifiable with correspondent.",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "RECORDED-95",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 19,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "RECOMMENDATION:",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 21,
+      "text": "No acknowledgment of correspondent's letter in view of",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "her apparent and disturbed condition.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 24,
+      "text": "[unclear] RECORDED-95",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
+      "text": "JRB:ajb",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "(2)",
+      "status": "image_matched"
     }
   ],
   "blockCount": null

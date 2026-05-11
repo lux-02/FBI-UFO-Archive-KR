@@ -8,182 +8,188 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 18 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0068-l0001",
-    "page_0068-l0004",
-    "page_0068-l0013",
-    "page_0068-l0016",
-    "page_0068-l0027",
-    "page_0068-l0028",
-    "page_0068-l0032"
-  ],
-  "lineCount": 33,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 38,
   "lines": [
     {
       "lineNumber": 1,
       "text": "Office Memorandum • UNITED STATES GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "TO : Director, FBI (62-83894) DATE: 7/22/54",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
+      "text": "TO : Director, FBI (62-83894)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 4,
+      "text": "DATE: 7/22/54",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "FROM : SAC, Cincinnati (65-1994)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "SUBJECT: [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 7,
+      "status": "blank"
     },
     {
-      "lineNumber": 5,
-      "text": "FLYING DISCS",
-      "status": "image_matched"
+      "lineNumber": 8,
+      "text": "SUBJECT: FLYING DISCS",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 9,
       "text": "MISCELLANEOUS - INFORMATION CONCERNING",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 10,
       "text": "(ESPIONAGE)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 9,
-      "text": "Remyle t 6/8/54 and Bulet 6/22/54.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
-      "status": "blank"
-    },
-    {
       "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "Remylet 6/8/54 and Bulet 6/22/54.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
       "text": "Attached are five copies of a memorandum",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 15,
       "text": "containing information set out in my letter of June 8,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
-      "text": "1954 with additional information furnished by [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 16,
+      "text": "1954, with additional information furnished by [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 17,
       "text": "on July 2, 1954.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 18,
       "status": "blank"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 19,
       "text": "On July 2, 1954, although [REDACTED] had been",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 20,
       "text": "so advised at the time of the original interview with",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 21,
       "text": "him on June 7, 1954, he was again advised in accordance",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 22,
       "text": "with instructions in rebulet.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 23,
       "status": "blank"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 24,
       "text": "RCD:SAS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 25,
       "status": "blank"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 26,
       "text": "REGISTERED MAIL",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 27,
       "status": "blank"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 28,
       "text": "ENCLOSURES (5)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 29,
       "status": "blank"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 30,
       "text": "RECORDED 70",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 31,
       "text": "INDEXED 70",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 32,
       "text": "EX-12",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 33,
       "status": "blank"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 34,
+      "text": "[unclear] 82-74-344",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
       "text": "1 AUG 4 1954",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
-      "text": "COPIES [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 37,
+      "text": "COPIES DESTROYED",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 38,
       "text": "270 NOV 19 1954",
       "status": "image_matched"
     }

@@ -8,57 +8,36 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "18 permanent_unresolved line(s) excluded under SRC-896. 29 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0026-l0004",
-    "page_0026-l0008",
-    "page_0026-l0015",
-    "page_0026-l0016",
-    "page_0026-l0018",
-    "page_0026-l0019",
-    "page_0026-l0025",
-    "page_0026-l0026",
-    "page_0026-l0027",
-    "page_0026-l0028",
-    "page_0026-l0029",
-    "page_0026-l0030",
-    "page_0026-l0031",
-    "page_0026-l0033",
-    "page_0026-l0037",
-    "page_0026-l0038",
-    "page_0026-l0039",
-    "page_0026-l0043"
-  ],
-  "lineCount": 52,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 61,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Office Memorandum UNITED STATES GOVERNMENT",
-      "status": "image_matched"
+      "text": "STANDARD FORM NO. 64",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "TO : Director, FBI DATE November 30, 1954",
-      "status": "image_matched"
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "FROM : SAC, Detroit, (65-2677)",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 4,
-      "text": "SUBJECT : DETROIT FLYING SAUCER CLUB",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "TO : Director, FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "ESPIONAGE - X",
-      "status": "image_matched"
+      "text": "DATE: November 30, 1954",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -66,245 +45,269 @@
     },
     {
       "lineNumber": 7,
-      "text": "Reference is made to a letter from the Director, dated",
-      "status": "image_matched"
+      "text": "FROM : SAC, Detroit (65-2677)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
-      "text": "October 8, 1954, to [REDACTED] Detroit 15,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Flying Saucers",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "Michigan, regarding the Detroit flying saucer Club.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
       "status": "blank"
     },
     {
+      "lineNumber": 10,
+      "text": "SUBJECT: DETROIT FLYING SAUCER CLUB",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 11,
-      "text": "The purpose of this letter is to set out for the information",
+      "text": "ESPIONAGE - X",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "of the Bureau, the activities of Detroit Flying Saucer Club, as",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 13,
-      "text": "they are known. This is done chronologically.",
+      "text": "Reference is made to a letter from the Director, dated",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "status": "blank"
+      "text": "October 8, 1954, to [REDACTED] Detroit 15,",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
-      "text": "On May 18, 1954, Mrs. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Michigan, regarding the Detroit Flying Saucer Club.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
-      "text": "[REDACTED] advised that she had been attending meetings concerning",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 17,
-      "text": "flying saucers, rockets to the moon, etc., which she felt could be",
+      "text": "The purpose of this letter is to set out for the information",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "subversive. On May 27, 1954, [REDACTED] and [REDACTED] Detroit,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "of the Bureau, the activities of Detroit Flying Saucer Club, as",
+      "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "[REDACTED] advised that one GEORGE ADAMSKI, had",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "they are known. This is done chronologically.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "talked in Detroit on flying saucers. They were alarmed at the nature",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 21,
-      "text": "of the remarks; such as \"We are Americans, but\".....and that we",
-      "status": "image_matched"
+      "text": "On May 18, 1954, Mrs. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
-      "text": "should reduce our arms and would blow ourselves up with the H-Bomb,",
-      "status": "image_matched"
+      "text": "[REDACTED], advised that she had been attending meetings concerning",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 23,
-      "text": "because visitors from outer space were afraid we had started some-",
+      "text": "flying saucers, rockets to the moon, etc., which she felt could be",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
+      "text": "subversive. On May 27, 1954, [REDACTED] and [REDACTED] Detroit",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 25,
+      "text": "[REDACTED], advised that one GEORGE ADAMSKI, had",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 26,
+      "text": "talked in Detroit on flying saucers. They were alarmed at the nature",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "of the remarks; such as \"We are Americans, but\"......and that we",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 28,
+      "text": "should reduce our arms and would blow ourselves up with the H-Bomb,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "text": "because visitors from outer space were afraid we had started some-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
       "text": "thing that would get out of hand. Another lecturer in Detroit, was",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
-      "text": "[REDACTED] The sponsors of these speakers were [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 26,
-      "text": "[REDACTED] and [REDACTED] According to pamphlets",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 27,
-      "text": "furnished by [REDACTED] a \"Flying Saucer Review Group\" was to be",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 28,
-      "text": "formed. This was headed by [REDACTED] Ferndale,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 29,
-      "text": "Michigan, who uses the pen name, [REDACTED] He is editor",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 30,
-      "text": "[REDACTED] Detroit. They advised that [REDACTED] was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 31,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "TRUMAN BETHURUM. The sponsors of these speakers were [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 32,
-      "status": "blank"
+      "text": "[REDACTED] and [REDACTED] According to pamphlets",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 33,
-      "text": "On July 13, 1954, [REDACTED] advised that [REDACTED] was bringing",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "furnished by [REDACTED], a \"Flying Saucer Review Group\" was to be",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 34,
+      "text": "formed. This was headed by [REDACTED] Ferndale,",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 35,
+      "text": "Michigan, who uses the pen name, [REDACTED]. He is editor,",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 36,
+      "text": "[REDACTED] Detroit. They advised that [REDACTED] was",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 37,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 38,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 39,
+      "text": "On July 13, 1954, [REDACTED] advised that [REDACTED] was bringing",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 40,
       "text": "to Detroit, someone who talked to people from Venus, Clarion, etc.,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 41,
       "text": "who are more highly advanced than earth people. They advocated the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 42,
       "text": "Golden Rule as the only workable rule. A meeting was to be held on",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 43,
       "text": "July 15, 1954. [REDACTED] also furnished a letter from one [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 38,
-      "text": "[REDACTED] encouraging him in his interest in flying saucers.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 44,
+      "text": "[REDACTED], encouraging him in his interest in flying saucers.",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 45,
       "text": "[REDACTED] felt such an organization could use the flying saucer scare",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 40,
-      "text": "as political propaganda or from a pseudo-religious view. He said",
-      "status": "image_matched"
+      "lineNumber": 46,
+      "text": "as political propaganda or from a psuedo-religious view. He said",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 47,
       "text": "they opposed the atomic bomb and warfare.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 48,
       "status": "blank"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 49,
       "text": "[REDACTED] advised she attended the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 50,
       "text": "July 15, 1954 meeting of the flying saucer group. The purpose was",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 51,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 52,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 53,
       "text": "RBS:mjv",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
-      "text": "62-83894-35",
-      "status": "image_matched"
+      "lineNumber": 54,
+      "text": "62-83894-352",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 55,
       "text": "RECORDED-74",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
-      "text": "DEC 6 1954",
-      "status": "image_matched"
+      "lineNumber": 56,
+      "text": "6 DEC 6 1954",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 49,
-      "text": "COPIES DESTROYED",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 50,
-      "text": "270 NOV 19 1964",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 51,
+      "lineNumber": 57,
       "text": "INDEXED-74",
       "status": "image_matched"
     },
     {
-      "lineNumber": 52,
+      "lineNumber": 58,
       "text": "EX-112",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 59,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 60,
+      "text": "COPIES DESTROYED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 61,
+      "text": "270 NOV 19 1964",
       "status": "image_matched"
     }
   ],

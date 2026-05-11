@@ -8,22 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "9 permanent_unresolved line(s) excluded under SRC-896. 18 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0066-l0003",
-    "page_0066-l0009",
-    "page_0066-l0012",
-    "page_0066-l0016",
-    "page_0066-l0019",
-    "page_0066-l0022",
-    "page_0066-l0024",
-    "page_0066-l0025",
-    "page_0066-l0026"
-  ],
-  "lineCount": 33,
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 29,
   "lines": [
     {
       "lineNumber": 1,
@@ -37,8 +27,7 @@
     {
       "lineNumber": 3,
       "text": "According to [REDACTED] these \"bells\" or \"flying saucers\" would appear",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
@@ -57,112 +46,103 @@
     },
     {
       "lineNumber": 7,
-      "text": "67c",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 8,
       "status": "blank"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 8,
       "text": "[REDACTED] stated that [REDACTED] wrote a letter to MARGARET",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 9,
       "text": "CHASE SMITH, Senator from Maine, concerning this information, who forwarded",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 10,
       "text": "the information to the Secretary of Defense and copies were sent to the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "text": "Army, Navy, and Air Force. According to [REDACTED] also wrote a",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 12,
       "text": "letter to the President of the United States.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
-      "text": "67c",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
+      "lineNumber": 13,
       "status": "blank"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 14,
       "text": "[REDACTED] stated that none of the persons involved in this matter were",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 15,
       "text": "interested in publicity. He stated that he would be willing to assist the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 16,
       "text": "Bureau in the investigation of this matter if the Bureau desired, inasmuch",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 17,
       "text": "as he believed [REDACTED] and [REDACTED] had confidence in him.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 20,
-      "text": "67c",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
+      "lineNumber": 18,
       "status": "blank"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 19,
       "text": "[REDACTED] described [REDACTED] as being of middle-class cir-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 20,
       "text": "cumstances, having a very modest home with furniture below middle-class. He",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 21,
       "text": "stated that she has [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 22,
+      "text": "He considered her to be a [REDACTED] person,",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 23,
+      "text": "[REDACTED] and one who has studied [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 24,
+      "status": "blank"
     },
     {
       "lineNumber": 25,
-      "text": "He considered her to be a [REDACTED] person,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "The above information is being made available to the Office of",
+      "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "[REDACTED] and one who has studied [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Special Investigations, United States Air Force, and no further action is",
+      "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "67c",
+      "text": "being taken by this office.",
       "status": "image_matched"
     },
     {
@@ -171,25 +151,6 @@
     },
     {
       "lineNumber": 29,
-      "text": "The above information is being made available to the Office of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
-      "text": "Special Investigations, United States Air Force, and no further action is",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 31,
-      "text": "being taken by this office.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 33,
       "text": "- 4 -",
       "status": "image_matched"
     }

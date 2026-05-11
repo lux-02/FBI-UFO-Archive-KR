@@ -8,20 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 31 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0109-l0013",
-    "page_0109-l0015",
-    "page_0109-l0016",
-    "page_0109-l0017",
-    "page_0109-l0020",
-    "page_0109-l0022",
-    "page_0109-l0024"
-  ],
-  "lineCount": 38,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 54,
   "lines": [
     {
       "lineNumber": 1,
@@ -30,195 +22,257 @@
     },
     {
       "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
       "text": "Transmit the following in PLAIN",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 4,
+      "text": "(Type in plain text or code)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
       "text": "AIRTEL",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "AIRMAIL",
-      "status": "image_matched"
+      "lineNumber": 6,
+      "text": "(Priority)",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
       "text": "TO: DIRECTOR, FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "text": "SAC, ALBUQUERQUE (62-1028)",
-      "status": "image_matched"
+      "lineNumber": 9,
+      "text": "SAC, ALBUQUERQUE (62-1028) (P)",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 10,
       "text": "RE: UNIDENTIFIED FLYING OBJECT,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 11,
       "text": "SOCORRO, NEW MEXICO,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 12,
       "text": "4/24/64 -",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 13,
       "text": "INFORMATION CONCERNING",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
-      "text": "Re Albuquerque teletypes to the Bureau 4/25/64 and",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "4/27/64.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "[REDACTED] OSI, Kirtland Air Force Base",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Re Albuquerque teletypes to the Bureau 4/25/64 and 4/27/64.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 17,
+      "text": "[REDACTED] OSI, Kirtland Air Force Base",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 18,
       "text": "(KAFB), Albuquerque, New Mexico, on 4/26/64, advised that he",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 19,
       "text": "cannot explain the observations described by [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 16,
-      "text": "[REDACTED] at Socorro, New Mexico.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 20,
+      "text": "at Socorro, New Mexico.",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 21,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 22,
       "text": "[REDACTED] Safety Officer, KAFB,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 23,
       "text": "Albuquerque, advised that he is the proper officer to handle",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 24,
       "text": "such reports.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
-      "text": "[REDACTED] advised that he and [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 25,
+      "status": "blank"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 26,
+      "text": "[REDACTED] advised that he and [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 27,
       "text": "had examined the site at Socorro, New Mexico and interviewed",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 28,
       "text": "[REDACTED]. They were impressed by [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 29,
       "text": "sincerity. They noted no radio activity at the site. They",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 30,
       "text": "cannot explain [REDACTED] observations. He did learn",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 31,
       "text": "that the New Mexico Institute of Mining and Technology at",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
-      "text": "Socorro does some blasting in its work, however, their blasting",
-      "status": "image_matched"
+      "lineNumber": 32,
+      "text": "Socorro does some blasting in its work, however, their blast",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 33,
       "text": "is not in the area of this incident.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
-      "text": "(4) Bureau",
-      "status": "image_matched"
+      "lineNumber": 34,
+      "text": "62-83894-437",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
+      "text": "4 - Bureau",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
       "text": "(1 - FBI Laboratory)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 38,
       "text": "2 - Albuquerque",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
-      "text": "DAB/rac",
-      "status": "image_matched"
+      "lineNumber": 39,
+      "text": "DMB/rac",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 40,
       "text": "(6)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
-      "text": "112",
-      "status": "image_matched"
+      "lineNumber": 41,
+      "status": "blank"
     },
     {
-      "lineNumber": 34,
-      "text": "Special Agent in Charge",
-      "status": "image_matched"
+      "lineNumber": 42,
+      "text": "EX-112",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 43,
       "text": "APR 30 1964",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
-      "text": "NAT. SEC.",
+      "lineNumber": 44,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 45,
+      "text": "NAT. DEF. SEC.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 46,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 47,
+      "text": "Approved:",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 48,
+      "text": "MAY 8 1964",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 49,
+      "text": "112",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 50,
+      "text": "Special Agent in Charge",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 52,
+      "text": "Sent",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
       "text": "Per",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
-      "text": "FLYING SAUCERS",
-      "status": "image_matched"
+      "lineNumber": 54,
+      "text": "EXTCX",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

@@ -8,173 +8,160 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 35 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0143-l0001",
-    "page_0143-l0002",
-    "page_0143-l0003",
-    "page_0143-l0004",
-    "page_0143-l0040",
-    "page_0143-l0042",
-    "page_0143-l0052"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 56,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "UNITED STATES GOVEI NT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "UNITED STATES GOVE[unclear]NT",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
-      "text": "Memorand n",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Memorand[unclear]n",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 3,
-      "text": "TO : W. C. Sullivan",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 4,
-      "text": "FROM : [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 5,
-      "text": "SUBJECT: UNIDENTIFIED FLYING OBJECTS",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 6,
-      "text": "(FLYING SAUCERS)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
       "status": "blank"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 4,
+      "text": "TO : W. C. Sullivan",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
       "text": "DATE: 10/2/61",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 6,
       "status": "blank"
     },
     {
+      "lineNumber": 7,
+      "text": "FROM : [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "SUBJECT: UNIDENTIFIED FLYING OBJECTS",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 10,
-      "text": "At this time there appears to be no necessity for",
+      "text": "(FLYING SAUCERS)",
       "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": "additional instructions for the field or insertion in the FBI",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 12,
-      "text": "Handbook or Manuals relative to flying saucers.",
+      "text": "At this time there appears to be no necessity for",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "status": "blank"
+      "text": "additional instructions for the field or insertion in the FBI",
+      "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "Memorandum 9-30-60 pointed out that our policy",
+      "text": "Handbook or Manuals relative to flying saucers.",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "concerning unidentified flying objects is to conduct no",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 16,
-      "text": "investigation but immediately refer facts to the Air Force",
+      "text": "Memorandum 9-30-60 pointed out that our policy",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "(Bureau Bulletin Number 57, 10-1-47); that SAC Letter Number",
+      "text": "concerning unidentified flying objects is to conduct no",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "36, 3-29-49, reiterated this policy and set out data desired",
+      "text": "investigation but immediately refer facts to the Air Force",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "by Air Force to be obtained when complaint received; that SAC",
+      "text": "(Bureau Bulletin Number 57, 10-1-47); that SAC Letter Number",
       "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "Letter Number 43, 3-29-52, again pointed out our policy; that",
-      "status": "image_matched"
+      "text": "38, 3-29-49, reiterated this policy and set out data desired",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
-      "text": "Air Force on 11-12-57 assured that Bureau would be advised of",
+      "text": "by Air Force to be obtained when complaint received; that SAC",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "text": "any developments in this field of interest to us; and that",
-      "status": "image_matched"
+      "text": "Letter Number 43, 8-29-52, again pointed out our policy; that",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
-      "text": "there appeared to be no necessity for further instructions to",
+      "text": "Air Force on 11-12-57 assured that Bureau would be advised of",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "text": "field or insertion in agents' Handbook or Manual of Instructions",
+      "text": "any developments in this field of interest to us; and that",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "of our policy relating to flying saucers.",
+      "text": "there appeared to be no necessity for further instructions to",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "status": "blank"
+      "text": "field or insertion in agents' Handbook or Manual of Instructions",
+      "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "During the past 12 months only one complaint regarding",
+      "text": "of our policy relating to flying saucers.",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "text": "flying saucers has been received. The facts in this complaint",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 29,
-      "text": "were immediately referred to the Air Force.",
+      "text": "During the past 12 months only one complaint regarding",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "status": "blank"
+      "text": "flying saucers has been received. The facts in this complaint",
+      "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "text": "ACTION:",
+      "text": "were immediately referred to the Air Force.",
       "status": "image_matched"
     },
     {
@@ -183,31 +170,31 @@
     },
     {
       "lineNumber": 33,
-      "text": "For your information. There appears to be no necessity",
+      "text": "ACTION:",
       "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "text": "for additional instructions for the field or insertion in the FBI",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 35,
-      "text": "Handbook or Manuals relative to flying saucers. This matter will",
+      "text": "For your information. There appears to be no necessity",
       "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "text": "again be reviewed on or about 10-1-62.",
+      "text": "for additional instructions for the field or insertion in the FBI",
       "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "status": "blank"
+      "text": "Handbook or Manuals relative to flying saucers. This matter will",
+      "status": "image_matched"
     },
     {
       "lineNumber": 38,
-      "text": "62-33094",
+      "text": "again be reviewed on or about 10-1-62.",
       "status": "image_matched"
     },
     {
@@ -216,42 +203,40 @@
     },
     {
       "lineNumber": 40,
-      "text": "1 - Mr. Sullivan",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "62-33094",
+      "status": "image_matched"
     },
     {
       "lineNumber": 41,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 42,
+      "text": "1 - Mr. Sullivan",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 43,
       "text": "1 - Donahoe",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
-      "text": ".1 - Wacks",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 43,
-      "status": "blank"
-    },
-    {
       "lineNumber": 44,
-      "text": "JFM:jes",
-      "status": "image_matched"
+      "text": "1 - Wacks",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 45,
-      "text": "(4)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
       "status": "blank"
     },
     {
+      "lineNumber": 46,
+      "text": "JPM:jes",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 47,
-      "text": "64 OCT 9 1961",
+      "text": "(4)",
       "status": "image_matched"
     },
     {
@@ -274,9 +259,8 @@
     },
     {
       "lineNumber": 52,
-      "text": "12 - 384-405",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] OCT 4 1961",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 53,
@@ -284,8 +268,8 @@
     },
     {
       "lineNumber": 54,
-      "text": "OCT 4 1961",
-      "status": "image_matched"
+      "text": "EX 104",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 55,
@@ -293,7 +277,7 @@
     },
     {
       "lineNumber": 56,
-      "text": "EX 100",
+      "text": "64 OCT 9 1961",
       "status": "image_matched"
     }
   ],

@@ -8,21 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 21 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0014-l0009",
-    "page_0014-l0010",
-    "page_0014-l0011",
-    "page_0014-l0018",
-    "page_0014-l0019",
-    "page_0014-l0021",
-    "page_0014-l0027",
-    "page_0014-l0030"
-  ],
-  "lineCount": 31,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 41,
   "lines": [
     {
       "lineNumber": 1,
@@ -31,159 +22,199 @@
     },
     {
       "lineNumber": 2,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 3,
       "text": "UNITED STATES DEPARTMENT OF JUSTICE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 3,
       "status": "blank"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 4,
       "text": "Transmit the following Teletype message to:",
       "status": "image_matched"
     },
     {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
       "lineNumber": 6,
-      "text": "FBI, DETROIT 1-12-55 AIRTED",
-      "status": "image_matched"
+      "text": "FBI DETROIT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "text": "DIRECTOR, FBI (62-83894) AMSD",
-      "status": "image_matched"
+      "text": "1-12-55",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
+      "text": "AIRTED",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "DIRECTOR, FBI (62-83894)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 11,
+      "text": "AMSD",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 12,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 13,
       "text": "DETROIT FLYING SAUCER CLUB, ESPIONAGE-X.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
-      "text": "OAK PARK, MICH., EMPLOYED AS PARTNER, [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 14,
+      "text": "[REDACTED] OAK PARK, MICH., EMPLOYED AS PARTNER, [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 15,
       "text": "DETROIT, INTERVIEWED 1-11-55 IN BUREAU CAR IN VICINITY [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 16,
       "text": "[REDACTED] DENIED MAKING ANY STATEMENT HE WAS WORKING WITH OR",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 17,
       "text": "HAD ANY CONNECTION WITH FBI. HE CLAIMED SUCH ALLEGATION COULD HAVE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 18,
       "text": "ARISEN AS RESULT OF QUESTIONS ASKED DURING SOME MEETING AS TO",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 19,
       "text": "WHETHER CLUB HAD FURNISHED INFORMATION TO FBI OR OTHER GOVERNMENT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 20,
       "text": "AGENCY. HE REPLIED HE OR THE CLUB WOULD BE WILLING TO COOPERATE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 21,
       "text": "WITH ANYONE AT ANY TIME. HE WAS CAUTIONED TO MAKE NO REPRESENTA-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 22,
       "text": "TION OR STATEMENT LEAVING THE IMPRESSION HE HAD ANY CONNECTION",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 23,
       "text": "WITH FBI. AS TO REPORTING TO WASHINGTON, [REDACTED] SAID HE AND [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 24,
       "text": "[REDACTED] ANOTHER CLUB DIRECTOR, WERE GOING TO WASHINGTON, D.C.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 25,
       "text": "TO PRESENT THEIR INFORMATION \"TO THE PENTAGON\" AND THEY HOPED TO",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 26,
       "text": "SEE \"SOMEONE IN AIR FORCE INTELLIGENCE\". [REDACTED] SAID THEY INTENDED",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 27,
       "text": "TAKING WITH THEM SOMEONE, OR POSSIBLY TWO, WHO HAD ACTUALLY",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 28,
       "text": "SIGHTED SAUCERS. IF THEY GET NO ONE TO GO THEY WILL GET",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 29,
       "text": "AFFIDAVITS FROM SAUCER SIGHTERS. THEIR PURPOSE IN GOING IS TO",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 30,
       "text": "FURNISH WHAT INFO THEY HAVE (THIS IS IN POSSESSION OF THE CLUB)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
-      "text": "ON FLYING SAUCERS SIGHTING OF THEM IN AFFIDAVIT FORM, POSSIBLY",
-      "status": "image_matched"
+      "lineNumber": 31,
+      "text": "ON FLYING SAUCERS, SIGHTING OF THEM IN AFFIDAVIT FORM, POSSIBLY",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 27,
-      "text": "RBS:AMW AIRTEL 62- [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 32,
+      "text": "RBS:AMW",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 33,
       "text": "(4)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 34,
       "text": "65-2677",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
-      "text": "FILES DESTROYED Special Agent in Charge Sent [unclear] For",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 35,
+      "text": "AIRTEL",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 31,
-      "text": ":70 NOV 19 1964",
-      "status": "image_matched"
+      "lineNumber": 36,
+      "text": "62-83894-56-1",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
+      "text": "Approved [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 38,
+      "text": "FILES DESTROYED",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Special Agent in Charge",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 40,
+      "text": "Sent [unclear] Per [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 41,
+      "text": "70 NOV 19 1964",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

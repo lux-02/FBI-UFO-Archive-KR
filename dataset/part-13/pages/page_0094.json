@@ -8,15 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "typed_or_printed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 34 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0094-l0004",
-    "page_0094-l0044"
-  ],
-  "lineCount": 46,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 45,
   "lines": [
     {
       "lineNumber": 1,
@@ -35,8 +32,7 @@
     {
       "lineNumber": 4,
       "text": "in Harold T. Wilkins \"Flying Saucers On The Attack,\" published by Cit-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -54,8 +50,8 @@
     },
     {
       "lineNumber": 8,
-      "text": "1950 in Los Angeles, California by official in attorneys office con-",
-      "status": "image_matched"
+      "text": "1953 in Los Angeles, California by official in attorneys office con-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
@@ -73,8 +69,8 @@
     },
     {
       "lineNumber": 12,
-      "text": "dle of December 1952. They landed on Mojave (or Mohave) Desert in a",
-      "status": "image_matched"
+      "text": "dle of December 1952. They landed on Mojave (or Mohove) Desert in a",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
@@ -170,75 +166,70 @@
     },
     {
       "lineNumber": 32,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 33,
       "text": "b) The steel filing cabinet is suppose to be lock-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 33,
       "text": "ed in a vault.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 34,
       "text": "c) The story is suppose to have been related to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 35,
       "text": "the author, Wilkins, by a Los Angeles reporter, who wished to remain",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 36,
       "text": "anonymous.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 37,
       "status": "blank"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 38,
       "text": "The above is a condensed version of the facts presented in an",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 39,
       "text": "article, which appeared in the appendix of the previously mentioned",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 40,
       "text": "Harold T. Wilkins book.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 41,
       "status": "blank"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 42,
       "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 43,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 44,
       "status": "blank"
     },
     {
-      "lineNumber": 46,
-      "text": "ENCLOSURE 102 53874 - 4/1",
-      "status": "image_matched"
+      "lineNumber": 45,
+      "text": "ENCLOSURE 102 53874 - 411",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

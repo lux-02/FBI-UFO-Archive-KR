@@ -8,16 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0043-l0005",
-    "page_0043-l0016",
-    "page_0043-l0025"
-  ],
-  "lineCount": 30,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 33,
   "lines": [
     {
       "lineNumber": 1,
@@ -41,8 +37,7 @@
     {
       "lineNumber": 5,
       "text": "forwarded to this office by [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
@@ -95,76 +90,87 @@
     },
     {
       "lineNumber": 16,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 17,
-      "text": "related that STRINGFIELD states in the",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 19,
+      "text": "[REDACTED] related that STRINGFIELD states in the",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 20,
       "text": "\"Newsletter\", and also personally, that the U. S. Air Force",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 21,
       "text": "maintains a strict censorship of news pertaining to saucers,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "text": "that the Air Force has several thousand saucer scientists",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 23,
       "text": "working on a research project, and that any military",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 24,
       "text": "personnel working on the project are subject to immediate",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 25,
       "text": "court-martial if they reveal any facts about it.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 26,
       "status": "blank"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 27,
       "text": "STRINGFIELD has also stated to [REDACTED] that he be-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 28,
       "text": "lieves his home telephone is being monitored, presumably",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 29,
       "text": "by the Air Force, and that he makes phone calls to Wright-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 30,
       "text": "Patterson Air Force Intelligence Officer JOHN O'MARA and to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 31,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 32,
       "status": "blank"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 33,
       "text": "- 2 -",
       "status": "image_matched"
     }

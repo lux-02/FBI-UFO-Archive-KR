@@ -8,64 +8,54 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 21 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0002-l0002",
-    "page_0002-l0003",
-    "page_0002-l0005",
-    "page_0002-l0006",
-    "page_0002-l0030"
-  ],
-  "lineCount": 37,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 59,
   "lines": [
     {
       "lineNumber": 1,
+      "text": "February 21, 1956",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
       "text": "CORDED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 2,
-      "text": "'DEXED 40-12-8",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 3,
-      "text": "EX-121",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 4,
-      "status": "blank"
+      "text": "'DEXED",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "February 21, 1956",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "EX.-121",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "62 - 8317-263",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "text": "Springfield, Massachusetts",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 8,
       "status": "blank"
     },
     {
+      "lineNumber": 8,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 9,
-      "text": "Dear Richard:",
+      "text": "Springfield, Massachusetts",
       "status": "image_matched"
     },
     {
@@ -74,40 +64,40 @@
     },
     {
       "lineNumber": 11,
-      "text": "Your letter dated February 12, 1956, has",
+      "text": "Dear Richard:",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "been received, and I sincerely appreciate the interest",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 13,
-      "text": "prompting you to write.",
+      "text": "Your letter dated February 12, 1956, has",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "status": "blank"
+      "text": "been received, and I sincerely appreciate the interest",
+      "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "I wish to advise that no matter such as",
+      "text": "prompting you to write.",
       "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "you described was ever reported to the FBI.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 17,
       "status": "blank"
     },
     {
+      "lineNumber": 17,
+      "text": "I wish to advise that no matter such as",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 18,
-      "text": "Sincerely yours,",
+      "text": "you described was ever reported to the FBI.",
       "status": "image_matched"
     },
     {
@@ -116,7 +106,7 @@
     },
     {
       "lineNumber": 20,
-      "text": "J. Edgar Hoover",
+      "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
@@ -125,79 +115,186 @@
     },
     {
       "lineNumber": 22,
-      "text": "John Edgar Hoover",
+      "text": "J. Edgar Hoover",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "Director",
+      "text": "John Edgar Hoover",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "status": "blank"
+      "text": "Director",
+      "status": "image_matched"
     },
     {
       "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
       "text": "CEH:jfm:lmh",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 27,
       "text": "(3)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 28,
       "status": "blank"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 29,
       "text": "RECEIVED MAILING ROOM",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
-      "text": "FBI",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 30,
-      "text": "-821 3 44 PM '56",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "F B I",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 31,
-      "status": "blank"
+      "text": "'56 MAR 3 PM 1 28",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
-      "text": "COMM - FBI",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
-      "text": "FEB 21 1956",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 34,
-      "text": "MAILED 31",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 35,
       "status": "blank"
     },
     {
+      "lineNumber": 33,
+      "text": "4",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 34,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 35,
+      "text": "E B I",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 36,
+      "text": "REC'D [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 37,
+      "text": "FEB 23 1 [unclear] AM '56",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 38,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Tolson",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 40,
+      "text": "Boardman",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 41,
+      "text": "Nichols",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "text": "Belmont",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 43,
+      "text": "Harbo",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 44,
+      "text": "Mohr",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 45,
+      "text": "Parsons",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 46,
+      "text": "Rosen",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 47,
+      "text": "Tamm",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 48,
+      "text": "Sizoo",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 49,
+      "text": "Winterrowd",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "text": "Tele. Room",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
+      "text": "Holloman",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 52,
+      "text": "Gandy",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 54,
       "text": "FEB 28 1956",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 55,
       "text": "MR. BRANIGAN",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 56,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 57,
+      "text": "COMM - FBI",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 58,
+      "text": "FEB 21 1956",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 59,
+      "text": "MAILED 31",
       "status": "image_matched"
     }
   ],

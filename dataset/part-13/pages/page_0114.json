@@ -8,15 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 5 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0114-l0002",
-    "page_0114-l0004"
-  ],
-  "lineCount": 8,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 11,
   "lines": [
     {
       "lineNumber": 1,
@@ -25,37 +22,48 @@
     },
     {
       "lineNumber": 2,
-      "text": "It may be noted that [REDACTED] immediately",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
+      "text": "It may be noted that [REDACTED] immediately",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 4,
       "text": "contacted proper military personnel concerning this incident.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 5,
       "text": "Liaison will be maintained with [REDACTED] who",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
       "text": "advised he has received several more reported incidents",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "text": "to which he will give attention.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "status": "blank"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
+      "text": "67C",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
       "text": "3",
       "status": "image_matched"
     }

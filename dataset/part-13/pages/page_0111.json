@@ -8,17 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 3 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0111-l0002",
-    "page_0111-l0004",
-    "page_0111-l0005",
-    "page_0111-l0007"
-  ],
-  "lineCount": 7,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 12,
   "lines": [
     {
       "lineNumber": 1,
@@ -27,37 +22,54 @@
     },
     {
       "lineNumber": 2,
-      "text": "- It may be noted that Captain HOLDER immediately",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
+      "text": "- It may be noted that Captain HOLDER immediately",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 4,
       "text": "contacted proper military personnel concerning this incident.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "[REDACTED] Liaison will be maintained with [REDACTED] who",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 5,
-      "text": "advised he has received several more reported incidents,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
+      "text": "Liaison will be maintained with [REDACTED] who",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 7,
+      "text": "advised he has received several more reported incidents,",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 8,
       "text": "to which he will give attention.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
-      "text": "437",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "3",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "137",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

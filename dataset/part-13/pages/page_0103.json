@@ -8,17 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 22 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0103-l0003",
-    "page_0103-l0006",
-    "page_0103-l0009",
-    "page_0103-l0014"
-  ],
-  "lineCount": 29,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 31,
   "lines": [
     {
       "lineNumber": 1,
@@ -33,8 +28,7 @@
     {
       "lineNumber": 3,
       "text": "an answer; instead the post G-2, Col. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
@@ -49,8 +43,7 @@
     {
       "lineNumber": 6,
       "text": "After assuring [REDACTED] that I had not intended to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
@@ -65,8 +58,7 @@
     {
       "lineNumber": 9,
       "text": "the future. Here, we mustn't reproach Col. [REDACTED] too",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
@@ -91,8 +83,7 @@
     {
       "lineNumber": 14,
       "text": "[REDACTED] investigation:",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
@@ -144,25 +135,34 @@
     },
     {
       "lineNumber": 25,
+      "text": "* * *",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 26,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 27,
       "text": "You may see now that the sources as well as the fruit",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 28,
       "text": "of my UFO research are subject to scrutiny by all interest",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 29,
       "text": "authorities. This fact became even clearer several months",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 30,
       "status": "blank"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 31,
       "text": "-5-",
       "status": "image_matched"
     }

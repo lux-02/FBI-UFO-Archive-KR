@@ -8,16 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 36 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0019-l0005",
-    "page_0019-l0008",
-    "page_0019-l0011"
-  ],
-  "lineCount": 49,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 64,
   "lines": [
     {
       "lineNumber": 1,
@@ -41,23 +37,21 @@
     {
       "lineNumber": 5,
       "text": "62-83894-354",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 7,
       "text": "EX-130",
       "status": "image_matched"
     },
     {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
       "lineNumber": 8,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
@@ -71,8 +65,7 @@
     {
       "lineNumber": 11,
       "text": "Dear [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 12,
@@ -199,8 +192,8 @@
     },
     {
       "lineNumber": 38,
-      "text": "Saucer\" was written by Truman Bethurum. In June, 1954, an",
-      "status": "image_matched"
+      "text": "Saucer\" was written by Truman/Bethurum. In June, 1954, an",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 39,
@@ -229,31 +222,91 @@
     },
     {
       "lineNumber": 44,
-      "text": "COMM - FBI",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 45,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 46,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 47,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 48,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 49,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 50,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 51,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 52,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 53,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 54,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 55,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 56,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 57,
       "text": "DCL:rg",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
-      "text": "(3)",
+      "lineNumber": 58,
+      "text": "1(S)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 59,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 60,
+      "text": "COMM - FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 61,
       "text": "DEC 17 1954",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
+      "lineNumber": 62,
       "text": "MAILED 24",
       "status": "image_matched"
     },
     {
-      "lineNumber": 49,
+      "lineNumber": 63,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 64,
       "text": "Del",
       "status": "image_matched"
     }

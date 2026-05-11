@@ -8,23 +8,11 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "11 permanent_unresolved line(s) excluded under SRC-896. 30 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0130-l0006",
-    "page_0130-l0007",
-    "page_0130-l0008",
-    "page_0130-l0010",
-    "page_0130-l0016",
-    "page_0130-l0017",
-    "page_0130-l0018",
-    "page_0130-l0020",
-    "page_0130-l0022",
-    "page_0130-l0037",
-    "page_0130-l0043"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 46,
   "lines": [
     {
@@ -52,21 +40,18 @@
     },
     {
       "lineNumber": 6,
-      "text": "On 9/17/63, [REDACTED] Civilian Personnel Records Section,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "On 9/17/63, [REDACTED] Civilian Personnel Records Section, -",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
       "text": "Fort Eustis, Virginia, advised SA [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
       "text": "that files in her possession reflect that [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
@@ -76,8 +61,7 @@
     {
       "lineNumber": 10,
       "text": "Virginia, and who has [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
@@ -107,20 +91,17 @@
     {
       "lineNumber": 16,
       "text": "[REDACTED] said her records reflect that [REDACTED] resides",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
       "text": "[REDACTED] Newport News, Virginia, and",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
       "text": "formerly resided at [REDACTED] Newport News, Virginia.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 19,
@@ -129,8 +110,7 @@
     {
       "lineNumber": 20,
       "text": "On 9/17/63, [REDACTED] was interviewed by SA [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,
@@ -140,8 +120,7 @@
     {
       "lineNumber": 22,
       "text": "School, Fort Eustis, Virginia. [REDACTED] advised that he",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 23,
@@ -215,8 +194,7 @@
     {
       "lineNumber": 37,
       "text": "While being questioned, [REDACTED] stated that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 38,
@@ -245,8 +223,7 @@
     {
       "lineNumber": 43,
       "text": "At the conclusion of the interview, [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 44,

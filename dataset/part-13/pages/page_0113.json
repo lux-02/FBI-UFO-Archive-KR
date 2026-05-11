@@ -8,25 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "12 permanent_unresolved line(s) excluded under SRC-896. 22 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0113-l0003",
-    "page_0113-l0004",
-    "page_0113-l0010",
-    "page_0113-l0014",
-    "page_0113-l0015",
-    "page_0113-l0018",
-    "page_0113-l0022",
-    "page_0113-l0024",
-    "page_0113-l0025",
-    "page_0113-l0026",
-    "page_0113-l0027",
-    "page_0113-l0028"
-  ],
-  "lineCount": 39,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 41,
   "lines": [
     {
       "lineNumber": 1,
@@ -40,193 +27,191 @@
     {
       "lineNumber": 3,
       "text": "he had met [REDACTED] on 4/27/64, advised that on 4/26/64,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
-      "text": "proceeded to La Madera, New Mexico. to check out [REDACTED] and both",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] at Santa Fe, New Mexico, and both",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
+      "text": "proceeded to La Madera, New Mexico, to check out [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 6,
       "text": "observations. He stated that at the scene there was still",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "text": "some smoldering material. He noted that there was miscellaneous",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "text": "rubbish in the area and the site may have been a dump at one",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
-      "text": "time. In his opinion, some material, such as a can of paint,",
-      "status": "image_matched"
+      "lineNumber": 9,
+      "text": "time. In his opinion, some material, such as a can of paint, b7c",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "could have caught fire and exploded. He also noted that",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "[REDACTED] had an odor of alcohol about him. [REDACTED] stated",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "he would advise the FBI, Albuquerque, of any pertinent develop-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "text": "ments.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 14,
       "status": "blank"
     },
     {
-      "lineNumber": 14,
-      "text": "It may be noted that [REDACTED] on",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 15,
-      "text": "4/24/64, advised that they answered [REDACTED] radio calls and",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "It may be noted that [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 16,
-      "text": "went to the site quickly. They noted several small burning",
-      "status": "image_matched"
+      "text": "and [REDACTED] on",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
+      "text": "4/24/64, advised that they answered [REDACTED] radio calls and",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 18,
+      "text": "went to the site quickly. They noted several small burning b7c",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 19,
       "text": "areas at the site and the indentations. No one else was noted",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 20,
       "text": "in the area. [REDACTED] a well regarded and capable",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 21,
       "text": "officer, was noted to be perfectly sober and thoroughly",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "text": "frightened.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 23,
       "status": "blank"
     },
     {
-      "lineNumber": 22,
-      "text": "[REDACTED] SA [REDACTED] was at Socorro, New Mexico,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 24,
+      "text": "SA [REDACTED] was at Socorro, New Mexico,",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 25,
       "text": "4/24/64, and had noted the four irregular burned spots and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
-      "text": "the four indentations at the site. SA [REDACTED] immediately",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 25,
-      "text": "advised [REDACTED] stallion",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 26,
-      "text": "Range Center, Socorro, New Mexico. [REDACTED] along",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "the four indentations at the site. SA [REDACTED] immediately",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 27,
-      "text": "with [REDACTED] and SA [REDACTED] checked the Socorro site",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "advised [REDACTED] Stallion",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 28,
-      "text": "and interviewed [REDACTED] at length. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Range Center, Socorro, New Mexico. [REDACTED] along b7c",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
+      "text": "with [REDACTED] and SA [REDACTED] checked the Socorro site",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 30,
+      "text": "and interviewed [REDACTED] at length. [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 31,
       "text": "observations were taken in the form of a statement. A copy",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 32,
       "text": "of this lengthy statement is retained at the Albuquerque FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 33,
       "text": "Office as well as a small sample of charred material taken",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 34,
       "text": "at the scene.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 35,
       "status": "blank"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 36,
       "text": "An unusual observation made at the Socorro scene",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 37,
       "text": "was that there appeared to be no \"blast\" effects. Between",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 38,
       "text": "the burned spots were unburned areas, including patches of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 39,
       "text": "unburned brown range grass.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 40,
       "status": "blank"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 41,
       "text": "2",
       "status": "image_matched"
     }

@@ -8,102 +8,99 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 36 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0025-l0002"
-  ],
-  "lineCount": 42,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 45,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "SAC, Detroit (65-2677) (original and one) December 16, 1954",
-      "status": "image_matched"
+      "text": "SAC, Detroit (65-2677) (original and one)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "RECORDED - 71",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "December 16, 1954",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
+      "text": "RECORDED - 71",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
       "text": "Director, FBI (62-83894)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 6,
+      "text": "EX-128",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
       "text": "DETROIT FLYING SAUCER CLUB",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 8,
       "text": "ESPIONAGE - X",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 9,
       "status": "blank"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 10,
       "text": "Reurlet 11/30/54. You are instructed to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 11,
       "text": "forward to the Bureau a memorandum or report suitable",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 12,
       "text": "for dissemination containing the pertinent information",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 13,
       "text": "set forth in referenced letter, in order that it can",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 14,
       "text": "be disseminated by the Bureau to OSI and to the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 15,
       "text": "Internal Security Division of the Department of Justice.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 16,
       "text": "In view of the facts set forth in referenced letter,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 17,
       "text": "no further investigation of this matter need be",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
-      "text": "conducted by your office at this time.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 17,
-      "text": "EHM:alp",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 18,
-      "text": "(4)",
+      "text": "conducted by your office at this time.",
       "status": "image_matched"
     },
     {
@@ -112,114 +109,128 @@
     },
     {
       "lineNumber": 20,
-      "text": "Tolson",
+      "text": "EHM:alp",
       "status": "image_matched"
     },
     {
       "lineNumber": 21,
-      "text": "Boardman",
+      "text": "(4)",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "text": "Nichols",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 23,
-      "text": "Belmont",
+      "text": "Tolson",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "text": "Mohr",
+      "text": "Boardman",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "Parsons",
+      "text": "Nichols",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "Ladd",
+      "text": "Belmont",
       "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "Rosen",
-      "status": "image_matched"
+      "text": "Harbo",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 28,
-      "text": "Tam",
+      "text": "Mohr",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "Tamm",
+      "text": "Parsons",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "Winterrowd",
-      "status": "image_matched"
+      "text": "Lance",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 31,
-      "text": "Tele. Room",
+      "text": "Tamm",
       "status": "image_matched"
     },
     {
       "lineNumber": 32,
-      "text": "Holton",
-      "status": "image_matched"
+      "text": "Sizoo",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
-      "text": "Gandy",
+      "text": "Winterrowd",
       "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 35,
-      "text": "COMM - FBI",
+      "text": "Tele. Room",
       "status": "image_matched"
     },
     {
+      "lineNumber": 35,
+      "text": "Holloman",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 36,
-      "text": "DEC 17 1954",
+      "text": "Gandy",
       "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "text": "MAILED 24",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 38,
       "status": "blank"
     },
     {
+      "lineNumber": 38,
+      "text": "COMM - FBI",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 39,
-      "text": "DEC 18 3 15 PM '54",
+      "text": "DEC 17 1954",
       "status": "image_matched"
     },
     {
       "lineNumber": 40,
-      "text": "FBI - DOM",
+      "text": "MAILED 24",
       "status": "image_matched"
     },
     {
       "lineNumber": 41,
-      "text": "UNB",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 42,
+      "text": "DEC 18 3 33 PM '54",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 43,
+      "text": "FBI",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 44,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 45,
       "text": "62-83894-352",
       "status": "image_matched"
     }

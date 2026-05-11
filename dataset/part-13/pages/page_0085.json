@@ -8,47 +8,27 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "16 permanent_unresolved line(s) excluded under SRC-896. 8 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0085-l0001",
-    "page_0085-l0002",
-    "page_0085-l0003",
-    "page_0085-l0007",
-    "page_0085-l0009",
-    "page_0085-l0010",
-    "page_0085-l0011",
-    "page_0085-l0013",
-    "page_0085-l0015",
-    "page_0085-l0017",
-    "page_0085-l0018",
-    "page_0085-l0019",
-    "page_0085-l0022",
-    "page_0085-l0027",
-    "page_0085-l0029",
-    "page_0085-l0030"
-  ],
-  "lineCount": 34,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 32,
   "lines": [
     {
       "lineNumber": 1,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 3,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
@@ -66,8 +46,7 @@
     {
       "lineNumber": 7,
       "text": "GENTLEMEN:",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
@@ -76,20 +55,17 @@
     {
       "lineNumber": 9,
       "text": "PLEASE TELL ME THE NAME AND",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
       "text": "ADDRESS OF THE BUREAU OR AGENCY THAT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "INVESTIGATES UNIDENTIFIED FLYING OBJECTS.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "INVESTIGATES UNIDENTIFIED FLYING OBJECTS",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
@@ -98,8 +74,7 @@
     {
       "lineNumber": 13,
       "text": "RESPECTFULLY,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
@@ -108,8 +83,7 @@
     {
       "lineNumber": 15,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 16,
@@ -118,20 +92,17 @@
     {
       "lineNumber": 17,
       "text": "HOME ADDRESS:",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 19,
       "text": "PALATINE, ILL",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
@@ -144,67 +115,52 @@
     },
     {
       "lineNumber": 22,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[Stamp: LATINE, ILL. PM 1965]",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
-      "text": "PM",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 24,
-      "text": "1965",
-      "status": "image_matched"
+      "text": "[unclear] 4-27-65",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 25,
-      "text": "ILL",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 26,
-      "status": "blank"
+      "text": "[unclear] 4-28-65",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 27,
-      "text": "[unclear] 9-29-65",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 28,
-      "status": "blank"
+      "text": "1 ENCLOSURE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
-      "text": "[unclear] 9-28-65",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 30,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 31,
-      "text": "/ ENCLOSURE",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
       "status": "blank"
     },
     {
-      "lineNumber": 33,
-      "text": "62-8394-444",
-      "status": "image_matched"
+      "lineNumber": 31,
+      "text": "62-83894-444",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 32,
       "text": "CORRESPONDENCE",
       "status": "image_matched"
     }

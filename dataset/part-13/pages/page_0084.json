@@ -8,19 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 13 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0084-l0012",
-    "page_0084-l0013",
-    "page_0084-l0016",
-    "page_0084-l0020",
-    "page_0084-l0022",
-    "page_0084-l0023"
-  ],
-  "lineCount": 23,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 29,
   "lines": [
     {
       "lineNumber": 1,
@@ -71,73 +64,92 @@
     },
     {
       "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
       "text": "Respectfully,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 13,
-      "text": "Home address: [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
+      "text": "Home address: [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 16,
       "text": "Palatine, Ill 60067",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 17,
       "status": "blank"
     },
     {
-      "lineNumber": 16,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 17,
-      "text": "EX 109",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 18,
-      "text": "62-83891-444",
-      "status": "image_matched"
+      "text": "[unclear]SURE",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 19,
-      "text": "APR 30 1965",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 20,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 21,
       "text": "ITC 4-27-65 ufp",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 21,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 22,
+      "text": "a.d 4-28-[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 23,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "per [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 24,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 25,
+      "text": "REC-7",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 26,
+      "text": "EX 109",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
+      "text": "62-83894-444",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 29,
+      "text": "[unclear] APR 30 1965",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

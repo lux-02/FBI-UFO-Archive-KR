@@ -8,22 +8,17 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 22 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0099-l0001",
-    "page_0099-l0003",
-    "page_0099-l0027"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 27,
   "lines": [
     {
       "lineNumber": 1,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
@@ -33,8 +28,7 @@
     {
       "lineNumber": 3,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
@@ -92,8 +86,8 @@
     },
     {
       "lineNumber": 15,
-      "text": "critiques of the Federal Government's role in UFO research.",
-      "status": "image_matched"
+      "text": "critiques of the Federal Government's role in UFO research",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
@@ -112,8 +106,8 @@
     },
     {
       "lineNumber": 19,
-      "text": "my detractors: \"Someone must do it. Someone must challenge",
-      "status": "image_matched"
+      "text": "my detractors: \"Someone must do it. Someone must challeng",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
@@ -146,14 +140,13 @@
     },
     {
       "lineNumber": 26,
-      "text": "257",
-      "status": "image_matched"
+      "text": "42 8394-42",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
-      "text": "[unclear] 83994-42",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "357",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

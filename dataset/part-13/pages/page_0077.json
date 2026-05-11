@@ -8,17 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 26 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0077-l0003",
-    "page_0077-l0016",
-    "page_0077-l0026",
-    "page_0077-l0037"
-  ],
-  "lineCount": 39,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 40,
   "lines": [
     {
       "lineNumber": 1,
@@ -32,8 +27,7 @@
     {
       "lineNumber": 3,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
@@ -89,14 +83,13 @@
     },
     {
       "lineNumber": 15,
-      "text": "objects and it also had a photo of two F.B.I. agents leading a silver-",
-      "status": "image_matched"
+      "text": "objects and it also had a photo of two F. B. I. agents leading a silver-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
       "text": "clad man, about one and a half to two feet tall, down an american",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
@@ -144,8 +137,7 @@
     {
       "lineNumber": 26,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 27,
@@ -153,8 +145,8 @@
     },
     {
       "lineNumber": 28,
-      "text": "CLEBURNE",
-      "status": "image_matched"
+      "text": "CLEBURNE, TX",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
@@ -173,8 +165,8 @@
     },
     {
       "lineNumber": 32,
-      "text": "TEX",
-      "status": "image_matched"
+      "text": "76031",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
@@ -192,21 +184,24 @@
     },
     {
       "lineNumber": 36,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 37,
       "text": "8-eft",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
-      "text": "62-5-5894-111",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 38,
-      "status": "blank"
+      "text": "62-58594-111",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 39,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 40,
       "text": "1 JUL 22 1966",
       "status": "image_matched"
     }

@@ -8,21 +8,17 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0017-l0005",
-    "page_0017-l0007",
-    "page_0017-l0009"
-  ],
-  "lineCount": 37,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 49,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "AIR-TEL",
-      "status": "image_matched"
+      "text": "( AIR-TEL",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -31,177 +27,225 @@
     },
     {
       "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "JANUARY 7, 1955",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "SAC, DETROIT (65-2677) (original &",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "DETROIT FLYING SAUCER CLUB, ESPIONAGE - X. REURAIRTEL",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 7,
+      "status": "blank"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 8,
+      "text": "DETROIT FLYING SAUCER CLUB, ESPIONAGE - X. REURAIRTEL",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
       "text": "1/5/55. BUREAU SEES NO REASON FOR YOUR OFFICE TO WAIT UNTIL",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 10,
       "text": "1/15/55, TO INTERVIEW [REDACTED] INTERVIEW HIM IMMEDIATELY",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 11,
       "text": "UNLESS THERE IS SOME GOOD REASON TO THE CONTRARY IN WHICH CASE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 12,
       "text": "THE BUREAU SHOULD BE ADVISED. [REDACTED] SHOULD BE INTERVIEWED FOR",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 13,
       "text": "THE PURPOSES SET FORTH IN YOUR REFERENCED AIRTEL.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
       "text": "HOOVER",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 16,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 17,
       "text": "EX-111",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 18,
       "text": "RECORDED-37",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 19,
       "text": "62-83894",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 20,
       "status": "blank"
     },
     {
-      "lineNumber": 16,
-      "text": "EHH:fjm",
-      "status": "image_matched"
+      "lineNumber": 21,
+      "text": "EHM:fjm",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 22,
       "text": "(4)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 23,
       "status": "blank"
     },
     {
-      "lineNumber": 19,
-      "text": "Tolson",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "text": "Boardman",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "text": "Nichols",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "DeLoach",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "text": "Harbo",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 24,
-      "text": "Mohr",
-      "status": "image_matched"
+      "text": "COMM-FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
-      "text": "Parsons",
-      "status": "image_matched"
+      "text": "JAN - 7 '55",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 26,
-      "text": "Rosen",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "text": "Tamm",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
-      "text": "Sizoo",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 29,
-      "text": "Winterrowd",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
-      "text": "Tele. Room",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 31,
-      "text": "Holloman",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "text": "Gandy",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
-      "text": "COMM-FEI",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 34,
-      "text": "JAN - 7 1955",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 35,
       "text": "MAILED 20",
       "status": "image_matched"
     },
     {
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
+      "text": "[unclear] DESK OF [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 29,
+      "text": "F B I",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 30,
+      "text": "RECEIVED [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 31,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 32,
+      "text": "Tolson",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "Boardman",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "Nichols",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "text": "Belmont",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 36,
-      "text": "JAN 14 1955",
+      "text": "Harbo",
       "status": "image_matched"
     },
     {
       "lineNumber": 37,
+      "text": "Mohr",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "text": "Parsons",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Rosen",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "Tamm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
+      "text": "Sizoo",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 42,
+      "text": "Winterrowd",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 43,
+      "text": "Tele. Room",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "Holloman",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "text": "Gandy",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 46,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 47,
+      "text": "JAN 14 1955",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 48,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 49,
       "text": "62 83894 353",
       "status": "image_matched"
     }

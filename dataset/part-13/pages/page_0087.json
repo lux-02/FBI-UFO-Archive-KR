@@ -8,28 +8,22 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 36 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0087-l0002",
-    "page_0087-l0005",
-    "page_0087-l0007",
-    "page_0087-l0017"
-  ],
-  "lineCount": 48,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 56,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "REC-18",
-      "status": "image_matched"
+      "text": "REC-13",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
       "text": "62-83894-445",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -43,8 +37,7 @@
     {
       "lineNumber": 5,
       "text": "Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
@@ -53,72 +46,68 @@
     },
     {
       "lineNumber": 7,
-      "text": "Dear Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 8,
       "status": "blank"
     },
     {
+      "lineNumber": 8,
+      "text": "Dear Mr. [REDACTED]:",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
       "text": "Your letter of February 21st has been received.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
       "text": "In response to your request, I would like to point",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 13,
       "text": "out that information in our files must be maintained as confidential",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
       "text": "pursuant to regulations of the Department of Justice. I am, however,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 15,
       "text": "enclosing a copy of a list of organizations designated as subversive",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 16,
       "text": "by the Department of Justice.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 17,
       "status": "blank"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 18,
       "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 18,
+      "lineNumber": 19,
       "status": "blank"
     },
     {
-      "lineNumber": 19,
-      "text": "Enclosure",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 20,
-      "text": "List of Subversive Organizations",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,
@@ -126,133 +115,170 @@
     },
     {
       "lineNumber": 22,
-      "text": "NOTE: Correspondent is not identifiable in Bufiles.",
+      "text": "Enclosure",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "status": "blank"
+      "text": "List of Subversive Organizations",
+      "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "text": "CBJ:rls (3)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
-      "text": "MAILED",
+      "lineNumber": 25,
+      "text": "NOTE: Correspondent is not identifiable in Bufiles.",
       "status": "image_matched"
     },
     {
+      "lineNumber": 26,
+      "status": "blank"
+    },
+    {
       "lineNumber": 27,
+      "text": "CEJ:rls (3)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
+      "text": "MAILED 5",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 30,
       "text": "FEB 26 1965",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 31,
       "text": "COMM-FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 32,
       "status": "blank"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 33,
+      "text": "REC'D-READING ROOM",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 34,
+      "text": "FEB 26 3 59 PM '65",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
       "text": "Tolson",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 37,
       "text": "Belmont",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 38,
       "text": "Mohr",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 39,
       "text": "DeLoach",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 40,
       "text": "Casper",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 41,
       "text": "Callahan",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 42,
       "text": "Conrad",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 43,
       "text": "Felt",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 44,
       "text": "Gale",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 45,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 46,
       "text": "Rosen",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 47,
       "text": "Sullivan",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
-      "text": "Bishop",
-      "status": "image_matched"
+      "lineNumber": 48,
+      "text": "Tavel",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 42,
-      "text": "Potter",
-      "status": "image_matched"
+      "lineNumber": 49,
+      "text": "Trotter",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 50,
       "text": "Tele. Room",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 51,
       "text": "Holmes",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 52,
       "text": "Gandy",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 53,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 54,
       "text": "70 MAR 1 1965",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 55,
       "text": "MAIL ROOM",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
+      "lineNumber": 56,
       "text": "TELETYPE UNIT",
       "status": "image_matched"
     }

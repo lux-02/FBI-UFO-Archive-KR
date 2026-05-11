@@ -8,15 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 42 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0125-l0004",
-    "page_0125-l0020"
-  ],
-  "lineCount": 54,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 52,
   "lines": [
     {
       "lineNumber": 1,
@@ -25,8 +22,8 @@
     },
     {
       "lineNumber": 2,
-      "text": "MAY 1942 EDITION",
-      "status": "image_matched"
+      "text": "MAY 1962 EDITION",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -35,9 +32,8 @@
     },
     {
       "lineNumber": 4,
-      "text": "UNITED STAT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "UNITED STAT NMENT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -46,168 +42,164 @@
     },
     {
       "lineNumber": 6,
-      "text": "TO",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 7,
-      "text": "W. C. Sullivan",
-      "status": "image_matched"
+      "text": "TO : W. C. Sullivan",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
-      "text": "FROM",
-      "status": "image_matched"
+      "text": "DATE: 10/4/63",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "W. R. Wannall",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "text": "SUBJECT:",
-      "status": "image_matched"
+      "text": "FROM : W. R. Wannall",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "UNIDENTIFIED FLYING OBJECTS",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 12,
+      "text": "SUBJECT: UNIDENTIFIED FLYING OBJECTS",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
       "text": "(FLYING SAUCERS)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
-      "status": "blank"
-    },
-    {
       "lineNumber": 14,
-      "text": "DATE:",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 15,
-      "text": "10/4/63",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 17,
       "text": "1 - Belmont",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 16,
       "text": "1 - Sullivan",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 17,
       "text": "1 - Wannall",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 18,
       "text": "1 - [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 19,
       "status": "blank"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 20,
       "text": "There appears to be no advantage to our continuing our",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 21,
       "text": "yearly review of captioned matter.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 23,
       "text": "In 1958 we adopted the practice of once a year reviewing",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 24,
       "text": "complaints received concerning existence of flying saucers for the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 25,
       "text": "purpose of determining whether instructions in addition to those",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 26,
       "text": "already issued to the field were necessary. The last memorandum",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 27,
       "text": "dated 10/2/62 pointed out that our policy concerning unidentified",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 28,
       "text": "flying objects was to conduct no investigation when received in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 29,
       "text": "the field but the field should submit the facts immediately to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 30,
       "text": "the Air Force. Our SAC Letters dated in 1949 and in 1952 emphasized",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 31,
       "text": "the afore-mentioned policy and it does not appear that at this",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 32,
       "text": "time further instructions to the field are necessary.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 33,
       "status": "blank"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 34,
       "text": "During the past 12 months we have received no complaints",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 35,
       "text": "regarding flying saucers and during the past 24 months only one",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 36,
       "text": "complaint was received, the facts of which were immediately",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 37,
       "text": "referred to the Air Force.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 39,
+      "text": "ACTION:",
       "status": "image_matched"
     },
     {
@@ -216,50 +208,52 @@
     },
     {
       "lineNumber": 41,
-      "text": "ACTION:",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 43,
       "text": "Since it does not appear that continuation of our yearly",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 42,
       "text": "review of the flying saucer situation is warranted, no further",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 43,
       "text": "analysis or review of matters coming within this field will be",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 44,
       "text": "conducted in the future. Action with respect to any complaints",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 45,
       "text": "received, of course, will follow our policy.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
-      "status": "blank"
+      "lineNumber": 46,
+      "text": "REC-103 62-83894-4",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 49,
+      "lineNumber": 47,
       "text": "JFW:klw",
       "status": "image_matched"
     },
     {
-      "lineNumber": 50,
+      "lineNumber": 48,
       "text": "(5)",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "text": "[unclear] OCT 8 1963",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 50,
+      "text": "62-83894",
       "status": "image_matched"
     },
     {
@@ -268,15 +262,6 @@
     },
     {
       "lineNumber": 52,
-      "text": "62-83894",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 53,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 54,
       "text": "53 OCT 11 1963",
       "status": "image_matched"
     }

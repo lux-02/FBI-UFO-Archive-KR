@@ -8,15 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0089-l0006",
-    "page_0089-l0034"
-  ],
-  "lineCount": 44,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 46,
   "lines": [
     {
       "lineNumber": 1,
@@ -25,209 +22,218 @@
     },
     {
       "lineNumber": 2,
-      "text": "EX 109",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 3,
-      "text": "South Kensington",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 4,
-      "text": "London, S. W. 7, England",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 5,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 6,
-      "text": "Dear Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 7,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 8,
-      "text": "Your letter of January 20th has been received.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 9,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 10,
-      "text": "In response to your inquiry, the FBI has not conducted",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
-      "text": "an investigation as you mentioned inasmuch as this would not come",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "within our investigative jurisdiction. The presence of an Agent was",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "simply to determine whether or not any violation may have occurred",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 14,
-      "text": "in which the FBI would have an interest, and for no other reason.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 16,
-      "text": "While I would like to be of assistance to you, the files",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 17,
-      "text": "of the FBI must be maintained as confidential in accordance with",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "regulations of the Department of Justice and are available for official",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "text": "use only. In view of this, I am sure you will understand why I cannot",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "text": "be of any further assistance in this instance.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 22,
-      "text": "Sincerely yours,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 24,
-      "text": "J. Edgar Hoover",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 26,
-      "text": "1 - London - Enclosure",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "text": "1 - Albuquerque - Enclosure",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
-      "text": "1 - Mr. Sullivan - Enclosure",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 29,
-      "text": "1 - Foreign Liaison Unit - Enclosure",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 31,
-      "text": "WAM:pem",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "text": "(7)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 34,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 35,
-      "text": "(See NOTE next page)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 36,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 37,
-      "text": "FEB 9 1965",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 38,
-      "text": "MAIL ROOM",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 39,
-      "text": "TELETYPE UNIT",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "FBI",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
-      "text": "REC-D READING ROOM",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "text": "JAN 26 3 35 PM '65",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
       "text": "January 26, 1965",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 3,
       "text": "AIRMAIL",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "EX 109",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 7,
+      "text": "South Kensington",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "London, S. W. 7, England",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Dear Mr. [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Your letter of January 20th has been received.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 13,
+      "text": "In response to your inquiry, the FBI has not conducted an investigation as you mentioned inasmuch as this would not come within our investigative jurisdiction. The presence of an Agent was simply to determine whether or not any violation may have occurred in which the FBI would have an interest, and for no other reason.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
+      "text": "While I would like to be of assistance to you, the files of the FBI must be maintained as confidential in accordance with regulations of the Department of Justice and are available for official use only. In view of this, I am sure you will understand why I cannot be of any further assistance in this instance.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 17,
+      "text": "Sincerely yours,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "J. Edgar Hoover",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 20,
+      "text": "1 - London - Enclosure",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "text": "1 - Albuquerque - Enclosure",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "1 - Mr. Sullivan - Enclosure",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "text": "1 - Foreign Liaison Unit - Enclosure",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 25,
+      "text": "WAM:pem",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "(7)",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
+      "text": "(See NOTE next page)",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 30,
+      "text": "Tolson",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 31,
+      "text": "Belmont",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 32,
+      "text": "Mohr",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 33,
+      "text": "DeLoach",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 34,
+      "text": "Casper",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 35,
+      "text": "Callahan",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 36,
+      "text": "Conrad",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
+      "text": "Felt",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 38,
+      "text": "Gale",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Rosen",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 40,
+      "text": "Sullivan",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 41,
+      "text": "Tavel",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "text": "Trotter",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 43,
+      "text": "Tele. Room",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 44,
+      "text": "FEB 9 1965",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "text": "MAIL ROOM",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 46,
+      "text": "TELETYPE UNIT",
       "status": "image_matched"
     }
   ],

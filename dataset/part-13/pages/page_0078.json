@@ -8,21 +8,17 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 24 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0078-l0001",
-    "page_0078-l0026"
-  ],
-  "lineCount": 28,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 30,
   "lines": [
     {
       "lineNumber": 1,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
@@ -40,8 +36,8 @@
     },
     {
       "lineNumber": 5,
-      "text": "U. S. Department of Justice",
-      "status": "image_matched"
+      "text": "U.S. Department of Justice",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -64,8 +60,8 @@
     },
     {
       "lineNumber": 10,
-      "text": "the magazine, \"Real.\" This issue had",
-      "status": "image_matched"
+      "text": "the magazine, \"Real\". This issue had",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
@@ -139,24 +135,31 @@
     },
     {
       "lineNumber": 25,
-      "text": "Yours Truly,",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 26,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Yours truly,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 28,
       "text": "CORRESPONDENCE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
-      "text": "62 894-447",
-      "status": "image_matched"
+      "lineNumber": 29,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 30,
+      "text": "62 83894-447",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

@@ -8,32 +8,27 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 21 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0142-l0001",
-    "page_0142-l0003"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 26,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Street, Washin on, D.C., Major Donald Ke e, Director.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Street, Washin[unclear]on, D.C., Major Donald Ke[unclear]oe, Director.",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
-      "text": "Mr. Springfield noted that the personnel of this",
-      "status": "image_matched"
+      "text": "Mr. Stringfield noted that the personnel of this",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
       "text": "committee are made up of civilian personnel.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -41,8 +36,8 @@
     },
     {
       "lineNumber": 5,
-      "text": "On October 2, 1961, Mr. Springfield advised",
-      "status": "image_matched"
+      "text": "On October 2, 1961, Mr. Stringfield advised",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -51,8 +46,8 @@
     },
     {
       "lineNumber": 7,
-      "text": "he had read an article in the Sunday edition of the",
-      "status": "image_matched"
+      "text": "he had noted an article in the Sunday edition of the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
@@ -110,8 +105,8 @@
     },
     {
       "lineNumber": 19,
-      "text": "Mr. Springfield advised that the above",
-      "status": "image_matched"
+      "text": "Mr. Stringfield advised that the above",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
@@ -130,8 +125,8 @@
     },
     {
       "lineNumber": 23,
-      "text": "had related to Mr. Springfield in the anonymous",
-      "status": "image_matched"
+      "text": "had related to Mr. Stringfield in the anonymous",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,

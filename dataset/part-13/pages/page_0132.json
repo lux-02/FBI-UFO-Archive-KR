@@ -8,42 +8,36 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0132-l0002",
-    "page_0132-l0005",
-    "page_0132-l0032"
-  ],
-  "lineCount": 35,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 37,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "62-83894-429",
-      "status": "image_matched"
+      "text": "[unclear] 62-83894-429",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
-      "text": "Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "July 17, 1963",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "Sacramento 21, California",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 4,
       "status": "blank"
     },
     {
+      "lineNumber": 4,
+      "text": "Mr. [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 5,
-      "text": "Dear [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Sacramento 21, California",
+      "status": "image_matched"
     },
     {
       "lineNumber": 6,
@@ -51,8 +45,8 @@
     },
     {
       "lineNumber": 7,
-      "text": "Your letter postmarked July 10, 1963, has been received.",
-      "status": "image_matched"
+      "text": "Dear [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
@@ -60,41 +54,41 @@
     },
     {
       "lineNumber": 9,
-      "text": "For your information, the investigation of unidentified",
+      "text": "Your letter postmarked July 10, 1963, has been received.",
       "status": "image_matched"
     },
     {
       "lineNumber": 10,
-      "text": "flying objects does not come within the scope of this Bureau's authority.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 11,
-      "text": "I am, however, referring a copy of your letter to the Director of Special",
+      "text": "For your information, the investigation of unidentified",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "Investigations, The Inspector General, Department of the Air Force,",
+      "text": "flying objects does not come within the scope of this Bureau's authority.",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "Building Tempo E, Fourth and Adams Drive, S. W., Washington 25, D. C.,",
+      "text": "I am, however, referring a copy of your letter to the Director of Special",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "for whatever assistance he might be able to render.",
+      "text": "Investigations, The Inspector General, Department of the Air Force,",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "status": "blank"
+      "text": "Building Tempo E, Fourth and Adams Drive, S. W., Washington 25, D. C.,",
+      "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "Sincerely yours,",
+      "text": "for whatever assistance he might be able to render.",
       "status": "image_matched"
     },
     {
@@ -103,90 +97,97 @@
     },
     {
       "lineNumber": 18,
-      "text": "John Edgar Hoover",
+      "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 20,
+      "text": "John Edgar Hoover",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
       "text": "Director",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 23,
       "text": "NOTE: Correspondent is not identifiable in Bufiles. Copy of incoming",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 24,
       "text": "sent by form referral to OSI.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 25,
       "status": "blank"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 26,
       "text": "CJJ:mak",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 27,
       "text": "(3)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 28,
       "status": "blank"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 29,
       "text": "MAILED 25",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
-      "text": ": 1963",
-      "status": "image_matched"
+      "lineNumber": 30,
+      "text": "[unclear] 1963",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 31,
       "text": "COMM-FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 32,
       "status": "blank"
     },
     {
-      "lineNumber": 31,
-      "text": "6 JUL 25 1963",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 33,
-      "text": "MAIL ROOM",
-      "status": "image_matched"
+      "text": "63 JUL 25 1963",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 34,
-      "text": "TELETYPE UNIT",
-      "status": "image_matched"
+      "text": "11 2 30 AM 23",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 35,
-      "text": "RECEIVED ROOM",
-      "status": "image_matched"
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
+      "text": "MAIL ROOM [] TELETYPE UNIT []",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
+      "text": "REC'D [unclear] ROOM",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

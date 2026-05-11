@@ -8,18 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 11 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0045-l0004",
-    "page_0045-l0007",
-    "page_0045-l0010",
-    "page_0045-l0012",
-    "page_0045-l0019"
-  ],
-  "lineCount": 21,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 19,
   "lines": [
     {
       "lineNumber": 1,
@@ -38,74 +32,70 @@
     {
       "lineNumber": 4,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 6,
       "text": "The foregoing is for the Bureau's information and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 6,
       "text": "this office is advising OSI, Wright-Patterson Air Force Base",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 7,
       "text": "of the substance of the information in this letter and that",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 8,
       "text": "no further action is being taken.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 11,
+      "lineNumber": 9,
       "status": "blank"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 10,
       "text": "The files of this office reflect that [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 11,
       "text": "voluntarily appeared at this office in December,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 12,
       "text": "1951, and furnished a piece of literature which he had",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 13,
       "text": "found at the University of Cincinnati. At that time he had",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 14,
       "text": "no information as to subversive activities and no further",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 15,
       "text": "contact was made with him.",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 17,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
@@ -113,16 +103,6 @@
     },
     {
       "lineNumber": 19,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 20,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 21,
       "text": "- 4 -",
       "status": "image_matched"
     }

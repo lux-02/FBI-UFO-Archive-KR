@@ -8,73 +8,64 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "9 permanent_unresolved line(s) excluded under SRC-896. 34 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0129-l0014",
-    "page_0129-l0021",
-    "page_0129-l0028",
-    "page_0129-l0030",
-    "page_0129-l0037",
-    "page_0129-l0044",
-    "page_0129-l0045",
-    "page_0129-l0046",
-    "page_0129-l0053"
-  ],
-  "lineCount": 54,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 53,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "F B I",
-      "status": "image_matched"
+      "text": "FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 3,
       "text": "Date: 9/24/63",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 3,
       "status": "blank"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 4,
       "text": "Transmit the following in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 5,
       "text": "(Type in plain text or code)",
       "status": "image_matched"
     },
     {
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
       "lineNumber": 7,
-      "text": "Via AIRTEL REGULAR",
-      "status": "image_matched"
+      "text": "Via AIRTEL",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
+      "text": "REGULAR",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
       "text": "(Priority or Method of Mailing)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
-      "status": "blank"
-    },
-    {
       "lineNumber": 10,
-      "text": "TO: DIRECTOR, FBI",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 11,
-      "status": "blank"
+      "text": "TO: DIRECTOR, FBI",
+      "status": "image_matched"
     },
     {
       "lineNumber": 12,
@@ -83,23 +74,23 @@
     },
     {
       "lineNumber": 13,
-      "status": "blank"
+      "text": "SUBJECT: [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 14,
-      "text": "SUBJECT: [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 15,
       "text": "NEWPORT NEWS, VIRGINIA",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "text": "RESEARCH (CORRESPONDENCE AND TOURS)",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "O flying Discs",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
@@ -122,8 +113,7 @@
     {
       "lineNumber": 21,
       "text": "[REDACTED] directed a letter to the Commanding Officer,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
@@ -157,8 +147,7 @@
     {
       "lineNumber": 28,
       "text": "Records also reflect that [REDACTED] had directed",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
@@ -168,13 +157,12 @@
     {
       "lineNumber": 30,
       "text": "was answered by the Bureau, 2/9/59. [REDACTED] directed",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 31,
-      "text": "a letter to Commanding Officer, Headquarters Aircraft",
-      "status": "image_matched"
+      "text": "a letter to Commanding Officer, Headquarters, Aircraft",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
@@ -198,13 +186,13 @@
     },
     {
       "lineNumber": 36,
-      "status": "blank"
+      "text": "REC 31 62-83894-430",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 37,
       "text": "Files further reflect that [REDACTED] directed",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 38,
@@ -237,21 +225,18 @@
     },
     {
       "lineNumber": 44,
-      "text": "There is also in file a copy of a letter [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "There is also in file a copy of a letter [unclear] SEP 26 1963",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 45,
-      "text": "[REDACTED] received by [REDACTED] Virginia,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] received by [REDACTED] from [REDACTED], Virginia,",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 46,
       "text": "Stony Creek, Virginia, in which [REDACTED] requested",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 47,
@@ -269,29 +254,23 @@
     },
     {
       "lineNumber": 50,
-      "text": "(3) - Bureau",
-      "status": "image_matched"
+      "text": "3 - Bureau",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 51,
-      "text": "1 - Norfolk",
-      "status": "image_matched"
+      "text": "1 - Norfolk [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 52,
-      "text": "JSC:jw (4)",
-      "status": "image_matched"
+      "text": "JSC:jw (4) [unclear] 7-62",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 53,
-      "text": "Approved: [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 54,
-      "text": "Special Agent in Charge.",
-      "status": "image_matched"
+      "text": "Approved: [unclear] Sent M Per CORRESPONDENCE",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

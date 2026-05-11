@@ -8,25 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "12 permanent_unresolved line(s) excluded under SRC-896. 17 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0080-l0003",
-    "page_0080-l0009",
-    "page_0080-l0010",
-    "page_0080-l0011",
-    "page_0080-l0014",
-    "page_0080-l0015",
-    "page_0080-l0019",
-    "page_0080-l0023",
-    "page_0080-l0030",
-    "page_0080-l0034",
-    "page_0080-l0039",
-    "page_0080-l0040"
-  ],
-  "lineCount": 42,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 43,
   "lines": [
     {
       "lineNumber": 1,
@@ -40,8 +27,7 @@
     {
       "lineNumber": 3,
       "text": "Federal Bureau",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -68,26 +54,23 @@
     },
     {
       "lineNumber": 9,
-      "text": "Recently I found this picture in Real Magazine, Volume 17,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Recently I found this picture in Real Magizine, Volume 17,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "Number 3, August 1966. It is as the magazine states a Cladion",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Number 3, August 1966. It is as the magizine states a Cladion",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
       "text": "occupant from a foreign plant. The two men next this",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "\"visitor\" are F.B.I. Agents.",
-      "status": "image_matched"
+      "text": "\"Visitor\" are F.B.I. Agents.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
@@ -96,14 +79,12 @@
     {
       "lineNumber": 14,
       "text": "Could you please send me any information pertaining to this",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
       "text": "picture. I'd appreciate any information and/or pictures",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
@@ -121,63 +102,59 @@
     },
     {
       "lineNumber": 19,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 20,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 21,
       "text": "Pomona, California",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 22,
       "text": "91767",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 23,
       "status": "blank"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 24,
       "text": "Could you please return the picture that I am enclosing for",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
       "text": "it is the only one like it.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 26,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 27,
       "text": "Thank you for any help",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 28,
       "text": "you could give me.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 29,
       "status": "blank"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 30,
       "text": "Sincerely Yours,",
       "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
     },
     {
       "lineNumber": 31,
@@ -185,8 +162,8 @@
     },
     {
       "lineNumber": 32,
-      "text": "REC 22",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 33,
@@ -194,48 +171,50 @@
     },
     {
       "lineNumber": 34,
-      "text": "12-489-446",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "REC 22",
+      "status": "image_matched"
     },
     {
       "lineNumber": 35,
-      "status": "blank"
+      "text": "[unclear] - 446",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 36,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 37,
       "text": "JUL 22 1966",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 38,
       "status": "blank"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 39,
       "text": "ENCLOSURE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 40,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "ack 7-22-66",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 41,
-      "status": "blank"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 42,
-      "text": "CORRESPONDENCE",
-      "status": "image_matched"
+      "status": "blank"
+    },
+    {
+      "lineNumber": 43,
+      "text": "CORRESPONDEN",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

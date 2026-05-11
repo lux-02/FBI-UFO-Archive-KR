@@ -8,33 +8,17 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "14 permanent_unresolved line(s) excluded under SRC-896. 45 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0060-l0001",
-    "page_0060-l0006",
-    "page_0060-l0008",
-    "page_0060-l0009",
-    "page_0060-l0014",
-    "page_0060-l0016",
-    "page_0060-l0019",
-    "page_0060-l0020",
-    "page_0060-l0023",
-    "page_0060-l0026",
-    "page_0060-l0029",
-    "page_0060-l0034",
-    "page_0060-l0040",
-    "page_0060-l0043"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 63,
   "lines": [
     {
       "lineNumber": 1,
       "text": "[REDACTED] complained to the people in \"outer space\" that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
@@ -58,9 +42,8 @@
     },
     {
       "lineNumber": 6,
-      "text": "to [REDACTED] arranged a schedule with the people",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "to [REDACTED] she arranged a schedule with the people",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
@@ -70,14 +53,12 @@
     {
       "lineNumber": 8,
       "text": "with her sleep. [REDACTED] advised that a schedule was arranged",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
       "text": "between [REDACTED] and the people in \"outer space\" that she would",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
@@ -100,9 +81,8 @@
     },
     {
       "lineNumber": 14,
-      "text": "[REDACTED] stated that [REDACTED] had also heard the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] stated that [REDACTED] and [REDACTED] had also heard the",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
@@ -112,8 +92,7 @@
     {
       "lineNumber": 16,
       "text": "receive transmissions or messages. [REDACTED] stated that the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
@@ -128,14 +107,12 @@
     {
       "lineNumber": 19,
       "text": "hereafter, and prophesies in the Bible. [REDACTED] advised",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 20,
       "text": "that [REDACTED] could contact people in \"outer space\" by",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,
@@ -149,8 +126,7 @@
     {
       "lineNumber": 23,
       "text": "According to [REDACTED] stated that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 24,
@@ -164,9 +140,8 @@
     },
     {
       "lineNumber": 26,
-      "text": "in length, and 100 miles in depth. [REDACTED] stated that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "in length, and 100 miles in depth. Hutson stated that",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
@@ -180,9 +155,8 @@
     },
     {
       "lineNumber": 29,
-      "text": "200 feet in length. [REDACTED] had informed",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "200 feet in length. [REDACTED] related that [REDACTED] had informed",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 30,
@@ -206,9 +180,8 @@
     },
     {
       "lineNumber": 34,
-      "text": "the planet Matann. [REDACTED] related that [REDACTED] stated",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "the planet Hatann. [REDACTED] related that [REDACTED] stated",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 35,
@@ -237,9 +210,8 @@
     },
     {
       "lineNumber": 40,
-      "text": "[REDACTED] stated that [REDACTED] related that contact was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] stated that [REDACTED] also related that contact was",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 41,
@@ -254,13 +226,12 @@
     {
       "lineNumber": 43,
       "text": "the entire universe. According to [REDACTED] stated,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 44,
-      "text": "\"Affa\" and \"Ponnar\" are presently working in the area of the",
-      "status": "image_matched"
+      "text": "\"Affa\" and \"Ponnar\" are presently working the area of the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 45,
@@ -278,73 +249,73 @@
     },
     {
       "lineNumber": 48,
-      "text": "Tolson",
-      "status": "image_matched"
+      "text": "Tolson [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 49,
-      "text": "Boardman",
-      "status": "image_matched"
+      "text": "Boardman [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 50,
-      "text": "Nichols",
-      "status": "image_matched"
+      "text": "Nichols [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 51,
-      "text": "Belmont",
-      "status": "image_matched"
+      "text": "Belmont [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 52,
-      "text": "Harbo",
-      "status": "image_matched"
+      "text": "Harbo [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 53,
-      "text": "Mohr",
-      "status": "image_matched"
+      "text": "Mohr [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 54,
-      "text": "Parsons",
-      "status": "image_matched"
+      "text": "Parsons [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 55,
-      "text": "Roach",
-      "status": "image_matched"
+      "text": "Rosen [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 56,
-      "text": "Tamm",
-      "status": "image_matched"
+      "text": "Tamm [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 57,
-      "text": "Sizoo",
-      "status": "image_matched"
+      "text": "Sizoo [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 58,
-      "text": "Winterrowd",
-      "status": "image_matched"
+      "text": "Winterrowd [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 59,
-      "text": "Tele. Room",
-      "status": "image_matched"
+      "text": "Tele. Room [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 60,
-      "text": "Holloman",
-      "status": "image_matched"
+      "text": "Holloman [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 61,
-      "text": "Gandy",
-      "status": "image_matched"
+      "text": "Gandy [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 62,

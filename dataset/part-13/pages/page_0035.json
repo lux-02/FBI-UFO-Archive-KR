@@ -8,14 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0035-l0012"
-  ],
-  "lineCount": 39,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 40,
   "lines": [
     {
       "lineNumber": 1,
@@ -24,188 +22,192 @@
     },
     {
       "lineNumber": 2,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 3,
       "text": "ROME DAILY AMERICAN",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 3,
       "status": "blank"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 4,
       "text": "Po Villagers See",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 5,
       "text": "'Saucer' Landing",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 6,
       "status": "blank"
     },
     {
-      "lineNumber": 8,
-      "text": "ROVIGO, Italy, Oct 16 (UP)-",
-      "status": "image_matched"
+      "lineNumber": 7,
+      "text": "ROVIGO, Italy, Oct. 16 (UP)—",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 8,
       "text": "A shallow 20-foot crater and a",
       "status": "image_matched"
     },
     {
+      "lineNumber": 9,
+      "text": "scorched grove of poplar trees in",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 10,
-      "text": "scorched grove of poplar trees",
-      "status": "image_matched"
+      "text": "the marshlands of the Po river con-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "in marshlands of the Po river con-",
-      "status": "image_matched"
+      "text": "vinced the villagers of nearby Po",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "vinced the villagers of nearof Po",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Di Gnocca today that they really",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "text": "Di Onocca today that they really",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 14,
       "text": "had seen a flying saucer.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 14,
       "status": "blank"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "text": "Police said several score of the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 16,
       "text": "villagers watched the \"saucer\" go",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 17,
       "text": "through its paces. They said the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
-      "text": "silver disc approached at great",
-      "status": "image_matched"
+      "lineNumber": 18,
+      "text": "silvery disc approached at great",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 19,
       "text": "speed and then landed gently in the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 20,
       "text": "marshes a few miles away. After",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 21,
       "text": "a short pause it rose perpendicular-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 22,
       "text": "ly into the air and sped away to-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 23,
       "text": "wards the east, they said.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 24,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 25,
       "text": "Excited villagers who rushed to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 26,
       "text": "the spot where the disc appeared",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 27,
       "text": "to land found the 20-foot crater and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 28,
       "text": "the scorched poplar trees.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 29,
       "status": "blank"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 30,
       "text": "The \"landing\" was the most",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 31,
       "text": "sensational of a new wave of flying",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 32,
       "text": "saucer reports which is mystifying",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 33,
       "text": "Italy. Reports of \"discs\" and \"ci-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 34,
       "text": "gars\" came from all over the pen-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 35,
       "text": "insula despite Air Ministry assur-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 36,
       "text": "ances that no such objects have",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 37,
       "text": "been registered on the ministry's",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 38,
       "text": "radar network.",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 39,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 40,
+      "text": "62-83894-231",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

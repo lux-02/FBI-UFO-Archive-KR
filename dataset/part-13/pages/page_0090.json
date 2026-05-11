@@ -8,24 +8,17 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 7 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0090-l0001",
-    "page_0090-l0004",
-    "page_0090-l0005",
-    "page_0090-l0006",
-    "page_0090-l0007"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 14,
   "lines": [
     {
       "lineNumber": 1,
       "text": "Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
@@ -39,26 +32,22 @@
     {
       "lineNumber": 4,
       "text": "near Socorro, New Mexico, on April 24, 1964. Captain [REDACTED] United",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
       "text": "States Air Force, along with SA [REDACTED], interviewed",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
       "text": "one [REDACTED] of the [REDACTED] who had observed",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
       "text": "the phenomena. SA [REDACTED] typed such a statement from [REDACTED] which",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,

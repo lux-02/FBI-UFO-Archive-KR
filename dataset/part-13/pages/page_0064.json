@@ -8,41 +8,17 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "23 permanent_unresolved line(s) excluded under SRC-896. 20 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0064-l0003",
-    "page_0064-l0008",
-    "page_0064-l0009",
-    "page_0064-l0010",
-    "page_0064-l0011",
-    "page_0064-l0012",
-    "page_0064-l0014",
-    "page_0064-l0016",
-    "page_0064-l0017",
-    "page_0064-l0018",
-    "page_0064-l0019",
-    "page_0064-l0022",
-    "page_0064-l0023",
-    "page_0064-l0024",
-    "page_0064-l0025",
-    "page_0064-l0027",
-    "page_0064-l0028",
-    "page_0064-l0030",
-    "page_0064-l0031",
-    "page_0064-l0036",
-    "page_0064-l0039",
-    "page_0064-l0043",
-    "page_0064-l0045"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 49,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "UFO 62-0",
-      "status": "image_matched"
+      "text": "WFO 62-0",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -50,9 +26,8 @@
     },
     {
       "lineNumber": 3,
-      "text": "[REDACTED] in the matter. [REDACTED] was questioned concerning the position that the Bureau",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "in the matter. [REDACTED] was questioned concerning the position that the Bureau",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
@@ -61,8 +36,8 @@
     },
     {
       "lineNumber": 5,
-      "text": "was pertinent. After further questioning, he subsequently stated that the",
-      "status": "image_matched"
+      "text": "was pertinent. After further questioning, he subsequently stated that the b7c",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -76,32 +51,27 @@
     {
       "lineNumber": 8,
       "text": "[REDACTED] stated that he \"unofficially\" became interested in the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
       "text": "matter and at the invitation of [REDACTED] he went to [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
-      "text": "[REDACTED] where he spent 7/24,25,26/54 in the residence of [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] where he spent 7/24,25,26/54 in the residence of [REDACTED] b7c",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
-      "text": "[REDACTED] stated that he informed Admiral SAUCER, his superior in the Bureau",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] stated that he informed Admiral SOUCEK, his superior in the Bureau",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 12,
       "text": "of Aeronautics, that he was going to visit [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
@@ -110,37 +80,32 @@
     {
       "lineNumber": 14,
       "text": "[REDACTED] stated that inasmuch as [REDACTED] had received no response",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
-      "text": "from the Government concerning this matter, he began reading books on",
-      "status": "image_matched"
+      "text": "from the Government concerning this matter, he began reading books on b7c",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
       "text": "flying saucers. [REDACTED] advised that during the time that he was a house",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
       "text": "guest of [REDACTED] there was also present [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
       "text": "[REDACTED] who was also interested in flying saucers.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 19,
       "text": "[REDACTED] stated that [REDACTED] was at [REDACTED] residence with his family and was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 20,
@@ -154,26 +119,22 @@
     {
       "lineNumber": 22,
       "text": "[REDACTED] advised that during his stay, he and [REDACTED] had various",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 23,
       "text": "interviews with [REDACTED] and had had contact with the \"outer space\" through",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 24,
       "text": "[REDACTED] During the interview with [REDACTED] and the contact with \"outer",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 25,
       "text": "space,\" [REDACTED] stated that they sat in a group and he observed [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 26,
@@ -182,15 +143,13 @@
     },
     {
       "lineNumber": 27,
-      "text": "According to [REDACTED] informed him that the people from \"outer space\"",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "According to [REDACTED] informed him that the people from \"outer space\" b7c",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 28,
       "text": "could use her eyes and ears to see and hear. According to [REDACTED] this is",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
@@ -200,14 +159,12 @@
     {
       "lineNumber": 30,
       "text": "recorded by the people in \"outer space.\" [REDACTED] indicated as an example",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 31,
       "text": "as to how messages were relayed, he stated that he asked [REDACTED] a",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 32,
@@ -231,8 +188,7 @@
     {
       "lineNumber": 36,
       "text": "[REDACTED] stated that [REDACTED] informed him that whenever she was to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 37,
@@ -241,19 +197,18 @@
     },
     {
       "lineNumber": 38,
-      "text": "sound in her left ear to indicate that they were \"on the line.\"",
-      "status": "image_matched"
+      "text": "sound in her left ear to indicate that they were \"on the line.\" [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 39,
       "text": "stated that [REDACTED] complained to the people in \"outer space\" that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 40,
-      "text": "this buzzing sound gets very annoying and painful to her ear. She also",
-      "status": "image_matched"
+      "text": "this buzzing sound gets very annoying and painful to her ear. She also b7c",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 41,
@@ -268,8 +223,7 @@
     {
       "lineNumber": 43,
       "text": "sleep. According to [REDACTED] arranged a schedule with the people",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 44,
@@ -279,8 +233,7 @@
     {
       "lineNumber": 45,
       "text": "[REDACTED] advised that a schedule was arranged between [REDACTED] and the people",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 46,

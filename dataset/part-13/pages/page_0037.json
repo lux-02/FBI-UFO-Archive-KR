@@ -8,36 +8,26 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 19 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0037-l0001",
-    "page_0037-l0002",
-    "page_0037-l0003",
-    "page_0037-l0014",
-    "page_0037-l0017"
-  ],
-  "lineCount": 31,
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 35,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "STANDARD FORM NO. 64",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
       "text": "TO : Director, FBI (62-83894)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -46,53 +36,51 @@
     },
     {
       "lineNumber": 5,
-      "text": "FROM: SAC, Cincinnati (100-11671)",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
+      "text": "FROM : SAC, Cincinnati (100-11671)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
       "text": "Flying Saucers",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
       "text": "SUBJECT: CIVILIAN RESEARCH,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 10,
       "text": "INTERPLANETARY FLYING OBJECTS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
-      "text": "LEONARD H. SPRINGFIELD, Director",
-      "status": "image_matched"
+      "lineNumber": 11,
+      "text": "LEONARD H. STRINGFIELD, Director",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
       "text": "7017 Britton Avenue",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 13,
       "text": "Cincinnati 27, Ohio",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
       "text": "MISCELLANEOUS - INFORMATION CONCERNING",
       "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 14,
-      "text": "Rebulet dated 11/12/54.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
     },
     {
       "lineNumber": 15,
@@ -100,23 +88,22 @@
     },
     {
       "lineNumber": 16,
+      "text": "Rebulet dated 11/12/54.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 17,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 18,
       "text": "Attached is a memorandum containing the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
-      "text": "pertinent information contained in mylet of 11/2/54.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 18,
-      "status": "blank"
-    },
-    {
       "lineNumber": 19,
-      "text": "RCD:SAS",
-      "status": "image_matched"
+      "text": "pertinent information contained in mylet of 11/2/54.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
@@ -124,12 +111,13 @@
     },
     {
       "lineNumber": 21,
-      "text": "ENCLOSURE",
+      "text": "RCD:SAS",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "status": "blank"
+      "text": "ENCLOSURE",
+      "status": "image_matched"
     },
     {
       "lineNumber": 23,
@@ -142,37 +130,55 @@
     },
     {
       "lineNumber": 25,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 26,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 27,
       "text": "RECORDED - 24",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 28,
       "text": "INDEXED - 24",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
-      "text": "62-83894-350",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
-      "status": "blank"
-    },
-    {
       "lineNumber": 29,
-      "text": "DEC 7",
-      "status": "image_matched"
+      "text": "62 - [unclear] - 350",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 32,
       "text": "INVESTIGATIVE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
-      "text": "DIV. FILE",
-      "status": "image_matched"
+      "lineNumber": 33,
+      "text": "DIV [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
+      "text": "DEC 7 [unclear]",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

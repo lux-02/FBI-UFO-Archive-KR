@@ -8,15 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 27 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0056-l0007",
-    "page_0056-l0010"
-  ],
-  "lineCount": 41,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 43,
   "lines": [
     {
       "lineNumber": 1,
@@ -29,7 +26,7 @@
     },
     {
       "lineNumber": 3,
-      "text": "AIR MAIL",
+      "text": "RECORDED - 70",
       "status": "image_matched"
     },
     {
@@ -38,7 +35,7 @@
     },
     {
       "lineNumber": 5,
-      "text": "RECORDED - 70",
+      "text": "AIR MAIL",
       "status": "image_matched"
     },
     {
@@ -48,8 +45,7 @@
     {
       "lineNumber": 7,
       "text": "Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
@@ -63,8 +59,7 @@
     {
       "lineNumber": 10,
       "text": "Dear [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
@@ -163,8 +158,8 @@
     },
     {
       "lineNumber": 31,
-      "text": "for several months yet. Enclosure was an",
-      "status": "image_matched"
+      "text": "for several months yet. Enclosure was in",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
@@ -182,8 +177,8 @@
     },
     {
       "lineNumber": 35,
-      "text": "ULL:lt",
-      "status": "image_matched"
+      "text": "HLL:lt",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 36,
@@ -210,8 +205,17 @@
     },
     {
       "lineNumber": 41,
-      "text": "62-43894-947",
-      "status": "image_matched"
+      "text": "AUG 14 1954",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 43,
+      "text": "62-83894-947",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

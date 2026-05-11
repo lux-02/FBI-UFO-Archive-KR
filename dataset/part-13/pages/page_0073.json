@@ -8,27 +8,22 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 12 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0073-l0001",
-    "page_0073-l0002"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 18,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Here is the r who has coupled 2 years of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Here is the m who has coupled 21 years of",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "profound resea. Cith native Cosmic insight!",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "profound resea. ( ith native Cosmic insight)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -74,8 +69,8 @@
     },
     {
       "lineNumber": 12,
-      "text": "who will address our membership and friends",
-      "status": "image_matched"
+      "text": "Who will address our membership and friends",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,

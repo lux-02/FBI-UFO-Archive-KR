@@ -8,16 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 40 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0092-l0005",
-    "page_0092-l0018",
-    "page_0092-l0021"
-  ],
-  "lineCount": 43,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 57,
   "lines": [
     {
       "lineNumber": 1,
@@ -26,216 +22,271 @@
     },
     {
       "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 4,
       "text": "REC-1",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 5,
       "text": "62-83874-441",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 8,
       "text": "Orange, Texas 77631",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "Dear Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 9,
+      "status": "blank"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 10,
+      "text": "Dear Mr. [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
       "text": "Your letter of November 9th, with enclosure,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 13,
       "text": "has been received.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
-      "text": "NOV 16 4 37 PM '64",
-      "status": "image_matched"
+      "lineNumber": 14,
+      "status": "blank"
     },
     {
-      "lineNumber": 9,
-      "text": "F B I",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
+      "lineNumber": 15,
       "text": "While I would like to be of assistance in con-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 16,
       "text": "nection with your inquiry, I must advise that information",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 17,
       "text": "contained in the files of the FBI is confidential and available",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 18,
       "text": "only for official use, pursuant to regulations of the Department",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 19,
       "text": "of Justice. Please do not infer either that we do or do not have",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 20,
       "text": "information of the type you mentioned. I hope you will under-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 21,
       "text": "stand my inability to be of aid.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
       "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
-      "text": "J. Edgar Hoover",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 24,
+      "status": "blank"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 25,
+      "text": "J. Edgar Hoover",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 26,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 27,
       "text": "MAILED 6",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 28,
       "text": "NOV 16 1964",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "text": "COMFBI Los Angeles - Enclosures (2)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 29,
+      "text": "COM-LOS Angeles - Enclosures (2)",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 30,
       "text": "Attention SAC: Bufiles contain nothing identifiable regarding",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 31,
       "text": "Harold T. Wilkins or his book, \"Flying Saucers On The Attack.\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 32,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 33,
       "text": "SAW:des (3)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
       "text": "Tolson",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 36,
       "text": "Belmont",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 37,
       "text": "Mohr",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 38,
       "text": "DeLoach",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 39,
       "text": "Casper",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 40,
       "text": "Callahan",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 41,
       "text": "Conrad",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 42,
       "text": "Evans",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 43,
       "text": "Gale",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 44,
       "text": "Rosen",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 45,
       "text": "Sullivan",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 46,
       "text": "Tavel",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 47,
       "text": "Trotter",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 48,
       "text": "Tele. Room",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 49,
       "text": "Holmes",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 50,
       "text": "Gandy",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
-      "text": "NOV 22 1964",
+      "lineNumber": 51,
+      "text": "[unclear] NOV 23 [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 52,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 53,
+      "text": "MAIL ROOM ☐ TELETYPE UNIT ☐",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 54,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 55,
+      "text": "NOV 16 4 37 PM '64",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
-      "text": "MAIL ROOM",
-      "status": "image_matched"
+      "lineNumber": 56,
+      "text": "FBI",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 43,
-      "text": "TELETYPE UNIT",
-      "status": "image_matched"
+      "lineNumber": 57,
+      "text": "TELETYPE-READING ROOM",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

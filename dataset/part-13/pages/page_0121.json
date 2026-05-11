@@ -8,48 +8,41 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 20 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0121-l0003",
-    "page_0121-l0006",
-    "page_0121-l0017",
-    "page_0121-l0033"
-  ],
-  "lineCount": 34,
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 54,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "REC-18 62-83894-130",
-      "status": "image_matched"
+      "text": "REC-18 62-83874-130",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
+      "text": "January 22, 1964",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "801-LS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
-      "text": "Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 4,
-      "text": "Wickliffe, Ohio 44092",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 5,
-      "status": "blank"
+      "text": "Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
-      "text": "Dear Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Wickliffe, Ohio 44092",
+      "status": "image_matched"
     },
     {
       "lineNumber": 7,
@@ -57,8 +50,8 @@
     },
     {
       "lineNumber": 8,
-      "text": "I have received your letter of January 15th.",
-      "status": "image_matched"
+      "text": "Dear Mr. [REDACTED]:",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
@@ -66,31 +59,31 @@
     },
     {
       "lineNumber": 10,
-      "text": "In response to your inquiry, I cannot speak for",
+      "text": "I have received your letter of January 15th.",
       "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": "the Central Intelligence Agency; however, the FBI has not con-",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 12,
-      "text": "ducted an investigation such as you mentioned inasmuch as this",
+      "text": "In response to your inquiry, I cannot speak for",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "would not come within our investigative jurisdiction.",
+      "text": "the Central Intelligence Agency; however, the FBI has not con-",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "status": "blank"
+      "text": "ducted an investigation such as you mentioned inasmuch as this",
+      "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "Sincerely yours,",
+      "text": "would not come within our investigative jurisdiction.",
       "status": "image_matched"
     },
     {
@@ -99,46 +92,45 @@
     },
     {
       "lineNumber": 17,
-      "text": "J. Edgar Hoover",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Sincerely yours,",
+      "status": "image_matched"
     },
     {
       "lineNumber": 18,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 19,
+      "text": "s. Edgar Hoover",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 20,
       "text": "John Edgar Hoover",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 21,
       "text": "Director",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 21,
-      "text": "MAILED TO",
-      "status": "image_matched"
+      "lineNumber": 23,
+      "text": "MAILED IQ",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 24,
       "text": "JAN 22 1964",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
-      "text": "COMM-FBI",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "status": "blank"
-    },
-    {
       "lineNumber": 25,
-      "text": "NOTE: Correspondent is not identifiable in Bufiles.",
+      "text": "COMM-FBI",
       "status": "image_matched"
     },
     {
@@ -147,12 +139,12 @@
     },
     {
       "lineNumber": 27,
-      "text": "SAW:med",
+      "text": "REC'D-READING ROOM",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "text": "(3)",
+      "text": "JAN 22 5 10 PM '64",
       "status": "image_matched"
     },
     {
@@ -161,28 +153,125 @@
     },
     {
       "lineNumber": 30,
-      "text": "JAN 22 5 10 PM '64",
+      "text": "NOTE: Correspondent is not identifiable in Bufiles.",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "text": "REC'D-READING ROOM",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
       "status": "blank"
     },
     {
+      "lineNumber": 32,
+      "text": "SAW: med",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 33,
-      "text": "JAN 22 1964",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "(3)",
+      "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "text": "MAIL ROOM [ ] TELETYPE UNIT [ ]",
-      "status": "image_matched"
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
+      "text": "Tolson",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 36,
+      "text": "Belmont",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
+      "text": "Mohr",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 38,
+      "text": "Casper",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Callahan",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 40,
+      "text": "Conrad",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 41,
+      "text": "DeLoach",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "text": "Evans",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 43,
+      "text": "Gale",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 44,
+      "text": "Rosen",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 45,
+      "text": "Sullivan",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 46,
+      "text": "Tavel",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 47,
+      "text": "Trotter",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 48,
+      "text": "Tele. Room",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 49,
+      "text": "Holmes",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "text": "Gandy",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 52,
+      "text": "[unclear] JAN 2[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 53,
+      "text": "MAIL ROOM",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 54,
+      "text": "TELETYPE UNIT",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

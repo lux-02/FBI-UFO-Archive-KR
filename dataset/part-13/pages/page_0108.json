@@ -8,15 +8,12 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 3 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0108-l0002",
-    "page_0108-l0003"
-  ],
-  "lineCount": 6,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 7,
   "lines": [
     {
       "lineNumber": 1,
@@ -25,27 +22,29 @@
     },
     {
       "lineNumber": 2,
-      "text": "Calls concerning subject matter are being",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 3,
-      "text": "referred immediately to Major [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 4,
-      "text": ", Kirtland Air Force Base, Albuquerque.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 5,
       "status": "blank"
     },
     {
+      "lineNumber": 3,
+      "text": "Calls concerning subject matter are being",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 4,
+      "text": "referred immediately to Major [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 5,
+      "text": "Kirtland Air Force Base, Albuquerque.",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
       "text": "-2-",
       "status": "image_matched"
     }

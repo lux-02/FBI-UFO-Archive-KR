@@ -8,21 +8,17 @@
     "sha256": "423b23b3741786f13d58b5dbd2c23eb0f6081fc406fc35482c621baef44b50aa"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 20 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0074-l0001",
-    "page_0074-l0011"
-  ],
-  "lineCount": 25,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 26,
   "lines": [
     {
       "lineNumber": 1,
       "text": "DETROIT FLYING \"CER CLUB",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -36,8 +32,8 @@
     },
     {
       "lineNumber": 4,
-      "text": "Patent Development Engineer, Member of Chicago Rocket Society, Pioneer Space Commentator",
-      "status": "image_matched"
+      "text": "Patent Development Engineer, Member of Chicago Rocket Society, Pioneer Space Commentat",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -46,99 +42,102 @@
     },
     {
       "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
       "text": "\"An Analysis of Latest Saucer Evidence\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "text": "(followed by audience participation from the floor)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "WEDNESDAY EVENING, SEPTEMBER 22, 1954, at 7:30 P.M.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "text": "The Grand Ballroom, Veteran's Memorial Building, 151 West Jefferson",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "status": "blank"
     },
     {
-      "lineNumber": 11,
-      "text": "ALSO Laura Marxer will introduce the leaders of eight neighborhood groups who already [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 12,
-      "text": "looking up ... other sightings will be reported. Our petition to President Eisenhower is",
-      "status": "image_matched"
+      "text": "ALSO Laura Marxer will introduce the leaders of eight neighborhood groups who already",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
+      "text": "looking up ... other sightings will be reported. Our petition to President Eisenhower",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 14,
       "text": "ready for your signature ... extra copies are on hand.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "status": "blank"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
       "text": "THIS IS A SCOOP! A group of \"HAM\" operators, started within our Club, have made what",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
-      "text": "they are sure is a saucer contact. It will be reported by Don Thompson and his friend.",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 17,
-      "status": "blank"
+      "text": "they are sure is a saucer contact. It will be reported by Don Thompson and his friend",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 19,
       "text": "Our club is fast becoming Detroit's most interesting factual program. In presenting",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "text": "Mr. Otto, we are bringing a speaker who has just returned from an eastern lecture tour",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 21,
       "text": "where the S-R-O sign was out in New York City, following his broadcast interview over",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "text": "Mutual Station WOR. His talk will be illustrated. If you have heard him, you know that",
-      "status": "image_matched"
+      "lineNumber": 22,
+      "text": "Mutual Station WOR. His talk will be illustrated. If you have heard him, you know t",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 23,
       "text": "as a lecturer John Otto ranks among the best. Bring your friends. Incidentally:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 24,
       "text": "Keep your eye out for our own Detroit Flying Saucer Club magazine arriving soon!",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
       "text": "Contribution $1.00",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 26,
       "text": "Henry Maday, Chairman",
       "status": "image_matched"
     }
