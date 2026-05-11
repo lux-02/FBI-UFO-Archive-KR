@@ -8,51 +8,115 @@
     "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 2 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0062-l0001",
-    "page_0062-l0002",
-    "page_0062-l0003",
-    "page_0062-l0005"
-  ],
-  "lineCount": 6,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 21,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "FLYING SAUCERS ARE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "FLYING SAUCERS ARE [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
       "text": "AMALGAMATED FLYING SAUCER CLUBS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "Gabriel Green, Pres. 8004 S. [unclear] St., Los",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Gabriel Green, Pres., 8904 S. Hoover St., Los [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
+      "text": "FLYING",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
+      "text": "SAUCERS",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
       "text": "Official Journal of the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "Amalgamated Flying Saucer Clubs of America, In",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 8,
+      "text": "Amalgamated Flying Saucer Clubs of America, [unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 6,
-      "text": "INTERNATIONAL",
-      "status": "image_matched"
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "I",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 11,
+      "text": "N",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 12,
+      "text": "T",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
+      "text": "E",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 14,
+      "text": "R",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "N",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
+      "text": "A",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 17,
+      "text": "T",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 18,
+      "text": "I",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 19,
+      "text": "O",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 20,
+      "text": "N",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
+      "text": "A",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

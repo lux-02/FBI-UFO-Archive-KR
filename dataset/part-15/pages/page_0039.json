@@ -8,17 +8,12 @@
     "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 37 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0039-l0004",
-    "page_0039-l0008",
-    "page_0039-l0043",
-    "page_0039-l0053"
-  ],
-  "lineCount": 53,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 79,
   "lines": [
     {
       "lineNumber": 1,
@@ -37,56 +32,53 @@
     },
     {
       "lineNumber": 4,
-      "text": "4-750 (Rev. 12-14-88)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
+      "text": "4-750 (Rev. 12-14-88)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
       "text": "FEDERAL BUREAU OF INVESTIGATION",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 8,
       "text": "FOIPA DELETED PAGE INFORMATION SHEET",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 9,
       "status": "blank"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 10,
       "text": "2 Page(s) withheld entirely at this location in the file. One or more of the following",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 11,
       "text": "statements, where indicated, explain this deletion.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 11,
-      "text": "[X] Deletions were made pursuant to the exemptions indicated below with no segregable material",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 12,
-      "text": "available for release to you.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 13,
-      "status": "blank"
+      "text": "☒ Deletions were made pursuant to the exemptions indicated below with no segregable material",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "Section 552 Section 552a",
+      "text": "available for release to you.",
       "status": "image_matched"
     },
     {
@@ -95,71 +87,70 @@
     },
     {
       "lineNumber": 16,
-      "text": "[X] (b)(1) [ ] (b)(7)(A) [ ] (d)(5)",
-      "status": "image_matched"
+      "text": "Section 552",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "text": "[ ] (b)(2) [ ] (b)(7)(B) [ ] (j)(2)",
-      "status": "image_matched"
+      "text": "Section 552a",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": "[ ] (b)(3) [ ] (b)(7)(C) [ ] (k)(1)",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 19,
-      "text": "[ ] (b)(7)(D) [ ] (k)(2)",
-      "status": "image_matched"
+      "text": "☒ (b)(1)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
-      "text": "[ ] (b)(7)(E) [ ] (k)(3)",
-      "status": "image_matched"
+      "text": "☐ (b)(7)(A)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
-      "text": "[ ] (b)(7)(F) [ ] (k)(4)",
-      "status": "image_matched"
+      "text": "☐ (d)(5)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 22,
-      "text": "[ ] (b)(4) [ ] (b)(8) [ ] (k)(5)",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 23,
-      "text": "[ ] (b)(5) [ ] (b)(9) [ ] (k)(6)",
-      "status": "image_matched"
+      "text": "☐ (b)(2)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
-      "text": "[ ] (b)(6) [ ] (k)(7)",
-      "status": "image_matched"
+      "text": "☐ (b)(7)(B)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
-      "status": "blank"
+      "text": "☐ (j)(2)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 26,
-      "text": "[ ] Information pertained only to a third party with no reference to you or the subject of your",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "text": "request.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
       "status": "blank"
     },
     {
+      "lineNumber": 27,
+      "text": "☐ (b)(3)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 28,
+      "text": "☐ (b)(7)(C)",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 29,
-      "text": "[ ] Information pertained only to a third party. Your name is listed in the title only.",
-      "status": "image_matched"
+      "text": "☐ (k)(1)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 30,
@@ -167,13 +158,13 @@
     },
     {
       "lineNumber": 31,
-      "text": "[ ] Documents originated with another Government agency(ies). These documents were referred",
-      "status": "image_matched"
+      "text": "☐ (b)(7)(D)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
-      "text": "to that agency(ies) for review and direct response to you.",
-      "status": "image_matched"
+      "text": "☐ (k)(2)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
@@ -181,27 +172,27 @@
     },
     {
       "lineNumber": 34,
-      "text": "Pages contain information furnished by another Government agency(ies). You will be",
-      "status": "image_matched"
+      "text": "☐ (b)(7)(E)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 35,
-      "text": "advised by the FBI as to the releasability of this information following our consultation",
-      "status": "image_matched"
+      "text": "☐ (k)(3)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 36,
-      "text": "with the other agency(ies).",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
       "status": "blank"
     },
     {
+      "lineNumber": 37,
+      "text": "☐ (b)(7)(F)",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 38,
-      "text": "Page(s) withheld for the following reason(s):",
-      "status": "image_matched"
+      "text": "☐ (k)(4)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 39,
@@ -209,73 +200,192 @@
     },
     {
       "lineNumber": 40,
-      "text": "[ ] For your information:",
-      "status": "image_matched"
+      "text": "☐ (b)(4)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 41,
-      "status": "blank"
+      "text": "☐ (b)(8)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 42,
-      "text": "[X] The following number is to be used for reference regarding these pages:",
-      "status": "image_matched"
+      "text": "☐ (k)(5)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
-      "text": "62-83894-458, pp 2 and 3",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 44,
       "status": "blank"
     },
     {
+      "lineNumber": 44,
+      "text": "☐ (b)(5)",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 45,
-      "text": "XXXXXX",
-      "status": "image_matched"
+      "text": "☐ (b)(9)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 46,
-      "text": "XXXXXX",
-      "status": "image_matched"
+      "text": "☐ (k)(6)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 47,
-      "text": "XXXXXX",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 48,
-      "text": "XXXXXXXXXXXXXXXXXXXX",
-      "status": "image_matched"
+      "text": "☐ (b)(6)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 49,
-      "text": "X DELETED PAGE(S) X",
-      "status": "image_matched"
+      "text": "☐ (k)(7)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 50,
-      "text": "X NO DUPLICATION FEE X",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 51,
-      "text": "X FOR THIS PAGE X",
-      "status": "image_matched"
+      "text": "☐ Information pertained only to a third party with no reference to you or the subject of your",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 52,
-      "text": "XXXXXXXXXXXXXXXXXXXX",
+      "text": "request.",
       "status": "image_matched"
     },
     {
       "lineNumber": 53,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 54,
+      "text": "☐ Information pertained only to a third party. Your name is listed in the title only.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 55,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 56,
+      "text": "☐ Documents originated with another Government agency(ies). These documents were referred",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 57,
+      "text": "to that agency(ies) for review and direct response to you.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 58,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 59,
+      "text": "Pages contain information furnished by another Government agency(ies). You will be",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 60,
+      "text": "advised by the FBI as to the releassability of this information following our consultation",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 61,
+      "text": "with the other agency(ies).",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 62,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 63,
+      "text": "Page(s) withheld for the following reason(s):",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 64,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 65,
+      "text": "☐ For your information:",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 66,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 67,
+      "text": "☒ The following number is to be used for reference regarding these pages:",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 68,
+      "text": "62-83894-458, pp 2 and 3",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 69,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 70,
+      "text": "XXXXXXXXXXXXXXXXXXXXXX",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 71,
+      "text": "X DELETED PAGE(S) X",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 72,
+      "text": "X NO DUPLICATION FEE X",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 73,
+      "text": "X FOR THIS PAGE X",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 74,
+      "text": "XXXXXXXXXXXXXXXXXXXXXX",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 75,
       "text": "FBI/DC",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 76,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 77,
+      "text": "XXXXXX",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 78,
+      "text": "XXXXXX",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 79,
+      "text": "XXXXXX",
+      "status": "image_matched"
     }
   ],
   "blockCount": null

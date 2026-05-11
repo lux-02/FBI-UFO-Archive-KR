@@ -8,26 +8,22 @@
     "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 3 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0067-l0002",
-    "page_0067-l0005"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 5,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "NEW SAUCER PHOTOS: These remarkable photos of Flying Saucers were taken by Dr. Daniel W. Fry,",
-      "status": "image_matched"
+      "text": "NEW SAUCER PHOTOS. These remarkable photos of Flying Saucers were taken by Dr. Daniel W. Fry,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
       "text": "President of Understanding, Inc. of P. O. Box 76, Merlin, Oregon 97532. Your editor enlarged them",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -42,8 +38,7 @@
     {
       "lineNumber": 5,
       "text": "photographed near Merlin, Oregon in a wooded section, and again near Joshua Tree, Calif. on the desert.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

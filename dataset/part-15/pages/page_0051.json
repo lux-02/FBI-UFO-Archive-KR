@@ -8,21 +8,17 @@
     "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 45 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0051-l0001",
-    "page_0051-l0028"
-  ],
-  "lineCount": 54,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 58,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "UNITED STATES [unclear]MENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "UNITED STATES [unclear] 'MENT",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
@@ -35,253 +31,268 @@
     },
     {
       "lineNumber": 4,
-      "text": "TO : DIRECTOR, FBI DATE: 10/19/66",
-      "status": "image_matched"
+      "text": "TO : DIRECTOR, FBI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "status": "blank"
+      "text": "DATE: 10/19/66",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
       "text": "FROM : SAC, SAN FRANCISCO (62-2927)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
-      "text": "0 DISCS",
-      "status": "image_matched"
+      "lineNumber": 8,
+      "text": "O DISCS",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
       "text": "SUBJECT: UNIDENTIFIED FLYING OBJECTS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 11,
       "text": "IS - X",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
       "status": "blank"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 13,
       "text": "Re Bureau Bulletins No. 57 dated 10/1/47, and No.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
       "text": "38 dated 3/25/49, entitled \"FLYING DISCS.\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 15,
       "status": "blank"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 16,
       "text": "Enclosed are copies of an article entitled \"Armed",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 17,
       "text": "Forces - Focus on UFO\", which was published in the This World",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 18,
       "text": "supplement of the San Francisco Examiner & Chronicle, Sunday,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 19,
       "text": "October 16, 1966.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 20,
       "status": "blank"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 21,
       "text": "This article deals with the current controversy over",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "text": "the existence or nonexistence of flying saucers or Unidentified",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 23,
       "text": "Flying Objects (UFOs), and quotes Michigan's Congressional",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 24,
       "text": "Representative GERALD FORD as suggesting that Congress look",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 25,
       "text": "into UFOs; also it announces that the Air Force, which is",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 26,
       "text": "charged with investigating UFOs, has commissioned the Univer-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 27,
       "text": "sity of Colorado and Physics Professor EDWARD U. CONDON to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 28,
       "text": "conduct an in-depth study of flying saucers for the next 18",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 29,
       "text": "months, at an estimated cost of $300,000.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 30,
+      "status": "blank"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 31,
       "text": "The article also points out that since last summer",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 32,
       "text": "pressure has been mounting for the establishment of an inde-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 33,
       "text": "pendent, civilian controlled investigative agency to look into",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 34,
       "text": "the UFO problem.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 35,
       "status": "blank"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 36,
       "text": "Also, for the Bureau's information, there was re-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 37,
       "text": "cently published (first printing June 1966) a book entitled",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 38,
       "text": "\"Flying Saucers - Serious Business\", Lyle Stuart, Inc.,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 39,
       "text": "publishers, authored by Frank Edwards. This book is now in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 40,
       "text": "its third edition and is available in paperback, published",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 41,
       "text": "by Bantam Books, and it is probably a contributing factor to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 42,
       "text": "the current controversy.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 43,
       "status": "blank"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 44,
       "text": "In this book author Edwards points out that flying",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 45,
       "text": "saucers were observed in the spring of 1946, in Scandinavia",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 46,
       "text": "and Russia (which he points out is about a year from the date",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 47,
       "text": "of the testing of the Alamogordo atomic bomb), and the book",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
-      "text": "3 Bureau (Encls. 3) ENCLOSURE",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 47,
-      "text": "1- Denver (Encl. 1) REC 53 62-83894",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 48,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 49,
+      "text": "3 - Bureau (Encls. 3) ENCLOSURE",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "text": "1 - Denver (Encl. 1)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
       "text": "1 - San Francisco",
       "status": "image_matched"
     },
     {
-      "lineNumber": 49,
+      "lineNumber": 52,
       "text": "DET:lms",
       "status": "image_matched"
     },
     {
-      "lineNumber": 50,
-      "text": "(5) 370",
-      "status": "image_matched"
+      "lineNumber": 53,
+      "text": "(5)",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 51,
-      "text": "51000",
-      "status": "image_matched"
+      "lineNumber": 54,
+      "status": "blank"
     },
     {
-      "lineNumber": 52,
+      "lineNumber": 55,
+      "text": "REC 53 62-83874",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 56,
+      "text": "OCT 21 1966",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 57,
       "text": "EX-114",
       "status": "image_matched"
     },
     {
-      "lineNumber": 53,
-      "text": "2 OCT 21 1966",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 54,
-      "text": "NAT. INT. SEC",
-      "status": "image_matched"
+      "lineNumber": 58,
+      "text": "NAT. INT. SEC.",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

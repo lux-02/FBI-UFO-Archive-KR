@@ -8,16 +8,11 @@
     "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 40 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0052-l0004",
-    "page_0052-l0006",
-    "page_0052-l0007",
-    "page_0052-l0008"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 50,
   "lines": [
     {
@@ -37,31 +32,27 @@
     {
       "lineNumber": 4,
       "text": "documents many reports throughout the world of UFOs since that",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "date, and claims that 1965 was the year of the greatest number",
-      "status": "image_matched"
+      "text": "date, and claims that 1955 was the year of the greatest number",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
       "text": "of UFO sightings and that these were observed by multiple wit-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
       "text": "nesses. It is author Edwards' contention that UFOs are space",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
       "text": "vehicles sent to observe activities on earth and the Air Force,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,

@@ -8,23 +8,17 @@
     "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 35 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0032-l0001",
-    "page_0032-l0017",
-    "page_0032-l0019",
-    "page_0032-l0043"
-  ],
-  "lineCount": 54,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 58,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "NATIONAL [unclear] AND SPACE ADMINISTRATION",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "NATIONAL [unclear]S AND SPACE ADMINISTRATION",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
@@ -47,21 +41,22 @@
     },
     {
       "lineNumber": 6,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 7,
       "text": "FEB 28 1967",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 7,
       "status": "blank"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 8,
       "text": "Mr. Fred Steckling",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
@@ -98,9 +93,8 @@
     },
     {
       "lineNumber": 17,
-      "text": "May I suggest, then, that you give Mr. Penn Stevens, [unclear] a call.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "May I suggest, then, that you give Mr. Penn Stevens, [REDACTED] a call.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
@@ -109,9 +103,8 @@
     },
     {
       "lineNumber": 19,
-      "text": "Photographic Branch and show your film. Unfortunately we have no film",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Photographic Branch people your film. Unfortunately we have no 8mm",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 20,
@@ -138,40 +131,40 @@
     },
     {
       "lineNumber": 25,
+      "text": "[Signature]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 26,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 27,
       "text": "Paul D. Lowman, Jr.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 28,
       "text": "Geochemistry Laboratory",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 29,
       "text": "Laboratory for Theoretical Studies",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 30,
       "status": "blank"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 31,
       "text": "DEPARTMENT OF THE AIR FORCE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
-      "text": "WASHINGTON 20330",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 31,
-      "status": "blank"
-    },
-    {
       "lineNumber": 32,
-      "text": "MAR 7 1967",
+      "text": "WASHINGTON 20330",
       "status": "image_matched"
     },
     {
@@ -180,7 +173,7 @@
     },
     {
       "lineNumber": 34,
-      "text": "Dear Mr. Steckling:",
+      "text": "MAR 7 1967",
       "status": "image_matched"
     },
     {
@@ -189,65 +182,64 @@
     },
     {
       "lineNumber": 36,
-      "text": "Your letter concerning your unidentified flying object (UFO)",
+      "text": "Dear Mr. Steckling:",
       "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "text": "film finally reached my office--Office of Information for Project",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 38,
-      "text": "Blue Book, the Air Force UFO program.",
+      "text": "Your letter concerning your unidentified flying object (UFO)",
       "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "status": "blank"
+      "text": "film finally reached my office--Office of Information for Project",
+      "status": "image_matched"
     },
     {
       "lineNumber": 40,
-      "text": "The Air Force would be very interested in reviewing your",
+      "text": "Blue Book, the Air Force UFO program.",
       "status": "image_matched"
     },
     {
       "lineNumber": 41,
-      "text": "film. If you would get in touch with me at the Pentagon, we will",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 42,
-      "text": "arrange a showing for any Monday which is convenient for you.",
+      "text": "The Air Force would be very interested in reviewing your",
       "status": "image_matched"
     },
     {
       "lineNumber": 43,
-      "text": "My number is [unclear] or [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "film. If you would get in touch with me at the Pentagon, we will",
+      "status": "image_matched"
     },
     {
       "lineNumber": 44,
-      "status": "blank"
+      "text": "arrange a showing for any Monday which is convenient for you.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 45,
+      "text": "My number is [REDACTED] or [REDACTED].",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 46,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 47,
       "text": "Thank you for offering to show your film; I am looking forward",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
-      "text": "to hearing from you.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 47,
-      "status": "blank"
-    },
-    {
       "lineNumber": 48,
-      "text": "Sincerely,",
+      "text": "to hearing from you.",
       "status": "image_matched"
     },
     {
@@ -256,26 +248,44 @@
     },
     {
       "lineNumber": 50,
-      "text": "GEORGE P. FREEMAN, JR.",
+      "text": "Sincerely,",
       "status": "image_matched"
     },
     {
       "lineNumber": 51,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 52,
+      "text": "[Signature]",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 53,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 54,
+      "text": "GEORGE P. FREEMAN, JR.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 55,
       "text": "Lt Colonel, USAF",
       "status": "image_matched"
     },
     {
-      "lineNumber": 52,
+      "lineNumber": 56,
       "text": "Chief, Civil Branch",
       "status": "image_matched"
     },
     {
-      "lineNumber": 53,
+      "lineNumber": 57,
       "text": "Community Relations Division",
       "status": "image_matched"
     },
     {
-      "lineNumber": 54,
+      "lineNumber": 58,
       "text": "Office of Information",
       "status": "image_matched"
     }

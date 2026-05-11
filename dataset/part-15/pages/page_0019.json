@@ -8,16 +8,12 @@
     "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 95 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0019-l0004",
-    "page_0019-l0005",
-    "page_0019-l0066"
-  ],
-  "lineCount": 108,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 143,
   "lines": [
     {
       "lineNumber": 1,
@@ -26,259 +22,256 @@
     },
     {
       "lineNumber": 2,
-      "text": "fantasy, others think that initial",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 3,
-      "text": "meaning. Two centuries ago the",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 4,
-      "text": "the German astronomer, Johan",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 5,
-      "text": "recently, scientists held an intern",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 6,
-      "text": "to discuss the matter.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 8,
-      "text": "But neither Kepler nor contem",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 9,
-      "text": "found the key to the problem, whi",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
-      "text": "have an altogether unexpected so",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
-      "text": "In antiquity and the Middle Ages",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "ion was stirred by an unusual star",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "be the Star of Bethlehem. The st",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 14,
-      "text": "be able to move and stop.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 16,
-      "text": "From that let us turn to the Ch",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 17,
-      "text": "books banned by Church censors",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "and religious reading. The Apocryp",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "text": "efforts to explain the most dramati",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "text": "These books sometimes stand in di",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "text": "of Church-approved texts.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 23,
-      "text": "A familiar one about early Chri",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "text": "\"The Tale About the Three Magi\",",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
       "text": "ufo contact",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
-      "text": "without an angel's halo. He holds a \"rod\"",
+      "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
+      "text": "fantasy, others think that initially it [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 5,
+      "text": "meaning. Two centuries ago the mystery attracted",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
+      "text": "the German astronomer, Johan Kepler, while more",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
+      "text": "recently, scientists held an international symposium",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 8,
+      "text": "to discuss the matter.",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "But neither Kepler nor contemporary scientists",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 11,
+      "text": "found the key to the problem, which may turn out to",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 12,
+      "text": "have an altogether unexpected solution.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
+      "text": "In antiquity and the Middle Ages, human imagination",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 15,
+      "text": "was stirred by an unusual star, now believed to",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
+      "text": "be the Star of Bethlehem. The star was alleged to",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 17,
+      "text": "be able to move and stop.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 19,
+      "text": "From that let us turn to the Christian Apocrypha-",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 20,
+      "text": "books banned by Church censorship from services",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 21,
+      "text": "and religious reading. The Apocrypha reflects man's",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 22,
+      "text": "efforts to explain the most dramatic mysteries of life.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 23,
+      "text": "These books sometimes stand in direct contradiction",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 24,
+      "text": "of Church-approved texts.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
+      "text": "A familiar one about early Christianity is called",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
-      "text": "column\" and looks behind him.",
-      "status": "image_matched"
+      "text": "\"The Tale About the Three Magi\". The original version",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 28,
-      "text": "flight of his fellow-spaceman. The",
-      "status": "image_matched"
+      "text": "must have been written in Latin in the middle",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
-      "text": "ship following is another man, who",
-      "status": "image_matched"
+      "text": "of the third century at the earliest, and later translated",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 30,
-      "text": "in common with the traditional",
-      "status": "image_matched"
+      "text": "into many languages. A 15th-century Byelo-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 31,
-      "text": "one hand on the \"controls\".",
-      "status": "image_matched"
+      "text": "russian translation made five centuries before the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
-      "status": "blank"
+      "text": "space era contains a highly unusual interpretation of",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
-      "text": "Both ships have streamlined bodies.",
-      "status": "image_matched"
+      "text": "the tale. The star, it says, was watched by astronomers",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 34,
-      "text": "jets in their wake accentuate their",
-      "status": "image_matched"
+      "text": "(this is the actual word used) in many Oriental",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 35,
-      "text": "speed. \"The saints in the flying",
-      "status": "image_matched"
+      "text": "countries. Once it appeared at night and \"lit up the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 36,
-      "text": "position of pilots\", says the magazine.",
-      "status": "image_matched"
+      "text": "whole of the sky as the sun does\". Then the star",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 37,
-      "status": "blank"
+      "text": "hung over Mount Vans for a whole day, after which",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 38,
-      "text": "Angels watching the flight cover their eyes and",
-      "status": "image_matched"
+      "text": "it alighted on the mountain like an eagle.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 39,
-      "text": "seem to be backing away from the scene",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "for fear of being blinded or perhaps",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
-      "text": "groups are pictured, every face",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "text": "fear, or perplexity. The central figure",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "crucified Christ.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
       "status": "blank"
     },
     {
+      "lineNumber": 40,
+      "text": "The text contains a reference to \"certain books\"",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 41,
+      "text": "which claim that Christ came down from that star.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "text": "\"But it was different from the one pictured in our",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 43,
+      "text": "churches. It had wings, the kind an eagle has, and",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 44,
+      "text": "many long rays,\" which sent it moving in a circle",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 45,
-      "text": "The fresco depicting the Resurrection of Christ",
-      "status": "image_matched"
+      "text": "when it descended upon Mount Vans.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 46,
-      "text": "looks just as odd. The Messiah is shown in a",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 47,
-      "text": "rocket which has not yet begun to move,",
-      "status": "image_matched"
+      "text": "This version of the old story unexpectedly introduced",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 48,
-      "text": "the \"Messiah\" maneuvering the vehicle looks",
-      "status": "image_matched"
+      "text": "a new image and a new idea, both sharply at",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 49,
-      "text": "very much like a space rocket, with a two-wing",
-      "status": "image_matched"
+      "text": "variance with the church texts. Without question, the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 50,
-      "text": "stabilizer in its upper part. With his right hand",
-      "status": "image_matched"
+      "text": "apocryphal version is fantastic. But it is hardly more",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 51,
-      "text": "trying to lift aboard the ship is one of the",
-      "status": "image_matched"
+      "text": "fantastic than the approved \"canonical\" version. What",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 52,
-      "text": "standing on the ground before starting on his",
-      "status": "image_matched"
+      "text": "was at the basis of the author's fantasy? That, too,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 53,
-      "text": "to the heavenly kingdom.",
-      "status": "image_matched"
+      "text": "is shrouded in mystery.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 54,
@@ -286,131 +279,128 @@
     },
     {
       "lineNumber": 55,
-      "text": "Monks at Dechany, to whom experts turned for an",
+      "text": "ANGELS IN FLYING MACHINES.",
       "status": "image_matched"
     },
     {
       "lineNumber": 56,
-      "text": "explanation, replied that \"ships\" are pictures of the",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 57,
-      "text": "Sun and the Moon. According to New Testament",
-      "status": "image_matched"
+      "text": "The Dechany Monastery in Kosovskaya Metohia,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 58,
-      "text": "crucified during a solar eclipse. But why the",
+      "text": "southern Yugoslavia, was built in the first half of the",
       "status": "image_matched"
     },
     {
       "lineNumber": 59,
-      "text": "the monks could not say.",
-      "status": "image_matched"
+      "text": "14th century, and by 1350 contained numerous frescoes",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 60,
-      "status": "blank"
+      "text": "on subjects from the Old and New Testaments.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 61,
-      "text": "One of the papers on the Dechany miracle refers",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 62,
-      "text": "to a hypothesis saying that Christ came down to",
+      "text": "In the spring of 1964 more frescoes were found in",
       "status": "image_matched"
     },
     {
       "lineNumber": 63,
-      "text": "Earth from space. The magazine comments that",
-      "status": "image_matched"
+      "text": "the monastery. The Yugoslav magazine Svet published",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 64,
-      "text": "such ideas are \"overbold\", that the hypothesis, if",
-      "status": "image_matched"
+      "text": "photographs entitled: \"Spaceships on the Dechany",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 65,
-      "text": "confirmed, \"would make the Biblical story about",
-      "status": "image_matched"
+      "text": "Crucifix, Sputniks in our frescoes, Could ancient",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 66,
-      "text": "Christ\" The showing objects obviously resembles",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "icon-painters have depicted spaceships in Dechany?\"",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 67,
-      "text": "is layman and specialist alike\".",
-      "status": "image_matched"
+      "text": "It did not take a journalist's imagination to",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 68,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 69,
-      "text": "The Dechany \"Miracle\" is not unique. An icon in",
+      "text": "think up titles like these. Dechany frescoes actually",
       "status": "image_matched"
     },
     {
+      "lineNumber": 69,
+      "text": "depict angels flying in spaceships like the present",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 70,
-      "text": "the Church Archaeology Study of the Moscow Theo-",
+      "text": "sputniks.",
       "status": "image_matched"
     },
     {
       "lineNumber": 71,
-      "text": "logical Academy, called The Resurrection of Jesus",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 72,
-      "text": "Christ and dating back to the 17th century, shows",
+      "text": "Two ships are shown flying one after the other",
       "status": "image_matched"
     },
     {
       "lineNumber": 73,
-      "text": "Christ in a streamlined container which vaguely",
+      "text": "from west to east. Sitting in the lead ship is a man",
       "status": "image_matched"
     },
     {
       "lineNumber": 74,
-      "text": "resembles a spaceship standing on the ground.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 75,
-      "text": "Smoke billows from both sides of the container's",
-      "status": "image_matched"
+      "text": "without an angel's halo. He holds an unkn[unclear] \"rudder",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 76,
-      "text": "lower part, enveloping the legs of the angels who",
-      "status": "image_matched"
+      "text": "column\" and looks behind him as if watch[unclear] the",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 77,
-      "text": "watch from the sidelines. Just as in the Dechany",
-      "status": "image_matched"
+      "text": "flight of his fellow-spaceman. Sitting in the space-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 78,
-      "text": "fresco, Christ's right hand lifts a man (the church",
-      "status": "image_matched"
+      "text": "ship following is another man, who also has nothing",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 79,
-      "text": "version identifies him with Adam). Eve waits for her",
-      "status": "image_matched"
+      "text": "in common with the traditional angel and also has",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 80,
-      "text": "turn on the other side.",
+      "text": "one hand on the \"controls\".",
       "status": "image_matched"
     },
     {
@@ -419,137 +409,306 @@
     },
     {
       "lineNumber": 82,
-      "text": "The icon is surely of an apocryphal nature. There",
-      "status": "image_matched"
+      "text": "Both ships have streamlined bodies. Clearly visible",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 83,
-      "text": "may have been a written version presenting a non-",
-      "status": "image_matched"
+      "text": "jets in their wake accentuate the impression of",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 84,
-      "text": "canonical view of Christ's resurrection and ascens-",
-      "status": "image_matched"
+      "text": "speed. \"The saints in the flying machines are in the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 85,
-      "text": "ion, but if there is, nothing is known about it. Poss-",
+      "text": "position of pilots\", says the magazine.",
       "status": "image_matched"
     },
     {
       "lineNumber": 86,
-      "text": "ibly it was destroyed by Church censors or miss it",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 87,
-      "text": "disappeared with time. Or perhaps it was an un-",
+      "text": "Angels watching the flight cover their eyes and",
       "status": "image_matched"
     },
     {
       "lineNumber": 88,
-      "text": "official, unproven, or unverified manuscript",
-      "status": "image_matched"
+      "text": "ears with their hands and seem to be backing away",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 89,
-      "text": "exists undiscovered, in which case it may have",
-      "status": "image_matched"
+      "text": "for fear of being blinded of deafened. Below, two",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 90,
-      "text": "inspired icon (or mural) painters to present space",
-      "status": "image_matched"
+      "text": "groups are pictured, every face portraying surprise,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 91,
-      "text": "episodes.",
-      "status": "image_matched"
+      "text": "fear, or perplexity. The central figure represents the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 92,
-      "text": "(Continued)",
+      "text": "crucified Christ.",
       "status": "image_matched"
     },
     {
       "lineNumber": 93,
-      "text": "ANGELS IN FLYING MACHINES.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 94,
-      "text": "The Dechany Monastery in Kosovska Metohia,",
+      "text": "The fresco depicting the Resurrection of Christ",
       "status": "image_matched"
     },
     {
       "lineNumber": 95,
-      "text": "southern Yugoslavia, was built in the first half of the",
-      "status": "image_matched"
+      "text": "looks just as odd. The Messiah looks as if he is in a",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 96,
-      "text": "14th century, and by 1350 contained numerous fres-",
-      "status": "image_matched"
+      "text": "rocket which has not yet begun to move, explains",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 97,
-      "text": "coes on subjects from the Old and New Testaments.",
-      "status": "image_matched"
+      "text": "the Yugoslav magazine. Indeed, the vehicle looks",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 98,
-      "text": "In the spring of 1964 more frescoes were found in",
-      "status": "image_matched"
+      "text": "very much like a space rocket, with a two-wing stabilizer",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 99,
-      "text": "the monastery. The Yugoslav magazine Svet publish-",
-      "status": "image_matched"
+      "text": "in its upper part. With his right hand Christ is",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 100,
-      "text": "ed photographs entitled: \"Spaceships on the Dec-",
-      "status": "image_matched"
+      "text": "trying to lift aboard the ship one of the people",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 101,
-      "text": "hany Crucifix, Sputniks in our frescoes. Could anci-",
-      "status": "image_matched"
+      "text": "standing on the ground before starting on his way",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 102,
-      "text": "ent icon-painters have depicted spaceships in Dec-",
+      "text": "to the heavenly kingdom.",
       "status": "image_matched"
     },
     {
       "lineNumber": 103,
-      "text": "hany?\" It did not take a journalist's imagination to",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 104,
-      "text": "think up titles like these. Dechany frescoes actually",
+      "text": "Monks at Dechany, to whom experts turned for an",
       "status": "image_matched"
     },
     {
       "lineNumber": 105,
-      "text": "depict angels flying in spaceships or like the present",
-      "status": "image_matched"
+      "text": "explanation, replied that apparently the drawings of",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 106,
-      "text": "sputniks.",
-      "status": "image_matched"
+      "text": "\"ships\" are pictures of the Sun and the Moon.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 107,
-      "text": "Two ships are shown flying one after the other",
-      "status": "image_matched"
+      "text": "According to New Testament legend, Christ was",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 108,
-      "text": "from west to east. Sitting in the lead ship is a man",
+      "text": "crucified during a solar eclipse. But why the \"sun\"",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 109,
+      "text": "is depicted rising in the west the monks could not",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 110,
+      "text": "say.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 111,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 112,
+      "text": "One of the papers on the Dechany miracle refers",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 113,
+      "text": "to a hypothesis saying that Christ was a man who",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 114,
+      "text": "came down to Earth from space. The magazine",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 115,
+      "text": "comments that such ideas are \"overbold\", that the",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 116,
+      "text": "hypothesis, if confirmed, \"would basically alter the",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 117,
+      "text": "Biblical story about Christ\". The frescoes, it is noted,",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 118,
+      "text": "showing objects obviously resembling sputniks, \"baffle",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 119,
+      "text": "laymen and specialists alike.\"",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 120,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 121,
+      "text": "The Dechany \"Miracle\" is not unique. An icon in",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 122,
+      "text": "the Church Archaeology Study of the Moscow Theological",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 123,
+      "text": "Academy, called The Resurrection of Jesus",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 124,
+      "text": "Christ and dating back to the 17th century, shows",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 125,
+      "text": "Christ in a streamlined container which vaguely",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 126,
+      "text": "resembles a spaceship standing on the ground.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 127,
+      "text": "Smoke billows from both sides of the container's",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 128,
+      "text": "lower part, enveloping the legs of the angels who",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 129,
+      "text": "watch from the sidelines. Just as on the Dechany",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 130,
+      "text": "fresco, Christ's right hand lifts a man (the church",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 131,
+      "text": "version identifies him with Adam). Eve waits for her",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 132,
+      "text": "turn on the other side.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 133,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 134,
+      "text": "The icon is surely of an apocryphal nature. There",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 135,
+      "text": "may have been a written version presenting a non-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 136,
+      "text": "canonical view of Christ's resurrection and ascension,",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 137,
+      "text": "but if there is, nothing is known about it. Possibly",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 138,
+      "text": "it was destroyed by Church censors or miss it",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 139,
+      "text": "disappeared with time. Or perhaps the manuscript",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 140,
+      "text": "exists undiscovered, in which case it may have",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 141,
+      "text": "inspired icon (or mural) painters to present space",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 142,
+      "text": "episodes.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 143,
+      "text": "(Continued)",
       "status": "image_matched"
     }
   ],

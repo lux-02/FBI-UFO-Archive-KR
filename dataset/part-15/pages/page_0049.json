@@ -8,210 +8,227 @@
     "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 25 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0049-l0001",
-    "page_0049-l0002",
-    "page_0049-l0004",
-    "page_0049-l0012",
-    "page_0049-l0033",
-    "page_0049-l0034",
-    "page_0049-l0035",
-    "page_0049-l0037"
-  ],
-  "lineCount": 37,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 45,
   "lines": [
     {
       "lineNumber": 1,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
-      "text": "26th November, 1956",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 3,
       "status": "blank"
     },
     {
+      "lineNumber": 3,
+      "text": "26th November, 1966",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 4,
-      "text": "Edgar J. Hoover,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
+      "text": "Edgar J. Hoover,",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
       "text": "Director,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "text": "Federal Bureau of Investigation,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "text": "Washington, D.C.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "status": "blank"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
+      "text": "Flying Saucers",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
       "text": "Dear Sir,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
       "text": "About two years ago or so I wrote to you and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 15,
       "text": "asked you, to the best of my recollection, why agents",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 16,
       "text": "of you Bureau investigated reported landings of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 17,
       "text": "unidentified flying objects and whether data regarding",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 18,
       "text": "their findings was available. You replied saying that",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 19,
       "text": "agents investigated these cases to determine whether",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 20,
       "text": "any Federal law had been broken and that their",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 21,
       "text": "findings were confidential as were all other FBI records.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 23,
       "text": "Since receiving your letter which was placed in my",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 24,
       "text": "records, many of my records including your letter were",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 25,
       "text": "destroyed recently in a fire at my home and I would",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 26,
       "text": "therefore be grateful if, for the purposes of my new",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
-      "text": "records, confirm your letter of 1954/5 if the situation",
-      "status": "image_matched"
+      "lineNumber": 27,
+      "text": "records, confirm your letter of 1964/5 if the situation",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 28,
       "text": "is still the same.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
-      "text": "REC-62-62.7294-483",
-      "status": "image_matched"
+      "lineNumber": 29,
+      "text": "REC-62 - 62-72894-483",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 30,
       "status": "blank"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 31,
       "text": "In addition, I would be pleased to learn what your",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 32,
       "text": "opinion is of the unidentified flying objects. If you",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 33,
       "text": "decline, I would appreciate that it was due to your",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 34,
       "text": "position.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
-      "text": "DEC 2 1956",
-      "status": "image_matched"
+      "lineNumber": 35,
+      "text": "DEC 2 1966",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 36,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 37,
       "text": "Yours sincerely,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 38,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 39,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 40,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 41,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 42,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 43,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 44,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 45,
       "text": "ENCLOSURE",
       "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
     }
   ],
   "blockCount": null

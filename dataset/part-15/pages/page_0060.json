@@ -8,18 +8,12 @@
     "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0060-l0038",
-    "page_0060-l0041",
-    "page_0060-l0044",
-    "page_0060-l0047",
-    "page_0060-l0050"
-  ],
-  "lineCount": 50,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 47,
   "lines": [
     {
       "lineNumber": 1,
@@ -184,8 +178,8 @@
     },
     {
       "lineNumber": 35,
-      "text": "REC 98 62-73391-44",
-      "status": "image_matched"
+      "text": "REC 98 67 73881-41",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 36,
@@ -199,8 +193,7 @@
     {
       "lineNumber": 38,
       "text": "away 4-30-65 I have worked as [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 39,
@@ -213,55 +206,37 @@
     },
     {
       "lineNumber": 41,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 42,
-      "text": "New Hampshire 03045",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "r-se hps 9/2/66",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "text": "[unclear] 9/6/66",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 45,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 46,
       "text": "Very truly yours,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
-      "text": "(Mrs) [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 42,
+      "text": "[REDACTED] (Mrs) [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 48,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 49,
-      "text": "SEP. 8 1966",
+      "lineNumber": 43,
+      "text": "New Hampshire 03045",
       "status": "image_matched"
     },
     {
-      "lineNumber": 50,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 44,
+      "text": "[unclear] 9/2/66",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 45,
+      "text": "[unclear] 9/6/66",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 46,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 47,
+      "text": "SEP. 8 1966",
+      "status": "image_matched"
     }
   ],
   "blockCount": null

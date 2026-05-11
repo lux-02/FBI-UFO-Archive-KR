@@ -8,90 +8,86 @@
     "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 47 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0001-l0047",
-    "page_0001-l0059"
-  ],
-  "lineCount": 62,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 66,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Mr.",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
-      "text": "Mr.",
-      "status": "image_matched"
+      "text": "Mr. [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 3,
-      "text": "Mr.",
-      "status": "image_matched"
+      "text": "Mr. [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 4,
-      "text": "Mr.",
-      "status": "image_matched"
+      "text": "Mr. Ca[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 5,
-      "text": "Mr.",
-      "status": "image_matched"
+      "text": "Mr. Co[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 6,
-      "text": "Mr.",
-      "status": "image_matched"
+      "text": "Mr. Fe[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 7,
-      "text": "Mr.",
-      "status": "image_matched"
+      "text": "Mr. Ga[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 8,
-      "text": "Mr.",
-      "status": "image_matched"
+      "text": "Mr. Ro[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 9,
-      "text": "Mr.",
-      "status": "image_matched"
+      "text": "Mr. Sul[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 10,
-      "text": "Mr.",
-      "status": "image_matched"
+      "text": "Mr. Tav[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 11,
-      "text": "Mr.",
-      "status": "image_matched"
+      "text": "Mr. Tr[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 12,
-      "text": "Mr.",
-      "status": "image_matched"
+      "text": "Tele. R[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 13,
-      "text": "Tele. Room",
-      "status": "image_matched"
+      "text": "Miss H[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 14,
-      "text": "Miss Holmes",
-      "status": "image_matched"
+      "text": "Miss G[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 15,
-      "text": "Miss Gandy",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 16,
@@ -100,163 +96,164 @@
     },
     {
       "lineNumber": 17,
-      "status": "blank"
+      "text": "Unidentified Flying Objects",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 19,
       "text": "Director J. Edgar Hoover",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "text": "Federal Bureau of Investigation",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 21,
       "text": "Washington, D. C.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 23,
       "text": "Dear Mr. Hoover:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 24,
       "status": "blank"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
       "text": "A very Happy Birthday...... July 1967.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 26,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
-      "text": "I am very lucky to have the opportunity this afternoon to be",
-      "status": "image_matched"
+      "lineNumber": 27,
+      "text": "I am very Lucky to have the opportunity this afternoon to be",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 28,
       "text": "able to introduce to you the ufo contact igap journal. This",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 29,
       "text": "magazine has been dedicated to Mr. George Adamski.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 30,
       "status": "blank"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 31,
       "text": "My letter to you and the enclosed magazine is a project of my",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 32,
       "text": "own. I am a reporter for ufo contact, and in this way I hope to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
-      "text": "bring to the attention of V.I.P. of our country, our magazine and",
-      "status": "image_matched"
+      "lineNumber": 33,
+      "text": "bring to the attention of V.I.P of our country, our magazine and",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 34,
       "text": "the message that it contains, to the reader. I don't sell the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 35,
       "text": "magazine, but plan to give it to the person I write to as a gift.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 36,
       "text": "The cost is my own, and the experience I will gain will be my",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 37,
       "text": "reward, perhaps an advancement to the position of co-worker for",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 38,
       "text": "IGAP in the future.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 39,
       "status": "blank"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 40,
       "text": "Thank you very much for giving me a moment of your time. I am",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 41,
       "text": "sure you will find our magazine interesting.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 42,
       "status": "blank"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 43,
       "text": "May I again wish you a very Happy Birthday! (Walter Winchell)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 44,
       "text": "Column",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 45,
       "status": "blank"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 46,
       "text": "Your Friend,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
-      "status": "blank"
-    },
-    {
       "lineNumber": 47,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 48,
-      "status": "blank"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 49,
-      "text": "ENCLOSURE",
+      "text": "San Francisco, California",
       "status": "image_matched"
     },
     {
       "lineNumber": 50,
-      "text": "ENCL. NEWED FILE",
+      "text": "ZIP CODE: 94121",
       "status": "image_matched"
     },
     {
@@ -265,32 +262,31 @@
     },
     {
       "lineNumber": 52,
-      "text": "EXP-PROC.",
+      "text": "ENCLOSURE",
       "status": "image_matched"
     },
     {
       "lineNumber": 53,
+      "text": "ENCL. NEIUND FILE\"",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 54,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 55,
+      "text": "EXP. PROC.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 56,
       "text": "AUG 22 1967",
       "status": "image_matched"
     },
     {
-      "lineNumber": 54,
-      "text": "San Francisco, California",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 55,
-      "text": "ZIP CODE: 94121",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 56,
-      "status": "blank"
-    },
-    {
       "lineNumber": 57,
-      "text": "62-83874-16",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 58,
@@ -300,8 +296,7 @@
     {
       "lineNumber": 59,
       "text": "[unclear] & UFO pictures",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 60,
@@ -314,8 +309,28 @@
     },
     {
       "lineNumber": 62,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 63,
+      "text": "62-83874-16",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 64,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 65,
       "text": "16 SEP 12 1967",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 66,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

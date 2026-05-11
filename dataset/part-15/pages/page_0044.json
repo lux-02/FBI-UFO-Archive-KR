@@ -8,17 +8,12 @@
     "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 45 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0044-l0002",
-    "page_0044-l0003",
-    "page_0044-l0046",
-    "page_0044-l0061"
-  ],
-  "lineCount": 61,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 45,
   "lines": [
     {
       "lineNumber": 1,
@@ -27,15 +22,13 @@
     },
     {
       "lineNumber": 2,
-      "text": "FEDERAL BUREAU OF INVES",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "FEDERAL BUREAU OF INVES[TIGATION]",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "UNITED STATES DEPARTMENT OF JUSTICE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "UNITED STATES DEPARTMENT OF [JUSTICE]",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -43,186 +36,183 @@
     },
     {
       "lineNumber": 5,
-      "text": "MR. DELOACH",
-      "status": "image_matched"
+      "text": "# 27",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "MR. MOHR",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
-      "text": "MR. WICK",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 8,
-      "text": "MR. CASPER",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 9,
-      "text": "MR. CALLAHAN",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
-      "text": "MR. CONRAD",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
-      "text": "MR. FELT",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "MR. GALE",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "MR. ROSEN",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 14,
-      "text": "MR. SULLIVAN",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "text": "MR. TAVEL",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "text": "MR. TROTTER",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 17,
-      "text": "MR. JONES",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "TELE. ROOM",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "text": "MISS HOLMES",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "text": "MRS. METCALF",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "text": "MISS GANDY",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 23,
       "text": "(December 23, 1966)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 7,
       "status": "blank"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 8,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 9,
       "text": "Bradford, Pa. 16701",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 10,
       "status": "blank"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 11,
       "text": "Flying Saucers",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 12,
       "status": "blank"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 13,
       "text": "Mr. J. Edgar Hoover",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 14,
       "text": "4936 30th Place",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 15,
       "text": "Washington, D. C.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 16,
       "status": "blank"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 17,
       "text": "Dear Mr. Hoover,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 18,
       "status": "blank"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 19,
       "text": "I am doing my Science Fair project on",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 20,
       "text": "U. F. O. s. Could you please send me any and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
-      "text": "all information you have on this subject?",
-      "status": "image_matched"
+      "lineNumber": 21,
+      "text": "all imformation you have on this subject?",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 38,
-      "text": "I would also appreciate any information you",
-      "status": "image_matched"
+      "lineNumber": 22,
+      "text": "I would also appreciate any imformation you",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 23,
       "text": "may have as to how many planes we have lost",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
-      "text": "chasing U. F. O. s. Why has this information",
-      "status": "image_matched"
+      "lineNumber": 24,
+      "text": "chasing U. F. O. s. Why has this imformation",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 25,
       "text": "been kept a secret? Why is it important to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 26,
       "text": "national defense?",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
+      "text": "Also would you happen to know if any other",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "text": "sides ourself have spotted U. F. O. s in",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "text": "s?",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 31,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 32,
+      "text": "BRADFORD",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "text": "DEC 20",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 34,
+      "text": "[unclear] PM",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 35,
+      "text": "1966",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "text": "PA.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 38,
+      "text": "EX-100",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 39,
+      "text": "62-83894-455",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 40,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 41,
+      "text": "REC-48",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 42,
+      "text": "32 DEC 29 1966",
       "status": "image_matched"
     },
     {
@@ -231,91 +221,13 @@
     },
     {
       "lineNumber": 44,
-      "text": "Also would you happen to know if any other",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
-      "text": "sides ourself have spotted U. F. O. s in",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 46,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 47,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 48,
-      "text": "BRADFORD",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 49,
-      "text": "DEC 20",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 50,
-      "text": "PM",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 51,
-      "text": "1966",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 52,
-      "text": "PA",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 53,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 54,
-      "text": "EX-108",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 55,
-      "text": "62-73014-455",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 56,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 57,
-      "text": "REC-48",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 58,
-      "text": "32 DEC 29 1966",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 59,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 60,
       "text": "ack: 12-29-66",
       "status": "image_matched"
     },
     {
-      "lineNumber": 61,
-      "text": "37/1050",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 45,
+      "text": "34/UFO",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

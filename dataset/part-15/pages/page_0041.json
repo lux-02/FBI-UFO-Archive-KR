@@ -8,24 +8,12 @@
     "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "11 permanent_unresolved line(s) excluded under SRC-896. 52 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0041-l0004",
-    "page_0041-l0005",
-    "page_0041-l0011",
-    "page_0041-l0013",
-    "page_0041-l0017",
-    "page_0041-l0023",
-    "page_0041-l0028",
-    "page_0041-l0037",
-    "page_0041-l0038",
-    "page_0041-l0040",
-    "page_0041-l0074"
-  ],
-  "lineCount": 76,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 75,
   "lines": [
     {
       "lineNumber": 1,
@@ -45,365 +33,350 @@
     {
       "lineNumber": 4,
       "text": "1 - [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
       "text": "1 - [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 7,
       "text": "January 18, 1967",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 7,
       "status": "blank"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 8,
       "text": "UNIDENTIFIED FLYING OBJECT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 9,
       "text": "ALLEGEDLY SIGHTING, JANUARY 17, 1967.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
-      "text": "OF FLYING SAUCERS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 10,
+      "text": "O'FLYING SAUCERS",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "status": "blank"
     },
     {
+      "lineNumber": 12,
+      "text": "At 4:10 a.m., January 18, 1967, [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 13,
-      "text": "At 4:10 a.m., January 18, 1967, [REDACTED] advised",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "advised that he desired to report that he had observed a large",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
-      "text": "that he desired to report that he had observed a large",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
       "text": "oblong-shaped object which alighted in the street in front",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "text": "of him when he was on his way home from his television repair",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 16,
       "text": "shop, the [REDACTED], Chesapeake,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 17,
       "text": "Virginia. He believes that he was taken into this craft which",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 18,
       "text": "he recalls as being made of a glass like substance and being",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 19,
       "text": "transparent. It was manned by several individuals who appeared",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 20,
       "text": "to be undersized creatures similar to members of the human",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 21,
       "text": "race, probably not more than 4 feet tall. They were allegedly",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 22,
       "text": "wearing regular trouser pants and T-Shirts. [REDACTED] believes",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 23,
       "text": "that he was transported by this craft for an undetermined",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 24,
       "text": "distance and returned to his point of take-off approximately",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 25,
       "text": "one hour later.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 26,
       "status": "blank"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 27,
       "text": "[REDACTED] spoke in a coherent manner although he",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 28,
       "text": "appeared to be under certain emotional strain. He claimed",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 29,
       "text": "he had not been drinking any intoxicants but he was unable",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 30,
       "text": "to account for the time between 8:00 p.m. and 4:00 a.m.. He",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
-      "text": "stated he was telephoning from his workshop, but had no recollect",
-      "status": "image_matched"
+      "lineNumber": 31,
+      "text": "stated he was telephoning from his workshop but had no recollect",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 32,
       "text": "of being elsewhere between 8:00 p.m. and 4:00 a.m.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 33,
       "status": "blank"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 34,
       "text": "The above is being furnished for your information.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 35,
       "status": "blank"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 36,
       "text": "NOTE: [REDACTED] furnished information to night supervisor SA",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 37,
+      "text": "[REDACTED] Special Investigative Division. A check of Bureau",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 38,
-      "text": "[REDACTED] Special Investigative Division. A check of Bureau",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "indices did not disclose any information which could be identifi",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 39,
-      "text": "indices did not disclose any information which could be identifie",
-      "status": "image_matched"
+      "text": "with [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 40,
-      "text": "with [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 41,
       "text": "REC 67 62-83894-457",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 41,
       "status": "blank"
     },
     {
-      "lineNumber": 43,
-      "text": "Telco",
-      "status": "image_matched"
+      "lineNumber": 42,
+      "text": "Tolson",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 43,
       "text": "DeLoach",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 44,
       "text": "Mohr",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 45,
       "text": "Wick",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 46,
       "text": "Casper",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
+      "lineNumber": 47,
       "text": "Callahan",
       "status": "image_matched"
     },
     {
-      "lineNumber": 49,
+      "lineNumber": 48,
       "text": "Conrad",
       "status": "image_matched"
     },
     {
-      "lineNumber": 50,
+      "lineNumber": 49,
       "text": "Felt",
       "status": "image_matched"
     },
     {
-      "lineNumber": 51,
+      "lineNumber": 50,
       "text": "Gale",
       "status": "image_matched"
     },
     {
-      "lineNumber": 52,
+      "lineNumber": 51,
       "text": "Rosen",
       "status": "image_matched"
     },
     {
-      "lineNumber": 53,
+      "lineNumber": 52,
       "text": "Sullivan",
       "status": "image_matched"
     },
     {
-      "lineNumber": 54,
+      "lineNumber": 53,
       "text": "Tavel",
       "status": "image_matched"
     },
     {
-      "lineNumber": 55,
-      "text": "Tappler",
-      "status": "image_matched"
+      "lineNumber": 54,
+      "text": "Trotter",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 56,
+      "lineNumber": 55,
       "text": "Tele. Room",
       "status": "image_matched"
     },
     {
-      "lineNumber": 57,
-      "text": "Holcomb",
-      "status": "image_matched"
+      "lineNumber": 56,
+      "text": "Holmes",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 58,
+      "lineNumber": 57,
       "text": "Gandy",
       "status": "image_matched"
     },
     {
-      "lineNumber": 59,
+      "lineNumber": 58,
       "status": "blank"
     },
     {
-      "lineNumber": 60,
+      "lineNumber": 59,
       "text": "ARW:djg",
       "status": "image_matched"
     },
     {
-      "lineNumber": 61,
+      "lineNumber": 60,
       "text": "(8)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 62,
+      "lineNumber": 61,
       "status": "blank"
+    },
+    {
+      "lineNumber": 62,
+      "text": "62 JAN 26 1967",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 63,
-      "text": "6 2 JAN 26 1967",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 64,
-      "status": "blank"
+      "text": "MAIL ROOM ☐ TELETYPE UNIT ☐",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 65,
-      "text": "MAIL ROOM [ ] TELETYPE UNIT [ ]",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 66,
       "status": "blank"
     },
     {
-      "lineNumber": 67,
+      "lineNumber": 66,
       "text": "This document contains neither",
       "status": "image_matched"
     },
     {
-      "lineNumber": 68,
+      "lineNumber": 67,
       "text": "recommendations nor conclusions of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 69,
+      "lineNumber": 68,
       "text": "the FBI. It is the property of",
       "status": "image_matched"
     },
     {
+      "lineNumber": 69,
+      "text": "the FBI and is loaned to your agency;",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 70,
-      "text": "the FBI and is loaned to your agency.",
-      "status": "image_matched"
+      "text": "it and its contents are not to be",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 71,
-      "text": "It and its contents are not to be",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 72,
       "text": "distributed outside your agency.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 73,
+      "lineNumber": 72,
       "status": "blank"
+    },
+    {
+      "lineNumber": 73,
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 74,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 75,
       "status": "blank"
     },
     {
-      "lineNumber": 76,
-      "text": "JAN 20 1967",
-      "status": "image_matched"
+      "lineNumber": 75,
+      "text": "59 JAN 20 1967",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

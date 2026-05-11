@@ -8,14 +8,12 @@
     "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 47 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0042-l0048"
-  ],
-  "lineCount": 51,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 53,
   "lines": [
     {
       "lineNumber": 1,
@@ -147,8 +145,8 @@
     },
     {
       "lineNumber": 27,
-      "text": "HE WOULD CITE IT TO THE MAN AND ASK HIM ON THAT BASIS HE MADE THE",
-      "status": "image_matched"
+      "text": "HE WOULD WRITE TO THE MAN AND ASK HIM ON THAT BASIS HE MADE THE",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 28,
@@ -162,8 +160,8 @@
     },
     {
       "lineNumber": 30,
-      "text": "WOULD LAND. SAID IT WOULD BE MANNED BY PERSONS FROM ANOTHER PLANET,\"",
-      "status": "image_matched"
+      "text": "WOULD LAND SAID IT WOULD BE MANNED BY PERSONS FROM ANOTHER PLANET,\"",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 31,
@@ -172,8 +170,8 @@
     },
     {
       "lineNumber": 32,
-      "text": "\"HE SUGGESTED WE CONTACT THE SPACE TRAVELERS AND MAKE FRIENDS WITH",
-      "status": "image_matched"
+      "text": "\"HE SUGGESTED WE CONTACT THE SPACE TRAVELERS AND MAKE FRIENDS WI",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
@@ -187,18 +185,18 @@
     },
     {
       "lineNumber": 35,
-      "text": "LETTER, SAYING THE PREDICTED LANDING WOULD TAKE PLACE OF THE DATE",
-      "status": "image_matched"
+      "text": "LETTER, SAY WHERE THE PREDICTED LANDING WOULD TAKE PLACE OR THE DAT",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 36,
-      "text": "\"HE DID SAY IT WOULD BE SOMETIME THIS SPRING.",
-      "status": "image_matched"
+      "text": "HE DID SAY IT WOULD BE SOMETIME THIS SPRING.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 37,
-      "text": "\"I'M GOING TO ANSWER THE LETTER TO HIM AND FIND OUT WHAT THE BASIS",
-      "status": "image_matched"
+      "text": "\"I'M GOING TO ANSWER THE LETTER TO TRY AND FIND OUT WHAT THE BAS",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 38,
@@ -246,27 +244,35 @@
     },
     {
       "lineNumber": 47,
-      "text": "Condon a publicity",
-      "status": "image_matched"
+      "text": "Condon - no publicity",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 48,
-      "text": "[unclear] 62-8388",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] 62-83884",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 49,
-      "text": "JAN 20 1967",
-      "status": "image_matched"
+      "text": "H",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 50,
+      "text": "EX JAN 20 1967",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
       "text": "WASHINGTON CAPITAL NEWS SERVICE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 51,
+      "lineNumber": 52,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 53,
       "text": "79 JAN 23 1967",
       "status": "image_matched"
     }

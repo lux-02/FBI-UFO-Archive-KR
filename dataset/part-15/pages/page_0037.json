@@ -8,14 +8,12 @@
     "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "unknown_or_low_text_scan",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 4 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0037-l0005"
-  ],
-  "lineCount": 5,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 7,
   "lines": [
     {
       "lineNumber": 1,
@@ -29,19 +27,26 @@
     },
     {
       "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "Top",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 5,
       "text": "↑",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
       "text": "34",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

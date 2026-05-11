@@ -8,25 +8,22 @@
     "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 36 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0034-l0022",
-    "page_0034-l0027"
-  ],
-  "lineCount": 47,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 50,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "MAY 1967 EDITION",
-      "status": "image_matched"
+      "text": "MAY 1962 EDITION",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "UNITED STATES GOVERNMENT",
-      "status": "image_matched"
+      "text": "UNITED STATES [unclear]NMENT",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 3,
@@ -53,164 +50,162 @@
     },
     {
       "lineNumber": 8,
-      "text": "FROM : SAC, MIAMI (62-0-11328 )",
-      "status": "image_matched"
+      "text": "FROM : SAC, MIAMI (62-0-11328)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "SUBJECT: INFORMATION CONCERNING",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
       "status": "blank"
     },
     {
+      "lineNumber": 10,
+      "text": "SUBJECT: [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 11,
+      "text": "INFORMATION CONCERNING",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 12,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 13,
       "text": "A review of the Miami indices revealed information",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
       "text": "reflecting subject appeared at the Miami Office on July 24,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 15,
       "text": "1959, and volunteered to return to Austria as an intelligence",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 16,
       "text": "agent. His expressed motivation was to do something to repay",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 17,
       "text": "the debt he felt he owed the United States. He was afforded",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 18,
       "text": "the Washington, D. C. Headquarters address of the Central",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 19,
       "text": "Intelligence Agency and told his inquiry should be directed",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 20,
       "text": "there.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 21,
       "status": "blank"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "text": "Also, on July 4, 1961, he appeared at the Miami",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 23,
       "text": "Office and gave an incoherent story of recently meeting an",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 24,
       "text": "individual who asked him to kill his mother. [REDACTED] appeared",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 25,
       "text": "to be somewhat bewildered and continuously gazed away from the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
-      "text": "interviewing Agent.",
-      "status": "image_matched"
+      "lineNumber": 26,
+      "text": "interviewing agent.",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 27,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 28,
       "text": "During his most recent visit to the Miami Office,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 29,
       "text": "[REDACTED] seemed genuinely concerned about the existence",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 30,
       "text": "of the object he allegedly photographed during November, 1944.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 31,
       "text": "He exhibited no emotional nor mental disorder and appeared to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 32,
       "text": "be rational.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 33,
       "status": "blank"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 34,
       "text": "In view of recent publicity afforded UFO sightings,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 35,
       "text": "some apparently by responsible sources, this information",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 36,
       "text": "is submitted to the Bureau for consideration of transmittal",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 37,
       "text": "to the U. S. Air Force.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 38,
       "status": "blank"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 39,
       "text": "REC-40",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
-      "text": "62-75904-460",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 39,
-      "status": "blank"
-    },
-    {
       "lineNumber": 40,
-      "text": "14 JUN 12 1967",
-      "status": "image_matched"
+      "text": "62-83894-460",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 41,
@@ -218,31 +213,44 @@
     },
     {
       "lineNumber": 42,
-      "text": "Bureau (Enc. 4)",
+      "text": "14 JUN 12 1967",
       "status": "image_matched"
     },
     {
       "lineNumber": 43,
-      "text": "Miami",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 44,
+      "text": "[unclear] Bureau (Enc. 4)",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 45,
+      "text": "[unclear] Miami",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 46,
       "text": "LB/bab",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 47,
       "text": "(3)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 48,
       "text": "JUN 27 1967",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 49,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 50,
       "text": "Buy U.S. Savings Bonds Regularly on the Payroll Savings Plan",
       "status": "image_matched"
     }

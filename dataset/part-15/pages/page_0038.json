@@ -8,43 +8,37 @@
     "sha256": "edab9b4e5dcedcb5e3ba8cfbf1828cb20310c31b9a463308e1bf9cf440e6ec2a"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 35 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0038-l0005",
-    "page_0038-l0015",
-    "page_0038-l0018",
-    "page_0038-l0034"
-  ],
-  "lineCount": 39,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 48,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "5010-107-3",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 2,
       "text": "OPTIONAL FORM NO. 10",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 2,
       "text": "MAY 1962 EDITION",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 3,
       "text": "GSA GEN. REG. NO. 27",
       "status": "image_matched"
     },
     {
+      "lineNumber": 4,
+      "text": "3610-107-J",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 5,
       "text": "UNITED STATES GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -53,12 +47,11 @@
     },
     {
       "lineNumber": 7,
-      "text": "TO : Director, FBI",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
-      "text": "SECRET",
+      "text": "TO : Director, FBI",
       "status": "image_matched"
     },
     {
@@ -68,60 +61,55 @@
     },
     {
       "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
       "text": "FROM : Legat, Mexico City (105-5844) (RUC)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
-      "text": "ALL INFORMATION CONTAINED",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 12,
-      "text": "HEREIN IS UNCLASSIFIED",
+      "text": "SECRET",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "EXCEPT WHERE SHOWN",
+      "text": "ALL INFORMATION CONTAINED",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "OTHERWISE.",
+      "text": "HEREIN IS UNCLASSIFIED",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "SUBJECT: [REDACTED] (S) b1",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "EXCEPT WHERE SHOWN",
+      "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "INFORMATION CONCERNING",
+      "text": "OTHERWISE.",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "b1",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 18,
-      "text": "Classified [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "SUBJECT: [REDACTED] (S) b1",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 19,
-      "text": "dated 11/12/91",
+      "text": "INFORMATION CONCERNING",
       "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "9803 2/24/98 90-260",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 21,
@@ -130,93 +118,135 @@
     },
     {
       "lineNumber": 22,
-      "text": "(S)",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 23,
-      "text": "(S)",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 24,
-      "text": "4",
-      "status": "image_matched"
+      "text": "Classified per [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 25,
-      "text": "Bureau",
+      "text": "dated 11/12/91",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "(1 - Liaison Section)",
-      "status": "image_matched"
+      "text": "9803 9/24/98",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
-      "text": "(1 - San Antonio)",
-      "status": "image_matched"
+      "text": "b7c",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 28,
-      "text": "1 - Mexico City",
-      "status": "image_matched"
+      "text": "90-260",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
-      "text": "EDR:ako",
+      "text": "b1",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "(5)",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 31,
-      "text": "REC 11",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 32,
-      "text": "EX 101",
-      "status": "image_matched"
+      "text": "4 - Bureau",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
-      "text": "62-83894-458",
+      "text": "(1 - Liaison Section)",
       "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "(1 - San Antonio)",
+      "status": "image_matched"
     },
     {
       "lineNumber": 35,
-      "text": "2-16-67",
+      "text": "1 - Mexico City",
       "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "text": "9FEB 21 1967",
+      "text": "EDR:ako",
       "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "text": "SECRET",
+      "text": "(5)",
       "status": "image_matched"
     },
     {
       "lineNumber": 38,
-      "text": "Buy U.S. Savings Bonds Regularly on the Payroll Savings Plan",
+      "text": "REC 11",
       "status": "image_matched"
     },
     {
       "lineNumber": 39,
+      "text": "EX 101",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "62-83894-458",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 42,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 43,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 44,
+      "text": "226 [unclear] 2-16-67",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 45,
+      "text": "9FEB 21 1967",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 46,
+      "text": "SECRET",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 47,
       "text": "CRIME RESEARCH",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 48,
+      "text": "Buy U.S. Savings Bonds Regularly on the Payroll Savings Plan",
       "status": "image_matched"
     }
   ],
