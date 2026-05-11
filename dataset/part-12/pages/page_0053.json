@@ -8,52 +8,37 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "11 permanent_unresolved line(s) excluded under SRC-896. 16 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0053-l0002",
-    "page_0053-l0003",
-    "page_0053-l0004",
-    "page_0053-l0009",
-    "page_0053-l0010",
-    "page_0053-l0016",
-    "page_0053-l0018",
-    "page_0053-l0020",
-    "page_0053-l0023",
-    "page_0053-l0026",
-    "page_0053-l0027"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 27,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "There are many hundreds of (6",
-      "status": "image_matched"
+      "text": "There are many hundreds of",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "small C units, with the highest",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "small C units, with the, high t",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "proportion of P + P. Co, moving around",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "proportion of P + P. Co., moving around",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
-      "text": "the sun in smaller orbits than the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "the Sun in smaller Orbits than the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "Earth.",
-      "status": "image_matched"
+      "text": "Earth",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
@@ -72,15 +57,13 @@
     },
     {
       "lineNumber": 9,
-      "text": "found and their orbit traced.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "found and their Orbit traced.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
       "text": "Some are all Gas, some are",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
@@ -109,20 +92,18 @@
     },
     {
       "lineNumber": 16,
-      "text": "of that metal when \"Red hot\" or burning.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "of that metal when \"Red hot\" or burning",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "text": "The gases would present different colors.",
-      "status": "image_matched"
+      "text": "the gases would present different colors.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
-      "text": "Some travel in orbits close to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Some travel in Orbits close to",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 19,
@@ -131,9 +112,8 @@
     },
     {
       "lineNumber": 20,
-      "text": "Some travel in orbits around",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Some travel in Orbits around",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
@@ -142,14 +122,13 @@
     },
     {
       "lineNumber": 22,
-      "text": "(Like the moon)",
-      "status": "image_matched"
+      "text": "(like the moon)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
       "text": "These small C-Units may travel",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
@@ -158,20 +137,18 @@
     },
     {
       "lineNumber": 25,
-      "text": "numbers and formations.",
-      "status": "image_matched"
+      "text": "numbers and formations",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 26,
       "text": "Any one or any group of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
       "text": "these small C-Units may be",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

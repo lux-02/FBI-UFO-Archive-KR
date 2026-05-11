@@ -8,38 +8,12 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "25 permanent_unresolved line(s) excluded under SRC-896. 30 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0087-l0005",
-    "page_0087-l0012",
-    "page_0087-l0013",
-    "page_0087-l0014",
-    "page_0087-l0016",
-    "page_0087-l0017",
-    "page_0087-l0021",
-    "page_0087-l0023",
-    "page_0087-l0024",
-    "page_0087-l0025",
-    "page_0087-l0026",
-    "page_0087-l0027",
-    "page_0087-l0028",
-    "page_0087-l0043",
-    "page_0087-l0045",
-    "page_0087-l0046",
-    "page_0087-l0047",
-    "page_0087-l0048",
-    "page_0087-l0049",
-    "page_0087-l0050",
-    "page_0087-l0051",
-    "page_0087-l0052",
-    "page_0087-l0053",
-    "page_0087-l0054",
-    "page_0087-l0055"
-  ],
-  "lineCount": 55,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 61,
   "lines": [
     {
       "lineNumber": 1,
@@ -58,288 +32,275 @@
     },
     {
       "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
       "text": "Transmit the following message via AIRTEL",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 6,
+      "text": "AIR MAIL",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "text": "(Priority or Method of Mailing)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
-      "text": "TO: DIRECTOR, FBI 7/4 S.",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 8,
-      "text": "FROM: SAC, DETROIT (100-26505)",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 9,
+      "text": "TO: DIRECTOR, FBI",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 10,
+      "text": "FROM: SAC, DETROIT (100-28505)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
       "text": "UNIDENTIFIED FLYING OBJECTS; IS - X.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
       "text": "Re Detroit Teletype to Bureau, 11/7/57, captioned \"UNIDENTIFIED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 15,
       "text": "FLYING OBJECTS; IS - X.\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
-      "text": "Interview of [REDACTED], aka.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 16,
+      "status": "blank"
     },
     {
-      "lineNumber": 13,
-      "text": "reported in blank memo, five copies of which are [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 17,
+      "text": "Interview of [REDACTED], aka. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 14,
-      "text": "herewith. for the Bureau, was conducted by SA [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 18,
+      "text": "reported in blank memo, five copies of which are",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 19,
+      "text": "herewith for the Bureau, was conducted by SA [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 20,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 21,
       "text": "No indication of irrational or otherwise abnormal behavior",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 22,
       "text": "by [REDACTED] was observed during the interview.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 23,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 24,
       "text": "[REDACTED] advised that his communication was directed to Mr.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 18,
-      "text": "CUTLER rather than to President EISENHOWER after",
-      "status": "image_matched"
+      "lineNumber": 25,
+      "text": "ROBERT CUTLER rather than to President EISENHOWER after",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 26,
       "text": "seeing Mr. CUTLER's picture and identification with the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 27,
       "text": "President's Office in a local paper.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "text": "[REDACTED] resides with his wife, nee [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 28,
+      "status": "blank"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 29,
+      "text": "[REDACTED] resides with his wife, nee [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 30,
       "text": "married in 1952 at Detroit, and four small children, in a",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
-      "text": "[unclear] residence in an old Polish neighborhood at [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 31,
+      "text": "single residence in an old Polish neighborhood at [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 24,
-      "text": "[unclear] Detroit. No previous record located in Detroit",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 32,
+      "text": "[REDACTED] Detroit. No previous record located in Detroit",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 25,
-      "text": "indices identifiable with [REDACTED] or his wife.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 33,
+      "text": "Indices identifiable with [REDACTED] or his wife.",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
       "text": "On 11/7/57, [REDACTED] advised IC [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 27,
-      "text": "that records of the [REDACTED], reflect",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 36,
+      "text": "that records of the [REDACTED] reflect",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 37,
       "text": "only [REDACTED] inquiries concerning [REDACTED] during 6/56",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 38,
       "text": "and 3/57 and 6/57, which confirm his local address and employment.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
-      "text": "3 - Bureau (Encls.5)(RLC)",
-      "status": "image_matched"
+      "lineNumber": 39,
+      "status": "blank"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 40,
+      "text": "3 - Bureau (Encls.5)(RM)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 41,
       "text": "1 - Detroit",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
-      "text": "En:JLK",
-      "status": "image_matched"
+      "lineNumber": 42,
+      "status": "blank"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 43,
+      "text": "CA:JLK",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 44,
       "text": "(4)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 45,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 46,
       "text": "ENCLOSURE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 47,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 48,
       "text": "AIRTEL",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
-      "text": "7 6NOV25 1957",
-      "status": "image_matched"
+      "lineNumber": 49,
+      "status": "blank"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 50,
+      "text": "7 6 NOV 25 1957",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 52,
       "text": "Approved:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 53,
       "text": "Special Agent in Charge",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 54,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 55,
       "text": "INDEXED-10",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 56,
       "text": "RECORDED-18",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 57,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 58,
       "text": "21 NOV 8 1957",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 59,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 60,
       "text": "Sent",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
-      "text": "Mr. Tols",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 44,
-      "text": "Mr. Boar",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
-      "text": "Mr. Belm",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 46,
-      "text": "Mr. Moh",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 47,
-      "text": "Mr. Neas",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 48,
-      "text": "Mr. Para",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 49,
-      "text": "Mr. Rose",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 50,
-      "text": "Mr. Tami",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 51,
-      "text": "Mr. Trott",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 52,
-      "text": "Mr. Chay",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 53,
-      "text": "Tele. Roo",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 54,
-      "text": "Mr. Hollo",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 55,
-      "text": "Miss Gan",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 61,
+      "text": "Per",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

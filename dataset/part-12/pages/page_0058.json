@@ -8,20 +8,17 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 22 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0058-l0004",
-    "page_0058-l0015"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 24,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "bombarded with a cyclotron. (10)",
-      "status": "image_matched"
+      "text": "bombarded with a cyclotron. (11)",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -36,8 +33,7 @@
     {
       "lineNumber": 4,
       "text": "these may be the first & units",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -61,13 +57,13 @@
     },
     {
       "lineNumber": 9,
-      "text": "of Gravity sends out (a repelling",
-      "status": "image_matched"
+      "text": "of Gravity sends out of a repelling",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "force as well as a pulling force).",
-      "status": "image_matched"
+      "text": "force as well as a pulling force.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
@@ -92,8 +88,7 @@
     {
       "lineNumber": 15,
       "text": "away the next; but can't get only",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 16,
@@ -102,8 +97,8 @@
     },
     {
       "lineNumber": 17,
-      "text": "Thus all & units are not only",
-      "status": "image_matched"
+      "text": "Thus all C. Orbits are not only",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
@@ -117,8 +112,8 @@
     },
     {
       "lineNumber": 20,
-      "text": "definite orbits.",
-      "status": "image_matched"
+      "text": "definite Orbits.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
@@ -137,8 +132,8 @@
     },
     {
       "lineNumber": 24,
-      "text": "here in the States & am",
-      "status": "image_matched"
+      "text": "here in the States I am",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

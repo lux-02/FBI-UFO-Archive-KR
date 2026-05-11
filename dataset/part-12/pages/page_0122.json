@@ -8,16 +8,12 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 20 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0122-l0002",
-    "page_0122-l0003",
-    "page_0122-l0005"
-  ],
-  "lineCount": 30,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 33,
   "lines": [
     {
       "lineNumber": 1,
@@ -26,40 +22,36 @@
     },
     {
       "lineNumber": 2,
-      "text": "RECORDED",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "RECORDED 37",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
+      "text": "INDEXED 37",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 6,
       "text": "Stamford, Connecticut",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "Dear [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "status": "blank"
     },
     {
-      "lineNumber": 7,
-      "text": "Your letter of October 8, 1956, with enclosure, has",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 8,
-      "text": "been received.",
-      "status": "image_matched"
+      "text": "Dear [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
@@ -67,74 +59,74 @@
     },
     {
       "lineNumber": 10,
-      "text": "I want to thank you for the interest which prompted",
-      "status": "image_matched"
+      "text": "Your letter of October 5, 1956, with enclosure, has",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "your writing and for your very kind words concerning my administra-",
+      "text": "been received.",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "tion of this Bureau.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
       "status": "blank"
     },
     {
+      "lineNumber": 13,
+      "text": "I want to thank you for the interest which prompted",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 14,
-      "text": "The information contained in your letter and the",
+      "text": "your writing and for your very kind words concerning my administra-",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "enclosure does not fall within the investigative jurisdiction of the",
+      "text": "tion of this Bureau.",
       "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "FBI, and I am taking the liberty of forwarding a copy of your letter,",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 17,
-      "text": "as well as a copy of the enclosure, to the Director, Office of Special",
+      "text": "The information contained in your letter and the",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "Investigations, The Inspector General, Department of the Air Force,",
+      "text": "enclosure does not fall within the investigative jurisdiction of the",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "The Pentagon, Washington 25, D. C.",
+      "text": "FBI, and I am taking the liberty of forwarding a copy of your letter,",
       "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "status": "blank"
+      "text": "as well as a copy of the enclosure, to the Director, Office of Special",
+      "status": "image_matched"
     },
     {
       "lineNumber": 21,
-      "text": "Sincerely yours,",
+      "text": "Investigations, The Inspector General, Department of the Air Force,",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 23,
-      "text": "John Edgar Hoover",
+      "text": "The Pentagon, Washington 25, D. C.",
       "status": "image_matched"
     },
     {
+      "lineNumber": 23,
+      "status": "blank"
+    },
+    {
       "lineNumber": 24,
-      "text": "Director",
+      "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
@@ -143,12 +135,12 @@
     },
     {
       "lineNumber": 26,
-      "text": "Copy of incoming and enclosure sent by form to The Inspector General,",
+      "text": "John Edgar Hoover",
       "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "Department of the Air Force.",
+      "text": "Director",
       "status": "image_matched"
     },
     {
@@ -157,11 +149,25 @@
     },
     {
       "lineNumber": 29,
-      "text": "FJH:jfm",
+      "text": "Copy of incoming and enclosure sent by form to The Inspector General,",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
+      "text": "Department of the Air Force.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 32,
+      "text": "FJH:jfm",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
       "text": "(3)",
       "status": "image_matched"
     }

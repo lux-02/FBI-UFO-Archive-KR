@@ -8,14 +8,12 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 120 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0033-l0040"
-  ],
-  "lineCount": 121,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 128,
   "lines": [
     {
       "lineNumber": 1,
@@ -24,13 +22,12 @@
     },
     {
       "lineNumber": 2,
-      "text": "SOMETHING IN THE SKY",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "IN midsummer of 1947, the United",
-      "status": "image_matched"
+      "text": "IN midsummer of 1947, the U. S.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
@@ -49,8 +46,8 @@
     },
     {
       "lineNumber": 7,
-      "text": "aircraft, the rigging up of radar networks,",
-      "status": "image_matched"
+      "text": "craft, the rigging up of radar networks,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
@@ -64,23 +61,23 @@
     },
     {
       "lineNumber": 10,
-      "text": "another, and completely different, head-",
-      "status": "image_matched"
+      "text": "another and completely different head-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 11,
-      "text": "ache—the flying saucer. In every",
-      "status": "image_matched"
+      "text": "ache—the flying saucer. People in every",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "section of the country, people were",
-      "status": "image_matched"
+      "text": "section of the country were seeing",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 13,
-      "text": "seeing strange objects that streaked across the",
-      "status": "image_matched"
+      "text": "strange objects that streaked across the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 14,
@@ -174,8 +171,8 @@
     },
     {
       "lineNumber": 32,
-      "text": "seen in the skies, cautious, quizzical",
-      "status": "image_matched"
+      "text": "seen in the skies, cautiously quizzical",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 33,
@@ -214,9 +211,8 @@
     },
     {
       "lineNumber": 40,
-      "text": "as their pilots had [unclear] suffi-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "as their pilots had reconnoitred suffi-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 41,
@@ -350,276 +346,306 @@
     },
     {
       "lineNumber": 67,
-      "text": "investigation there was certainly no",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 68,
-      "text": "harm in assuming for the moment that",
+      "text": "SOMETHING IN THE SKY",
       "status": "image_matched"
     },
     {
       "lineNumber": 69,
-      "text": "the era of interplanetary travel had",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 70,
-      "text": "arrived and the earth had become",
+      "text": "investigation there was certainly no",
       "status": "image_matched"
     },
     {
       "lineNumber": 71,
-      "text": "an objective for journeys from elsewhere",
+      "text": "harm in assuming for the moment that",
       "status": "image_matched"
     },
     {
       "lineNumber": 72,
-      "text": "where in the solar system. Or—and this",
+      "text": "the era of interplanetary travel had",
       "status": "image_matched"
     },
     {
       "lineNumber": 73,
-      "text": "would not necessarily exclude the first",
+      "text": "arrived and the earth had become",
       "status": "image_matched"
     },
     {
       "lineNumber": 74,
-      "text": "two considerations—the Air Force may",
-      "status": "image_matched"
+      "text": "an objective for journeys from else-",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 75,
-      "text": "have been setting up a smoke screen to",
+      "text": "where in the solar system. Or—and this",
       "status": "image_matched"
     },
     {
       "lineNumber": 76,
-      "text": "protect, in the interest of national secu-",
+      "text": "would not necessarily exclude the first",
       "status": "image_matched"
     },
     {
       "lineNumber": 77,
-      "text": "rity, the secret of some experimental fly-",
+      "text": "two considerations—the Air Force may",
       "status": "image_matched"
     },
     {
       "lineNumber": 78,
-      "text": "ing objects of its own that only a trusted",
+      "text": "have been setting up a smoke screen to",
       "status": "image_matched"
     },
     {
       "lineNumber": 79,
-      "text": "few of its members knew about. What-",
+      "text": "protect, in the interest of national secu-",
       "status": "image_matched"
     },
     {
       "lineNumber": 80,
-      "text": "ever its purpose, the investigation, with",
+      "text": "rity, the secret of some experimental fly-",
       "status": "image_matched"
     },
     {
       "lineNumber": 81,
-      "text": "which I have been in touch from time",
+      "text": "ing objects of its own that only a trusted",
       "status": "image_matched"
     },
     {
       "lineNumber": 82,
-      "text": "to time, has seemingly been exhaustive.",
+      "text": "few of its members knew about. What-",
       "status": "image_matched"
     },
     {
       "lineNumber": 83,
-      "text": "The Air Force personnel originally",
+      "text": "ever its purpose, the investigation, with",
       "status": "image_matched"
     },
     {
       "lineNumber": 84,
-      "text": "assigned to it was later augmented by",
+      "text": "which I have been in touch from time",
       "status": "image_matched"
     },
     {
       "lineNumber": 85,
-      "text": "astronomers, psychologists, physicists,",
+      "text": "to time, has seemingly been exhaustive.",
       "status": "image_matched"
     },
     {
       "lineNumber": 86,
-      "text": "meteorologists, physicians, and repre-",
+      "text": "The Air Force personnel originally",
       "status": "image_matched"
     },
     {
       "lineNumber": 87,
-      "text": "sentatives of the F.B.I. The investiga-",
+      "text": "assigned to it was later augmented by",
       "status": "image_matched"
     },
     {
       "lineNumber": 88,
-      "text": "tion, which soon became popularly",
+      "text": "astronomers, psychologists, physicists,",
       "status": "image_matched"
     },
     {
       "lineNumber": 89,
-      "text": "known as Project Saucer, was first",
+      "text": "meteorologists, physicians, and repre-",
       "status": "image_matched"
     },
     {
       "lineNumber": 90,
-      "text": "headed by Lieutenant General Benja-",
+      "text": "sentatives of the F.B.I. The investiga-",
       "status": "image_matched"
     },
     {
       "lineNumber": 91,
-      "text": "min W. Chidlaw, Commanding Gen-",
+      "text": "tion, which soon became popularly",
       "status": "image_matched"
     },
     {
       "lineNumber": 92,
-      "text": "eral of the Air Matériel Command,",
+      "text": "known as Project Saucer, was first",
       "status": "image_matched"
     },
     {
       "lineNumber": 93,
-      "text": "and its base was, and is, at Wright Field,",
+      "text": "headed by Lieutenant General Benja-",
       "status": "image_matched"
     },
     {
       "lineNumber": 94,
-      "text": "Dayton, Ohio. The project's task turned",
+      "text": "min W. Chidlaw, Commanding Gen-",
       "status": "image_matched"
     },
     {
       "lineNumber": 95,
-      "text": "out to involve a mixture of old-fashioned",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 96,
-      "text": "detection, scientific analysis, public rela-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 97,
-      "text": "tions, and the study of a widespread",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 98,
-      "text": "state of mind. In December, 1949,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 99,
-      "text": "after checking, over a period of two",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 100,
-      "text": "years, three hundred and seventy-five",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 101,
-      "text": "reports of intruders in the sky, the Air",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 102,
-      "text": "Force publicly called it quits, but Project",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 103,
-      "text": "Saucer was not actually disbanded. Na-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 104,
-      "text": "tional security, the Air Force announced",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 105,
-      "text": "if flying saucers were apparitions, it was",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 106,
-      "text": "all attributable either to a failure to",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 107,
-      "text": "recognize conventional objects, to",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 108,
-      "text": "hoaxes, or to a mild form of mass hys-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 109,
-      "text": "teria. The Air Force, however, did not",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 110,
-      "text": "let the matter rest there.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 111,
-      "text": "Not long after the apparent demise",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 112,
-      "text": "of Project Saucer, I had a talk in Wash-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 113,
-      "text": "ington with Brigadier General Ernest",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 114,
-      "text": "Moore, then chief of Air Force In-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 115,
-      "text": "telligence, in the course of which he",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 116,
-      "text": "made four categorical statements that",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 117,
-      "text": "I felt sure he had made many times be-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 118,
       "text": "Clipped from The NEW YORKER",
       "status": "image_matched"
     },
     {
-      "lineNumber": 119,
+      "lineNumber": 97,
       "text": "September 6, 1952",
       "status": "image_matched"
     },
     {
-      "lineNumber": 120,
+      "lineNumber": 98,
       "text": "pages 64 through 82",
       "status": "image_matched"
     },
     {
+      "lineNumber": 99,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 100,
+      "text": "of the Air Matériel Command,",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 101,
+      "text": "and its base was, and is, at Wright Field,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 102,
+      "text": "Dayton, Ohio. The project's task turned",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 103,
+      "text": "out to involve a mixture of old-fashioned",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 104,
+      "text": "detection, scientific analysis, public rela-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 105,
+      "text": "tions, and the study of a widespread",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 106,
+      "text": "state of mind. In December, 1949,",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 107,
+      "text": "after checking, over a period of two",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 108,
+      "text": "years, three hundred and seventy-five",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 109,
+      "text": "reports of intruders in the sky, the Air",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 110,
+      "text": "Force publicly called it quits, but Project",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 111,
+      "text": "Saucer was not actually disbanded. Na-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 112,
+      "text": "tional security, the Air Force announced",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 113,
+      "text": "at the time, was not endangered. The",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 114,
+      "text": "flying saucers were apparitions, it said,",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 115,
+      "text": "all attributable either to a failure to",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 116,
+      "text": "recognize conventional objects, to",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 117,
+      "text": "hoaxes, or to a mild form of mass hys-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 118,
+      "text": "teria. The Air Force, however, did not",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 119,
+      "text": "let the matter rest there.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 120,
+      "text": "Not long after the apparent demise",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 121,
+      "text": "of Project Saucer, I had a talk in Wash-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 122,
+      "text": "ington with Brigadier General Ernest",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 123,
+      "text": "Moore, then chief of Air Force In-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 124,
+      "text": "telligence, in the course of which he",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 125,
+      "text": "made four categorical statements that",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 126,
+      "text": "I felt sure he had made many times be-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 127,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 128,
       "text": "page 62",
       "status": "image_matched"
     }

@@ -8,16 +8,12 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 27 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0047-l0006",
-    "page_0047-l0009",
-    "page_0047-l0033"
-  ],
-  "lineCount": 39,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 42,
   "lines": [
     {
       "lineNumber": 1,
@@ -35,8 +31,8 @@
     },
     {
       "lineNumber": 4,
-      "text": "INDEXED - 175",
-      "status": "image_matched"
+      "text": "INDEXED - 126",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -45,8 +41,7 @@
     {
       "lineNumber": 6,
       "text": "Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
@@ -60,8 +55,7 @@
     {
       "lineNumber": 9,
       "text": "Dear [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
@@ -151,60 +145,72 @@
     },
     {
       "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
       "text": "Copy by form sent to Civil Aeronautics Administration",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 30,
       "text": "Copy by form sent to Secretary of Defense",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 31,
       "text": "DIC:tms",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 32,
       "status": "blank"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 33,
       "text": "SEP 11 7 01 PM '52",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
-      "text": "RECEIVED REAL [unclear] ROOM",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 34,
-      "text": "U.S. F.B.I.",
-      "status": "image_matched"
+      "text": "RECEIVED REAL [unclear] ROOM",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 35,
-      "status": "blank"
+      "text": "F B I",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 36,
+      "text": "U S [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 37,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 38,
       "text": "55 SEP 25 1952",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 39,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 40,
       "text": "COMM-FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 41,
       "text": "SEP 19 1952",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 42,
       "text": "MAILED 19",
       "status": "image_matched"
     }

@@ -8,22 +8,17 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "unknown_or_low_text_scan",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 16 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0120-l0001",
-    "page_0120-l0004",
-    "page_0120-l0019"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 19,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "clean and [unclear] to be [unclear] no",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "clean [unclear] to be [unclear] so",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
@@ -37,9 +32,8 @@
     },
     {
       "lineNumber": 4,
-      "text": "are Character Influenced like you",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "are Character Influences like you",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -48,8 +42,8 @@
     },
     {
       "lineNumber": 6,
-      "text": "ground of Our Forefathers.",
-      "status": "image_matched"
+      "text": "ground of our Forefathers.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
@@ -114,8 +108,7 @@
     {
       "lineNumber": 19,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

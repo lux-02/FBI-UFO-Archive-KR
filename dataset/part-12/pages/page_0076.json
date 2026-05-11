@@ -8,16 +8,12 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 22 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0076-l0002",
-    "page_0076-l0003",
-    "page_0076-l0012"
-  ],
-  "lineCount": 32,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 36,
   "lines": [
     {
       "lineNumber": 1,
@@ -26,39 +22,36 @@
     },
     {
       "lineNumber": 2,
-      "text": "SAC, San Diego (100-8565)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "8-18-52",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
-      "text": "BORDERLAND SCIENCES, RESEARCH ASSOCIATES",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 4,
+      "text": "SAC, San Diego (100-3565)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
+      "text": "BORDERLAND SCIENCES, RESEARCH ASSOCIATES",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
       "text": "San Diego, California;",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "8-10-52",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 6,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 7,
-      "text": "Reference is made to San Diego letter dated 8-5-52 concerning the",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 8,
-      "text": "captioned matter.",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
@@ -66,80 +59,79 @@
     },
     {
       "lineNumber": 10,
-      "text": "For the additional information of the Bureau, there is being trans-",
+      "text": "Reference is made to San Diego letter dated 8-5-52 concerning the",
       "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": "mitted herewith one copy each of the following which were made",
+      "text": "captioned matter.",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "available to me by [REDACTED] who is a member of the captioned",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 13,
-      "text": "organization:",
+      "text": "For the additional information of the Bureau, there is being trans-",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 15,
-      "text": "1. Mimeographed letter consisting of four",
+      "text": "mitted herewith one copy each of the following which were made",
       "status": "image_matched"
     },
     {
+      "lineNumber": 15,
+      "text": "available to me by [REDACTED] who is a member of the captioned",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 16,
-      "text": "pages addressed to His Excellency, The",
+      "text": "organization:",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "President of the United States.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
       "status": "blank"
     },
     {
+      "lineNumber": 18,
+      "text": "1. Mimeographed letter consisting of four",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 19,
-      "text": "2. Mimeographed announcement consisting of",
+      "text": "pages addressed to His Excellency, The",
       "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "three pages entitled \"For Information of",
+      "text": "President of the United States.",
       "status": "image_matched"
     },
     {
       "lineNumber": 21,
-      "text": "the Public -- and the Sake of the Record --",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 22,
-      "text": "A Synopsis of Important Data\".",
+      "text": "2. Mimeographed announcement consisting of",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 24,
-      "text": "Enclosure (2)",
+      "text": "three pages entitled \"For Information of",
       "status": "image_matched"
     },
     {
+      "lineNumber": 24,
+      "text": "the Public - and the Sake of the Record -",
+      "status": "pending_image_audit"
+    },
+    {
       "lineNumber": 25,
-      "text": "JES:joc",
+      "text": "A Synopsis of Important Data\".",
       "status": "image_matched"
     },
     {
@@ -148,31 +140,49 @@
     },
     {
       "lineNumber": 27,
-      "text": "1 ENCL",
+      "text": "Enclosure (2)",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "status": "blank"
+      "text": "JES:jcc",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
-      "text": "15 SEP 10 1952",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 30,
+      "text": "1 ENCL.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 31,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 32,
       "text": "162-83944",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 33,
       "text": "NOT RECORDED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 34,
       "text": "147 SEP 8 1952",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
+      "text": "15 SEP 10 1952",
       "status": "image_matched"
     }
   ],

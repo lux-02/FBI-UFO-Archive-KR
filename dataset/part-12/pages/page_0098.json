@@ -8,16 +8,11 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 42 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0098-l0013",
-    "page_0098-l0015",
-    "page_0098-l0019",
-    "page_0098-l0041"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 58,
   "lines": [
     {
@@ -40,197 +35,198 @@
     },
     {
       "lineNumber": 5,
-      "text": "XXX Radio",
+      "text": "Tolson",
       "status": "image_matched"
     },
     {
       "lineNumber": 6,
-      "status": "blank"
+      "text": "Nichols",
+      "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "DEFERRED 11-8-57",
+      "text": "Boardman",
       "status": "image_matched"
     },
     {
       "lineNumber": 8,
-      "status": "blank"
+      "text": "Belmont",
+      "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "TO DIRECTOR FLYING DISCS",
+      "text": "Mohr",
       "status": "image_matched"
     },
     {
       "lineNumber": 10,
-      "status": "blank"
+      "text": "Parsons",
+      "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": "FROM SAC, HOUSTON 081700",
+      "text": "Rosen",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "status": "blank"
+      "text": "Tamm",
+      "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "UNIDENTIFIED OBJECT WHICH FELL NEAR HOME MRS. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Trotter",
+      "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "HOUSTON, TEXAS, OCTOBER 24 LAST. INFORMATION CONCERNING.",
+      "text": "Nease",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "MRS. [REDACTED] HOUSTON, ADVISED THAT ON",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Tele. Room",
+      "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "OCTOBER 24 LAST OBJECT BETWEEN SIZE OF GOLF BALL AND FIST",
+      "text": "Holloman",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "FELL INTO HER YARD. OBJECT ALLEGEDLY OF METALLIC ASH OF",
+      "text": "Gandy",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "SOME KIND, WAS BRIGHT AND HOT WHEN IT FELL. OBJECT FOUND",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 19,
-      "text": "BY [REDACTED] WHO REPORTED IT TO SCIENCE TEACHER,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "XXX Radio",
+      "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "WHO SUGGESTED AUTHORITIES BE CONTACTED. INFORMATION FURNISHED",
-      "status": "image_matched"
+      "text": "☐ Teletype",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
-      "text": "OSI, ELLINGTON AFB, WHO HAS CONDUCTED INVESTIGATION. PRESS",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 22,
-      "text": "INQUIRY RECEIVED TODAY. ANSWERED BY STATING REPORT OF FALLING",
+      "text": "DEFERRED 11-8-57",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "OBJECT HAD BEEN RECEIVED AND INFORMATION CONCERNING HAD BEEN",
-      "status": "image_matched"
+      "text": "TO DIRECTOR",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
-      "text": "RELAYED TO MILITARY AUTHORITIES, ELLINGTON AFB. OBJECT",
-      "status": "image_matched"
+      "text": "FLYING DISCS",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 25,
-      "text": "ACCORDING TO OSI IS PART OF AN ORDINARY FLARE AND OF NO",
+      "text": "FROM SAC, HOUSTON 081700",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "SIGNIFICANCE. FOR BUREAUS INFORMATION.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 27,
-      "status": "blank"
+      "text": "UNIDENTIFIED OBJECT WHICH FELL NEAR HOME MRS. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 28,
-      "text": "RECEIVED: 4:44 PM RADIO",
-      "status": "image_matched"
+      "text": "HOUSTON, TEXAS, OCTOBER 24 LAST. INFORMATION CONCERNING,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
-      "status": "blank"
+      "text": "MRS. [REDACTED] HOUSTON, ADVISED THAT ON",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 30,
-      "text": "5:11 PM CODING UNIT HJT",
+      "text": "OCTOBER 24 LAST OBJECT BETWEEN SIZE OF GOLF BALL AND FIST",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "status": "blank"
+      "text": "FELL INTO HER YARD. OBJECT ALLEGEDLY OF METALLIC ASH OF",
+      "status": "image_matched"
     },
     {
       "lineNumber": 32,
-      "text": "Mr. Belmont",
+      "text": "SOME KIND, WAS BRIGHT AND HOT WHEN IT FELL. OBJECT FOUND",
       "status": "image_matched"
     },
     {
       "lineNumber": 33,
-      "status": "blank"
+      "text": "BY [REDACTED] WHO REPORTED IT TO SCIENCE TEACHER,",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 34,
-      "text": "RECORDED - 50 62-83894-380",
+      "text": "WHO SUGGESTED AUTHORITIES BE CONTACTED. INFORMATION FURNISHED",
       "status": "image_matched"
     },
     {
       "lineNumber": 35,
-      "status": "blank"
+      "text": "OSI, ELLINGTON AFB, WHO HAS CONDUCTED INVESTIGATION. PRESS",
+      "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "text": "INDEXED-50",
+      "text": "INQUIRY RECEIVED TODAY. ANSWERED BY STATING REPORT OF FALLING",
       "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "text": "NOV 12 1957",
+      "text": "OBJECT HAD BEEN RECEIVED AND INFORMATION CONCERNING HAD BEEN",
       "status": "image_matched"
     },
     {
       "lineNumber": 38,
-      "text": "VQA P D 03H 21",
+      "text": "RELAYED TO MILITARY AUTHORITIES, ELLINGTON AFB. OBJECT",
       "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "text": "OII-X3",
+      "text": "ACCORDING TO OSI IS PART OF AN ORDINARY FLARE AND OF NO",
       "status": "image_matched"
     },
     {
       "lineNumber": 40,
-      "text": "ESP/SEC",
+      "text": "SIGNIFICANCE. FOR BUREAUS INFORMATION.",
       "status": "image_matched"
     },
     {
       "lineNumber": 41,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 42,
-      "text": "17 NOV 20 1957",
-      "status": "image_matched"
+      "text": "RECEIVED:",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
-      "text": "If the intelligence contained in the above message is to be disseminated outside the Bureau, it is suggested that it be suitably",
-      "status": "image_matched"
+      "text": "4:44 PM RADIO",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 44,
-      "text": "paraphrased in order to protect the Bureau's cryptographic systems.",
+      "text": "5:11 PM CODING UNIT HJT",
       "status": "image_matched"
     },
     {
@@ -239,67 +235,65 @@
     },
     {
       "lineNumber": 46,
-      "text": "Tolson",
+      "text": "Mr. Belmont",
       "status": "image_matched"
     },
     {
       "lineNumber": 47,
-      "text": "Nichols",
-      "status": "image_matched"
+      "text": "RECORDED - 50",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 48,
-      "text": "Boardman",
-      "status": "image_matched"
+      "text": "62-83894-380",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 49,
-      "text": "Belmont",
+      "text": "INDEXED-50",
       "status": "image_matched"
     },
     {
       "lineNumber": 50,
-      "text": "Mohr",
+      "text": "NOV 12 1957",
       "status": "image_matched"
     },
     {
       "lineNumber": 51,
-      "text": "Parsons",
-      "status": "image_matched"
+      "text": "EX-110",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 52,
-      "text": "Rosen",
-      "status": "image_matched"
+      "text": "VOA P D [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 53,
-      "text": "Tamm",
-      "status": "image_matched"
+      "text": "ESP/SEC [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 54,
-      "text": "Trotter",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 55,
-      "text": "Nease",
-      "status": "image_matched"
+      "text": "NOV 20 1957",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 56,
-      "text": "Tele. Room",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 57,
-      "text": "Holloman",
+      "text": "If the intelligence contained in the above message is to be disseminated outside the Bureau, it is suggested that it be suitably",
       "status": "image_matched"
     },
     {
       "lineNumber": 58,
-      "text": "Gandy",
+      "text": "paraphrased in order to protect the Bureau's cryptographic systems.",
       "status": "image_matched"
     }
   ],

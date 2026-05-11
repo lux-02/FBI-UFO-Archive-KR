@@ -8,76 +8,91 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 7 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0110-l0004",
-    "page_0110-l0008",
-    "page_0110-l0011"
-  ],
-  "lineCount": 12,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 17,
   "lines": [
     {
       "lineNumber": 1,
+      "text": "O O . C O.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
       "text": "Nichols to Tolson memo",
       "status": "image_matched"
     },
     {
-      "lineNumber": 2,
+      "lineNumber": 4,
       "text": "March 15, 1957",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 5,
       "status": "blank"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 6,
       "text": "authorities, in this instance, because of [REDACTED] demonstrated friendliness",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 7,
       "text": "to the Bureau and the Director, his sane and reasonable approach to matters",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 8,
       "text": "and his apparent concern for the welfare of our country, I instructed Wick",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 9,
       "text": "to have the Newark Office have an Agent when in the vicinity of Great Meadow",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
-      "text": "simply drop by Mr. [REDACTED] home to see what he has in mind.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 9,
-      "status": "blank"
-    },
-    {
       "lineNumber": 10,
-      "text": "ASAC Commons of the Newark Office told Wick he would have",
-      "status": "image_matched"
+      "text": "simply drop by Mr. [REDACTED] home to see what he has in mind.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
-      "text": "an Agent drop by to see [REDACTED] and would send a letter to the Bureau covering",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 12,
+      "text": "an Agent drop by to see [REDACTED] and would send a letter to the Bureau covering",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 13,
       "text": "results.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 15,
+      "text": "V",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 16,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 17,
+      "text": "ASAC Commons of the Newark Office told Wick he would have",
       "status": "image_matched"
     }
   ],

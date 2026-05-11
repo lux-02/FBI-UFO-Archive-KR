@@ -8,25 +8,12 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "12 permanent_unresolved line(s) excluded under SRC-896. 31 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0139-l0005",
-    "page_0139-l0010",
-    "page_0139-l0015",
-    "page_0139-l0027",
-    "page_0139-l0029",
-    "page_0139-l0030",
-    "page_0139-l0032",
-    "page_0139-l0034",
-    "page_0139-l0035",
-    "page_0139-l0038",
-    "page_0139-l0041",
-    "page_0139-l0044"
-  ],
-  "lineCount": 44,
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 36,
   "lines": [
     {
       "lineNumber": 1,
@@ -35,229 +22,164 @@
     },
     {
       "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
       "text": "Office Memorandum • UNITED STATES GOVERNMENT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
-      "text": "TO Mr. A. H. Belmont",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 4,
-      "text": "DATE May 4, 1956",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
-      "text": "FROM [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "TO : Mr. A. H. Belmont",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "SUBJECT: FLYING DISC OBSERVED",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 7,
+      "text": "DATE: May 4, 1956",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
+      "text": "FROM : [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 10,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 11,
+      "text": "SUBJECT:FLYING DISC OBSERVED",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 12,
       "text": "OXFORD, PENNSYLVANIA",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 13,
       "text": "MAY 4, 1956",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 14,
       "status": "blank"
     },
     {
-      "lineNumber": 10,
-      "text": "Mr. [REDACTED], telephone [REDACTED], Oxford,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 11,
-      "text": "Pennsylvania, called 11:35 p.m., May 4,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "1956, and advised that he had just observed a bright light",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "traveling about 2000 feet in the air toward Baltimore. He",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 14,
-      "text": "last saw it at the place he was calling the Bureau from",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 15,
-      "text": "which was [REDACTED] Oxford, Pennsylvania. He",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. [REDACTED], telephone [REDACTED] called 11:35 p.m., May 4, 1956, and advised that he had just observed a bright light traveling at about 2000 feet in the air toward Baltimore. He last saw it at the place he was calling the Bureau from which was [REDACTED] Oxford, Pennsylvania. He described the object as a solid, bright, yellow light, visible from all directions which he described at one point as being more than twice as bright and twice as big as the headlight of an automobile and another time as twice as bright as the evening star and it was impossible to persuade him to describe it more specifically. He said the object made no noise and that at first it was traveling overhead about as fast as his automobile but then it speeded up and he could not keep up with it although he was traveling at 80 miles per hour. He said that two of his buddies in the barroom where he had first observed the object had also observed it--[REDACTED] and [REDACTED]. He said he had tried to call Civil Defense headquarters in Baltimore but no one was on duty. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 16,
-      "text": "described the object as a solid, bright, yellow light,",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 17,
-      "text": "visible from all directions which he described at one",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "point as being more than twice as bright and twice as big",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "text": "as the headlight of an automobile and another time as",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 20,
-      "text": "twice as bright as the evening star and it was impossible",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "text": "to persuade him to describe it more specifically. He said",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "the object made no noise and that at first it was traveling",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "text": "overhead about as fast as his automobile but then it speeded",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "text": "up and he could not keep up with it although he was",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "text": "traveling at 80 miles per hour. He said that two of his",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "text": "buddies in the barroom where he had first observed the",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "text": "object had also observed it--[REDACTED] and [REDACTED].",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 28,
-      "text": "He said he had tried to call Civil Defense headquarters",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 29,
-      "text": "in Baltimore but no one was on duty. [REDACTED] reflect in information",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 30,
-      "text": "[unclear] identifiable with [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 31,
       "text": "ACTION:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 18,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 19,
       "text": "Captain [REDACTED], OSI, was advised.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 33,
-      "text": "62-83894-366.",
-      "status": "image_matched"
+      "lineNumber": 20,
+      "status": "blank"
     },
     {
-      "lineNumber": 34,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 21,
+      "text": "62-83894-66.",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 35,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 22,
+      "status": "blank"
     },
     {
-      "lineNumber": 36,
-      "text": "- Mr. Belmont",
-      "status": "image_matched"
+      "lineNumber": 23,
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 37,
-      "text": "- Mr. Branigan",
-      "status": "image_matched"
+      "lineNumber": 24,
+      "text": "10 MAY 8 1956",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 38,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 25,
+      "status": "blank"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 26,
+      "text": "[unclear] - Mr. Belmont",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 27,
+      "text": "Mr. Branigan",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 28,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 29,
       "text": "INDEXED - 13",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
-      "text": "MAY 8 1956",
-      "status": "image_matched"
+      "lineNumber": 30,
+      "status": "blank"
     },
     {
-      "lineNumber": 41,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 31,
+      "text": "LHM:jdd",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 32,
+      "text": "(3)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 33,
+      "text": "JUN 2 6 1956",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 34,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
       "text": "EX. - 120",
       "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "JUN 6 1956",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
     }
   ],
   "blockCount": null

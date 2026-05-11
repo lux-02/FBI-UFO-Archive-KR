@@ -8,17 +8,12 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 26 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0093-l0013",
-    "page_0093-l0016",
-    "page_0093-l0017",
-    "page_0093-l0028"
-  ],
-  "lineCount": 33,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 73,
   "lines": [
     {
       "lineNumber": 1,
@@ -37,152 +32,339 @@
     },
     {
       "lineNumber": 4,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 5,
       "text": "NOV 7 1957",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 5,
       "status": "blank"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 6,
       "text": "TELETYPE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 7,
       "status": "blank"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 8,
       "text": "URGENT 11-7-57 4-55 PM EST WHH",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 9,
       "text": "TO DIRECTOR FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 10,
       "text": "FROM SAC, DETROIT 1P",
       "status": "image_matched"
     },
     {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
       "lineNumber": 12,
+      "text": "FLYING DISCS",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
       "text": "UNIDENTIFIED FLYING OBJECTS, IS - X. REBUTEL NOV SIX LAST.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
-      "text": "[REDACTED] DOB FEB [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 15,
+      "text": "[REDACTED], DOB FEB [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 16,
       "text": "NINETEEN, NINETEEN TWENTYSIX, WARSAW, POLAND, WAS GERMAN POW",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
-      "text": "MAY, NINETEEN FORTY TWO, UNTIL SUMMER OF NINETEEN FORTYFIVE.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "text": "ARRIVED NY MAY TWO, NINETEEN FIFTYONE, AS DP, AR NO. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 17,
-      "text": "[REDACTED] UPON INTERVIEW",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "MAY, NINETEEN FORTY TWO, UNTIL SUMMER OF NINETEEN FOURTYFIVE.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 18,
+      "text": "ARRIVED NY MAY TWO, NINETEEN FIFTYONE, AS DP, AR NO. [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 19,
+      "text": "UPON INTERVIEW",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 20,
       "text": "ADVISED THAT WHILE GERMAN POW DURING NINETEEN FORTYFOUR OBSERVED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 21,
       "text": "A VEHICLE DESCRIBED AS CIRCULAR IN SHAPE, SEVENTY FIVE TO ONE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "text": "HUNDRED YARDS IN DIAMETER, APPROXIMATELY FOURTEEN FEET HIGH. THE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 23,
       "text": "VEHICLE WAS OBSERVED TO SLOWLY RISE VERTICALLY TO HEIGHT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 24,
       "text": "SUFFICIENT TO CLEAR FIFTY FOOT WALL AND TO MOVE SLOWLY",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 25,
       "text": "HORIZONTALLY A SHORT DISTANCE OUT OF VIEW OBSTRUCTED BY TREES.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 26,
       "text": "ENGINE OF TRACTOR FAILED TO OPERATE DURING THIS PERIOD AND",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 27,
       "text": "ONE OTHER OCCASION WHEN HIGH PITCHED WHINNING NOISE HEARD",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 28,
       "text": "IN AREA. NO INDICATION OF MENTAL INSTABILITY DURING",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 29,
       "text": "INTERVIEW. FURTHER DETAILS FOLLOW AMSD.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
-      "text": "E CORRECT LINE FOUR WORD VI FOUR CHILD BE TWO",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 30,
+      "text": "E - CORRECT LINE FOUR WORD VI FOUR SHLD BE \"TWO\"",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 31,
       "text": "END AND A K PLS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 32,
       "text": "X 4-58 PM OK FBI WA EW",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 33,
       "text": "TU DIC",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
+      "text": "Mr. Tolson",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 36,
+      "text": "Mr. Boardman",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
+      "text": "Mr. Belmont",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 38,
+      "text": "Mr. Mohr",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 39,
+      "text": "Mr. Nease",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 40,
+      "text": "Mr. Parsons",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 41,
+      "text": "Mr. Rosen",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "text": "Mr. Tamm",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 43,
+      "text": "Mr. Trotter",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 44,
+      "text": "Mr. Clayton",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 45,
+      "text": "Tels. Room",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 46,
+      "text": "Mr. Holloman",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 47,
+      "text": "Miss Gandy",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 48,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 49,
+      "text": "ALL INFORMATION CONTAINED",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 50,
+      "text": "HEREIN IS UNCLASSIFIED",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
+      "text": "DATE [unclear] BY [unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 52,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 53,
+      "text": "Let to Coyne, NISC (enl. returning by)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 54,
+      "text": "cc-State, Army, Navy, AF, INS",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 55,
+      "text": "11-8-57",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 56,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 57,
+      "text": "J.C. Coyne",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 58,
+      "text": "telephonically",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 59,
+      "text": "cleared",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 60,
+      "text": "11/8/57",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 61,
+      "text": "WOB",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 62,
+      "text": "evb",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 63,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 64,
+      "text": "RECORDED-84",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 65,
+      "text": "INDEXED-84",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 66,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 67,
+      "text": "62-83894-343",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 68,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 69,
+      "text": "[unclear], Adm, CIA",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 70,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 71,
       "text": "Mr. Belmont NOV 13 1957",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 72,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 73,
       "text": "EX 105",
       "status": "image_matched"
     }

@@ -8,157 +8,173 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 20 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0101-l0001",
-    "page_0101-l0007",
-    "page_0101-l0010",
-    "page_0101-l0013"
-  ],
-  "lineCount": 28,
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 34,
   "lines": [
     {
       "lineNumber": 1,
       "text": "Office Memorandum • UNITED STATES GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
-      "text": "TO : DIRECTOR, FBI (62-83894) DATE: 4/24/57",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
+      "text": "TO : DIRECTOR, FBI (62-83894)",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 4,
+      "text": "DATE: 4/24/57",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "FROM : SAC, RICHMOND (62-0)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "BARSS",
-      "status": "image_matched"
+      "lineNumber": 7,
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
-      "lineNumber": 5,
-      "text": "SUBJECT: CIVILIAN RESEARCH",
-      "status": "image_matched"
+      "lineNumber": 8,
+      "status": "blank"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 9,
+      "text": "SUBJECT: CIVILIAN RESEARCH [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 10,
       "text": "INTERPLANETARY FLYING OBJECTS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 11,
       "text": "[REDACTED] Ave., Cincinnati 27, Ohio",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 12,
       "text": "MISCELLANEOUS - INFORMATION CONCERNING",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 13,
       "status": "blank"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 14,
       "text": "Relet from Norfolk: to Bureau dated 4/18/57.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 15,
       "status": "blank"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 16,
       "text": "For information of Bureau, only record in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 17,
       "text": "Richmond indices on [REDACTED] is",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 18,
       "text": "that contained in Richmond letter to Bureau dated 3/28/57",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 19,
       "text": "entitled \"WILHELM REICH, MISCELLANEOUS - INFORMATION",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 20,
       "text": "CONCERNING\". RUC",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 21,
       "status": "blank"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 22,
       "text": "TEB/mcw",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 23,
       "text": "(4)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 24,
       "text": "2-Director",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 25,
       "text": "1-Cincinnati (100-11671)(Info.)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 26,
       "text": "1-Richmond",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 27,
       "status": "blank"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 28,
       "text": "RECORDED - 25",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
-      "text": "62-83894-377",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
+      "lineNumber": 29,
       "text": "INDEXED - 25",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
-      "text": "APR 25 1957",
+      "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
+      "text": "62-83894-377",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
-      "text": "C-3 ZERO",
-      "status": "image_matched"
+      "lineNumber": 32,
+      "text": "[unclear] APR 25 1957",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 33,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 34,
+      "text": "C-[unclear]ERO",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

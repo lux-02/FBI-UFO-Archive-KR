@@ -8,14 +8,12 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 5 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0023-l0004"
-  ],
-  "lineCount": 10,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 12,
   "lines": [
     {
       "lineNumber": 1,
@@ -34,8 +32,7 @@
     {
       "lineNumber": 4,
       "text": "make inquiry in the Office of Public Information.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
@@ -63,6 +60,15 @@
       "lineNumber": 10,
       "text": "- 3 -",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
+      "text": "73",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

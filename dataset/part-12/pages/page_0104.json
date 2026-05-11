@@ -8,34 +8,12 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "21 permanent_unresolved line(s) excluded under SRC-896. 26 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0104-l0007",
-    "page_0104-l0009",
-    "page_0104-l0010",
-    "page_0104-l0012",
-    "page_0104-l0013",
-    "page_0104-l0015",
-    "page_0104-l0016",
-    "page_0104-l0017",
-    "page_0104-l0020",
-    "page_0104-l0021",
-    "page_0104-l0022",
-    "page_0104-l0023",
-    "page_0104-l0025",
-    "page_0104-l0026",
-    "page_0104-l0027",
-    "page_0104-l0029",
-    "page_0104-l0031",
-    "page_0104-l0033",
-    "page_0104-l0035",
-    "page_0104-l0037",
-    "page_0104-l0040"
-  ],
-  "lineCount": 47,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 62,
   "lines": [
     {
       "lineNumber": 1,
@@ -49,249 +27,290 @@
     },
     {
       "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "TO : Director, FBI (62-83894) DATE: 4/12/57",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "FROM : SAC, Cincinnati (100-11671)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
       "text": "SUBJECT: CIVILIAN RESEARCH,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 9,
       "text": "INTERPLANETARY FLYING OBJECTS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
-      "text": "Cincinnati 27, Ohio O FLYING SAUCERS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 10,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 11,
+      "text": "Cincinnati 27, Ohio O FLYING SAUCERS",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 12,
       "text": "MISCELLANEOUS - INFORMATION CONCERNING",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
-      "text": "OHIO",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 13,
+      "status": "blank"
     },
     {
-      "lineNumber": 10,
-      "text": "On March 25, 1957, [REDACTED] appeared at",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 14,
+      "text": "b7c",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 15,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 16,
+      "text": "On March 25, 1957, [REDACTED] OHIO appeared at",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 17,
       "text": "the Cincinnati Office for the purpose of calling attention to a",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 18,
       "text": "letter dated March 19, 1957, which he had received from [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 19,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 20,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 21,
       "text": "For the information of the Bureau and the Norfolk Office,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 22,
       "text": "Mr. [REDACTED] is presently the Advertising Manager for [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 23,
       "text": "[REDACTED] Cincinnati, Ohio. According",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 24,
       "text": "to [REDACTED] he has been interested in flying discs or objects",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 25,
       "text": "for a number of years and has cooperated with the United States",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 26,
       "text": "Air Force to the extent of furnishing the Air Force with any",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 27,
       "text": "information on flying objects coming to his attention. Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 21,
-      "text": "was also the publisher of a paper called the [REDACTED] which",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 28,
+      "text": "[REDACTED] was also the publisher of a paper called the [REDACTED]\", which",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 29,
       "text": "carried the following heading: [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 30,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 31,
       "text": "was a monthly publication which carried information and intelligence",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 32,
       "text": "research by [REDACTED] on flying objects. According to [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 33,
       "text": "the [REDACTED] had a limited circulation.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
       "text": "In connection with Dr. [REDACTED] letter, [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 36,
       "text": "stated that prior to the receipt of the letter he received a long",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 37,
       "text": "distance telephone call from Dr. [REDACTED] on March 12, 1957. This",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 38,
       "text": "call was received by him in the early morning prior to his departure",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 39,
       "text": "for work. He related that Dr. [REDACTED] was a subscriber to the [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 40,
       "text": "and that during the phone conversation she made reference to some",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 41,
       "text": "of his reports which he had published in the [REDACTED] and for the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 42,
       "text": "most part spoke on matters that were \"over his head\" and things",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 43,
       "text": "that he did not understand. According to [REDACTED] she concluded",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 44,
       "text": "the conversation by stating she would write him a letter, which",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
-      "text": "letter was the reason for his call on the FBI. 62-83894-376",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 45,
+      "text": "letter was the reason for his call on the FBI.",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 46,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 47,
+      "text": "62-83894-376",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 48,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 49,
       "text": "2 - Bureau (62-83894)(RM) (Enclosures - 2)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 50,
       "text": "2 - Norfolk (RM)(Enclosure - 1)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 51,
       "text": "2 - Cincinnati (100-11671)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 52,
       "text": "(1 - 65-1994)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 42,
-      "text": "AJM:JL",
-      "status": "image_matched"
+      "lineNumber": 53,
+      "status": "blank"
     },
     {
-      "lineNumber": 43,
-      "text": "(6)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "text": "ENCLOSURES",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
+      "lineNumber": 54,
       "text": "RECORDED - 83",
       "status": "image_matched"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 55,
       "text": "INDEXED - 83",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
-      "text": "APR 1957",
+      "lineNumber": 56,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 57,
+      "text": "6 APR 1957",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 58,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 59,
+      "text": "AJM:JL",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 60,
+      "text": "(6)",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 61,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 62,
+      "text": "ENCLOSURE",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

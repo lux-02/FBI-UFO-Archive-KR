@@ -8,14 +8,12 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 48 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0011-l0004"
-  ],
-  "lineCount": 50,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 60,
   "lines": [
     {
       "lineNumber": 1,
@@ -24,246 +22,285 @@
     },
     {
       "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
       "text": "SUTTON, WEST VIRGINIA MONSTER MAY BE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 4,
       "text": "\"COLLIER'S\" ROCKET!",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
-      "text": "Rev. S. L. Dow, Washington, D.C., Representative, IFSB",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 5,
+      "status": "blank"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
+      "text": "Rev. S. L. Dow, Washington, D.C., Representative, IFSB",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
       "text": "I have personally photographed flying saucers six times and personally photographed",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "text": "the place where one landed in Charleston, West Virginia. I also talked to two eye-witnesses",
-      "status": "image_matched"
+      "lineNumber": 9,
+      "text": "the place where one landed in Charleston, West Virginia. I also talked to two eye-witnesses.",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 7,
-      "text": "and talked to a police officer who was burned by one in Wheeling, West Virginia.",
-      "status": "image_matched"
+      "lineNumber": 10,
+      "text": "I saw and talked to a police officer who was burned by one in Wheeling, West Virginia.",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 11,
       "text": "My own cousin was the doctor who treated him.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 12,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 13,
       "text": "I attempted to photograph one going over Melessa Pass, 3000 feet up in the Blue",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 14,
       "text": "Ridge mountains, as I was at a height of 2500 feet at Wahala Glen just directly opposite",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 15,
       "text": "from Melessa Pass. The picture was not too good due to the mist from the mountains.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 16,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 17,
       "text": "The object that landed at Charleston, West Virginia was described as a large metal",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 18,
       "text": "ball, throwing off a white light and after landing, two small men in red emerged from",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 19,
       "text": "a trap in the top and climbed up a tree to look around. Seeing people watching them, they",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
-      "text": "got back in and took off. We can prove what this was: In the attempt to shoot rockets to",
-      "status": "image_matched"
+      "lineNumber": 20,
+      "text": "got back in and took off. We can prove what this was: In the attempt to show rockets to",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 21,
       "text": "the moon, there is a device with the motors on the wings and the body of the device is",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 22,
       "text": "a jet propelled apparatus which throws off a large metal shaped disc which throws off a",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 23,
       "text": "red color from the center which when reflected could easily be taken for some sort of a",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 24,
       "text": "small person. This was described in Collier's magazine of October 11, 1952.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
       "text": "According to the Washington Daily News, the monster seen at Sutton, West Virginia",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 27,
       "text": "could be the rocket described in Collier's magazine. The picture on the cover of the maga-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 28,
       "text": "zine shows a sphere-headed, wide-bottomed, tank-bellied rocket craft spewing out burning",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 29,
       "text": "hydrazine and nitric acid as it lands hind-end on the moon. The West Virginia people",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 30,
       "text": "claimed to have seen: \"An object estimated at 10 feet tall, four feet wide at the bottom",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 31,
       "text": "and in the shape of a man. Two lights flashed from side to side, the machine made a noise",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 32,
       "text": "like gas escaping, and a sharp sickening odor was about.\" Sounds somewhat the same.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 33,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 34,
       "text": "The United States may be experimenting with something that the public is not aware",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 35,
       "text": "of, and it is doing its best to keep it a secret. The age of rocket ships is just around the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 36,
       "text": "corner.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 37,
       "status": "blank"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 38,
       "text": "CIVILIAN SAUCER INVESTIGATION OF NEW ZEALAND",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 39,
       "text": "CONTACTS IFSB",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
-      "text": "The Civilian Saucer Investigation of New Zealand was set up in New Zealand on",
-      "status": "image_matched"
+      "lineNumber": 40,
+      "status": "blank"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 41,
+      "text": "The Civilian Saucer Investigation of New Zealand was set up in New",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
       "text": "October 13, 1952. They plan to prove or disapprove the existence of saucers. It has no",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 43,
       "text": "affiliation with the Government, the armed forces, or to any society to which its members",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 44,
       "text": "may belong. Most of the members have been studying flying saucer reports for at least",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 45,
       "text": "five years. They represent all interested parties, astronomers, scientists, aviators, and the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 46,
       "text": "man in the street. The committee consists of Mr. H. H. Fulton, a sergeant in the R.N.Z.A.F.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
-      "text": "attached to engineering, who is the President of CSI of NZ; Mr. R. J. Lavaris, a member",
-      "status": "image_matched"
+      "lineNumber": 47,
+      "text": "attached to engineering, who is the President of CSI of NZ; Mr. R. J. Lavara, a member",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 48,
       "text": "of the Territorial Air Force, who is the secretary of CSI of NZ; Mr. G. H. Gilmore, avia-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
-      "text": "tion engineering inspector, D. Lavaris, a student studying for a science degree; and E. J.",
-      "status": "image_matched"
+      "lineNumber": 49,
+      "text": "tion engineering inspector; D. Lavaris, a student studying for a science degree; and E. J.",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 42,
+      "lineNumber": 50,
       "text": "Greager, an astronomer and engineer.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 51,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 52,
       "text": "Aims of the committee are to correspond with kindred bodies overseas, and to ulti-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 53,
       "text": "mately find the origin of flying saucers and their comparison.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
-      "text": "Mr. H. H. Fulton, and Mr. R. J. Lavaris have been made members of the International",
-      "status": "image_matched"
+      "lineNumber": 54,
+      "status": "blank"
     },
     {
-      "lineNumber": 46,
+      "lineNumber": 55,
+      "text": "Mr. H. H. Fulton, and Mr. R. J. Lavara have been made members of the International",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 56,
       "text": "Council of IFSB. We hope to establish friendly relations with this society and get a rep-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 47,
+      "lineNumber": 57,
       "text": "resentative in New Zealand. CSI sent to IFSB a large map of New Zealand showing all",
       "status": "image_matched"
     },
     {
-      "lineNumber": 48,
+      "lineNumber": 58,
       "text": "spots where saucers have been sighted with a story of each sighting. A complete report",
       "status": "image_matched"
     },
     {
-      "lineNumber": 49,
+      "lineNumber": 59,
       "text": "on this will be made in our next issue. We wish CSI of New Zealand the best of luck",
       "status": "image_matched"
     },
     {
-      "lineNumber": 50,
+      "lineNumber": 60,
       "text": "and hope they will be a success.",
       "status": "image_matched"
     }

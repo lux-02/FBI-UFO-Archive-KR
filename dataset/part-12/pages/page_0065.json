@@ -8,21 +8,11 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "9 permanent_unresolved line(s) excluded under SRC-896. 6 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0065-l0002",
-    "page_0065-l0006",
-    "page_0065-l0007",
-    "page_0065-l0008",
-    "page_0065-l0009",
-    "page_0065-l0010",
-    "page_0065-l0012",
-    "page_0065-l0013",
-    "page_0065-l0014"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 15,
   "lines": [
     {
@@ -32,9 +22,8 @@
     },
     {
       "lineNumber": 2,
-      "text": "[unclear] Hoow",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr Hoover",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 3,
@@ -43,43 +32,38 @@
     },
     {
       "lineNumber": 4,
-      "text": "have claimed that",
-      "status": "image_matched"
+      "text": "have I claimed that",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
-      "text": "the flying saucer was",
-      "status": "image_matched"
+      "text": "the Flying Saucer was",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 6,
-      "text": "a disease breeding [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "a disease breeding etc",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "text": "[unclear] disc which [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] disc which are",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 8,
-      "text": "[unclear] in the air",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "present in the air",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 9,
-      "text": "Thousands of them [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Thousands of them are now",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "[unclear] at [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "being at [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 11,
@@ -88,21 +72,18 @@
     },
     {
       "lineNumber": 12,
-      "text": "[unclear] EX-32 [unclear] 1952",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] EX-32 SEP 8 1952",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 13,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 14,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] 8-2-52 [unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 15,

@@ -8,16 +8,12 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 29 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0095-l0012",
-    "page_0095-l0016",
-    "page_0095-l0035"
-  ],
-  "lineCount": 44,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 45,
   "lines": [
     {
       "lineNumber": 1,
@@ -68,14 +64,13 @@
     },
     {
       "lineNumber": 11,
-      "text": "there is enclosed a letter received by General Cutler's",
-      "status": "image_matched"
+      "text": "there is enclosed a letter received in General Cutler's",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
       "text": "office today from Mr. [REDACTED] Detroit 11,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
@@ -94,8 +89,7 @@
     {
       "lineNumber": 16,
       "text": "would arrange for a representative to interview [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
@@ -122,13 +116,13 @@
     },
     {
       "lineNumber": 22,
-      "text": "/s/ Patrick Coyne",
-      "status": "image_matched"
+      "text": "[Signature]",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 23,
-      "text": "Patrick Coyne",
-      "status": "image_matched"
+      "text": "J. Patrick Coyne",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 24,
@@ -141,8 +135,8 @@
     },
     {
       "lineNumber": 26,
-      "text": "Coyne called me",
-      "status": "image_matched"
+      "text": "Coyne called me.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 27,
@@ -151,23 +145,23 @@
     },
     {
       "lineNumber": 28,
-      "text": "we would of course",
-      "status": "image_matched"
+      "text": "we would if he would",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
-      "text": "want to interview",
-      "status": "image_matched"
+      "text": "write over the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 30,
-      "text": "and see the",
-      "status": "image_matched"
+      "text": "[unclear] letter.",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 31,
-      "text": "letter.",
-      "status": "image_matched"
+      "text": "Q",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 32,
@@ -185,8 +179,7 @@
     {
       "lineNumber": 35,
       "text": "ADDENDUM: I would appreciate the return of [REDACTED] letter",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 36,
@@ -199,8 +192,8 @@
     },
     {
       "lineNumber": 38,
-      "text": "JTC",
-      "status": "image_matched"
+      "text": "JPC",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 39,
@@ -213,8 +206,8 @@
     },
     {
       "lineNumber": 41,
-      "text": "29",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 42,
@@ -227,8 +220,13 @@
     },
     {
       "lineNumber": 44,
-      "text": "13 NOV 1957",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 45,
+      "text": "13 NOV 19 1957",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

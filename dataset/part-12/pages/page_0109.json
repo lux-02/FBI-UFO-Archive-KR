@@ -8,21 +8,12 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 29 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0109-l0007",
-    "page_0109-l0008",
-    "page_0109-l0010",
-    "page_0109-l0012",
-    "page_0109-l0014",
-    "page_0109-l0016",
-    "page_0109-l0019",
-    "page_0109-l0034"
-  ],
-  "lineCount": 41,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 59,
   "lines": [
     {
       "lineNumber": 1,
@@ -31,206 +22,281 @@
     },
     {
       "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
       "text": "Office Memorandum • UNITED STATES GOVERNMENT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
-      "text": "TO Mr. Tolson DATE: March 15, 1957",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 4,
-      "text": "FROM : L. B. Nichols",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
+      "text": "TO: Mr. Tolson",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
+      "text": "DATE: March 15, 1957",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "FROM: L. B. Nichols",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 9,
+      "text": "Title",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 10,
+      "text": "unidentified \"flying object\"",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 11,
+      "text": "Great Meadows, New Jersey",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 12,
+      "text": "March 12, 1957",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
       "text": "SUBJECT: GREAT MEADOWS, NEW JERSEY",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 15,
       "status": "blank"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 16,
       "text": "For record purposes, [REDACTED] (Great Meadows,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 8,
-      "text": "New Jersey, telephone [REDACTED] telephoned from his home at 12:52 p. m.,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 17,
+      "text": "New Jersey, telephone [REDACTED]) telephoned from his home at 12:52 p. m.,",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 18,
       "text": "March 14, 1957, while I was tied up on another matter, and talked with Wick.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 19,
       "text": "[REDACTED] age 56, is one of the original founders of [REDACTED] was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 20,
       "text": "employed by Louis de Rochemont on our movie, \"House on 92nd Street,\" and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
-      "text": "he formerly was editor of [REDACTED] He married [REDACTED] whom",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 21,
+      "text": "he formerly was editor of [REDACTED]. He married [REDACTED] whom",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 22,
       "text": "he says is known to the Director. He has one arm.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
-      "text": "[REDACTED] said, to make a long story short, that he has run into",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 23,
+      "text": "MYS",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 24,
+      "text": "[REDACTED] said, to make a long story short, that he has run into",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 25,
       "text": "a situation which has to do with an unidentified flying object observed two days",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 26,
       "text": "ago in the Great Meadows vicinity. [REDACTED] said he had made a formal report",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 27,
       "text": "in writing to military authorities, as well as to two civilian groups interested",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 28,
       "text": "in the affair. General Wedemeyer is connected with one of the latter groups.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 29,
       "text": "[REDACTED] said he is not satisfied that the \"intelligence\" he supplied to the military",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 30,
       "text": "is being handled properly, nor does he know to whom he should submit infor-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 31,
       "text": "mation and in what fashion. He said frankly he wanted an Agent to call upon",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 32,
       "text": "him so that the Agent could evaluate his information, although he said he well",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 33,
       "text": "knew \"flying saucers,\" etc., were not within the scope of the FBI's interest",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 34,
       "text": "nor jurisdiction.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 35,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 36,
       "text": "(The attached news ticker from United Press reflects that in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 37,
       "text": "testimony before a House Appropriations Subcommittee, 2-19-57, Dr. Hugh",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 38,
       "text": "Dryden, Director of the National Advisory Committee for Aeronautics, had",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 39,
       "text": "flatly stated there is no such thing as a flying saucer. It was said too that the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 40,
       "text": "Air Force or some other authority should nail down the unidentified \"flying",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 41,
       "text": "objects\" and \"say it is pure fiction.\")",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 42,
       "status": "blank"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 43,
       "text": "ACTION TAKEN:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
-      "text": "[REDACTED] While normally we would simply tell a caller that we have no",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 44,
+      "text": "ENCLOSURE",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 45,
+      "text": "While normally we would simply tell a caller that we have no",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 46,
       "text": "jurisdiction and that he should refer such matter to the proper military",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 47,
       "status": "blank"
     },
     {
-      "lineNumber": 37,
-      "text": "-cc: Mr. Boardman RECORDED - 36 62-83894-374",
-      "status": "image_matched"
+      "lineNumber": 48,
+      "text": "cc: Mr. Boardman",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 38,
-      "text": "cc: Mr. Belmont INDEXED - 36",
-      "status": "image_matched"
+      "lineNumber": 49,
+      "text": "cc: Mr. Belmont",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 50,
+      "text": "REW:afh",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 51,
+      "text": "50 APR 1 1957",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 52,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 53,
+      "text": "RECORDED - 36",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 54,
+      "text": "INDEXED - 36",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 55,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 56,
+      "text": "EX 105",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 57,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 58,
+      "text": "62-83894-374",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 59,
       "text": "17 MAR 26 1957",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "REW:af",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
-      "text": "50 APR 1 1957 EX 105",
       "status": "image_matched"
     }
   ],

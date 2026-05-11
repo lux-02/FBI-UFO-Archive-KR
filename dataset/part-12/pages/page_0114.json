@@ -8,14 +8,12 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 24 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0114-l0018"
-  ],
-  "lineCount": 25,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 44,
   "lines": [
     {
       "lineNumber": 1,
@@ -29,117 +27,198 @@
     },
     {
       "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
+      "text": "[unclear] ROGERS, CHIEF",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 5,
+      "text": "CRIMINAL DIVISION",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 6,
+      "text": "WINTER HAVEN, CY 3-0052",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
+      "text": "[unclear] ALBRITTON, CHIEF",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 9,
+      "text": "ADMINISTRATIVE",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 10,
+      "text": "[unclear] FT. MEADE, AT 4-3955",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 12,
       "text": "COUNTY OF POLK",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 13,
       "text": "STATE OF FLORIDA",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 14,
       "text": "BARTOW, FLORIDA",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 15,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 16,
       "text": "PHONES:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
-      "text": "OFFICE 2-7011 * JAIL 2-7171",
-      "status": "image_matched"
+      "lineNumber": 17,
+      "text": "OFFICE 3-7011 JAIL 3-7171",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 8,
-      "text": "REPLY REF.",
-      "status": "image_matched"
+      "lineNumber": 18,
+      "status": "blank"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 19,
+      "text": "IN REPLY REF.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 20,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 21,
       "text": "February 8, 1957.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 22,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 23,
       "text": "Federal Bureau of Investigation",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 24,
       "text": "Washington, D. C.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
       "text": "Gentlemen:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 27,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 28,
       "text": "I am enclosing herewith a bulletin received",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 29,
       "text": "at this office on February 5, 1957, for your evaluation.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 30,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 31,
       "text": "Assuring you of our complete cooperation at",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 32,
       "text": "all times, I am",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 33,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 34,
       "text": "Sincerely,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 35,
       "text": "Hagan Parrish",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 36,
       "text": "HAGAN PARRISH, SHERIFF",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
-      "text": "HP:es",
-      "status": "image_matched"
+      "lineNumber": 37,
+      "status": "blank"
     },
     {
-      "lineNumber": 21,
-      "text": "Enc.",
-      "status": "image_matched"
+      "lineNumber": 38,
+      "text": "HF:es",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 39,
+      "text": "Inc.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 40,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 41,
       "text": "RECORDED - 54",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
-      "text": "EX 173",
-      "status": "image_matched"
+      "lineNumber": 42,
+      "text": "62 - 3894 - 373",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 24,
-      "text": "62-3894-373",
-      "status": "image_matched"
+      "lineNumber": 43,
+      "text": "EX-173",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 44,
       "text": "FEB 26 1957",
       "status": "image_matched"
     }

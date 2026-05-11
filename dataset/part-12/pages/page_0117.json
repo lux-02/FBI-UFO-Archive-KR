@@ -8,17 +8,12 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 17 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0117-l0006",
-    "page_0117-l0008",
-    "page_0117-l0021",
-    "page_0117-l0024"
-  ],
-  "lineCount": 25,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 29,
   "lines": [
     {
       "lineNumber": 1,
@@ -27,121 +22,135 @@
     },
     {
       "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
       "text": "Office Memorandum • UNITED STATES GOVERNMENT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 4,
       "status": "blank"
     },
     {
-      "lineNumber": 4,
-      "text": "TO : DIRECTOR, FBI DATE: 1/11/57",
-      "status": "image_matched"
+      "lineNumber": 5,
+      "text": "TO : DIRECTOR, FBI",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
+      "text": "DATE: 1/11/57",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 7,
       "text": "FROM : SAC, RICHMOND (62-779)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "text": "SUBJECT: AERIAL PHENOMENON RESEARCH GROUP [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 8,
+      "status": "blank"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 9,
+      "text": "SUBJECT: AERIAL PHENOMENON RESEARCH GROUP 5100 [unclear] ST. SEATTLE, WASH.",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 10,
       "text": "MISCELLANEOUS INFORMATION CONCERNING",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 11,
+      "text": "FLYING SAUCERS",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 12,
       "status": "blank"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 13,
       "text": "Attached are two copies of a letter to the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 14,
       "text": "District Commander of OSI at Langley Field, Va.,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 15,
       "text": "which are being forwarded to the Bureau for information.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 16,
       "status": "blank"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 17,
       "text": "2 - Bureau (Encls.2)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 18,
       "text": "1 - Seattle (Encl.1)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 19,
       "text": "1 - Richmond",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 20,
       "text": "RET:fec",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 21,
       "text": "(4)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 23,
       "text": "62-83894-372",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 24,
       "text": "RECORDED - 39",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 25,
       "text": "e JAN 14 1957",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 26,
       "text": "INDEXED - 39",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
-      "text": "EX. 117.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 27,
+      "text": "EX-117",
+      "status": "pending_image_audit"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 28,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 29,
       "text": "b7c",
       "status": "image_matched"
     }

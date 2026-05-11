@@ -8,30 +8,17 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "11 permanent_unresolved line(s) excluded under SRC-896. 40 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0106-l0001",
-    "page_0106-l0004",
-    "page_0106-l0012",
-    "page_0106-l0017",
-    "page_0106-l0026",
-    "page_0106-l0041",
-    "page_0106-l0042",
-    "page_0106-l0045",
-    "page_0106-l0046",
-    "page_0106-l0053",
-    "page_0106-l0055"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 55,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Cincinnati, [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Cincinnati, [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
@@ -44,9 +31,8 @@
     },
     {
       "lineNumber": 4,
-      "text": "Dear Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Dear Mr. [REDACTED]:",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
@@ -69,8 +55,8 @@
     },
     {
       "lineNumber": 9,
-      "text": "and events designated \"OROP Desert Ra\". It was my aim to find out whether you",
-      "status": "image_matched"
+      "text": "and events designated \"OROP Desert Ea\". It was my aim to find out whether you",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
@@ -85,8 +71,7 @@
     {
       "lineNumber": 12,
       "text": "as Editor of [REDACTED] you have collected and filed over several years.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
@@ -95,8 +80,8 @@
     },
     {
       "lineNumber": 14,
-      "text": "in your official capacity as former USAF Intelligence officer (this information",
-      "status": "image_matched"
+      "text": "in your official capacity as former USAF Intelligence officer ( This information",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 15,
@@ -105,14 +90,13 @@
     },
     {
       "lineNumber": 16,
-      "text": "based my call on the title of your publication \"The Official Publication of",
-      "status": "image_matched"
+      "text": "based my call on the title of your publication \"The official Publication of",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 17,
-      "text": "[REDACTED] as distinguished from the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED]\" as distinguished from the",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
@@ -125,8 +109,8 @@
     },
     {
       "lineNumber": 20,
-      "text": "I informed you that staffmembers of Expedition Orop Desert Ra, Arizona",
-      "status": "image_matched"
+      "text": "I informed you that staffmembers of Expedition Orop Desert Ea, Arizona",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 21,
@@ -155,19 +139,18 @@
     },
     {
       "lineNumber": 26,
-      "text": "during Expedition Orop Desert Ra; the discoverer of Life Energy, Dr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "during Expedition Orop Desert Ea; the discoverer of Life Energy, Dr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 27,
-      "text": "consequently imprisoned on March 11, 1957. The staff members",
-      "status": "image_matched"
+      "text": "[REDACTED] was consequently imprisoned on March 12, 1957. The staff members",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 28,
-      "text": "of Expedition Orop Desert Ra wish to stress that in making their charges they",
-      "status": "image_matched"
+      "text": "of Expedition Orop Desert Ea wish to stress that in making their charges they",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 29,
@@ -191,8 +174,8 @@
     },
     {
       "lineNumber": 33,
-      "text": "Secrecy by Airforce headquarters, and the suppression of public news concerning",
-      "status": "image_matched"
+      "text": "Secrecy by Airforce headquarters , and the suppression of public news concerning",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 34,
@@ -221,25 +204,23 @@
     },
     {
       "lineNumber": 39,
-      "text": "unsure whether there exists at this point any bona fide honest constitutional",
-      "status": "image_matched"
+      "text": "ensure whether there exists at this point any bona fide honest constitutional",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 40,
-      "text": "government. After the events of March 11, 1957 the constitution is dead, law is",
-      "status": "image_matched"
+      "text": "government. After the events of March 11,1957 the constitution is dead, for an",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 41,
-      "text": "Open- irrational order has failed. I am basing this statement on the fact that in sp",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "rational order has failed. I am basing this statement on the fact that in sp",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 42,
       "text": "of the evidence on court record the sentence against the Discovery of the Life",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 43,
@@ -253,15 +234,13 @@
     },
     {
       "lineNumber": 45,
-      "text": "Case No. 2160, Supreme Court Number 688, Secret and Suppressed Evidence, Orop",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Case No. 6160, Supreme court Number 688, Secret and Suppressed Evidence; Orop",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 46,
-      "text": "Desert Ra, 1954-1955. The Title of the Report is \"Contact with Space\", Oranur,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Desert Ea, 1954-1955. The Title of the Report is \"Contact with Space\", Oranur,",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 47,
@@ -294,20 +273,18 @@
     },
     {
       "lineNumber": 53,
-      "text": "the work such as: Oranur experiment, Orur (Denatured Nuclear material -",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "the work such as : Oranur experiment, Orur ( Denatured Nuclear material -",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 54,
-      "text": "in other words \"Atoms for Peace\"), the Cloud-buster, Cloudbuster plus Orur or",
-      "status": "image_matched"
+      "text": "in other words \"Atoms for Peace\") , the Cloud-buster, Cloudbuster plus Orur or",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 55,
-      "text": "\"Spacegun\", Disabled Ra (Epsilon alpha Dr. Reich's designation of space craft",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "\"Spacegun\", Disabled Ea ( Epeylon alpha Dr. Reich's designation of space craf",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

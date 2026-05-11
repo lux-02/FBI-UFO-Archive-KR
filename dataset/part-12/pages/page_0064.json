@@ -8,17 +8,12 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 21 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0064-l0004",
-    "page_0064-l0006",
-    "page_0064-l0032",
-    "page_0064-l0033"
-  ],
-  "lineCount": 33,
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 40,
   "lines": [
     {
       "lineNumber": 1,
@@ -31,14 +26,13 @@
     },
     {
       "lineNumber": 3,
-      "text": "RECORDED-14 62-8-874-312",
-      "status": "image_matched"
+      "text": "RECORDED-14 62-83874-512",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 4,
       "text": "Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
@@ -47,85 +41,80 @@
     },
     {
       "lineNumber": 6,
-      "text": "EX-32 Dear Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "EX-32",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 7,
-      "status": "blank"
+      "text": "Dear Mr. [REDACTED]:",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
-      "text": "Your letter dated August 14, 1952, has been",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 9,
-      "text": "received, and I want to thank you for affording me the",
-      "status": "image_matched"
+      "text": "Your letter dated August 14, 1952, has been received, and I want to thank you for affording me the benefit of your observations.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 10,
-      "text": "benefit of your observations.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 11,
-      "status": "blank"
+      "text": "Inasmuch as the matter to which you refer is of interest to another governmental agency, I am taking the liberty of forwarding a copy of your communication to the Director of Special Investigations, The Inspector General, Department of the Air Force, The Pentagon, Washington 25, D. C.",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 12,
-      "text": "Inasmuch as the matter to which you refer",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "is of interest to another governmental agency, I am",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 14,
-      "text": "taking the liberty of forwarding a copy of your com-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "text": "munication to the Director of Special Investigations,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
-      "text": "the Inspector General, Department of the Air Force,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 17,
-      "text": "The Pentagon, Washington 25, D. C.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
       "status": "blank"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 13,
       "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 14,
       "status": "blank"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 15,
       "text": "John Edgar Hoover",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 16,
       "text": "Director",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 18,
+      "text": "Copy of incoming sent to the Director of Special Investigations, the Inspector General, Department of the Air Force, by form letter.",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 19,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 20,
+      "text": "LH:pa:bkh",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 22,
+      "status": "blank"
     },
     {
       "lineNumber": 23,
@@ -133,18 +122,15 @@
     },
     {
       "lineNumber": 24,
-      "text": "Copy of incoming sent to the Director of Special",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 25,
-      "text": "Investigations, the Inspector General, Department of",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 26,
-      "text": "the Air Force, by form letter.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 27,
@@ -152,8 +138,7 @@
     },
     {
       "lineNumber": 28,
-      "text": "LH:pa:bkh",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 29,
@@ -161,25 +146,51 @@
     },
     {
       "lineNumber": 30,
-      "text": "MAILED 9",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 31,
-      "text": "X 73",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 32,
-      "text": "-58 SEP 8 1952AUG 2 5 1952",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 33,
-      "text": "COMM-CRI",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
+    },
+    {
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
+      "text": "58 SEP 8 1952",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 37,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 38,
+      "text": "MAILED",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 39,
+      "text": "AUG 2 5 1952",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 40,
+      "text": "COMM.-CRI",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

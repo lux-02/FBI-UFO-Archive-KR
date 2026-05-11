@@ -8,14 +8,12 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 26 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0063-l0004"
-  ],
-  "lineCount": 38,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 44,
   "lines": [
     {
       "lineNumber": 1,
@@ -24,23 +22,20 @@
     },
     {
       "lineNumber": 2,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 3,
       "text": "Office Memorandum • UNITED STATES GOVERNMENT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
-      "text": "TO : Mr. A. H. Belmont",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 4,
-      "text": "FROM : Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 5,
-      "text": "SUBJECT: FLYING DISCS",
+      "text": "TO : Mr. A. H. Belmont",
       "status": "image_matched"
     },
     {
@@ -49,7 +44,7 @@
     },
     {
       "lineNumber": 7,
-      "text": "PURPOSE:",
+      "text": "DATE: August 22, 1952",
       "status": "image_matched"
     },
     {
@@ -58,17 +53,16 @@
     },
     {
       "lineNumber": 9,
-      "text": "To recommend existing instructions to the field",
-      "status": "image_matched"
+      "text": "FROM : Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
-      "text": "re flying discs be called to the attention of the",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 11,
-      "text": "field.",
+      "text": "SUBJECT: FLYING DISCS",
       "status": "image_matched"
     },
     {
@@ -77,7 +71,7 @@
     },
     {
       "lineNumber": 13,
-      "text": "BACKGROUND:",
+      "text": "PURPOSE:",
       "status": "image_matched"
     },
     {
@@ -86,93 +80,93 @@
     },
     {
       "lineNumber": 15,
-      "text": "A review of communications received from the",
+      "text": "To recommend existing instructions to the field",
       "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "field indicates they are not observing existing",
+      "text": "re flying discs be called to the attention of the",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "instructions contained in Bureau Bulletin #57, para-",
+      "text": "field.",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "graph D, dated 10/1/47, and SAC Letter #38, dated",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 19,
-      "text": "3/25/49, to refer details of complaints regarding",
+      "text": "BACKGROUND:",
       "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "flying saucers to OSI locally.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
       "status": "blank"
     },
     {
+      "lineNumber": 21,
+      "text": "A review of communications received from the",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 22,
-      "text": "ACTION:",
+      "text": "field indicates they are not observing existing",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "status": "blank"
+      "text": "instructions contained in Bureau Bulletin #57, para-",
+      "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "text": "It is recommended the attached SAC Letter",
+      "text": "graph D, dated 10/1/47, and SAC Letter #38, dated",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "be issued.",
+      "text": "3/25/49, to refer details of complaints regarding",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "status": "blank"
+      "text": "flying saucers to OSI locally.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "EHM:kc:mes",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
       "status": "blank"
     },
     {
-      "lineNumber": 29,
-      "text": "RECORDED - 34",
+      "lineNumber": 28,
+      "text": "ACTION:",
       "status": "image_matched"
     },
     {
+      "lineNumber": 29,
+      "status": "blank"
+    },
+    {
       "lineNumber": 30,
-      "text": "CY.129",
+      "text": "It is recommended the attached SAC Letter",
       "status": "image_matched"
     },
     {
       "lineNumber": 31,
-      "status": "blank"
+      "text": "be issued.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 32,
-      "text": "71 SEP 10 1952",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 33,
-      "text": "26",
-      "status": "image_matched"
+      "text": "EHM:kc:mcs",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 34,
@@ -180,7 +174,7 @@
     },
     {
       "lineNumber": 35,
-      "text": "DATE: August 22, 1952",
+      "text": "RECORDED - 34",
       "status": "image_matched"
     },
     {
@@ -189,13 +183,40 @@
     },
     {
       "lineNumber": 37,
-      "text": "62-83174-313",
-      "status": "image_matched"
+      "text": "62-83894-313",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 38,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 39,
       "text": "13 SEP 5 1952",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 41,
+      "text": "EX-129",
+      "status": "pending_image_audit"
+    },
+    {
+      "lineNumber": 42,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 43,
+      "text": "71 SEP 10 1952",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "276",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null

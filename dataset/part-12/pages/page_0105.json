@@ -8,29 +8,17 @@
     "sha256": "b0b26485cd1fbd2184cc66c78a33a1b238829444659219e35aa1efdaddfc4aed"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "11 permanent_unresolved line(s) excluded under SRC-896. 15 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0105-l0003",
-    "page_0105-l0004",
-    "page_0105-l0005",
-    "page_0105-l0007",
-    "page_0105-l0008",
-    "page_0105-l0015",
-    "page_0105-l0016",
-    "page_0105-l0020",
-    "page_0105-l0024",
-    "page_0105-l0026",
-    "page_0105-l0029"
-  ],
-  "lineCount": 30,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 32,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "CI. 100-1R671",
-      "status": "image_matched"
+      "text": "CI. 100-11671",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 2,
@@ -39,20 +27,17 @@
     {
       "lineNumber": 3,
       "text": "Mr. [REDACTED] furnished the letter to this office",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
-      "text": "but desired the same be returned to him and it should be noted tha",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "but desired the same be returned to him and it should be noted the",
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 5,
       "text": "Dr. [REDACTED] speaks of [REDACTED] testifying before some Congression",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 6,
@@ -62,14 +47,12 @@
     {
       "lineNumber": 7,
       "text": "She further speaks of events designated \"OROP Desert Ea\" which",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "pending_image_audit"
     },
     {
       "lineNumber": 8,
       "text": "[REDACTED] knows nothing about.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
@@ -103,14 +86,12 @@
     {
       "lineNumber": 15,
       "text": "evidence of the \"orgone energy motor\", which [REDACTED] has no",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 16,
       "text": "knowledge of. Dr. [REDACTED] mentions a number of people as being",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
@@ -129,8 +110,7 @@
     {
       "lineNumber": 20,
       "text": "mentioned by Dr. [REDACTED] in her letter have been checked through the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,
@@ -149,8 +129,7 @@
     {
       "lineNumber": 24,
       "text": "Dr. [REDACTED] letter to Mr. [REDACTED] dated March 19, 1957, for",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 25,
@@ -160,8 +139,7 @@
     {
       "lineNumber": 26,
       "text": "is requested to check their indices on Dr. [REDACTED] and furnish the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 27,
@@ -176,13 +154,21 @@
     {
       "lineNumber": 29,
       "text": "the original to Mr. [REDACTED] and is not maintaining a copy of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 30,
       "text": "the same in this office.",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 32,
+      "text": "-2-",
+      "status": "pending_image_audit"
     }
   ],
   "blockCount": null
