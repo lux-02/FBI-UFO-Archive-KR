@@ -8,21 +8,17 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 25 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0012-l0006",
-    "page_0012-l0013",
-    "page_0012-l0031"
-  ],
-  "lineCount": 36,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 34,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Elizabeth is in",
-      "status": "image_matched"
+      "text": "Elizabeth in",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
@@ -45,8 +41,7 @@
     {
       "lineNumber": 6,
       "text": "With all these forest fires in main and out",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "image_matched"
     },
     {
       "lineNumber": 7,
@@ -75,18 +70,17 @@
     },
     {
       "lineNumber": 12,
-      "text": "from the sun ignite. Have not the discs",
+      "text": "from the sun ignite. Were not the discs",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "been flying over main Vt. and western states",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "seen flying over main Vt. and western states",
+      "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "as the western states that have forest fire the",
+      "text": "as the western states that have forest fires the",
       "status": "image_matched"
     },
     {
@@ -105,7 +99,7 @@
     },
     {
       "lineNumber": 18,
-      "text": "I say our. In any way the F.B.I. has been",
+      "text": "I say our. In every way the F.B.I. has been",
       "status": "image_matched"
     },
     {
@@ -129,27 +123,28 @@
     },
     {
       "lineNumber": 23,
-      "text": "I couldn't stop thinking of it. All americans must",
+      "text": "I couldn't stop thinking of it. All Americans must",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "text": "be alert but not over",
+      "text": "be alert but not over RECORDED 62-83894-135",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "status": "blank"
+      "text": "[unclear] quite a lot of [unclear] NOV [unclear]",
+      "status": "correction_required"
     },
     {
       "lineNumber": 26,
-      "text": "RECORDED",
+      "text": "settling up here with plenty of money. Like the",
       "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "62-83894-135",
-      "status": "image_matched"
+      "text": "[unclear] words I guess. Keep to themselves too.",
+      "status": "correction_required"
     },
     {
       "lineNumber": 28,
@@ -157,19 +152,17 @@
     },
     {
       "lineNumber": 29,
-      "text": "I have quite a lot of different opinions on",
+      "text": "Flying Discs",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "settling up here with plenty of money. Like the",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 31,
-      "text": "[unclear] words I guess. Keep to themselves too.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Oct 11. 1947",
+      "status": "image_matched"
     },
     {
       "lineNumber": 32,
@@ -183,15 +176,6 @@
     {
       "lineNumber": 34,
       "text": "STOP DESK",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 35,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 36,
-      "text": "NOV 15 1947",
       "status": "image_matched"
     }
   ],

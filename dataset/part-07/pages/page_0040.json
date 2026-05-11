@@ -8,15 +8,12 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 43 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0040-l0013",
-    "page_0040-l0039"
-  ],
-  "lineCount": 57,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 54,
   "lines": [
     {
       "lineNumber": 1,
@@ -29,12 +26,12 @@
     },
     {
       "lineNumber": 3,
-      "text": "TO : Director, FBI",
+      "text": "TO: Director, FBI",
       "status": "image_matched"
     },
     {
       "lineNumber": 4,
-      "text": "FROM : SA, Chicago",
+      "text": "DATE: July 18, 1950",
       "status": "image_matched"
     },
     {
@@ -43,7 +40,7 @@
     },
     {
       "lineNumber": 6,
-      "text": "SUBJECT : FLYING DISCS - INFORMANT",
+      "text": "FROM: SAC, Chicago",
       "status": "image_matched"
     },
     {
@@ -52,7 +49,7 @@
     },
     {
       "lineNumber": 8,
-      "text": "DATE: July 18, 1950",
+      "text": "SUBJECT: FLYING DISCS - INFORMANT",
       "status": "image_matched"
     },
     {
@@ -76,8 +73,7 @@
     {
       "lineNumber": 13,
       "text": "On July 1, 1950, [REDACTED] of known reliability, advised that at 1:00 a.m.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 14,
@@ -205,8 +201,7 @@
     {
       "lineNumber": 39,
       "text": "[REDACTED] his attention",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 40,
@@ -248,48 +243,36 @@
     },
     {
       "lineNumber": 48,
-      "text": "SA: A66-2224",
+      "text": "CG: A66-2224",
       "status": "image_matched"
     },
     {
       "lineNumber": 49,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 50,
-      "text": "JJS:BMS",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 51,
-      "text": "100-18999",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 52,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 53,
       "text": "RECORDED - 118",
       "status": "image_matched"
     },
     {
-      "lineNumber": 54,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 55,
+      "lineNumber": 50,
       "text": "162-83894-235",
       "status": "image_matched"
     },
     {
-      "lineNumber": 56,
+      "lineNumber": 51,
+      "text": "JHS:BMS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 52,
+      "text": "100-18999",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 53,
       "text": "JUL 20 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 57,
+      "lineNumber": 54,
       "text": "34",
       "status": "image_matched"
     }

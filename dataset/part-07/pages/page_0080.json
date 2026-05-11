@@ -8,19 +8,16 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 19 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0080-l0004",
-    "page_0080-l0016"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 21,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "I am nervous over this and if this bring the dope he gave",
+      "text": "I am nervous over this and if this brings the dope he gave",
       "status": "image_matched"
     },
     {
@@ -30,44 +27,43 @@
     },
     {
       "lineNumber": 3,
-      "text": "in the U.S.A. first and myself well I don't amount to much",
+      "text": "at the U.S.A. first and myself well I don't amount to much",
       "status": "image_matched"
     },
     {
       "lineNumber": 4,
       "text": "[REDACTED] said another party will contact me if he don't",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
-      "text": "in due time not any particular date. He said Russia is very",
+      "text": "due time not any particular date. He said Russia is very",
       "status": "image_matched"
     },
     {
       "lineNumber": 6,
-      "text": "well prepared for war and will make darn short work of Europe",
+      "text": "well prepared for war and will make damn short work of Europe",
       "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "and England, Spain, France & India, Japan & Philippines, and he",
+      "text": "England, Spain, France & India, Japan & Phillipines, and he",
       "status": "image_matched"
     },
     {
       "lineNumber": 8,
-      "text": "said it will be soon and when Russia starts it will make Hitlers",
+      "text": "says it will be soon and when Russia starts it will make Hitlers",
       "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "look like a lot of school kids. He says he thinks Russia",
-      "status": "image_matched"
+      "text": "[unclear] look like a lot of school kids He says he thinks Russia",
+      "status": "correction_required"
     },
     {
       "lineNumber": 10,
-      "text": "has 350 atomic bombs. If you want any plainer drawings",
-      "status": "image_matched"
+      "text": "has 350 Atomic bombs. If you want any plainer drawings",
+      "status": "correction_required"
     },
     {
       "lineNumber": 11,
@@ -76,13 +72,13 @@
     },
     {
       "lineNumber": 12,
-      "text": "if the Air tech. engineers will dope it out - you see I am",
+      "text": "the Air tech. engineers will dope it out - you see I am no",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "good on electronic gadgets as required on this saucer but",
-      "status": "image_matched"
+      "text": "[unclear] on electronic gadgets as required on this saucer but",
+      "status": "correction_required"
     },
     {
       "lineNumber": 14,
@@ -97,12 +93,11 @@
     {
       "lineNumber": 16,
       "text": "in plain envelope and address it to me at [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
-      "text": "Yuba City, Calif. The jet I pictured is just the same as",
+      "text": "Yuba City. Calif. The jet I pictured is just the same as",
       "status": "image_matched"
     },
     {

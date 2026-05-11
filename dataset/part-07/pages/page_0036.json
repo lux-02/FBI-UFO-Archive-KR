@@ -8,17 +8,12 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 9 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0036-l0004",
-    "page_0036-l0005",
-    "page_0036-l0009",
-    "page_0036-l0010"
-  ],
-  "lineCount": 16,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 19,
   "lines": [
     {
       "lineNumber": 1,
@@ -27,51 +22,48 @@
     },
     {
       "lineNumber": 2,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 3,
       "text": "I would like to know just how",
       "status": "image_matched"
     },
     {
+      "lineNumber": 3,
+      "text": "much [unclear] Donald Keyhoe's",
+      "status": "needs_image_check"
+    },
+    {
       "lineNumber": 4,
-      "text": "much [unclear] 02 21 5. Donald Keyhoe's",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "book \"The Flying Saucers Are Real\"",
+      "status": "image_matched"
     },
     {
       "lineNumber": 5,
-      "text": "book \"[REDACTED] Saucers Are Real\"",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 6,
       "text": "published this year by the Fawcett",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 6,
       "text": "Publications, Inc. Keyhoe quotes a",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 7,
       "text": "vast amount of information from the Air",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 8,
       "text": "Force, and the F.B.I. Sincerely yours,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 9,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
-      "text": "[unclear] 7-8-50 [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] 7-18-50 [unclear]",
+      "status": "correction_required"
     },
     {
       "lineNumber": 11,
@@ -79,25 +71,40 @@
     },
     {
       "lineNumber": 12,
+      "text": "RECORDS [unclear]",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 13,
+      "text": "RECEIVED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "JUL 21 5 [unclear] PM '50",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 15,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 16,
       "text": "RECORDED - 71",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 14,
-      "text": "162-93844-239",
+      "lineNumber": 17,
+      "text": "162-83844-239",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 18,
       "text": "JUL 17 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 19,
       "text": "3",
       "status": "image_matched"
     }

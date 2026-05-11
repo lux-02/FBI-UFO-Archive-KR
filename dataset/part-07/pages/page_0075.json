@@ -8,27 +8,21 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 11 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0075-l0004",
-    "page_0075-l0007",
-    "page_0075-l0012",
-    "page_0075-l0016",
-    "page_0075-l0017"
-  ],
-  "lineCount": 17,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 19,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "this uses centrifugal force and is all connected",
-      "status": "image_matched"
+      "text": "this uses centryfugal force and is all connected",
+      "status": "correction_required"
     },
     {
       "lineNumber": 2,
-      "text": "to weights that revolve at right angles to the pull on",
+      "text": "weights that revolve at right angles to the pull on",
       "status": "image_matched"
     },
     {
@@ -38,9 +32,8 @@
     },
     {
       "lineNumber": 4,
-      "text": "speed the wt of the revolving balls gives the pull to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "speed the wt. of the revolving balls gives the pull to",
+      "status": "image_matched"
     },
     {
       "lineNumber": 5,
@@ -49,14 +42,13 @@
     },
     {
       "lineNumber": 6,
-      "text": "the saucer.\" there are a bottom and top saucers",
+      "text": "the saucer\" there are a bottom and top saucers",
       "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "He said there is an up and down rudders",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "He said there is an up and down rudder",
+      "status": "correction_required"
     },
     {
       "lineNumber": 8,
@@ -65,7 +57,7 @@
     },
     {
       "lineNumber": 9,
-      "text": "handled by electronic gadgets at high speed",
+      "text": "handeled by electronic gadgets at high speed",
       "status": "image_matched"
     },
     {
@@ -75,14 +67,13 @@
     },
     {
       "lineNumber": 11,
-      "text": "and reinforced for strength they look something like this",
-      "status": "image_matched"
+      "text": "and reinforced for strength. they look something like this",
+      "status": "correction_required"
     },
     {
       "lineNumber": 12,
       "text": "the saucers it looks are air tight",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "image_matched"
     },
     {
       "lineNumber": 13,
@@ -90,25 +81,32 @@
     },
     {
       "lineNumber": 14,
+      "text": "[Drawing of a saucer-like object]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 15,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 16,
       "text": "these drawings are not much - but there is not much",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 17,
       "text": "to them as I cannot give dimensions our test",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 18,
       "text": "will have to figure that out as I am dam [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "correction_required"
     },
     {
-      "lineNumber": 17,
-      "text": "to find this out and be all to-gether.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 19,
+      "text": "to find this out and be all together.",
+      "status": "correction_required"
     }
   ],
   "blockCount": null

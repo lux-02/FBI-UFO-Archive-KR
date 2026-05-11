@@ -8,14 +8,12 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 16 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0010-l0016"
-  ],
-  "lineCount": 17,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 16,
   "lines": [
     {
       "lineNumber": 1,
@@ -29,7 +27,7 @@
     },
     {
       "lineNumber": 3,
-      "text": "Fourth. Has a newsreel, which appeared",
+      "text": "Fourth has a newsreel, which appeared",
       "status": "image_matched"
     },
     {
@@ -49,7 +47,7 @@
     },
     {
       "lineNumber": 7,
-      "text": "Fifth. Does the FBI consider knowledge",
+      "text": "Fifth Does the FBI consider knowledge",
       "status": "image_matched"
     },
     {
@@ -94,14 +92,8 @@
     },
     {
       "lineNumber": 16,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 17,
-      "text": "67c",
-      "status": "image_matched"
+      "text": "[REDACTED] 67C",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

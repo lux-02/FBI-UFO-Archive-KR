@@ -8,24 +8,12 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "11 permanent_unresolved line(s) excluded under SRC-896. 24 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0048-l0003",
-    "page_0048-l0004",
-    "page_0048-l0005",
-    "page_0048-l0007",
-    "page_0048-l0008",
-    "page_0048-l0010",
-    "page_0048-l0012",
-    "page_0048-l0013",
-    "page_0048-l0014",
-    "page_0048-l0015",
-    "page_0048-l0023"
-  ],
-  "lineCount": 48,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 50,
   "lines": [
     {
       "lineNumber": 1,
@@ -34,41 +22,37 @@
     },
     {
       "lineNumber": 2,
-      "status": "blank"
+      "text": "PCC/JP/020",
+      "status": "image_matched"
     },
     {
       "lineNumber": 3,
-      "text": "THE INSPE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 4,
-      "text": "17TH DISTRICT OFFICE",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 5,
-      "text": "KIRTLAND AIR FORCE BASE, NEW MEXICO",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 6,
       "status": "blank"
     },
     {
+      "lineNumber": 4,
+      "text": "THE INSPR GENERAL USAF",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "17TH DISTRICT OFFICE / SPECIAL INVESTIGATIONS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "text": "KIRTLAND AIR FORCE BASE, NEW MEXICO",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 7,
-      "text": "GENERAL USAF",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "14-1",
+      "status": "image_matched"
     },
     {
       "lineNumber": 8,
-      "text": "SPECIAL INVESTIGATIONS",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "5 July 1950",
+      "status": "image_matched"
     },
     {
       "lineNumber": 9,
@@ -76,46 +60,42 @@
     },
     {
       "lineNumber": 10,
-      "text": "File No: 24-R-D",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
-      "status": "blank"
+      "text": "67C",
+      "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "SUBJECT: UNIDENTIFIED FLYING OBJECT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 13,
-      "text": "sighted on 29 June 1950",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 14,
-      "text": "at Phoenix, Arizona",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 15,
-      "text": "SPECIAL INQUIRY",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 16,
       "status": "blank"
     },
     {
-      "lineNumber": 17,
-      "text": "TO:",
+      "lineNumber": 13,
+      "text": "File Not 24-0",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "SUBJECT: UNIDENTIFIED FLYING OBJECT",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 15,
+      "text": "sighted on 29 June 1950",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "at Phoenix, Arizona",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "SPECIAL INQUIRY",
+      "status": "correction_required"
     },
     {
       "lineNumber": 18,
@@ -123,8 +103,8 @@
     },
     {
       "lineNumber": 19,
-      "text": "Director of Special Investigations",
-      "status": "image_matched"
+      "text": "TO: Director of Special Investigations",
+      "status": "correction_required"
     },
     {
       "lineNumber": 20,
@@ -142,9 +122,8 @@
     },
     {
       "lineNumber": 23,
-      "text": "1. Reference is made to Spot Report [REDACTED] from this Headquarters",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "1. Reference is made to Spot Report T-X from this Headquarters",
+      "status": "image_matched"
     },
     {
       "lineNumber": 24,
@@ -162,98 +141,98 @@
     },
     {
       "lineNumber": 27,
-      "text": "2. An interview with 1st Lt. JOHN D. FINK, AF-23052, 93rd",
+      "text": "2. An interview with 1st Lt. JOHN D. FINK, AO-23052, 93rd",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "text": "Fighter Squadron, Kirtland AFB reveals that on 29 June 1950 at approxi-",
-      "status": "image_matched"
+      "text": "Fighter Squadron, Kirtland AFB reveals that on 29 June 1950 at approximately 1840 hours Lt. FINK sighted this object. Lt. [unclear] climbed to",
+      "status": "correction_required"
     },
     {
       "lineNumber": 29,
-      "text": "mately 1840 hours Lt. FINK sighted this object. Lt. FINK climbed to",
+      "text": "17,000 while flying an F-86 aircraft and observed that the object was",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "47,000 while flying an F-86 aircraft and observed that the object was",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 31,
       "text": "a bright balloon with instruments attached and was floating at an",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 31,
       "text": "altitude of 50,000 feet.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 32,
       "status": "blank"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 33,
       "text": "3. Lt. FINK described the speed of the balloon as being very",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
-      "text": "slow and further described the balloon as being an \"inverted pear",
-      "status": "image_matched"
+      "lineNumber": 34,
+      "text": "slow and further described the balloon as being an \"inverted [unclear]",
+      "status": "correction_required"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 35,
       "text": "drop\".",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
+      "lineNumber": 36,
       "status": "blank"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 37,
       "text": "4. Inasmuch as the previously unidentified object has been",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 38,
       "text": "positively identified as a balloon, further investigation will not",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 39,
       "text": "be conducted in this incident.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 41,
+      "lineNumber": 40,
       "status": "blank"
     },
     {
-      "lineNumber": 42,
-      "text": "RICHARD G. COX",
-      "status": "image_matched"
+      "lineNumber": 41,
+      "text": "RICHARD C. COX",
+      "status": "correction_required"
     },
     {
-      "lineNumber": 43,
+      "lineNumber": 42,
       "text": "MAJOR, USAF",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
+      "lineNumber": 43,
       "text": "District Commander",
       "status": "image_matched"
     },
     {
-      "lineNumber": 45,
+      "lineNumber": 44,
       "status": "blank"
     },
     {
+      "lineNumber": 45,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 46,
-      "text": "6 AUG 1950",
+      "text": "67C",
       "status": "image_matched"
     },
     {
@@ -262,8 +241,17 @@
     },
     {
       "lineNumber": 48,
-      "text": "62 83994",
+      "text": "6 AUG 1950",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 50,
+      "text": "62-83894",
+      "status": "correction_required"
     }
   ],
   "blockCount": null

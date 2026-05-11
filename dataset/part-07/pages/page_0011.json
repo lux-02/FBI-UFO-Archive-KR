@@ -8,48 +8,41 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 24 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0011-l0003",
-    "page_0011-l0008",
-    "page_0011-l0010",
-    "page_0011-l0012"
-  ],
-  "lineCount": 28,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 34,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "0",
+      "text": "94 132",
       "status": "image_matched"
     },
     {
       "lineNumber": 2,
-      "text": "0",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 3,
-      "text": "94132",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 4,
       "text": "RECORDED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 3,
       "text": "INDEXED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 4,
+      "text": "58",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
       "text": "62-83894-135",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
+      "status": "blank"
     },
     {
       "lineNumber": 7,
@@ -58,109 +51,128 @@
     },
     {
       "lineNumber": 8,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 9,
-      "text": "0",
-      "status": "image_matched"
+      "text": "[REDACTED] b7c",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 10,
-      "text": "[REDACTED] 67c",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 11,
       "text": "Elizabethtown, New York",
       "status": "image_matched"
     },
     {
+      "lineNumber": 11,
+      "status": "blank"
+    },
+    {
       "lineNumber": 12,
-      "text": "Dear [REDACTED] 67c",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Dear [REDACTED] b7c",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
       "text": "Your letter postmarked November 5, 1947,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "text": "has been received and I do want to thank you for",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
       "text": "writing as you did. The patriotic motives which",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "text": "prompted your suggestions concerning the subject",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "text": "about which you have written are indeed appreciated.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 19,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 20,
       "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 21,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 22,
       "text": "John Edgar Hoover",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 23,
       "text": "Director",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "text": "WN-1am",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "text": "COMMUNICATIONS SECTION",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 23,
-      "text": "MAILED 11",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 24,
-      "text": "NOV 10 1947 P.M.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 25,
-      "text": "FEDERAL BUREAU OF INVESTIGATION",
+      "text": "WN - 1 am",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "U. S. DEPARTMENT OF JUSTICE",
+      "text": "COMMUNICATIONS SECTION",
       "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "55 NOV 22 1947",
+      "text": "MAILED 11",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
+      "text": "NOV 10 1947 P.M.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 29,
+      "text": "FEDERAL BUREAU OF INVESTIGATION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "text": "U. S. DEPARTMENT OF JUSTICE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 32,
+      "text": "55 NOV 22 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 34,
       "text": "62-83894-135",
       "status": "image_matched"
     }

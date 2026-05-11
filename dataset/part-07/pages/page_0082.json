@@ -8,21 +8,17 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 13 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0082-l0001",
-    "page_0082-l0013"
-  ],
-  "lineCount": 15,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 22,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "up and down a mil as the weigh [unclear] revolves. the bearing moves",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "up and down a [unclear] as the weights revolve. the bearing moves",
+      "status": "correction_required"
     },
     {
       "lineNumber": 2,
@@ -41,57 +37,89 @@
     },
     {
       "lineNumber": 5,
-      "text": "shaft",
+      "text": "3",
       "status": "image_matched"
     },
     {
       "lineNumber": 6,
-      "text": "support",
+      "text": "shaft",
       "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "one",
+      "text": "support",
       "status": "image_matched"
     },
     {
       "lineNumber": 8,
-      "text": "cable",
+      "text": "one",
       "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "engine shaft",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "text": "and one cog wheels mate, there is a sliding key and way",
+      "text": "cable",
       "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": "shaft at 2 and the cog wheel one on engine shaft turns",
+      "text": "cable",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "shaft 3 causing the weight to revolve. the cog wheels 4 & 4",
+      "text": "one",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "drive a [unclear] plate 4 & 4 and shaft 3 run even, i.e. both the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "engine shaft",
+      "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "same R.P.M. This is the mechanism of the thing as near",
+      "text": "4",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
+      "text": "4",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 17,
+      "text": "and one cog wheels mate. there is a sliding key and way",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 18,
+      "text": "shaft at 2. and the cog wheel one on engine shaft turns",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 19,
+      "text": "shaft 3 causing the weights to revolve. the cog wheels 4 & 4",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 20,
+      "text": "drive swivel plate. 4 & 4 and shaft 3 run even, i.e. both the",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 21,
+      "text": "same R.P.M. This is the mechanism of the thing as near",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
       "text": "as I can remember it from the drawings.",
       "status": "image_matched"
     }

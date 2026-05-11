@@ -8,106 +8,131 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 15 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0009-l0016",
-    "page_0009-l0018"
-  ],
-  "lineCount": 18,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 25,
   "lines": [
     {
       "lineNumber": 1,
+      "text": "[REDACTED] 670",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 2,
       "text": "New York",
       "status": "image_matched"
     },
     {
-      "lineNumber": 2,
+      "lineNumber": 3,
       "text": "November 2, 1947",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 5,
       "text": "Dear Sir:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 6,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 7,
       "text": "In regards to the \"flying saucer\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 8,
       "text": "mystery which recently received national",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "text": "publicity, I, as a citizen, would like to ask a",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
-      "text": "few questions. If you, as head of the FBI",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 8,
-      "text": "would be so kind as to answer, I would be",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 9,
-      "text": "greatly appreciative.",
+      "text": "publicity, I, as a Citizen, would like to ask a",
       "status": "image_matched"
     },
     {
       "lineNumber": 10,
-      "status": "blank"
+      "text": "few questions. If you, as head of the FBI",
+      "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": "First, has the FBI been and is the",
+      "text": "would be so kind as to answer. I would be",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "FBI still investigating the \"flying saucers\"?",
+      "text": "greatly appreciative.",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "Second, were copies of the July 7, 1947,",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 14,
-      "text": "issue of the Arizona Republic published in",
+      "text": "First, has the FBI been and is the",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "Phoenix, Arizona confiscated by the FBI?",
+      "text": "FBI still investigating the \"flying saucers\"?",
       "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "Third, is the FBI investigating the [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 17,
-      "text": "Shaver Mystery\" in which an author named",
+      "text": "Second, were copies of the July 7th, 1947",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "[unclear] Shaver claims there are people",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "issue of the Arizona Republic published in",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "Phoenix, Arizona confiscated by the FBI?",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 21,
+      "text": "Third, is the FBI investigating the [unclear]",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 22,
+      "text": "\"Shaver Mystery\" in which an author named",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "text": "[REDACTED] Shaver claims there are people",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 24,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 25,
+      "text": "RECORDED 62-83894-136",
+      "status": "image_matched"
     }
   ],
   "blockCount": null

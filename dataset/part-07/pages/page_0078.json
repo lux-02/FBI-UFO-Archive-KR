@@ -8,163 +8,122 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "20 permanent_unresolved line(s) excluded under SRC-896. 2 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0078-l0002",
-    "page_0078-l0003",
-    "page_0078-l0004",
-    "page_0078-l0005",
-    "page_0078-l0006",
-    "page_0078-l0007",
-    "page_0078-l0008",
-    "page_0078-l0009",
-    "page_0078-l0010",
-    "page_0078-l0011",
-    "page_0078-l0012",
-    "page_0078-l0014",
-    "page_0078-l0015",
-    "page_0078-l0016",
-    "page_0078-l0017",
-    "page_0078-l0018",
-    "page_0078-l0019",
-    "page_0078-l0020",
-    "page_0078-l0021",
-    "page_0078-l0022"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 22,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "says at high altitudes the act will speed",
-      "status": "image_matched"
+      "text": "[REDACTED] says at high altitudes the set will speed",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 2,
-      "text": "to - well he don't know but it is a terrific speed",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "up to - well he don't know but it is a terrific speed",
+      "status": "image_matched"
     },
     {
       "lineNumber": 3,
-      "text": "said he thought 10 thousand mi, per hr.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "he said he thought 10 thousand mi. per. hr.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 4,
-      "text": "How this does not look like a lot of horse feathers",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Now this does not look like a lot of horse feathers",
+      "status": "correction_required"
     },
     {
       "lineNumber": 5,
-      "text": "I am putting it into your hands as if it is a trap.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "so I am putting it into your hands as if it is a trap",
+      "status": "image_matched"
     },
     {
       "lineNumber": 6,
-      "text": "me its only you can get me in dutch and I know",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "for me its only you can get me in dutch and I know",
+      "status": "correction_required"
     },
     {
       "lineNumber": 7,
-      "text": "won't do that - but get it into our army chiefs hands",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "you won't do that - but get it into our army chiefs hand",
+      "status": "correction_required"
     },
     {
       "lineNumber": 8,
-      "text": "I do not know if this will fly or not - but on the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "for I do not know if this will fly or not - but on the",
+      "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "her hand it may be all O.K. so what.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "other hand it may be all O.K. so what.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 10,
-      "text": "[REDACTED] is 5 feet 8\" tall wt. 175 square faced - quite",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] is 5 feet 8 tall wt. 175 square faced quite",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
-      "text": "large mouth gold teeth left side upper light hair sort of red chieled",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "large mouth gold teeth left side upper light hair sort of red chisted",
+      "status": "correction_required"
     },
     {
       "lineNumber": 12,
-      "text": "arms all around stout square hands short fat fingers",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "big arms all around stout square hands short fat fingers",
+      "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "talks good english - blue eyes. has friends in Buffalo",
+      "text": "and talks good english - blue eyes. has friends in Buffalo",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
       "text": "Iowa, is a Russian Pole and was in world two in Europe.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "correction_required"
     },
     {
       "lineNumber": 15,
-      "text": "He has gone to Dutchicans he knows some folks",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "He has gone to Ketchican he knows some folks",
+      "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "here he said he got off a submarine and gave a fisherman",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "there he said he got off a submarine and gave a fisherman",
+      "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "sum of money to get him ashore, near Eureka and he said",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "a sum of money to get him ashore near Eureka and he said",
+      "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "was drifting ashore in a drift boat made of rubber, when",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "he was drifting inshore in a drift boat made of rubber when",
+      "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "picked up he said there was nothing to it getting ashore.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "picked up - he said there was nothing to it getting ashore.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "When you give this to the Army Chiefs keep",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "When you give this to the army chiefs keep",
+      "status": "image_matched"
     },
     {
       "lineNumber": 21,
       "text": "my name out of it - I want to get a lot more information to give",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "image_matched"
     },
     {
       "lineNumber": 22,
       "text": "you.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "image_matched"
     }
   ],
   "blockCount": null

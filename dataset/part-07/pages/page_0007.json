@@ -8,21 +8,12 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 25 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0007-l0012",
-    "page_0007-l0014",
-    "page_0007-l0016",
-    "page_0007-l0018",
-    "page_0007-l0020",
-    "page_0007-l0021",
-    "page_0007-l0030",
-    "page_0007-l0034"
-  ],
-  "lineCount": 40,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 48,
   "lines": [
     {
       "lineNumber": 1,
@@ -77,9 +68,8 @@
     },
     {
       "lineNumber": 12,
-      "text": "of a Mr. [REDACTED], Red Cross,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "of a Mr. [REDACTED] of",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
@@ -88,9 +78,8 @@
     },
     {
       "lineNumber": 14,
-      "text": "Red Cross dinner, I was told by Dr. [REDACTED], local practicing",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Red Cross dinner, I was told by Dr. [REDACTED] a local practicing",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
@@ -100,8 +89,7 @@
     {
       "lineNumber": 16,
       "text": "[REDACTED] told him that the \"saucers\" reported as seen in various",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
@@ -111,8 +99,7 @@
     {
       "lineNumber": 18,
       "text": "[REDACTED] said that this had been ascertained by the Government in",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 19,
@@ -122,14 +109,12 @@
     {
       "lineNumber": 20,
       "text": "Mr. [REDACTED] had been in Europe and inferred that he had been in",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,
       "text": "Spain and knew conditions over there. Dr. [REDACTED] is a man active",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 22,
@@ -153,7 +138,7 @@
     },
     {
       "lineNumber": 26,
-      "text": "As a representative of the Federal Government and as a",
+      "text": "As a representative man of the Federal Government and as a",
       "status": "image_matched"
     },
     {
@@ -174,8 +159,7 @@
     {
       "lineNumber": 30,
       "text": "the record\". I thought you might be able to check with Mr. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 31,
@@ -193,36 +177,72 @@
     },
     {
       "lineNumber": 34,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 35,
       "status": "blank"
     },
     {
+      "lineNumber": 35,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 36,
-      "text": "62-83894-137",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 37,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 38,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 39,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 40,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 41,
+      "text": "53 DEC 1 1947",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 42,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 43,
+      "text": "HANDLE",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "STOP DESK",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 46,
+      "text": "62-83894-131",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 47,
       "text": "19 NOV 24 1947",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 39,
-      "text": "2335",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "text": "53 DEC 1 1947",
+      "lineNumber": 48,
+      "text": "RF",
       "status": "image_matched"
     }
   ],

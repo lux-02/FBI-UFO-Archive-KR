@@ -8,32 +8,17 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "13 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0001-l0001",
-    "page_0001-l0010",
-    "page_0001-l0012",
-    "page_0001-l0014",
-    "page_0001-l0016",
-    "page_0001-l0020",
-    "page_0001-l0023",
-    "page_0001-l0026",
-    "page_0001-l0027",
-    "page_0001-l0028",
-    "page_0001-l0037",
-    "page_0001-l0039",
-    "page_0001-l0041"
-  ],
-  "lineCount": 44,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 52,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "Office Memo...tum • UNITED STO GOVERNMENT",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Office Memorandum • UNITED ST[unclear] GOVERNMENT",
+      "status": "correction_required"
     },
     {
       "lineNumber": 2,
@@ -41,22 +26,21 @@
     },
     {
       "lineNumber": 3,
-      "text": "TO : DIRECTOR, FBI DATE: October 9, 1947",
+      "text": "TO : DIRECTOR, FBI",
       "status": "image_matched"
     },
     {
       "lineNumber": 4,
-      "text": "FROM : SAC, PORTLAND",
+      "text": "DATE: October 9, 1947",
       "status": "image_matched"
     },
     {
       "lineNumber": 5,
-      "text": "SUBJECT: FLYING DISCS",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
-      "text": "SECURITY MATTER - X.",
+      "text": "FROM : SAC, PORTLAND",
       "status": "image_matched"
     },
     {
@@ -65,170 +49,160 @@
     },
     {
       "lineNumber": 8,
-      "text": "Reference is made to Portland teletype dated September 13, 1947.",
+      "text": "SUBJECT: FLYING DISCS",
       "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "status": "blank"
+      "text": "SECURITY MATTER - X.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 10,
-      "text": "[REDACTED] Madison Ave., Portland, advised that he was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 11,
-      "text": "one of the two officers on duty in District 18 on September 11. The car was in",
+      "text": "Reference is made to Portland teletype dated September 13, 1947.",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "the vicinity of N.E. 25th Avenue and Saratoga Court when [REDACTED] and his fellow",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 13,
-      "text": "officer noticed a number of people looking upward and pointing. Upon looking at",
-      "status": "image_matched"
+      "text": "[REDACTED] 67[unclear]",
+      "status": "correction_required"
     },
     {
       "lineNumber": 14,
-      "text": "the sky [REDACTED] observed the very bright reflection of the sun on some object",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] Madison Ave., Portland, advised that he was",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
-      "text": "which was apparently made of silvery metal. The object was coming from the east",
+      "text": "one of the two officers on duty in District 18 on September 11. The car was in",
       "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "and made a wide turn over the city and disappeared to the south. [REDACTED] estimated",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "the vicinity of N.E. 25th Avenue and Saratoga Court when [REDACTED] and his fellow",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
-      "text": "its speed at about 150 miles per hour and its altitude at about 5,000 feet.",
+      "text": "officer noticed a number of people looking upward and pointing. Upon looking at",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "He watched it for a period of about two minutes and during that time it gradually",
-      "status": "image_matched"
+      "text": "the sky [REDACTED] observed the very bright reflection of the sun on some object",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 19,
-      "text": "disappeared in such a manner as to appear that the angle was slowly changing,",
+      "text": "which was apparently made of silvery metal. The object was coming from the east",
       "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "so that the sun was no longer reflected into [REDACTED] eyes. He says that the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "and made a wide turn over the city and disappeared to the south. [REDACTED] estimated",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,
-      "text": "object appeared to be round but that the glare was so bright that it could have",
+      "text": "its speed at about 150 miles per hour and its altitude at about 5,000 feet. 67C",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "text": "hidden the true outline of the object. There was no oscillation visible - only",
+      "text": "He watched it for a period of about two minutes and during that time it gradually",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "steady flight. [REDACTED] believes it was an ordinary metal airplane reflecting light",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "disappeared in such a manner as to appear that the angle was slowly changing,",
+      "status": "image_matched"
     },
     {
       "lineNumber": 24,
+      "text": "so that the sun was no longer reflected into [REDACTED] eyes. He says that the",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 25,
+      "text": "shape appeared to be round but that the glare was so bright that it could have",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 26,
+      "text": "hidden the true outline of the object. There was no oscillation visible - only",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "steady flight. [REDACTED] believes it was an ordinary metal airplane reflecting light",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 28,
       "text": "of the afternoon sun.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 29,
       "status": "blank"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 30,
       "text": "[REDACTED] Lincoln St., Portland, Oregon was [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 31,
       "text": "partner in District 18 on September 11. [REDACTED] states that the object appear-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 28,
-      "text": "ed to him to take the same course as that described by [REDACTED] He pointed out",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 32,
+      "text": "ed to him to take the same course as that described by [REDACTED]. He pointed out",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 33,
       "text": "that the speed, height, and size of the object were difficult to judge, because",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 34,
       "text": "of the interdependence of the three factors. However, he believes that the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
-      "text": "object when first sighted was about three miles away and about two miles high.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "text": "He believes it was traveling at a much greater speed than a conventional air-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
-      "text": "plane and was a great deal larger. It appeared to him to be elliptical in",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 34,
-      "text": "shape, and inasmuch as it did not bank or tip he could not judge its thickness.",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 35,
-      "text": "It was of a very bright silver or aluminum substance.",
+      "text": "object when first sighted was about three miles away and about two miles high. 67C",
       "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "status": "blank"
+      "text": "He believes it was traveling at a much greater speed than a conventional air-",
+      "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "plane and was a great deal larger. It appeared to him to be elliptical in",
+      "status": "image_matched"
     },
     {
       "lineNumber": 38,
-      "status": "blank"
+      "text": "shape, and inasmuch as it did not bank or tip he could not judge its thickness.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "It was of a very bright silver or aluminum substance.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 40,
@@ -236,23 +210,61 @@
     },
     {
       "lineNumber": 41,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] [unclear] [unclear] 10/1[unclear]/47",
+      "status": "correction_required"
     },
     {
       "lineNumber": 42,
-      "status": "blank"
+      "text": "[unclear] Army",
+      "status": "correction_required"
     },
     {
       "lineNumber": 43,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 44,
+      "text": "231",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
       "text": "COPIES DESTROYED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 44,
-      "text": "270 NOV 18 1964",
+      "lineNumber": 46,
+      "text": "[unclear] 270 NOV 18 1964",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 47,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 48,
+      "text": "RECORDED",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 49,
+      "text": "EX-93",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 50,
+      "text": "62-83894-131",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "text": "1[unclear] [unclear]",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 52,
+      "text": "5[unclear]",
+      "status": "correction_required"
     }
   ],
   "blockCount": null

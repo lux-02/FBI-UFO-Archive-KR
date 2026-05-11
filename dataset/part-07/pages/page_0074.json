@@ -8,24 +8,17 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 28 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0074-l0001",
-    "page_0074-l0003",
-    "page_0074-l0005",
-    "page_0074-l0013",
-    "page_0074-l0017"
-  ],
-  "lineCount": 33,
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 27,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "power to run them and [unclear] says it can go over",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "power to run them and Ubalsty says it can go over",
+      "status": "image_matched"
     },
     {
       "lineNumber": 2,
@@ -35,8 +28,7 @@
     {
       "lineNumber": 3,
       "text": "feet and more. Well give these sketches to our army",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "image_matched"
     },
     {
       "lineNumber": 4,
@@ -45,90 +37,84 @@
     },
     {
       "lineNumber": 5,
-      "text": "but I think [unclear] lied some but it looks kinda good",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "about I think Ubalsty lied some but it looks kinda good",
+      "status": "image_matched"
     },
     {
       "lineNumber": 6,
-      "text": "and that Russia has a lot of them.",
+      "text": "and that Russia has a lot of them",
       "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "collar",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
-      "text": "spreader",
+      "text": "[Diagram with labels]",
       "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "to hold side",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "text": "apart",
+      "text": "weights revolving inside saucer",
       "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": "weights revolving inside",
+      "text": "slides horizontal to keep weights centered as they revolve",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "saucer",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "slides horizontal",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 14,
-      "text": "to keep weights centered",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "text": "as they revolve",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 16,
       "text": "center stanchion of saucer",
       "status": "image_matched"
     },
     {
+      "lineNumber": 13,
+      "text": "slides horizontal to keep weights centered as they revolve",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
+      "text": "weights revolving inside saucer",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 16,
+      "text": "collar",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 17,
-      "text": "slides horizontal",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "spreader to hold collar apart",
+      "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "to keep weights centered",
+      "text": "long pin weights",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "as they revolve",
+      "text": "ball bearing on which weight pulls against",
       "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "weights revolving inside",
+      "text": "collar",
       "status": "image_matched"
     },
     {
       "lineNumber": 21,
-      "text": "saucer",
+      "text": "spreader to hold collar apart",
       "status": "image_matched"
     },
     {
@@ -138,57 +124,26 @@
     },
     {
       "lineNumber": 23,
-      "text": "spreader to hold",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 24,
-      "text": "center apart",
+      "text": "[Upside-down stamp]",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "ball bearing around which",
+      "text": "DEPT. OF JUSTICE",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "the non-turn center",
-      "status": "image_matched"
+      "text": "NOV 10 3 42 PM '52",
+      "status": "correction_required"
     },
     {
       "lineNumber": 27,
-      "text": "revolves and which",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
-      "text": "holds the weight full",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 29,
-      "text": "upright",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
       "text": "JONES",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 31,
-      "text": "APR 10 1950",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "text": "3:41 PM",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
-      "text": "DEPT. OF JUSTICE",
       "status": "image_matched"
     }
   ],

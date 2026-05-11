@@ -8,34 +8,21 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 4 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0076-l0001",
-    "page_0076-l0006",
-    "page_0076-l0007",
-    "page_0076-l0008",
-    "page_0076-l0009",
-    "page_0076-l0010",
-    "page_0076-l0011",
-    "page_0076-l0012",
-    "page_0076-l0013",
-    "page_0076-l0014"
-  ],
-  "lineCount": 14,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 18,
   "lines": [
     {
       "lineNumber": 1,
       "text": "The saucers are launched by a caty ult.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "correction_required"
     },
     {
       "lineNumber": 2,
-      "text": "bolt",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
@@ -44,67 +31,76 @@
     },
     {
       "lineNumber": 4,
-      "text": "ball bearing for swivel",
+      "text": "slide guide",
       "status": "image_matched"
     },
     {
       "lineNumber": 5,
-      "text": "ball bearing on both",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
-      "text": "These saucers are 30 feet and more in dia and are",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "ball bearing for swivel",
+      "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "very heavy Whalsky says. The plane division of our",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "bolt",
+      "status": "image_matched"
     },
     {
       "lineNumber": 8,
-      "text": "army can some figure this out I cannot as it is",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "ball bearing on bolt",
+      "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "out of my line but I seen the mechanics of it I did",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 10,
-      "text": "not see any propellor on it in the drawings I saw",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "These saucers are 30 feet and more in dia and not",
+      "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": "it has a jet on it to so Whalsky says.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "very heavy Whalsky says. The plane division of our",
+      "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "They use pellets in a case in the jet",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear] can soon figure this out I cannot as it is",
+      "status": "correction_required"
     },
     {
       "lineNumber": 13,
-      "text": "and it fires like a cannon and the recoil sends the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "out of my line but I seen the mechanics of it I did",
+      "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "saucers very fast.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "not see any propellor on it in the drawings I saw",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 15,
+      "text": "It has a jet on it to so Whalsky says.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 16,
+      "text": "They use pellets in a case in the jet",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "and it fires like a cannon and the recoil sends the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 18,
+      "text": "saucer very fast.",
+      "status": "image_matched"
     }
   ],
   "blockCount": null

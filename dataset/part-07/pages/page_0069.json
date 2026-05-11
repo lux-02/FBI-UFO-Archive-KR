@@ -8,14 +8,11 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 1 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0069-l0002",
-    "page_0069-l0003"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 3,
   "lines": [
     {
@@ -25,15 +22,12 @@
     },
     {
       "lineNumber": 2,
-      "text": "This drawing has no equations and left to itself it will not float",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "The equations are absolutely necessary to make it float",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "This drawing has no equations on left side of it / or on it with both [unclear]",
+      "status": "correction_required"
     }
   ],
   "blockCount": null

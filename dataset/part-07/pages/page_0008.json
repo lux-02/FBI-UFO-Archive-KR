@@ -8,50 +8,44 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 28 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0008-l0007",
-    "page_0008-l0009"
-  ],
-  "lineCount": 36,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 34,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "O",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 2,
-      "text": "O",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 3,
       "text": "November 8, 1947",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 2,
       "status": "blank"
     },
     {
-      "lineNumber": 5,
-      "text": "67C",
-      "status": "image_matched"
+      "lineNumber": 3,
+      "text": "[REDACTED] 67C",
+      "status": "correction_required"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 4,
       "text": "Brooklyn 27, New York",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 5,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 6,
       "text": "Dear Mr. [REDACTED] 67C",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 7,
+      "status": "blank"
     },
     {
       "lineNumber": 8,
@@ -60,9 +54,8 @@
     },
     {
       "lineNumber": 9,
-      "text": "RECORDED has been received. The information contained",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "has been received. The information contained",
+      "status": "image_matched"
     },
     {
       "lineNumber": 10,
@@ -71,127 +64,117 @@
     },
     {
       "lineNumber": 11,
-      "text": "&",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
       "text": "confidential and available for official use",
       "status": "image_matched"
     },
     {
+      "lineNumber": 12,
+      "text": "only, and I am unable to be of any assistance",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 13,
-      "text": "INDEXED only, and I am unable to be of any assistance",
+      "text": "to you. I am sure you will draw no inference",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "82 to you. I am sure you will draw no inference",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
       "text": "from my inability to comply with your request.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "status": "blank"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 16,
       "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 17,
       "status": "blank"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 18,
       "text": "John Edgar Hoover",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 19,
       "text": "Director",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 20,
       "status": "blank"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 21,
       "text": "NOTE: This individual asked questions concerning",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 22,
       "text": "flying saucers and the Bureau's investigation of",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 23,
       "text": "Russians.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 24,
       "text": "Postal Guide reflects, Ridgewood is a",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
-      "text": "- branch of the Brooklyn Station.",
+      "lineNumber": 25,
+      "text": "branch of the Brooklyn Station.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 26,
       "status": "blank"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 27,
       "text": "COMMUNICATIONS SECTION",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 28,
       "text": "MAILED 12",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 29,
       "text": "NOV 8 1947 P.M.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 30,
       "text": "FEDERAL BUREAU OF INVESTIGATION",
       "status": "image_matched"
     },
     {
+      "lineNumber": 31,
+      "text": "U.S. DEPARTMENT OF JUSTICE",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 32,
-      "text": "U. S. DEPARTMENT OF JUSTICE",
+      "text": "NOV 22 1947",
       "status": "image_matched"
     },
     {
       "lineNumber": 33,
-      "text": "NOV 221947",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 34,
-      "text": "63",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 35,
       "status": "blank"
     },
     {
-      "lineNumber": 36,
-      "text": "62-43894-186",
+      "lineNumber": 34,
+      "text": "62-83894-186",
       "status": "image_matched"
     }
   ],

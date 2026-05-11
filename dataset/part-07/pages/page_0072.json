@@ -8,14 +8,12 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 25 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0072-l0003"
-  ],
-  "lineCount": 33,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 35,
   "lines": [
     {
       "lineNumber": 1,
@@ -28,70 +26,69 @@
     },
     {
       "lineNumber": 3,
-      "text": "[unclear] City, California",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
-      "text": "INDEXED 74",
+      "text": "Yuba City, California",
       "status": "image_matched"
     },
     {
       "lineNumber": 5,
-      "text": "RECORDED 74-3894-226",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 6,
       "status": "blank"
     },
     {
+      "lineNumber": 6,
+      "text": "INDEXED - 74",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 7,
+      "text": "RECORDED - 74 3894-226",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 8,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 9,
       "text": "Your letters of April 8, 1950, have been",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 10,
       "text": "received and I want to thank you for writing to me",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 11,
       "text": "as you did.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
       "status": "blank"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 13,
       "text": "It is suggested, however, that you may wish",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 14,
       "text": "to communicate directly with the Secretary of the Army,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 15,
       "text": "National Defense Building, Washington, D. C., with",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
-      "text": "reference to the matter you mentioned.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 15,
-      "status": "blank"
-    },
-    {
       "lineNumber": 16,
-      "text": "Sincerely yours,",
+      "text": "reference to the matter you mentioned.",
       "status": "image_matched"
     },
     {
@@ -100,79 +97,88 @@
     },
     {
       "lineNumber": 18,
-      "text": "John Edgar Hoover",
+      "text": "Sincerely yours,",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 20,
+      "text": "John Edgar Hoover",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
       "text": "Director",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 22,
       "status": "blank"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 23,
       "text": "MAILED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 24,
       "text": "APR 18 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 25,
       "text": "COMM-FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 26,
       "status": "blank"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 27,
       "text": "NOTE: Correspondent advises he has been in contact",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 28,
       "text": "with the Buffalo Office and states that he has deemed",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 29,
       "text": "the information he has furnished with reference to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 30,
       "text": "flying saucers important enough to write direct to",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 31,
       "text": "the Bureau. He advises that he desires us to use a",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 32,
       "text": "plain envelope in connection with our reply and further",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 33,
       "text": "stipulates that he does not desire that his name be",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
-      "text": "furnished to \"Army chiefs.\" He has stated that he \"wants",
+      "lineNumber": 34,
+      "text": "furnished to \"Army officers.\" He has stated that he \"wants",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 35,
       "text": "to get a lot more information to give to you.\"",
       "status": "image_matched"
     }

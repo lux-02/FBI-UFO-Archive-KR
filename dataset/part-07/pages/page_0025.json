@@ -8,21 +8,11 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "9 permanent_unresolved line(s) excluded under SRC-896. 10 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0025-l0003",
-    "page_0025-l0004",
-    "page_0025-l0008",
-    "page_0025-l0011",
-    "page_0025-l0015",
-    "page_0025-l0016",
-    "page_0025-l0017",
-    "page_0025-l0018",
-    "page_0025-l0023"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 25,
   "lines": [
     {
@@ -37,14 +27,12 @@
     {
       "lineNumber": 3,
       "text": "Mr. [REDACTED] states that no one connected with the [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
       "text": "knows of anyone named [REDACTED], nor do they know of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
@@ -63,8 +51,7 @@
     {
       "lineNumber": 8,
       "text": "Mr. [REDACTED] stated he did not want to publish this letter as he felt",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
@@ -79,8 +66,7 @@
     {
       "lineNumber": 11,
       "text": "other correspondence from [REDACTED]. He felt that [REDACTED] might",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 12,
@@ -99,26 +85,22 @@
     {
       "lineNumber": 15,
       "text": "There was no return address for [REDACTED] on either the envelope or",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 16,
       "text": "the letter. There is, however, an [REDACTED] listed in the",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 17,
-      "text": "telephone directory at [REDACTED] and an [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "telephone directory at [REDACTED] and an",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
-      "text": "at [REDACTED], Chicago.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] Chicago.",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 19,
@@ -141,8 +123,7 @@
     {
       "lineNumber": 23,
       "text": "The Chicago indices are negative regarding [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 24,

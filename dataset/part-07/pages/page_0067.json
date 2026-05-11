@@ -8,31 +8,22 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 13 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0067-l0001",
-    "page_0067-l0002",
-    "page_0067-l0005",
-    "page_0067-l0018",
-    "page_0067-l0019",
-    "page_0067-l0020"
-  ],
-  "lineCount": 20,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 21,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "I do not believe [unclear] is \"horse feathers\" so much as I did",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "I do not believe it is \"horse feathers\" so much as I did",
+      "status": "image_matched"
     },
     {
       "lineNumber": 2,
-      "text": "the drawings sent you sat. Ubalsty said on the saucer",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "the drawings sent you sat. Ubalsky said on the saucer",
+      "status": "image_matched"
     },
     {
       "lineNumber": 3,
@@ -41,14 +32,13 @@
     },
     {
       "lineNumber": 4,
-      "text": "will help at a hell of speed. The jets are used on take off",
-      "status": "image_matched"
+      "text": "pull [unclear] at a hell of speed. The jets are used on take off",
+      "status": "correction_required"
     },
     {
       "lineNumber": 5,
       "text": "there is wheels on the saucer there are 3 wheels they are pulled",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "image_matched"
     },
     {
       "lineNumber": 6,
@@ -72,7 +62,7 @@
     },
     {
       "lineNumber": 10,
-      "text": "on them. Ubalsty said the big saucers are oblong fore and aft",
+      "text": "on them. Ubalsky said the big saucers are oblong fore and aft",
       "status": "image_matched"
     },
     {
@@ -87,7 +77,7 @@
     },
     {
       "lineNumber": 13,
-      "text": "draw it!",
+      "text": "draw it.",
       "status": "image_matched"
     },
     {
@@ -96,36 +86,37 @@
     },
     {
       "lineNumber": 15,
-      "text": "I will mail this from Ukiah monday 10th 1950 and",
+      "text": "I will mail this from Ukiah monday 10th, 1950 and",
       "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "trust you will put this into the right hands.",
+      "text": "trust you will put this into the right hands",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 18,
       "text": "Yours Truly",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 19,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 20,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 21,
       "text": "Yuba City Calif.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "image_matched"
     }
   ],
   "blockCount": null

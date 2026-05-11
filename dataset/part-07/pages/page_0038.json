@@ -8,44 +8,36 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 37 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0038-l0018",
-    "page_0038-l0026",
-    "page_0038-l0034",
-    "page_0038-l0038",
-    "page_0038-l0042",
-    "page_0038-l0043"
-  ],
-  "lineCount": 43,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 42,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "C",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 2,
       "text": "FEDERAL BUREAU OF INVESTIGATION",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
+      "lineNumber": 2,
       "text": "U. S. DEPARTMENT OF JUSTICE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 3,
       "text": "COMMUNICATIONS SECTION",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
-      "text": "JUL 4-1950",
+      "lineNumber": 4,
+      "text": "JUL 4 1950",
       "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "status": "blank"
     },
     {
       "lineNumber": 6,
@@ -54,194 +46,175 @@
     },
     {
       "lineNumber": 7,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 8,
       "text": "FBI HOUSTON",
       "status": "image_matched"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "7-4-50",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
+      "text": "2-35 PM CST",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 11,
       "text": "DIRECTOR",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 12,
       "text": "URGENT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 13,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 14,
       "text": "FLYING DISC REPORTED TO HAVE BEEN FOUND NEAR ALICE, TEXAS JULY FOURTH",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 15,
       "text": "INFORMATION CONCERNING. SAN ANTONIO TELEPHONICALLY ADVISED THIS OFFICE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 16,
       "text": "BUREAU BEING INFORMED THAT SUBJECT DISC DESCRIBED AS APPROXIMATELY",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 17,
       "text": "FIVE FEET IN DIAMETER, ELYPTICAL IN SHAPE AND BEARING SERIAL NUMBER",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 18,
       "text": "X DASH ONE FOUR SEVEN A AND INSTRUCTIONS QUOTE DO NOT TOUCH",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 19,
       "text": "UNQUOTE. RESIDENT AGENT CORPUS CHRISTI STATES THAT LOCAL RADIO REPORTS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 20,
       "text": "THIS DISCOVERY TO BE A HOAX. FURTHER INQUIRY BEING MADE AND BUREAU",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 21,
       "text": "WILL BE ADVISED. CAPTAIN [REDACTED] SECURITY OFFICER ELLINGTON",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 22,
       "text": "FIELD AIR FORCE ADVISED AND REPORTED HIS OFFICE HAD NO INFORMATION RE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 23,
       "text": "SUBJECT DISC. PRESS INQUIRIES OF THIS OFFICE WILL BE ANSWERED WITH",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 24,
       "text": "NO COMMENT UACB.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
       "text": "RECORDED - 118",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 27,
       "text": "LORTON",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
-      "text": "END AC PLS",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "text": "OK FBI WASH DC CCW",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "text": "JUL 241350",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 27,
-      "text": "Mr. Tolson",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 28,
-      "text": "Mr. Ladd",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 29,
-      "text": "Mr. Clegg",
+      "text": "62-83894-26",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "Mr. Glavin",
-      "status": "image_matched"
+      "text": "[unclear] 19 [unclear]",
+      "status": "correction_required"
     },
     {
       "lineNumber": 31,
-      "text": "Mr. Nichols",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 32,
-      "text": "Mr. Rosen",
+      "text": "cc: Mr. Belmont",
       "status": "image_matched"
     },
     {
       "lineNumber": 33,
-      "text": "Mr. Tracy",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 34,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "END AC PLS",
+      "status": "image_matched"
     },
     {
       "lineNumber": 35,
-      "text": "Mr. Belmont",
+      "text": "OK FBI WASH DC CCW",
       "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "text": "Mr. Mohr",
+      "text": "JUL 24 1950",
       "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "text": "Tele. Room",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 38,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "EX. 94",
+      "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "text": "Miss Gandy",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 40,
-      "text": "62-83994-26",
-      "status": "image_matched"
+      "text": "7-4-50. 445 PM Press release O.K.",
+      "status": "correction_required"
     },
     {
       "lineNumber": 41,
-      "text": "EX94",
-      "status": "image_matched"
+      "text": "Per Mr. [unclear]",
+      "status": "correction_required"
     },
     {
       "lineNumber": 42,
-      "text": "7-4-50 44PM Press release O.K.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 43,
-      "text": "By Mr. Thelbert",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "E",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

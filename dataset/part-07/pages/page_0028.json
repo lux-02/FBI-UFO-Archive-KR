@@ -8,18 +8,12 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 22 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0028-l0022",
-    "page_0028-l0024",
-    "page_0028-l0025",
-    "page_0028-l0036",
-    "page_0028-l0046"
-  ],
-  "lineCount": 46,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 36,
   "lines": [
     {
       "lineNumber": 1,
@@ -32,7 +26,7 @@
     },
     {
       "lineNumber": 3,
-      "text": "Office Memorandum",
+      "text": "Office Memorandum • UNITED STATES GOVERNMENT",
       "status": "image_matched"
     },
     {
@@ -41,49 +35,49 @@
     },
     {
       "lineNumber": 5,
-      "text": "TO",
+      "text": "TO : Director, FBI",
       "status": "image_matched"
     },
     {
       "lineNumber": 6,
-      "text": "FROM",
+      "text": "DATE: August 2, 1950",
       "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "SUBJECT:",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 8,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 9,
-      "text": ": Director, FBI",
+      "text": "FROM : SAC, Chicago",
       "status": "image_matched"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 9,
       "status": "blank"
     },
     {
+      "lineNumber": 10,
+      "text": "SUBJECT: FLYING DISCS",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 11,
-      "text": "SAC, Chicago",
+      "text": "(BuFile 62-83894#)",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "status": "blank"
+      "text": "[REDACTED]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 13,
-      "text": "FLYING DISCS",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 14,
-      "text": "(Bufile 62-838942)",
+      "text": "ReBulet July 28, 1950.",
       "status": "image_matched"
     },
     {
@@ -92,53 +86,51 @@
     },
     {
       "lineNumber": 16,
-      "text": "ReBulet July 28, 1950.",
-      "status": "image_matched"
+      "text": "The Bureau is advised that the information set forth in Chicago",
+      "status": "correction_required"
     },
     {
       "lineNumber": 17,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 18,
-      "text": "• UNITED STATES GOVERNMENT",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 20,
-      "text": "DATE: August 2, 1950",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 21,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 22,
-      "text": "The Bureau is advised that the information set forth in Chicago",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 23,
       "text": "let dated July 18, 1950 and the information submitted to the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 18,
       "text": "Bureau by Chicago let dated July 31, 1950 entitled [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 19,
+      "text": "INFORMANT, FLYING DISCS\" has been submitted to OSI.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 21,
+      "text": "WLR-JCS",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "100-18999",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 24,
+      "text": "RECORDED - 103",
+      "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "IMPORTANT, FLYING DISCS\" has been submitted to OSI.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "EX-71",
+      "status": "image_matched"
     },
     {
       "lineNumber": 26,
@@ -146,35 +138,37 @@
     },
     {
       "lineNumber": 27,
-      "text": "WIR-JCS",
-      "status": "image_matched"
+      "text": "[unclear] 62-83894-241",
+      "status": "correction_required"
     },
     {
       "lineNumber": 28,
-      "text": "100-18999",
+      "text": "AUG 4 1950",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "status": "blank"
+      "text": "8",
+      "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "RECORDED - 103",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 31,
-      "status": "blank"
+      "text": "FILE",
+      "status": "correction_required"
     },
     {
       "lineNumber": 32,
-      "text": "EX-71",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 33,
-      "status": "blank"
+      "text": "R141",
+      "status": "image_matched"
     },
     {
       "lineNumber": 34,
@@ -188,54 +182,7 @@
     {
       "lineNumber": 36,
       "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 37,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 38,
-      "text": "83894-241",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 39,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 40,
-      "text": "AUG 4 1950",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 42,
-      "text": "8",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 44,
-      "text": "FIVE",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 46,
-      "text": "HELLIC",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

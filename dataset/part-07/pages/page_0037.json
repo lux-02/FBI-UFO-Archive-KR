@@ -8,22 +8,17 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 37 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0037-l0014",
-    "page_0037-l0015",
-    "page_0037-l0016",
-    "page_0037-l0030"
-  ],
-  "lineCount": 41,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 29,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "U. S. DEPARTMENT OF JUSTICE",
-      "status": "image_matched"
+      "text": "U.S. DEPARTMENT OF [unclear]",
+      "status": "correction_required"
     },
     {
       "lineNumber": 2,
@@ -42,191 +37,126 @@
     },
     {
       "lineNumber": 5,
-      "text": "Mr. Ladd",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 6,
-      "text": "Mr. Clegg",
-      "status": "image_matched"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 7,
-      "text": "Mr. Glavin",
+      "text": "FBI HOUSTON 7-4-50 3-50 PM CST ICF",
       "status": "image_matched"
     },
     {
       "lineNumber": 8,
-      "text": "Mr. Nichols",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 9,
-      "text": "Mr. Rosen",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
-      "text": "Mr. Tracy",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
-      "text": "Mr. Belmont",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 12,
-      "text": "Mr. Nease",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "text": "Tele. Room",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 14,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 15,
-      "text": "Mr. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 16,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 17,
-      "text": "FBI HOUSTON 7-4-50 3-50 PM CST",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "ICF",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
       "text": "DIRECTOR, FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 9,
       "text": "URGENT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
-      "text": "FLYING DISC, REPORTED TO HAVE BEEN FOUND NEAR ALICE, TEXAS JULY FOURTH",
+      "lineNumber": 10,
+      "text": "FLYING DISC, REPORTED TO HAVE BEEN FOUND NEAR ALICE, TEXAS. JULY FOURTH",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
-      "text": "INFORMATION CONCERNING.",
-      "status": "image_matched"
+      "lineNumber": 11,
+      "text": "INFORMATION CONCERNING. [REDACTED] ALUCE,",
+      "status": "correction_required"
     },
     {
-      "lineNumber": 23,
-      "text": "ALICE,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
+      "lineNumber": 12,
       "text": "TEXAS ADVISES THAT ON THIS DATE A SMALL ELYPTICAL CONTRAPTION WAS FOUND",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 13,
       "text": "IN A FIELD ABOUT ONE HUNDRED YARDS NORTHWEST OF MUNICIPAL AIRPORT",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 14,
       "text": "ALICE, TEXAS. UPON EXAMINATION IT WAS DETERMINED THAT OBJECT WAS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 15,
       "text": "CONSTRUCTED BY WELDING A PORTION OF TWO AIRPLANE WINGS TOGETHER. THE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 16,
       "text": "CONTRIVANCE WAS FRESHLY PAINTED AND BORE THE MARKINGS DESCRIBED IN",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
-      "text": "REFERENCE TELETYPE, AND HAD NO MOTOR OR MEANS OF PROPULSION. THE",
-      "status": "image_matched"
+      "lineNumber": 17,
+      "text": "REFERENCE TELETYPE, AND HAD NO MOTOR OR MEANS OF PROPULSION. THE [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 18,
       "text": "[REDACTED] REMOVED THE OBJECT TO THE POLICE STATION AND UPON INQUIRY",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 19,
       "text": "DETERMINED THAT IT HAD BEEN CONSTRUCTED BY A GROUP OF MECHANICS AT THE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 20,
       "text": "ALICE AIRPORT AS A PRACTICAL JOKE. AIR FORCE OFFICIALS ELLINGTON",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 21,
       "text": "FIELD ADVISED. NO FURTHER INQUIRES TO BE MADE.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 22,
       "text": "LORTON",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 23,
       "text": "CORRECTION: LAST WORD ON LINE TWO IS \"ALICE\"",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 24,
       "text": "END ACK",
       "status": "image_matched"
     },
     {
-      "lineNumber": 37,
-      "text": "5-54 PM OK FBI WASH DC ED",
+      "lineNumber": 25,
+      "text": "5-54 PM OK FBI WASH DC ED [unclear]",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 26,
+      "text": "RECORDED - 118",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
-      "text": "RECORDED -118",
+      "lineNumber": 27,
+      "text": "62-83894-237",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
+      "lineNumber": 28,
       "text": "JUL 24 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 40,
-      "text": "EXC94",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 41,
-      "text": "62-83894-237",
+      "lineNumber": 29,
+      "text": "EX-94",
       "status": "image_matched"
     }
   ],

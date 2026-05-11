@@ -8,52 +8,50 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 28 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0020-l0011",
-    "page_0020-l0029"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 41,
   "lines": [
     {
       "lineNumber": 1,
+      "text": "Sa, umba, 1950",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 2,
+      "text": "September 8, 1950",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "CONFIDENTIAL",
       "status": "image_matched"
     },
     {
-      "lineNumber": 2,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 3,
+      "lineNumber": 5,
       "text": "ALL INFORMATION CONTAINED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 6,
       "text": "HEREIN IS UNCLASSIFIED,",
       "status": "image_matched"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 7,
       "text": "EXCEPT WHERE SHOWN",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
-      "text": "OTHERWISE",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
-      "status": "blank"
-    },
-    {
       "lineNumber": 8,
-      "text": "September 8, 1950",
+      "text": "OTHERWISE",
       "status": "image_matched"
     },
     {
@@ -62,14 +60,13 @@
     },
     {
       "lineNumber": 10,
-      "text": "Mr.",
-      "status": "image_matched"
+      "text": "Mr. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
       "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 12,
@@ -82,8 +79,8 @@
     },
     {
       "lineNumber": 14,
-      "text": "Dear",
-      "status": "image_matched"
+      "text": "Dear [REDACTED]:",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 15,
@@ -144,23 +141,22 @@
     },
     {
       "lineNumber": 27,
-      "status": "blank"
+      "text": "[unclear]Classified by 2040 [unclear] 8/31/77",
+      "status": "correction_required"
     },
     {
       "lineNumber": 28,
-      "text": "Classified by 2040",
-      "status": "image_matched"
+      "text": "Exempt from GDS, Category [unclear] Hgm",
+      "status": "correction_required"
     },
     {
       "lineNumber": 29,
-      "text": "Exempt from GDS, Category [unclear] 8/31/77",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Date of Declassification Indefinite",
+      "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "Date of Declassification Indefinite",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 31,
@@ -188,30 +184,29 @@
     },
     {
       "lineNumber": 36,
-      "text": "62-83894-240",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 37,
-      "status": "blank"
+      "text": "62-83894-24[unclear]",
+      "status": "correction_required"
     },
     {
       "lineNumber": 38,
-      "text": "EHM:eas",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 39,
       "status": "blank"
     },
     {
+      "lineNumber": 39,
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
       "lineNumber": 40,
-      "text": "SEP 1950",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 41,
-      "text": "3 TS",
+      "text": "3 15",
       "status": "image_matched"
     }
   ],

@@ -8,17 +8,12 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 30 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0051-l0006",
-    "page_0051-l0008",
-    "page_0051-l0011",
-    "page_0051-l0012"
-  ],
-  "lineCount": 45,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 43,
   "lines": [
     {
       "lineNumber": 1,
@@ -27,12 +22,12 @@
     },
     {
       "lineNumber": 2,
-      "text": "TO : Director, FBI",
-      "status": "image_matched"
+      "text": "TO: Director, FBI",
+      "status": "correction_required"
     },
     {
       "lineNumber": 3,
-      "text": "FROM : SAC, New Orleans",
+      "text": "FROM: SAC, New Orleans",
       "status": "image_matched"
     },
     {
@@ -47,8 +42,7 @@
     {
       "lineNumber": 6,
       "text": "On May 24, 1950, this office received from Major MERLE L. MENNIE,",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "image_matched"
     },
     {
       "lineNumber": 7,
@@ -57,9 +51,8 @@
     },
     {
       "lineNumber": 8,
-      "text": "tion, a report dealing with [REDACTED] A copy of this report is at-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "tion, a report dealing with [REDACTED]. A copy of this report is at-",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
@@ -73,14 +66,12 @@
     {
       "lineNumber": 11,
       "text": "The report states that [REDACTED] sold for $1.00 two photographs",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 12,
       "text": "to one [REDACTED] who in",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 13,
@@ -136,51 +127,51 @@
     },
     {
       "lineNumber": 24,
-      "text": "ENCLOSURE ATTACHED",
-      "status": "image_matched"
+      "text": "Matter discussed with",
+      "status": "correction_required"
     },
     {
       "lineNumber": 25,
-      "text": "EX-32",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 27,
-      "text": "Met/discussed with",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
       "text": "Col. Borden, OSI. He advised",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 26,
       "text": "that hundreds of such matters are",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
-      "text": "received by AF. They do not",
-      "status": "image_matched"
+      "lineNumber": 27,
+      "text": "received by A.F. & they do not",
+      "status": "correction_required"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 28,
       "text": "consider them worthy of investigation.",
       "status": "image_matched"
     },
     {
+      "lineNumber": 29,
+      "text": "6-21-50",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 30,
+      "text": "awb.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "status": "blank"
+    },
+    {
       "lineNumber": 32,
-      "text": "6-2-50",
+      "text": "ENCLOSURE ATTACHED",
       "status": "image_matched"
     },
     {
       "lineNumber": 33,
-      "text": "awb.",
+      "text": "EX-32",
       "status": "image_matched"
     },
     {
@@ -189,36 +180,38 @@
     },
     {
       "lineNumber": 35,
-      "text": "RECORDED 5",
-      "status": "image_matched"
+      "text": "RECORDED - 5",
+      "status": "correction_required"
     },
     {
       "lineNumber": 36,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 37,
-      "text": "162-23794-329",
+      "text": "62-83794-329",
       "status": "image_matched"
     },
     {
-      "lineNumber": 38,
+      "lineNumber": 37,
       "text": "JUN 2 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 39,
-      "status": "blank"
+      "lineNumber": 38,
+      "text": "67C",
+      "status": "image_matched"
     },
     {
-      "lineNumber": 40,
+      "lineNumber": 39,
       "text": "INDEXED",
       "status": "image_matched"
     },
     {
+      "lineNumber": 40,
+      "text": "[unclear] 14 10 23 [unclear] 50",
+      "status": "correction_required"
+    },
+    {
       "lineNumber": 41,
-      "text": "JUN 10 23 AM '50",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "correction_required"
     },
     {
       "lineNumber": 42,
@@ -226,17 +219,8 @@
     },
     {
       "lineNumber": 43,
-      "text": "67C",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 45,
-      "text": "57 JUN 22 1957",
-      "status": "image_matched"
+      "text": "57 JUN 22 1950",
+      "status": "correction_required"
     }
   ],
   "blockCount": null

@@ -8,30 +8,22 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 23 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0027-l0001",
-    "page_0027-l0002",
-    "page_0027-l0016",
-    "page_0027-l0017",
-    "page_0027-l0019"
-  ],
-  "lineCount": 29,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 32,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "That the Aircraft C. Makes of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Tractor Aircraft Co. Makers of",
+      "status": "image_matched"
     },
     {
       "lineNumber": 2,
-      "text": "The [unclear] Co. Makes of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "The Flying Saucer. The",
+      "status": "image_matched"
     },
     {
       "lineNumber": 3,
@@ -40,133 +32,143 @@
     },
     {
       "lineNumber": 4,
-      "text": "way trip. It has a range",
+      "text": "way trips. It has a range",
       "status": "image_matched"
     },
     {
       "lineNumber": 5,
-      "text": "of 4000 miles. Ceiling of 75,000",
+      "text": "of 4000 miles. Ceiling of 75000",
       "status": "image_matched"
     },
     {
       "lineNumber": 6,
-      "text": "miles for a speed of 750",
+      "text": "ft, and a speed of 750",
       "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "a few hours. So far only",
+      "text": "miles per hour. So far only",
       "status": "image_matched"
     },
     {
       "lineNumber": 8,
-      "text": "one of these craft have been",
+      "text": "a few of this craft have been",
       "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "made, and that merely",
+      "text": "made, and they nearly",
       "status": "image_matched"
     },
     {
       "lineNumber": 10,
-      "text": "as an ocean. The others",
-      "status": "image_matched"
+      "text": "are pickled in the lake",
+      "status": "correction_required"
     },
     {
       "lineNumber": 11,
-      "text": "be land. They cannot",
+      "text": "or ocean, as they cannot",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "carry a load of high explosives",
+      "text": "be landed. They are merely to",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "to enemy country. They have no",
+      "text": "carry a bomb of high destruction",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "shells, but small steel rails",
+      "text": "to enemy country. They have no",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "They take off from which",
-      "status": "image_matched"
+      "text": "sails, but small stud rails",
+      "status": "correction_required"
     },
     {
       "lineNumber": 16,
-      "text": "made in the [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 17,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 18,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 19,
-      "text": "[unclear] well. The craft",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 20,
-      "text": "is built in the best",
+      "text": "on the bottom from which",
       "status": "image_matched"
     },
     {
+      "lineNumber": 17,
+      "text": "they take off. The [unclear]",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 18,
+      "text": "tail [unclear] is [unclear]",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 19,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 20,
+      "text": "[unclear] men who will tell the ship",
+      "status": "correction_required"
+    },
+    {
       "lineNumber": 21,
-      "text": "long range bombing instrument",
+      "text": "say it is by far the best",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "text": "he has ever seen. The",
+      "text": "long range-bombing instrument",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "name of the ship is the",
+      "text": "he has ever seen. The",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "text": "\"Dance Macabre.\"",
+      "text": "name of the ship is The",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "Editor",
+      "text": "\"Vance Masher\".",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "In a few weeks you will",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 27,
-      "text": "be showing 3 views of craft",
+      "text": "Editor",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "text": "will be sent to you.",
+      "text": "In a few weeks you will",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
+      "text": "showing 3 views of craft",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "text": "will be sent to you.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 32,
       "text": "Yours Truly",
       "status": "image_matched"
     }

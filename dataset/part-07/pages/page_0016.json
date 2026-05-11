@@ -8,101 +8,85 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "5 permanent_unresolved line(s) excluded under SRC-896. 11 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0016-l0002",
-    "page_0016-l0004",
-    "page_0016-l0006",
-    "page_0016-l0007",
-    "page_0016-l0013"
-  ],
-  "lineCount": 16,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 15,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "They are",
-      "status": "image_matched"
+      "text": "they... If it is the [unclear] thing",
+      "status": "correction_required"
     },
     {
       "lineNumber": 2,
-      "text": "It is the [unclear] thing",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 3,
       "text": "was something of a new style",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 3,
       "text": "fire started object (Please",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 4,
+      "text": "do not laugh) You then saw",
+      "status": "image_matched"
     },
     {
       "lineNumber": 5,
-      "text": "do not laugh) you know about",
+      "text": "all three little Plains looking",
       "status": "image_matched"
     },
     {
       "lineNumber": 6,
-      "text": "all those little [unclear] looking",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "for more time bombs to set",
+      "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "[unclear] time bombs to set",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 8,
       "text": "fires in ship and set it.",
       "status": "image_matched"
     },
     {
+      "lineNumber": 8,
+      "text": "Possible some war [unclear] was",
+      "status": "correction_required"
+    },
+    {
       "lineNumber": 9,
-      "text": "Possible some new invention now",
-      "status": "image_matched"
+      "text": "in [unclear] for this sabotage, because",
+      "status": "correction_required"
     },
     {
       "lineNumber": 10,
-      "text": "is used for this sabotage, because",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 11,
       "text": "that is what all the people I",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "text": "meet think of those fires and",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
-      "text": "airplane crashes, they are not",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 12,
+      "text": "Airplane smicks, They are not",
+      "status": "correction_required"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 13,
       "text": "accidents, we have had dry",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
-      "text": "spells here before but did the",
-      "status": "image_matched"
+      "lineNumber": 14,
+      "text": "spells before but did the",
+      "status": "correction_required"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "text": "whole country burn up at the",
       "status": "image_matched"
     }

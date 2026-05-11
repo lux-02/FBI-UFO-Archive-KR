@@ -8,15 +8,11 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 12 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0068-l0003",
-    "page_0068-l0004",
-    "page_0068-l0007"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 15,
   "lines": [
     {
@@ -32,19 +28,17 @@
     {
       "lineNumber": 3,
       "text": "and what makes them go so deep down. [REDACTED] says he is sure",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
-      "text": "we may or may not locate them as they got dummies they put out",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "he cannot locate them as they got dummies they put out",
+      "status": "correction_required"
     },
     {
       "lineNumber": 5,
-      "text": "some how - in the water and can fool anyone with the dummies.",
-      "status": "image_matched"
+      "text": "somehow in the water and can fool anyone with the dummies.",
+      "status": "correction_required"
     },
     {
       "lineNumber": 6,
@@ -53,9 +47,8 @@
     },
     {
       "lineNumber": 7,
-      "text": "calling this engine it but that the cancer goes as fast",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "pulling this engine it but that the saucer goes as fast",
+      "status": "correction_required"
     },
     {
       "lineNumber": 8,
@@ -64,7 +57,7 @@
     },
     {
       "lineNumber": 9,
-      "text": "even if I did get it from Ubalsty - I placed myself",
+      "text": "even if I did get it from Ubalsky - I placed myself",
       "status": "image_matched"
     },
     {
@@ -79,7 +72,7 @@
     },
     {
       "lineNumber": 12,
-      "text": "Quick and the U.S.A. can give me something for my",
+      "text": "quick and the U.S.A. can give me something for my",
       "status": "image_matched"
     },
     {

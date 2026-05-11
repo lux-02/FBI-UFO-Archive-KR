@@ -8,17 +8,12 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "4 permanent_unresolved line(s) excluded under SRC-896. 25 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0005-l0002",
-    "page_0005-l0008",
-    "page_0005-l0015",
-    "page_0005-l0016"
-  ],
-  "lineCount": 29,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 30,
   "lines": [
     {
       "lineNumber": 1,
@@ -27,13 +22,12 @@
     },
     {
       "lineNumber": 2,
-      "text": "same type, all on a world-wide mapping expedi.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "same type, all on a world-wide mapping expedi",
+      "status": "image_matched"
     },
     {
       "lineNumber": 3,
-      "text": "They are only a few of the many belong-",
+      "text": "They are only a few of the many belong",
       "status": "image_matched"
     },
     {
@@ -53,18 +47,17 @@
     },
     {
       "lineNumber": 7,
-      "text": "This government is directed and advised",
+      "text": "This government is directed and advise",
       "status": "image_matched"
     },
     {
       "lineNumber": 8,
-      "text": "by an organization headed by \"The ancies",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "by an organization headed by \"The Ancien",
+      "status": "correction_required"
     },
     {
       "lineNumber": 9,
-      "text": "Three, who were, who are, who will be.\" They",
+      "text": "Three, Who were, Who are, Who will be.\" They",
       "status": "image_matched"
     },
     {
@@ -84,7 +77,7 @@
     },
     {
       "lineNumber": 13,
-      "text": "Permission is given to print this letter",
+      "text": "permission is given to print this letter",
       "status": "image_matched"
     },
     {
@@ -94,80 +87,82 @@
     },
     {
       "lineNumber": 15,
-      "text": "[REDACTED] 67c",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] 676",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 16,
       "text": "Livingston, Mont.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "image_matched"
     },
     {
       "lineNumber": 17,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 18,
       "text": "(Ed. note) We print your letter because it is",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
-      "text": "interesting. We don't know if it is true, natura.",
-      "status": "image_matched"
+      "lineNumber": 19,
+      "text": "interesting. We don't know if it is true, natura",
+      "status": "correction_required"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 20,
       "text": "we do know, however, that the \"flying",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 21,
       "text": "saucers\" are no mirage. As for Rainbow",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 22,
       "text": "City, if it's what you say it is, we'd sure like",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 23,
       "text": "to pay it a visit. That sort of thing, which",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
-      "text": "the Utopia all science-fiction writers have",
-      "status": "image_matched"
+      "lineNumber": 24,
+      "text": "the utopia all science-fiction writers has",
+      "status": "correction_required"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
       "text": "dreamed about, is just not visible anywhere in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
-      "text": "the civilized world. If it exists at the south pole",
-      "status": "image_matched"
+      "lineNumber": 26,
+      "text": "the civilized world. If it exists at the south pole,",
+      "status": "correction_required"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 27,
       "text": "near that warm spot Byrd found, and it",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 28,
       "text": "has what you intimate, we'll be waiting for",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 29,
       "text": "the saucers to come back and bring peace to the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
-      "text": "nasty-minded old planet. Only we wonder how is it",
-      "status": "image_matched"
+      "lineNumber": 30,
+      "text": "nasty minded old planet. Only we wonder how...",
+      "status": "correction_required"
     }
   ],
   "blockCount": null

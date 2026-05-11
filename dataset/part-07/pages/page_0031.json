@@ -8,15 +8,12 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 69 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0031-l0009",
-    "page_0031-l0078"
-  ],
-  "lineCount": 87,
+  "pageRecommendation": "READY_FOR_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 28,
   "lines": [
     {
       "lineNumber": 1,
@@ -43,81 +40,80 @@
     },
     {
       "lineNumber": 6,
-      "text": "Yes, we have some flying saucers today, and for the first time,",
+      "text": "Yes, we have some flying saucers today, and for the first time, here are moving pictures for proof.",
       "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "here are moving pictures for proof.",
+      "text": "Many have reported seeing the saucers but it remained for Al Hixenbaugh to do something about it—with his trusty 16 mm. magazine-loading movie camera.",
       "status": "image_matched"
     },
     {
       "lineNumber": 8,
-      "status": "blank"
+      "text": "“Hix,” Times staff photographer, took 50 feet of film in which the bright flying object shows clearly in all. Army officials have been informed and have indicated eagerness to examine the pictures.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "Many have reported seeing the of-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "The photographer was at Longest and Everett Avenues, near his home at 2205 Longest, at 4:15 p.m. yesterday. He was on his way to take some movies of birds.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 10,
-      "text": "saucers but it remained for Al",
+      "text": "Suddenly he heard the roar of a big plane—a twin-motored DC-3—and glanced overhead. At first he thought it was a jet plane. Then he looked to the west of the plane, which was flying southwest toward Standiford Field—and saw the large disk. It had a slight corona around it and seemed to be lower than the plane.",
       "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": "Hizenbaugh to do something",
-      "status": "image_matched"
+      "text": "He aimed his camera and fired. While he ground out the film, he said, the object appeared motionless for about 10 seconds.",
+      "status": "correction_required"
     },
     {
       "lineNumber": 12,
-      "text": "about it-with his trusty 16 mm.",
+      "text": "“It stood practically still, like a balloon,” he said.",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "magazine-loading movie camera.",
+      "text": "Then it began to get smaller, finally vanishing into the west. While the “saucer” appears on all of the film he took, the plane was out of the picture field quickly, appearing only on about 10 feet. The disk was within his vision “about a minute.”",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "status": "blank"
+      "text": "“Hix” contacted the newsroom at WHAS and from there Jerry Gammons called Standiford and Bowman Fields and weather officials. None had heard any reports of a “flying saucer.” He was advised to inform military officials at Godman Field.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "\"Hix,\" Times staff photog-",
-      "status": "image_matched"
+      "text": "Godman said it would notify Wright headquarters at Wright-Patterson Field which might send an aide to examine the films.",
+      "status": "correction_required"
     },
     {
       "lineNumber": 16,
-      "text": "rapher, took 50 feet of film in",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 17,
-      "text": "which the bright flying object",
-      "status": "image_matched"
+      "text": "[Image of a sky with a dark object and a lighter object]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 18,
-      "text": "shows clearly in all. Army of-",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 19,
-      "text": "ficials have been informed and",
+      "text": "By Times Staff Photographer",
       "status": "image_matched"
     },
     {
       "lineNumber": 20,
-      "text": "have indicated eagerness to ex-",
+      "text": "Here’s Real Flying Saucer, If There Is One",
       "status": "image_matched"
     },
     {
       "lineNumber": 21,
-      "text": "amine the pictures.",
+      "text": "This is what a “flying saucer” looks like, if there really is such a thing. Al Hixenbaugh, Times’ photographer, snapped movies of the object yesterday. The object appears almost as big as the twin-motored DC-3 to the right.",
       "status": "image_matched"
     },
     {
@@ -126,316 +122,30 @@
     },
     {
       "lineNumber": 23,
-      "text": "The photographer was at Long-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 24,
-      "text": "est and Everett Avenues, near his",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 25,
-      "text": "home at 2205 Longest, at 4:15 p.m.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 26,
-      "text": "yesterday. He was on his way to",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 27,
-      "text": "take some movies of birds.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 28,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 29,
-      "text": "Suddenly he heard the roar of",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 30,
-      "text": "a big plane-a twin-motored",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 31,
-      "text": "DC-3-and glanced overhead. At",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 32,
-      "text": "first he thought it was a jet",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 33,
-      "text": "plane. Then he looked to the",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 34,
-      "text": "west of the plane, which was",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 35,
-      "text": "flying southwest toward Standi-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 36,
-      "text": "ford Field-and saw the large",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 37,
-      "text": "disk. It had a slight corona",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 38,
-      "text": "around it and seemed to be lower",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 39,
-      "text": "than the plane.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 40,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 41,
-      "text": "He aimed his camera and fired.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 42,
-      "text": "While he ground out the film, he",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 43,
-      "text": "said, the object appeared motion-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 44,
-      "text": "less for about 10 seconds.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 45,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 46,
-      "text": "\"It stood practically still, like",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 47,
-      "text": "a balloon,\" he said.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 48,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 49,
-      "text": "Then it began to get smaller,",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 50,
-      "text": "finally vanishing into the west.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 51,
-      "text": "While the \"saucer\" appears on",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 52,
-      "text": "all of the film he took, the plane",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 53,
-      "text": "was out of the picture field",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 54,
-      "text": "quickly, appearing only on about",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 55,
-      "text": "10 feet. The disk was within his",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 56,
-      "text": "vision \"about a minute.\"",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 57,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 58,
-      "text": "\"Hix\" contacted the newsroom",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 59,
-      "text": "at WHAS and from there Jerry",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 60,
-      "text": "Gammons called Standiford",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 61,
-      "text": "and Bowman Fields and weather",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 62,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 63,
-      "text": "officials. None had heard any",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 64,
-      "text": "reports of a \"flying saucer.\" He",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 65,
-      "text": "was advised to inform military",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 66,
-      "text": "officials at Godman Field.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 67,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 68,
-      "text": "Godman said it would notify",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 69,
-      "text": "flight headquarters at Wright-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 70,
-      "text": "Patterson Field which might",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 71,
-      "text": "send an aide to examine the",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 72,
-      "text": "films.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 73,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 74,
-      "text": "By Times Staff Photographer",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 75,
-      "text": "Here's Real Flying Saucer, If There Is One",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 76,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 77,
-      "text": "This is what a \"flying saucer\" looks like if there really is such",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 78,
-      "text": "a thing. Al Hixenbauh, Times' photographer, snapped movies of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 79,
-      "text": "the object yesterday. The object appears almost as big as the twin-",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 80,
-      "text": "motored DC-3 to the right.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 81,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 82,
       "text": "ENCLOSURE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 83,
-      "text": "62-894-210",
-      "status": "image_matched"
+      "lineNumber": 24,
+      "text": "62-83894-210",
+      "status": "correction_required"
     },
     {
-      "lineNumber": 84,
+      "lineNumber": 25,
       "status": "blank"
     },
     {
-      "lineNumber": 85,
+      "lineNumber": 26,
       "text": "The Louisville Times",
       "status": "image_matched"
     },
     {
-      "lineNumber": 86,
+      "lineNumber": 27,
       "text": "Louisville, Kentucky",
       "status": "image_matched"
     },
     {
-      "lineNumber": 87,
+      "lineNumber": 28,
       "text": "June 28, 1950",
       "status": "image_matched"
     }

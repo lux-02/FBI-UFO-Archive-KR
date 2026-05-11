@@ -8,16 +8,12 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 28 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0063-l0006",
-    "page_0063-l0009",
-    "page_0063-l0012"
-  ],
-  "lineCount": 32,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 33,
   "lines": [
     {
       "lineNumber": 1,
@@ -26,158 +22,160 @@
     },
     {
       "lineNumber": 2,
+      "text": "DO: DTD Serial No. A-50",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 3,
       "text": "10 February 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 3,
-      "text": "No. 1770 Serial No. A-50",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 4,
-      "text": "Subject: Unidentified Phenomena",
-      "status": "image_matched"
+      "text": "SUBJ: Unidentified Phenomena",
+      "status": "correction_required"
     },
     {
       "lineNumber": 5,
-      "text": "(e) The objects sighted have been described as follows:",
+      "text": "- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - -- -- - - - - - - - - - - - - -- -- -- -- - - - - - - - -- - - - - - - - - -- - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- -- - - - - - - - - - - - -- - - - - - -- - - - - - - -- -- -- - - - - - - - - - - - - - - - - - - - - - -- - - -- - - - - - - - - - - - - - - - - - - - - - - -- -- - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- -- -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- -- -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- -- - - - - - -- -- -- - - - - - - - - - - - - - - - - - - - - - - - - - - - -- -- - - -- - - - - - - - - - - - - - - - - - - - - - -- -- - - - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- -- -- -- -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- -- -- -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- -- -- -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- --/- - - - - - - - - -- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -- -- -- -- -- -- -- -- -- - - -- - - - - - - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- ---/",
       "status": "image_matched"
     },
     {
       "lineNumber": 6,
-      "text": "(1) By [REDACTED] it appeared as two orange lights",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "(e) The objects sighted have been described as follows:",
+      "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "rotating about a common center, like two jet aircraft making slow",
-      "status": "image_matched"
+      "text": "(1) To Lt. [REDACTED] it appeared as two orange lights",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
-      "text": "rolls in tight formation. It had a wide speed range.",
-      "status": "image_matched"
+      "text": "rotating about a common center. \"like two jet aircraft making slow",
+      "status": "correction_required"
     },
     {
       "lineNumber": 9,
-      "text": "(2) By [REDACTED] it appeared as a reddish",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "rolls in tight formation\". It had a wide speed range.",
+      "status": "correction_required"
     },
     {
       "lineNumber": 10,
-      "text": "orange ball of fire about one foot in diameter, travelling at a high",
-      "status": "image_matched"
+      "text": "(2) To [REDACTED] and [REDACTED], it appeared as a reddish",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 11,
+      "text": "sphere ball of fire about one foot in diameter, travelling at a high",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 12,
       "text": "rate of speed.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
-      "text": "(3) By [REDACTED] it appeared to",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
       "lineNumber": 13,
-      "text": "be a pulsating orange, yellow projectile shaped flame, with regular period",
-      "status": "image_matched"
+      "text": "(3) To Lt. [REDACTED], AD1, it appeared to",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 14,
-      "text": "of pulsation on 2 to 3 seconds, off 2 to 3 seconds. Later, as the object",
-      "status": "image_matched"
+      "text": "be a pulsating orange yellow projectile shaped flame, with regular period",
+      "status": "correction_required"
     },
     {
       "lineNumber": 15,
-      "text": "flew out the range, the pulsation appeared to increase to on 7 to 8",
-      "status": "image_matched"
+      "text": "of pulsation on 3 to 5 seconds, off 3 to 5 seconds. Later, as the object",
+      "status": "correction_required"
     },
     {
       "lineNumber": 16,
+      "text": "increased the range the pulsation appeared to increase to on 7 to 8",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 17,
       "text": "seconds and off 7 to 8 seconds.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "text": "3. A check with the Navy Weather Central, Kodiak, Alaska revealed that",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
+      "lineNumber": 19,
       "text": "balloons were released at the following times:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
-      "text": "22 January - 0445 and 2000 (approximately)",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 20,
-      "text": "23 January - 0400 (approximately)",
-      "status": "image_matched"
+      "text": "22 January -- 0445 and 2000 (approximately)",
+      "status": "correction_required"
     },
     {
       "lineNumber": 21,
-      "text": "4. On 23 January winds aloft at 1000 feet were reported at 0400 as",
-      "status": "image_matched"
+      "text": "23 January -- 0400 (approximately)",
+      "status": "correction_required"
     },
     {
       "lineNumber": 22,
-      "text": "from 310° T at 35 knots, and at 2000 feet from 240° T at 37 knots, while",
-      "status": "image_matched"
+      "text": "4. On 23 January winds aloft at 1000 feet were reported at 0400M as",
+      "status": "correction_required"
     },
     {
       "lineNumber": 23,
+      "text": "from 310° T at 36 knots, and at 2000 feet from 240° T at 37 knots, while",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 24,
       "text": "the object was reported to be on an ascending - westerly course.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 25,
       "text": "5. In view of the fact that no weather balloons were known to have",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 26,
       "text": "been released within a reasonable time before the sightings, it",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 27,
       "text": "appears that the object or objects were not balloons. If not",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 28,
       "text": "balloons the objects must be regarded as phenomena (possibly",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 29,
       "text": "meteorites), the exact nature of which could not be determined",
       "status": "image_matched"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 30,
       "text": "by this office.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 31,
       "status": "blank"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 32,
       "text": "CONFIDENTIAL",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 33,
       "text": "3",
       "status": "image_matched"
     }

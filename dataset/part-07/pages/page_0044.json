@@ -8,14 +8,12 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 19 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0044-l0025"
-  ],
-  "lineCount": 32,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 41,
   "lines": [
     {
       "lineNumber": 1,
@@ -24,115 +22,115 @@
     },
     {
       "lineNumber": 2,
-      "status": "blank"
+      "text": "July 19, 1950",
+      "status": "image_matched"
     },
     {
       "lineNumber": 3,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 4,
       "text": "Director, FBI",
       "status": "image_matched"
     },
     {
-      "lineNumber": 4,
+      "lineNumber": 5,
       "status": "blank"
     },
     {
-      "lineNumber": 5,
+      "lineNumber": 6,
       "text": "FLYING DISCS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 6,
+      "lineNumber": 7,
       "text": "INTERNAL SECURITY - X",
       "status": "image_matched"
     },
     {
-      "lineNumber": 7,
+      "lineNumber": 8,
       "status": "blank"
     },
     {
-      "lineNumber": 8,
+      "lineNumber": 9,
       "text": "Reurlet 6-29-50.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 9,
+      "lineNumber": 10,
       "status": "blank"
     },
     {
-      "lineNumber": 10,
+      "lineNumber": 11,
       "text": "Attention is directed to existing Bureau instructions wherein",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
+      "lineNumber": 12,
       "text": "complaints received relating to the captioned matter should be promptly",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 13,
       "text": "furnished to a local representative of the Office of Special Investiga-",
       "status": "image_matched"
     },
     {
-      "lineNumber": 13,
+      "lineNumber": 14,
       "text": "tions, the Inspector General, U. S. Air Force by your office.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 14,
+      "lineNumber": 15,
       "status": "blank"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 16,
       "text": "You are instructed to furnish the information contained in",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 17,
       "text": "the referenced letter to OSI. In the future, such action should be",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 18,
       "text": "taken promptly following the receipt of such information by your office.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 18,
-      "status": "blank"
-    },
-    {
       "lineNumber": 19,
-      "text": "62-83894 -232",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 20,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 21,
-      "text": "EIM:KHH",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 22,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 23,
       "text": "RECORDED - 92",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 21,
+      "text": "62-83894-232",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 22,
+      "text": "EHM:KEH",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
       "status": "blank"
     },
     {
+      "lineNumber": 24,
+      "text": "EX-43",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 25,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 26,
@@ -140,8 +138,7 @@
     },
     {
       "lineNumber": 27,
-      "text": "JUL 24 1950",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 28,
@@ -149,13 +146,11 @@
     },
     {
       "lineNumber": 29,
-      "text": "MAILED 15",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 30,
-      "text": "JUL 19 1950",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 31,
@@ -163,6 +158,47 @@
     },
     {
       "lineNumber": 32,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 33,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 34,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 35,
+      "text": "[unclear] JUL 24 1950",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 36,
+      "text": "[unclear]",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 37,
+      "text": "[unclear]",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 38,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 39,
+      "text": "MAILED 15",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "JUL 19 1950",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
       "text": "COMM - FBI",
       "status": "image_matched"
     }

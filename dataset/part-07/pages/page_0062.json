@@ -8,15 +8,12 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
-  "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 2 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0062-l0002",
-    "page_0062-l0003"
-  ],
-  "lineCount": 4,
+  "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 60,
   "lines": [
     {
       "lineNumber": 1,
@@ -25,19 +22,291 @@
     },
     {
       "lineNumber": 2,
-      "text": "DIC/27:D No. 4-50",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 3,
-      "text": "Subj: Unidentified Phenomena",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "DIC/27:D No. 4-50",
+      "status": "image_matched"
     },
     {
       "lineNumber": 4,
+      "text": "10 February 1950",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 5,
+      "text": "Subj: Unidentified Phenomena",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 6,
       "status": "blank"
+    },
+    {
+      "lineNumber": 7,
+      "text": "2. A summary of the information contained in enclosure (1) through (8)",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 8,
+      "text": "follows:",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 9,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 10,
+      "text": "a. At 2202Z January LT [REDACTED] USN, patrol plane commander of P2V3",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 11,
+      "text": "No. 4 of Patrol Squadron One reported an unidentified radar contact 20",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 12,
+      "text": "miles north of the Naval Air Station, Kodiak, Alaska. When this contact",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 13,
+      "text": "was first made, LT [REDACTED] was flying the Kodiak Security Patrol. At",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 14,
+      "text": "[REDACTED], 5 minutes later a radar contact was made on an object 10 miles",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 15,
+      "text": "southeast of NAS Kodiak. Lt. [REDACTED] checked with the control tower to",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 16,
+      "text": "determine known traffic in the area, and was informed that there was none.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
+      "text": "During this period the radar operator, [REDACTED], ALC, USN reported inter-",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 18,
+      "text": "mittent radar interference of a type he had never before experienced.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 19,
+      "text": "(See enclosure (3)). Contact was lost at this time, but intermittent",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "interference continued.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 21,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 22,
+      "text": "b. At some time between 0200Z and 0300Z, [REDACTED]TMC, USN was standing",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 23,
+      "text": "watch on board the USS TILLAMOOK (ATA 192), which was anchored in the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "vicinity of buoy 19 in the main ship channel. [REDACTED] reported sighting",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 25,
+      "text": "a \"very fast moving red glow light\" of an exhaust nature, which appeared to be of exhaust",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 26,
+      "text": "nature, seemed to come from the southeast, moved clockwise in a large",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 27,
+      "text": "circle in the direction of, and around Kodiak and returned out in a",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 28,
+      "text": "generally southeast direction.\" [REDACTED] called [REDACTED], YN1, USN, also on",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 29,
+      "text": "watch, to observe this object, and they both witnessed the return flight.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 30,
+      "text": "The object was in sight for an estimated 30 seconds. No color or sound",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 31,
+      "text": "was detected, and the object was described to have the appearance of a",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 32,
+      "text": "ball of fire about one foot in diameter.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 33,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 34,
+      "text": "c. At 2204Z, conducting routine Kodiak security patrol, Lt [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 35,
+      "text": "reported a visual sighting of an unidentified airborne object at a",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 36,
+      "text": "radar range of 5 miles, on the starboard bow. This object showed in-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 37,
+      "text": "dications of great speed on the radar scope. (The trailing edge of the",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 38,
+      "text": "blip gave a tail like indication.) At this time Lt. [REDACTED] called the",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 39,
+      "text": "attention of all crew members to the object. An estimated ten seconds",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 40,
+      "text": "later, the object was directly overhead, indicating a speed of about",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
+      "text": "1800 MPH. [REDACTED] climbed to intercept, and attempted to circle to keep",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 42,
+      "text": "the object in sight. He was unable to do this, as the object was too",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 43,
+      "text": "highly maneuverable. Subsequently the object appeared to be opening",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "the range, and [REDACTED] attempted to close the range. The object was",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 45,
+      "text": "observed to open out somewhat, then to turn to the left and come up on",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 46,
+      "text": "Smith's quarter. [REDACTED] considered this to be a highly threatening",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 47,
+      "text": "gesture, and turned out all lights in the aircraft. Four minutes later",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 48,
+      "text": "the object disappeared from view in a southeasterly direction.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 49,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 50,
+      "text": "d. At 2215Z, the day following Lt Smith's sighting, Lt [REDACTED] and",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 51,
+      "text": "[REDACTED] were conducting the Kodiak Security",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 52,
+      "text": "Patrol, and sighted an unidentified object. At the time of the sight-",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 53,
+      "text": "ing, the aircraft in which these officers were embarked was approximately",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 54,
+      "text": "52 miles south of NAS Kodiak. The object appeared to be on an ascending",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 55,
+      "text": "westerly course, and was in sight for ten minutes. During this period",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 56,
+      "text": "the object was observed by Lieutenants Causer and Sorem, and P[unclear]LSC,",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 57,
+      "text": "[REDACTED], plane captain. At no time was radar contact made on the object.",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 58,
+      "text": "Lt Causer was unable to close the object at 170 knots.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 59,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 60,
+      "text": "CONFIDENTIAL",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

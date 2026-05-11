@@ -8,15 +8,11 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 15 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0079-l0004",
-    "page_0079-l0011",
-    "page_0079-l0016"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 18,
   "lines": [
     {
@@ -36,9 +32,8 @@
     },
     {
       "lineNumber": 4,
-      "text": "[unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
@@ -67,14 +62,13 @@
     },
     {
       "lineNumber": 10,
-      "text": "send this direct to you to the Head Office",
+      "text": "send this direct to you to the Head office",
       "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": "in case the office with Buffalo on this letter as",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "or [unclear] the office with Buffalo on this letter as",
+      "status": "correction_required"
     },
     {
       "lineNumber": 12,
@@ -98,9 +92,8 @@
     },
     {
       "lineNumber": 16,
-      "text": "do not know who is a Comonie in Washington and who is not.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "do not know who is a Comonie in Washington and who is not",
+      "status": "image_matched"
     },
     {
       "lineNumber": 17,

@@ -8,126 +8,136 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "6 permanent_unresolved line(s) excluded under SRC-896. 13 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0015-l0001",
-    "page_0015-l0002",
-    "page_0015-l0003",
-    "page_0015-l0014",
-    "page_0015-l0016",
-    "page_0015-l0017"
-  ],
-  "lineCount": 21,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 26,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "6 [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] [unclear] b7 O",
+      "status": "correction_required"
     },
     {
       "lineNumber": 2,
-      "text": "[unclear] [unclear] [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "29 N.Y.C",
+      "status": "image_matched"
     },
     {
       "lineNumber": 3,
-      "text": "[unclear] [unclear] [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 4,
       "status": "blank"
     },
     {
+      "lineNumber": 4,
+      "text": "Mr Hoover",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 5,
-      "text": "Mr. Hoove",
+      "text": "F.B.I. Of Flying Discs",
       "status": "image_matched"
     },
     {
       "lineNumber": 6,
-      "text": "F.B.I. O Flying Discs",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 7,
       "text": "Dear Sir: They say that if",
       "status": "image_matched"
     },
     {
+      "lineNumber": 7,
+      "text": "we win we are the last",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 8,
-      "text": "we are crazy we are the last",
+      "text": "to know it. That may be my",
       "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "to know. If that may be my",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 10,
       "text": "case but I hope not. You know a",
       "status": "image_matched"
     },
     {
-      "lineNumber": 11,
-      "text": "about 2 months ago, a number",
+      "lineNumber": 10,
+      "text": "about a month ago, a number",
       "status": "image_matched"
     },
     {
-      "lineNumber": 12,
+      "lineNumber": 11,
       "text": "of people said they saw flying",
       "status": "image_matched"
     },
     {
+      "lineNumber": 12,
+      "text": "discs and the papers said it",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 13,
-      "text": "discs, and the papers admit",
+      "text": "was imagination. I cannot believe",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "was imagination. I cannot believe",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 15,
       "text": "hundreds of people could imagine",
       "status": "image_matched"
     },
     {
-      "lineNumber": 16,
-      "text": "[unclear] [unclear] [unclear] 62-83894-134",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 17,
+      "lineNumber": 15,
       "text": "the same thing at the same time",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 18,
-      "text": "especially when separated by thousands",
       "status": "image_matched"
     },
     {
-      "lineNumber": 19,
+      "lineNumber": 16,
+      "text": "especially when separated by",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 17,
       "text": "thousands of miles.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 20,
+      "lineNumber": 18,
       "status": "blank"
     },
     {
+      "lineNumber": 19,
+      "text": "INDEXED BY",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 20,
+      "text": "TOP DESK",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 21,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 22,
+      "text": "RECORDED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 23,
+      "text": "EX-43L",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 24,
+      "text": "62-83894-134",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 25,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 26,
       "text": "NOV 4 1947",
       "status": "image_matched"
     }

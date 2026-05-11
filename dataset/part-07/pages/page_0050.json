@@ -8,14 +8,12 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 38 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0050-l0047"
-  ],
-  "lineCount": 51,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 55,
   "lines": [
     {
       "lineNumber": 1,
@@ -33,7 +31,8 @@
     },
     {
       "lineNumber": 4,
-      "status": "blank"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
@@ -133,7 +132,7 @@
     },
     {
       "lineNumber": 25,
-      "text": "these research projects attempted to probe as deeply into",
+      "text": "those research projects attempted to probe as deeply into",
       "status": "image_matched"
     },
     {
@@ -238,9 +237,8 @@
     },
     {
       "lineNumber": 47,
-      "text": "[unclear] 8-50",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 48,
@@ -248,18 +246,37 @@
     },
     {
       "lineNumber": 49,
-      "text": "RECORDED-5",
-      "status": "image_matched"
+      "text": "ack 6-8-50",
+      "status": "correction_required"
     },
     {
       "lineNumber": 50,
-      "text": "EX-3",
-      "status": "image_matched"
+      "text": "ans",
+      "status": "correction_required"
     },
     {
       "lineNumber": 51,
-      "text": "JUN 18",
-      "status": "image_matched"
+      "status": "blank"
+    },
+    {
+      "lineNumber": 52,
+      "text": "RECORDED - 5",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 53,
+      "text": "EX-32",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 54,
+      "text": "62-83894-3",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 55,
+      "text": "JUN 13 [unclear]",
+      "status": "correction_required"
     }
   ],
   "blockCount": null

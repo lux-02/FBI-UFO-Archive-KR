@@ -8,26 +8,12 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "13 permanent_unresolved line(s) excluded under SRC-896. 22 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0003-l0003",
-    "page_0003-l0004",
-    "page_0003-l0007",
-    "page_0003-l0008",
-    "page_0003-l0010",
-    "page_0003-l0011",
-    "page_0003-l0015",
-    "page_0003-l0017",
-    "page_0003-l0020",
-    "page_0003-l0026",
-    "page_0003-l0027",
-    "page_0003-l0028",
-    "page_0003-l0029"
-  ],
-  "lineCount": 40,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 46,
   "lines": [
     {
       "lineNumber": 1,
@@ -41,14 +27,12 @@
     {
       "lineNumber": 3,
       "text": "[REDACTED] advised that he was travelling south",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 4,
       "text": "on N. Williams Avenue near Russell St., when he and Officer [REDACTED] his",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 5,
@@ -63,14 +47,12 @@
     {
       "lineNumber": 7,
       "text": "[REDACTED] observed what appeared to be a round silver object, about 10,000 feet",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
       "text": "high, travelling northeast to southwest. It was directly to [REDACTED] left when",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 9,
@@ -80,14 +62,12 @@
     {
       "lineNumber": 10,
       "text": "vinced him that it could not be a balloon because of its speed which was extreme-",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "image_matched"
     },
     {
       "lineNumber": 11,
       "text": "ly great. As [REDACTED] watched, it turned gradually until it was travelling due",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 12,
@@ -106,8 +86,7 @@
     {
       "lineNumber": 15,
       "text": "[REDACTED] stated that when he first observed the object",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 16,
@@ -117,8 +96,7 @@
     {
       "lineNumber": 17,
       "text": "[REDACTED] was driving south on N. Williams Avenue. To [REDACTED] it appeared to be just",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 18,
@@ -133,8 +111,7 @@
     {
       "lineNumber": 20,
       "text": "after he had travelled 4 or 5 city blocks at a speed of about 25 mph. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 21,
@@ -163,26 +140,22 @@
     {
       "lineNumber": 26,
       "text": "[REDACTED] N. Fessenden St., Portland stated that he was",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 27,
       "text": "on duty in District 14 with Officer [REDACTED] on September 11, 1947",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 28,
       "text": "and received the call to watch for the object flying over the city. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
       "text": "and [REDACTED] immediately scanned the sky from a vantage point in open territory",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 30,
@@ -235,6 +208,33 @@
     {
       "lineNumber": 40,
       "text": "LHK:tkw",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 41,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 42,
+      "text": "67C",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 43,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 44,
+      "text": "67C",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 45,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 46,
+      "text": "67C",
       "status": "image_matched"
     }
   ],

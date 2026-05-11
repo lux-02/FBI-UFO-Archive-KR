@@ -8,22 +8,17 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "3 permanent_unresolved line(s) excluded under SRC-896. 20 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0083-l0001",
-    "page_0083-l0019",
-    "page_0083-l0021"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 23,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "I do not know how the [unclear] were go on he said",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "I do not know how the [unclear] go on he said",
+      "status": "correction_required"
     },
     {
       "lineNumber": 2,
@@ -47,7 +42,7 @@
     },
     {
       "lineNumber": 6,
-      "text": "it fast by gadgets operated by electronics so as they go",
+      "text": "so fast by gadgets operated by electronics so as they go",
       "status": "image_matched"
     },
     {
@@ -77,17 +72,17 @@
     },
     {
       "lineNumber": 12,
-      "text": "and take off if they have to but it's damn rough ground.",
+      "text": "and take off if they have to but it's damn rough going.",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "I wonder if that's \"horse feathers\".",
+      "text": "I wonders if that's \"horse feathers\".",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "Well that is all I know about it the rest you will have",
+      "text": "well that is all I know about it the rest you will have",
       "status": "image_matched"
     },
     {
@@ -97,8 +92,8 @@
     },
     {
       "lineNumber": 16,
-      "text": "and while the drawings were fresh in my head I can tell",
-      "status": "image_matched"
+      "text": "and while the drawings were fresh in my head I can see",
+      "status": "correction_required"
     },
     {
       "lineNumber": 17,
@@ -113,8 +108,7 @@
     {
       "lineNumber": 19,
       "text": "fellow who reported to the Buffalo office when I lived at [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 20,
@@ -123,18 +117,17 @@
     },
     {
       "lineNumber": 21,
-      "text": "by the cosmic ray. The Russians want to get this - next [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "by the cosmic ray. The Russians want to get this - rest assured",
+      "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "text": "they never will so they made contact with me and see what I got",
+      "text": "they never will as they make contact with me and see what I got",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "to say about this engine. You likely know about it if you inquire.",
+      "text": "I say about this engine you likely know about it if you inquire.",
       "status": "image_matched"
     }
   ],

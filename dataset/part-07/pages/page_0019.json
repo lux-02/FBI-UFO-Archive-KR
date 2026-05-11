@@ -8,387 +8,391 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "7 permanent_unresolved line(s) excluded under SRC-896. 65 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0019-l0002",
-    "page_0019-l0003",
-    "page_0019-l0019",
-    "page_0019-l0022",
-    "page_0019-l0026",
-    "page_0019-l0069",
-    "page_0019-l0072"
-  ],
-  "lineCount": 72,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 76,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "0-12",
+      "text": "FEDERAL BUREAU OF INVESTIGATION",
       "status": "image_matched"
     },
     {
       "lineNumber": 2,
-      "text": "FEDERAL BUREAU OF INVESTIGATION",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "CORRECTION & LIAISON SECTION",
+      "status": "correction_required"
     },
     {
       "lineNumber": 3,
-      "text": "CORRECTION & LI ON SECTION",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 4,
       "text": "Date 1950",
       "status": "image_matched"
     },
     {
+      "lineNumber": 4,
+      "status": "blank"
+    },
+    {
       "lineNumber": 5,
-      "text": "Director",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 6,
-      "text": "Mr. Tolson",
+      "text": "Room 3208",
       "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "Mr. Ladd",
+      "text": "Director",
       "status": "image_matched"
     },
     {
       "lineNumber": 8,
-      "text": "Mr. Belmont",
+      "text": "Mr. Tolson",
       "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "Mr. Laughlin",
+      "text": "Mr. Ladd",
       "status": "image_matched"
     },
     {
       "lineNumber": 10,
-      "text": "Mr. Keay",
+      "text": "Mr. Belmont",
       "status": "image_matched"
     },
     {
       "lineNumber": 11,
-      "text": "Mr. Bartlett",
+      "text": "Mr. Laughlin",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "text": "Mr. Baumgardner",
+      "text": "Mr. Keay",
       "status": "image_matched"
     },
     {
       "lineNumber": 13,
-      "text": "Mr. Stanley",
+      "text": "Mr. Bartlett",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "Mr. Hennrich",
+      "text": "Mr. Baumgardner",
       "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "Miss",
+      "text": "Mr. Stanley",
       "status": "image_matched"
     },
     {
       "lineNumber": 16,
-      "text": "Room",
+      "text": "Mr. Hennrich",
       "status": "image_matched"
     },
     {
       "lineNumber": 17,
-      "text": "Mrs. Abel File in",
+      "text": "Miss",
       "status": "image_matched"
     },
     {
       "lineNumber": 18,
-      "text": "Miss Cuddy",
+      "text": "Room",
       "status": "image_matched"
     },
     {
       "lineNumber": 19,
-      "text": "Miss Reddy Flying",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 20,
-      "text": "Miss Wielkiewicz",
+      "text": "Mrs. Abel",
       "status": "image_matched"
     },
     {
+      "lineNumber": 20,
+      "text": "Miss Cuddy File in",
+      "status": "correction_required"
+    },
+    {
       "lineNumber": 21,
-      "text": "Mr. Bromwell",
+      "text": "Miss Reddy",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "text": "Identification Division File",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mrs. Schwab Flying",
+      "status": "correction_required"
     },
     {
       "lineNumber": 23,
-      "text": "Miss Harrington, Room 7229",
+      "text": "Miss Wielkiewicz",
       "status": "image_matched"
     },
     {
       "lineNumber": 24,
-      "text": "Mail Room, Room 5533",
+      "text": "Saucers",
       "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "Reading Room, Room 5531",
+      "text": "Mr. Bromwell",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "Records Section 5-E",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Identification Division File",
+      "status": "correction_required"
     },
     {
       "lineNumber": 27,
-      "text": "Routing Unit",
+      "text": "Miss Harrington, Room 7229",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "text": "Send file, up to date",
+      "text": "Mail Room, Room 5533",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "Send reference",
+      "text": "Reading Room, Room 5531",
       "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "See Me",
-      "status": "image_matched"
+      "text": "Records Section 5-E[unclear]",
+      "status": "correction_required"
     },
     {
       "lineNumber": 31,
-      "text": "Phone Me",
+      "text": "Routing Unit",
       "status": "image_matched"
     },
     {
       "lineNumber": 32,
-      "text": "Please Handle",
+      "text": "Send file, up to date",
       "status": "image_matched"
     },
     {
       "lineNumber": 33,
-      "text": "Room 3708",
+      "text": "Send reference",
       "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "text": "Mr. Ammarell",
+      "text": "See Me",
       "status": "image_matched"
     },
     {
       "lineNumber": 35,
-      "text": "Mr. Bates",
+      "text": "Phone Me",
       "status": "image_matched"
     },
     {
       "lineNumber": 36,
-      "text": "Mr. Blair",
+      "text": "Please Handle",
       "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "text": "Mr. D. M. Brown",
+      "text": "Mr. Ammarell",
       "status": "image_matched"
     },
     {
       "lineNumber": 38,
-      "text": "Mr. J. W. Brown",
+      "text": "Mr. Bates",
       "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "text": "Mr. Cole",
+      "text": "Mr. Blair",
       "status": "image_matched"
     },
     {
       "lineNumber": 40,
-      "text": "Mr. Connell",
+      "text": "Mr. D. M. Brown",
       "status": "image_matched"
     },
     {
       "lineNumber": 41,
-      "text": "Mr. Conroy",
+      "text": "Mr. J. W. Brown",
       "status": "image_matched"
     },
     {
       "lineNumber": 42,
-      "text": "Mr. DeLoach",
+      "text": "Mr. Cole",
       "status": "image_matched"
     },
     {
       "lineNumber": 43,
-      "text": "Mr. Dinsmore",
+      "text": "Mr. Connell",
       "status": "image_matched"
     },
     {
       "lineNumber": 44,
-      "text": "Mr. Ellis",
+      "text": "Mr. Conroy",
       "status": "image_matched"
     },
     {
       "lineNumber": 45,
-      "text": "Mr. Ferris",
+      "text": "Mr. DeLoach",
       "status": "image_matched"
     },
     {
       "lineNumber": 46,
-      "text": "Mr. Fipp",
+      "text": "Mr. Dinsmore",
       "status": "image_matched"
     },
     {
       "lineNumber": 47,
-      "text": "Mr. Flaherty",
+      "text": "Mr. Ellis",
       "status": "image_matched"
     },
     {
       "lineNumber": 48,
-      "text": "Mr. Foley",
+      "text": "Mr. Ferris",
       "status": "image_matched"
     },
     {
       "lineNumber": 49,
-      "text": "Mr. Gottschall",
+      "text": "Mr. Fipp",
       "status": "image_matched"
     },
     {
       "lineNumber": 50,
-      "text": "Mr. Harrington",
+      "text": "Mr. Flaherty",
       "status": "image_matched"
     },
     {
       "lineNumber": 51,
-      "text": "Mr. Kuhrtz",
+      "text": "Mr. Foley",
       "status": "image_matched"
     },
     {
       "lineNumber": 52,
-      "text": "Mr. Landis",
+      "text": "Mr. Gotschall",
       "status": "image_matched"
     },
     {
       "lineNumber": 53,
-      "text": "Mr. Lawrence",
+      "text": "Mr. Harrington",
       "status": "image_matched"
     },
     {
       "lineNumber": 54,
-      "text": "Mr. Lynch",
+      "text": "Mr. Kuhrtz",
       "status": "image_matched"
     },
     {
       "lineNumber": 55,
-      "text": "Mr. Mansfield",
+      "text": "Mr. Landis",
       "status": "image_matched"
     },
     {
       "lineNumber": 56,
-      "text": "Mr. Martin",
+      "text": "Mr. Lawrence",
       "status": "image_matched"
     },
     {
       "lineNumber": 57,
-      "text": "Mr. Millard",
+      "text": "Mr. Lynch",
       "status": "image_matched"
     },
     {
       "lineNumber": 58,
-      "text": "Mr. Moynihan",
+      "text": "Mr. Mansfield",
       "status": "image_matched"
     },
     {
       "lineNumber": 59,
-      "text": "Mr. Noone",
+      "text": "Mr. Martin",
       "status": "image_matched"
     },
     {
       "lineNumber": 60,
-      "text": "Mr. Obenshain",
+      "text": "Mr. Millard",
       "status": "image_matched"
     },
     {
       "lineNumber": 61,
-      "text": "Mr. Ormond",
+      "text": "Mr. Moynihan",
       "status": "image_matched"
     },
     {
       "lineNumber": 62,
-      "text": "Mr. Reynolds",
+      "text": "Mr. Noone",
       "status": "image_matched"
     },
     {
       "lineNumber": 63,
-      "text": "Mr. Roach",
+      "text": "Mr. Obenshain",
       "status": "image_matched"
     },
     {
       "lineNumber": 64,
-      "text": "Mr. Sanders",
+      "text": "Mr. Ormond",
       "status": "image_matched"
     },
     {
       "lineNumber": 65,
-      "text": "Mr. Secord",
+      "text": "Mr. Reynolds",
       "status": "image_matched"
     },
     {
       "lineNumber": 66,
-      "text": "Mr. Sullivan",
+      "text": "Mr. Roach",
       "status": "image_matched"
     },
     {
       "lineNumber": 67,
-      "text": "Mr. Torrillo",
+      "text": "Mr. Sanders",
       "status": "image_matched"
     },
     {
       "lineNumber": 68,
-      "text": "Mr. Woods",
+      "text": "Mr. Secord",
       "status": "image_matched"
     },
     {
       "lineNumber": 69,
-      "text": "[unclear] Intelligence has",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Mr. Sullivan",
+      "status": "image_matched"
     },
     {
       "lineNumber": 70,
-      "text": "asked other Departments",
+      "text": "Mr. Torrillo",
       "status": "image_matched"
     },
     {
       "lineNumber": 71,
-      "text": "to furnish to them",
+      "text": "Mr. Woods",
       "status": "image_matched"
     },
     {
       "lineNumber": 72,
-      "text": "this type info to them over",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Air Intelligence Div",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 73,
+      "text": "and other Departments",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 74,
+      "text": "have no further",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 75,
+      "text": "this type info to them.",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 76,
+      "text": "OVER",
+      "status": "image_matched"
     }
   ],
   "blockCount": null

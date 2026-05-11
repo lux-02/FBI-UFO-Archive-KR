@@ -8,248 +8,328 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "11 permanent_unresolved line(s) excluded under SRC-896. 32 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0057-l0014",
-    "page_0057-l0016",
-    "page_0057-l0018",
-    "page_0057-l0020",
-    "page_0057-l0021",
-    "page_0057-l0023",
-    "page_0057-l0024",
-    "page_0057-l0029",
-    "page_0057-l0030",
-    "page_0057-l0032",
-    "page_0057-l0033"
-  ],
-  "lineCount": 43,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 65,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "CONFIDENTIAL",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 2,
-      "text": "INTELLIGENCE REPORT",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 3,
-      "text": "Alaska Date 10 Feb. 1950",
+      "text": "CONFIDENTIAL",
       "status": "image_matched"
     },
     {
       "lineNumber": 4,
-      "text": "Flying Discs",
-      "status": "image_matched"
+      "text": "ISSUED BY [unclear]",
+      "status": "correction_required"
     },
     {
       "lineNumber": 5,
-      "text": "Evaluation L-2",
-      "status": "image_matched"
+      "text": "[unclear] OPERATIONS",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 6,
-      "text": "Subject: Unidentified Airborne Objects, vicinity of Kodiak, Alaska (See note 2)",
+      "text": "NAVY DEPARTMENT",
       "status": "image_matched"
     },
     {
       "lineNumber": 7,
-      "text": "1. A report of sightings of unidentified airborne objects, by various",
+      "text": "INTELLIGENCE REPORT",
       "status": "image_matched"
     },
     {
       "lineNumber": 8,
-      "text": "Naval personnel, on 22 and 23 January 1950, in the vicinity of",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 9,
-      "text": "Kodiak, Alaska is contained herein.",
+      "text": "[handwritten] Flying Discs",
       "status": "image_matched"
     },
     {
       "lineNumber": 10,
-      "text": "NOTE: (1) This information is as of 23 January 1950",
-      "status": "image_matched"
+      "text": "[unclear] Kodiak, Alaska Date 10 Feb. 1950 19",
+      "status": "correction_required"
     },
     {
       "lineNumber": 11,
-      "text": "(2) ISI makes no provision for reporting phenomena of this nature",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 12,
-      "text": "2. Enclosures:",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 13,
-      "text": "(1) Completed CICRAL form containing information given by",
-      "status": "image_matched"
+      "text": "Evaluation [unclear]",
+      "status": "correction_required"
     },
     {
       "lineNumber": 14,
-      "text": "[REDACTED] USN",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Source OFFICIAL - U. S. NAVY",
+      "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "(2) Completed CICRAL form containing information given by",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 16,
-      "text": "[REDACTED] USN",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Subject Unidentified Phenomena in vicinity of Kodiak, Alaska",
+      "status": "correction_required"
     },
     {
       "lineNumber": 17,
-      "text": "(3) Sketch of radar interference characteristics experienced by",
-      "status": "image_matched"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 18,
-      "text": "[REDACTED] USN",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 19,
-      "text": "(4) Completed CICRAL form containing information given by Lt.",
-      "status": "image_matched"
+      "text": "BRIEF: (Give concise summary of report, something with [unclear])",
+      "status": "correction_required"
     },
     {
       "lineNumber": 20,
-      "text": "[REDACTED] USN",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "A report of sightings of unidentified airborne objects, by various",
+      "status": "image_matched"
     },
     {
       "lineNumber": 21,
-      "text": "(5) Track chart of aircraft in which Lt. [REDACTED] USN embarked",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Naval personnel, on 22 and 23 January 1950, in the vicinity of",
+      "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "text": "23 January 1950",
+      "text": "Kodiak, Alaska is contained herein.",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
-      "text": "(6) Statement of [REDACTED] and [REDACTED] HC, USN",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "blank"
     },
     {
       "lineNumber": 24,
-      "text": "(7) Statement of Lt. [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "NOTE: (1) This information is as of 23 January 1950",
+      "status": "image_matched"
     },
     {
       "lineNumber": 25,
-      "text": "(8) Winds aloft and balloon release data",
+      "text": "(2) IFI makes no provision for reporting phenomena of this nature",
       "status": "image_matched"
     },
     {
       "lineNumber": 26,
-      "text": "3. Enclosures (1), (2), and (4) are completed forms suggested by Commander",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 27,
-      "text": "in Chief, Alaskan Command, Fort Richardson, Alaska for the reporting of",
+      "text": "ENCL: (1) Completed CIRVIS form containing information given by",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "text": "sighting of unidentified objects. Enclosure (3) is a sketch of radar",
-      "status": "image_matched"
+      "text": "[REDACTED], USN",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 29,
-      "text": "interference experienced in aircraft piloted by Lt. [REDACTED] when he",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "(2) Completed CIRVIS form containing information given by",
+      "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "is a track chart of aircraft in which Lt. [REDACTED] was embarked when he",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED], USN",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 31,
-      "text": "sighted unidentified object. Enclosure (6) contains statements by",
+      "text": "(3) Sketch of radar interference characteristics experienced by",
       "status": "image_matched"
     },
     {
       "lineNumber": 32,
-      "text": "[REDACTED] HC, USN relative to their sighting. Enclosure (7)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED], USN",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 33,
-      "text": "is a copy of Lt. [REDACTED] statement and enclosure (8) is a summary of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "(4) Completed CIRVIS form containing information given by Lt.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 34,
-      "text": "weather and balloon release information.",
-      "status": "image_matched"
+      "text": "[REDACTED], USN embarked",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 35,
-      "text": "CONFIDENTIAL",
-      "status": "image_matched"
+      "text": "(5) Track chart of aircraft in which Lt. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 36,
-      "text": "DELIVERED BY NIS LETTER 1/20/50",
+      "text": "23 January 1950",
       "status": "image_matched"
     },
     {
       "lineNumber": 37,
-      "text": "THIS REPORT CONSISTS OF THREE PAGES",
-      "status": "image_matched"
+      "text": "(6) Statement of [REDACTED] and [REDACTED], HMC, USN",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 38,
-      "text": "INDEXED - 74",
-      "status": "image_matched"
+      "text": "(7) Statement of Lt. [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 39,
-      "text": "NOT RECORDED",
+      "text": "(8) Winds aloft and balloon release data",
       "status": "image_matched"
     },
     {
       "lineNumber": 40,
-      "text": "MAY 9 1950",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 41,
-      "text": "COPIES DESTROYED",
+      "text": "1. Enclosures (1), (2), and (4) are completed forms suggested by Commander",
       "status": "image_matched"
     },
     {
       "lineNumber": 42,
-      "text": "MAY 24 1950",
+      "text": "in Chief, Alaskan Command, Fort Richardson, Alaska for the reporting of",
       "status": "image_matched"
     },
     {
       "lineNumber": 43,
+      "text": "sighting of unidentified objects. Enclosure (3) is a sketch of radar",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 44,
+      "text": "interference experienced in aircraft piloted by Lt. [REDACTED]. Enclosure (5)",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 45,
+      "text": "is a track chart of aircraft in which Lt. [REDACTED] was embarked when he",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 46,
+      "text": "sighted unidentified object. Enclosure (6) contains statements by [REDACTED]",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 47,
+      "text": "HMC, USN and [REDACTED] relative to their sighting. Enclosure (7)",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 48,
+      "text": "is a copy of Lt. [REDACTED] statement and enclosure (8), is a summary of",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 49,
+      "text": "weather and balloon release information.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 50,
+      "text": "Declassified by NIS letter 1/20/70 CONFIDENTIAL",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 51,
+      "text": "[unclear] 2 NIS RECDT [unclear] OF THIS PAGE [unclear]",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 52,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 53,
+      "text": "[unclear] CLASSIFICATION",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 54,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 55,
+      "text": "INDEXED - 74 CONFIDENTIAL",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 56,
+      "text": "[unclear] 83899-228",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 57,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 58,
+      "text": "[unclear] NOT RECORDED [unclear]",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 59,
+      "text": "[unclear] MAY 9 1950 [unclear]",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 60,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 61,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 62,
+      "text": "[unclear]",
+      "status": "needs_image_check"
+    },
+    {
+      "lineNumber": 63,
+      "text": "COPIES DESTROYED",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 64,
+      "text": "[unclear] MAY 24 19[unclear]",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 65,
       "text": "6 MAY 25 1950",
       "status": "image_matched"
     }

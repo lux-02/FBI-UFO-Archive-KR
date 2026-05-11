@@ -8,14 +8,11 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 28 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0058-l0017",
-    "page_0058-l0034"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 34,
   "lines": [
     {
@@ -45,7 +42,7 @@
     },
     {
       "lineNumber": 6,
-      "text": "from the remaining Scandinavian countries and most of Western Europe.",
+      "text": "from the remaining Scandanavian countries and most of Western Europe.",
       "status": "image_matched"
     },
     {
@@ -54,13 +51,13 @@
     },
     {
       "lineNumber": 8,
-      "text": "Incidents were first reported over the US in 1947 and are still",
-      "status": "image_matched"
+      "text": "[unclear] incidents were first reported over the US in 1947 and are still [unclear]",
+      "status": "correction_required"
     },
     {
       "lineNumber": 9,
-      "text": "being reported, and much space in the press has been given to these reports and",
-      "status": "image_matched"
+      "text": "[unclear] space in the press and [unclear]",
+      "status": "correction_required"
     },
     {
       "lineNumber": 10,
@@ -79,8 +76,8 @@
     },
     {
       "lineNumber": 13,
-      "text": "them. I am duty bound not to say what I know about them, or what I don't",
-      "status": "image_matched"
+      "text": "them. I am duty bound not to say what I know about them - or what I don't",
+      "status": "correction_required"
     },
     {
       "lineNumber": 14,
@@ -100,8 +97,7 @@
     {
       "lineNumber": 17,
       "text": "[unclear] of the reports could definitely be related to known causes such as",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "correction_required"
     },
     {
       "lineNumber": 18,
@@ -158,7 +154,7 @@
     },
     {
       "lineNumber": 29,
-      "text": "2. Soviet guided missiles or aircraft, probably atomic-powered.",
+      "text": "2. Soviet guided missiles or aircraft - probably atomic-powered.",
       "status": "image_matched"
     },
     {
@@ -182,9 +178,8 @@
     },
     {
       "lineNumber": 34,
-      "text": "2",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "g",
+      "status": "needs_image_check"
     }
   ],
   "blockCount": null

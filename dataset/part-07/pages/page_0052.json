@@ -8,21 +8,12 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "8 permanent_unresolved line(s) excluded under SRC-896. 62 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0052-l0013",
-    "page_0052-l0040",
-    "page_0052-l0048",
-    "page_0052-l0050",
-    "page_0052-l0054",
-    "page_0052-l0057",
-    "page_0052-l0079",
-    "page_0052-l0085"
-  ],
-  "lineCount": 89,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 81,
   "lines": [
     {
       "lineNumber": 1,
@@ -58,41 +49,41 @@
     },
     {
       "lineNumber": 8,
-      "text": "SUBJECT",
+      "text": "DATE",
       "status": "image_matched"
     },
     {
       "lineNumber": 9,
-      "text": "RALPH Y, Michael",
+      "text": "23 May 1950",
       "status": "image_matched"
     },
     {
       "lineNumber": 10,
-      "text": "2451 Urquhart Street",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 11,
-      "text": "New Orleans, La.",
+      "text": "SUBJECT",
       "status": "image_matched"
     },
     {
       "lineNumber": 12,
-      "status": "blank"
+      "text": "RALPH, Michael",
+      "status": "correction_required"
     },
     {
       "lineNumber": 13,
-      "text": "[unclear] Y. 74-15-0",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "2451 Urquhart Street",
+      "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "status": "blank"
+      "text": "New Orleans, La.",
+      "status": "image_matched"
     },
     {
       "lineNumber": 15,
-      "text": "SUMMARY OF INFORMATION",
+      "text": "GNY No. 74-15-0",
       "status": "image_matched"
     },
     {
@@ -101,121 +92,120 @@
     },
     {
       "lineNumber": 17,
-      "text": "DATE",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 18,
-      "text": "23 May 1950",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 19,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 20,
       "text": "CODE FOR USE IN INDIVIDUAL PARAGRAPH EVALUATION",
       "status": "image_matched"
     },
     {
-      "lineNumber": 21,
+      "lineNumber": 18,
       "text": "OF SOURCE:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 22,
+      "lineNumber": 19,
       "text": "COMPLETELY RELIABLE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 23,
+      "lineNumber": 20,
       "text": "USUALLY RELIABLE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
+      "lineNumber": 21,
       "text": "FAIRLY RELIABLE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 25,
+      "lineNumber": 22,
       "text": "NOT USUALLY RELIABLE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 26,
+      "lineNumber": 23,
       "text": "UNRELIABLE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 27,
+      "lineNumber": 24,
       "text": "RELIABILITY UNKNOWN",
       "status": "image_matched"
     },
     {
-      "lineNumber": 28,
+      "lineNumber": 25,
       "status": "blank"
     },
     {
-      "lineNumber": 29,
+      "lineNumber": 26,
       "text": "OF INFORMATION:",
       "status": "image_matched"
     },
     {
-      "lineNumber": 30,
+      "lineNumber": 27,
       "text": "CONFIRMED BY OTHER SOURCES",
       "status": "image_matched"
     },
     {
-      "lineNumber": 31,
+      "lineNumber": 28,
       "text": "PROBABLY TRUE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 32,
+      "lineNumber": 29,
       "text": "POSSIBLY TRUE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 30,
       "text": "DOUBTFULLY TRUE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 31,
       "text": "IMPROBABLE",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 32,
       "text": "TRUTH CANNOT BE JUDGED",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
+      "lineNumber": 33,
       "status": "blank"
     },
     {
+      "lineNumber": 34,
+      "text": "SUMMARY OF INFORMATION",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 35,
+      "status": "blank"
+    },
+    {
+      "lineNumber": 36,
+      "text": "At about 1430 hours, 22 May 1950, the attached (see Inclosure 1)",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 37,
-      "text": "At about 1430 hours, 22 May 1950, the attached (See Inclosure 1)",
+      "text": "\"photograph\" was turned over to Agent John F. Guion, CID, New Orleans Port of",
       "status": "image_matched"
     },
     {
       "lineNumber": 38,
-      "text": "\"photograph\" was turned over to Agent John F. Quinn, CID, New Orleans Port of",
+      "text": "Embarkation. The individual who turned this material over to Guion told him",
       "status": "image_matched"
     },
     {
       "lineNumber": 39,
-      "text": "Embarkation. The individual who turned this material over to Quinn told him",
-      "status": "image_matched"
+      "text": "that he had purchased the \"photograph\" from one [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 40,
-      "text": "that he had purchased the \"photograph\" from one [REDACTED] for the sum of $1.00. He stated that he thought",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[REDACTED] for the sum of $1.00. He stated that he thought",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 41,
@@ -234,48 +224,45 @@
     },
     {
       "lineNumber": 44,
-      "text": "policemen.",
+      "text": "policemen. (B-2)",
       "status": "image_matched"
     },
     {
       "lineNumber": 45,
-      "text": "(B-2)",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 46,
-      "status": "blank"
+      "text": "The individual turning this material over to Guion gave his name as",
+      "status": "image_matched"
     },
     {
       "lineNumber": 47,
-      "text": "The individual turning this material over to Quinn gave his name as",
-      "status": "image_matched"
+      "text": "[REDACTED] (B-2)",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 48,
-      "text": "[REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 49,
       "status": "blank"
     },
     {
-      "lineNumber": 50,
+      "lineNumber": 49,
       "text": "According to [REDACTED] is alleged to have served five (5) years in",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 50,
+      "text": "the Federal penitentiary at Leavenworth, Kansas. (B-2)",
+      "status": "image_matched"
     },
     {
       "lineNumber": 51,
-      "text": "the Federal penitentiary at Leavenworth, Kansas.",
-      "status": "image_matched"
+      "status": "blank"
     },
     {
       "lineNumber": 52,
-      "text": "(B-2)",
-      "status": "image_matched"
+      "text": "No interrogation of [REDACTED] was conducted by Agent Guion. (B-2)",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 53,
@@ -283,14 +270,13 @@
     },
     {
       "lineNumber": 54,
-      "text": "No interrogation of [REDACTED] was conducted by Agent Quinn.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear]",
+      "status": "correction_required"
     },
     {
       "lineNumber": 55,
-      "text": "(B-2)",
-      "status": "image_matched"
+      "text": "[unclear] Photo: (Original & Cy)",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 56,
@@ -298,165 +284,124 @@
     },
     {
       "lineNumber": 57,
-      "text": "3. [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 58,
-      "text": "Photo. (Original & Cy)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 59,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 60,
       "text": "COMMENT: A literal translation of the caption under the alleged photographs",
       "status": "image_matched"
     },
     {
-      "lineNumber": 61,
+      "lineNumber": 58,
       "text": "stated that a special infra-red machine was used to take these photographs",
       "status": "image_matched"
     },
     {
-      "lineNumber": 62,
+      "lineNumber": 59,
       "text": "because the \"flying saucers\" were invisible to the human eye. Also, the sound",
       "status": "image_matched"
     },
     {
-      "lineNumber": 63,
+      "lineNumber": 60,
       "text": "emitted by the two pictured \"saucers\" was of such high frequency as to be above",
       "status": "image_matched"
     },
     {
+      "lineNumber": 61,
+      "text": "[unclear] or audible to the human ear. The caption continues by stating that an",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 62,
+      "text": "accident occurred to one of the \"saucers\" and the individual shown in custody",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 63,
+      "text": "of United States Military Police in the right hand photograph was a \"Mr. X\",",
+      "status": "image_matched"
+    },
+    {
       "lineNumber": 64,
-      "text": "(inaudible) to the human ear. The caption continues by stating that an",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 65,
-      "text": "incident occurred to one of the \"saucers\" and the individual shown in custody",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 66,
-      "text": "of United States Military Police in the right hand photograph was a \"Mr. X\"",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 67,
       "text": "a member of the crew of one of these \"flying saucers\". The location of both",
       "status": "image_matched"
     },
     {
-      "lineNumber": 68,
-      "text": "photographs was stated to be Wiesbaden, Germany.",
+      "lineNumber": 65,
+      "text": "photographs was stated to be Weisbaden, Germany.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 69,
+      "lineNumber": 66,
       "status": "blank"
     },
     {
-      "lineNumber": 70,
+      "lineNumber": 67,
       "text": "62-83894-179",
       "status": "image_matched"
     },
     {
-      "lineNumber": 71,
+      "lineNumber": 68,
       "status": "blank"
     },
     {
-      "lineNumber": 72,
-      "text": "SEARCHED, INDEXED",
-      "status": "image_matched"
+      "lineNumber": 69,
+      "text": "SEARCHED [unclear] INDEXED",
+      "status": "correction_required"
     },
     {
-      "lineNumber": 73,
-      "text": "SERIALIZED & FILED",
-      "status": "image_matched"
+      "lineNumber": 70,
+      "text": "SERIALIZED [unclear] FILED",
+      "status": "correction_required"
     },
     {
-      "lineNumber": 74,
+      "lineNumber": 71,
       "text": "MAY 24 1950",
       "status": "image_matched"
     },
     {
-      "lineNumber": 75,
-      "text": "FBI NEW ORLEANS",
+      "lineNumber": 72,
+      "text": "FBI - NEW ORLEANS",
       "status": "image_matched"
     },
     {
-      "lineNumber": 76,
+      "lineNumber": 73,
       "status": "blank"
     },
     {
-      "lineNumber": 77,
+      "lineNumber": 74,
       "text": "DISTRIBUTION",
       "status": "image_matched"
     },
     {
+      "lineNumber": 75,
+      "text": "[unclear] (1)",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 76,
+      "text": "117th CID Det (1)",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 77,
+      "text": "[unclear] (1)",
+      "status": "correction_required"
+    },
+    {
       "lineNumber": 78,
-      "text": "C 117th CID Det (1)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 79,
-      "text": "C [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 80,
-      "text": "(1)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 81,
       "status": "blank"
     },
     {
-      "lineNumber": 82,
+      "lineNumber": 79,
       "text": "FBI, NOLA (2) (including original)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 83,
-      "text": "NIO, NOLA (1)",
+      "lineNumber": 80,
+      "text": "NIO, NOLA (1) LA Mil Dist (1)",
       "status": "image_matched"
     },
     {
-      "lineNumber": 84,
-      "text": "La Mil Dist",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 85,
-      "text": "[unclear], NOLA (1)",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 86,
-      "text": "File",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 87,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 88,
-      "text": "(1)",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 89,
-      "text": "(1)",
-      "status": "image_matched"
+      "lineNumber": 81,
+      "text": "[unclear], NOLA (1) File (1)",
+      "status": "correction_required"
     }
   ],
   "blockCount": null

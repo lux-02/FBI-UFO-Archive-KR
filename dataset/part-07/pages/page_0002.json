@@ -8,19 +8,16 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "2 permanent_unresolved line(s) excluded under SRC-896. 9 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0002-l0007",
-    "page_0002-l0008"
-  ],
-  "lineCount": 17,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 16,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "O",
+      "text": "O O",
       "status": "image_matched"
     },
     {
@@ -48,14 +45,12 @@
     {
       "lineNumber": 7,
       "text": "It may be stated to the Bureau that Mr. [REDACTED] is a well",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 8,
-      "text": "known flyer as well as Mr. [REDACTED] and both are known to be very reliable",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "known flyer as well as Mr. [REDACTED] and both are known to be very reliable 67C",
+      "status": "correction_required"
     },
     {
       "lineNumber": 9,
@@ -73,29 +68,25 @@
     },
     {
       "lineNumber": 12,
-      "text": "Bureau.",
-      "status": "image_matched"
-    },
-    {
-      "lineNumber": 13,
-      "status": "blank"
-    },
-    {
-      "lineNumber": 14,
       "text": "The above is being submitted for the information of the",
       "status": "image_matched"
     },
     {
-      "lineNumber": 15,
+      "lineNumber": 13,
+      "text": "Bureau.",
+      "status": "image_matched"
+    },
+    {
+      "lineNumber": 14,
       "status": "blank"
     },
     {
-      "lineNumber": 16,
+      "lineNumber": 15,
       "text": "LOT:LMR",
       "status": "image_matched"
     },
     {
-      "lineNumber": 17,
+      "lineNumber": 16,
       "text": "100-1406",
       "status": "image_matched"
     }

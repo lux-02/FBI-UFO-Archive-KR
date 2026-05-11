@@ -8,69 +8,56 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "unknown_or_low_text_scan",
   "pageRecommendation": "DENSE_PAGE_REQUIRES_CROP_LINE_AUDIT",
-  "pageReadinessNote": "10 permanent_unresolved line(s) excluded under SRC-896. 25 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0026-l0006",
-    "page_0026-l0007",
-    "page_0026-l0014",
-    "page_0026-l0015",
-    "page_0026-l0019",
-    "page_0026-l0025",
-    "page_0026-l0029",
-    "page_0026-l0030",
-    "page_0026-l0031",
-    "page_0026-l0036"
-  ],
-  "lineCount": 36,
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
+  "lineCount": 37,
   "lines": [
     {
       "lineNumber": 1,
-      "text": "the flying saucer.",
+      "text": "two flying saucers.",
       "status": "image_matched"
     },
     {
       "lineNumber": 2,
-      "text": "Since we are on the",
-      "status": "image_matched"
+      "text": "Since we are on a",
+      "status": "correction_required"
     },
     {
       "lineNumber": 3,
-      "text": "third world war",
+      "text": "of a third world war",
       "status": "image_matched"
     },
     {
       "lineNumber": 4,
-      "text": "which is now in progress",
-      "status": "image_matched"
+      "text": "world is more air con[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 5,
-      "text": "there are. Airplanes",
+      "text": "than ever. Aviation is",
       "status": "image_matched"
     },
     {
       "lineNumber": 6,
-      "text": "[unclear] yet in the air.",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "progressing yet in the pin",
+      "status": "correction_required"
     },
     {
       "lineNumber": 7,
-      "text": "[unclear] and talk goes on of",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
-    },
-    {
-      "lineNumber": 8,
-      "text": "the flying saucers as",
+      "text": "stage. Much talk goes on",
       "status": "image_matched"
     },
     {
+      "lineNumber": 8,
+      "text": "the flying saucers.",
+      "status": "correction_required"
+    },
+    {
       "lineNumber": 9,
-      "text": "the saucer we speak about",
+      "text": "The saucer we speak about",
       "status": "image_matched"
     },
     {
@@ -80,8 +67,8 @@
     },
     {
       "lineNumber": 11,
-      "text": "It is not yet owned by a",
-      "status": "image_matched"
+      "text": "is not yet owned by a",
+      "status": "correction_required"
     },
     {
       "lineNumber": 12,
@@ -90,20 +77,18 @@
     },
     {
       "lineNumber": 13,
-      "text": "which was seen in some",
+      "text": "which was seen over",
       "status": "image_matched"
     },
     {
       "lineNumber": 14,
-      "text": "Chicago last April, is a large",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "Chicago last april, is a large",
+      "status": "correction_required"
     },
     {
       "lineNumber": 15,
-      "text": "fuel tank with expert glass",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "fuel tank with crystal glass",
+      "status": "image_matched"
     },
     {
       "lineNumber": 16,
@@ -122,9 +107,8 @@
     },
     {
       "lineNumber": 19,
-      "text": "unmanned [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "[unclear]",
+      "status": "needs_image_check"
     },
     {
       "lineNumber": 20,
@@ -132,88 +116,88 @@
     },
     {
       "lineNumber": 21,
-      "text": "The wings cannot be seen",
+      "text": "the wings cannot be seen",
       "status": "image_matched"
     },
     {
       "lineNumber": 22,
-      "text": "on a clear day. This is a",
+      "text": "on a clear day. This is",
       "status": "image_matched"
     },
     {
       "lineNumber": 23,
+      "text": "it is a most difficult",
+      "status": "correction_required"
+    },
+    {
+      "lineNumber": 24,
       "text": "target for anti aircraft",
       "status": "image_matched"
     },
     {
-      "lineNumber": 24,
-      "text": "guns. The room for the",
-      "status": "image_matched"
-    },
-    {
       "lineNumber": 25,
-      "text": "large fuel gas or fuel tank",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "gunning. The reason for the",
+      "status": "correction_required"
     },
     {
       "lineNumber": 26,
-      "text": "is to give the ship a",
+      "text": "large fuel gas or fuel tank",
       "status": "image_matched"
     },
     {
       "lineNumber": 27,
-      "text": "long range for atomic",
+      "text": "is to give the ship a",
       "status": "image_matched"
     },
     {
       "lineNumber": 28,
-      "text": "bombing. The ship was",
+      "text": "long range for atomic",
       "status": "image_matched"
     },
     {
       "lineNumber": 29,
-      "text": "designed by [REDACTED]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "bombing. The ship was",
+      "status": "image_matched"
     },
     {
       "lineNumber": 30,
-      "text": "a former [unclear] shipwriter",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "designed by [REDACTED]",
+      "status": "redaction_marker_check"
     },
     {
       "lineNumber": 31,
-      "text": "mechanic, and [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "text": "a former [unclear] skywriter",
+      "status": "correction_required"
     },
     {
       "lineNumber": 32,
+      "text": "mechanic, and [REDACTED] - aircraft",
+      "status": "redaction_marker_check"
+    },
+    {
+      "lineNumber": 33,
       "text": "German world war I ace.",
       "status": "image_matched"
     },
     {
-      "lineNumber": 33,
+      "lineNumber": 34,
       "text": "The ship was financed by",
       "status": "image_matched"
     },
     {
-      "lineNumber": 34,
+      "lineNumber": 35,
       "text": "Howard Hughes, millionaire",
       "status": "image_matched"
     },
     {
-      "lineNumber": 35,
+      "lineNumber": 36,
       "text": "aviation enthusiast. It is now",
       "status": "image_matched"
     },
     {
-      "lineNumber": 36,
-      "text": "being tested by [unclear]",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "lineNumber": 37,
+      "text": "being tested by [REDACTED]",
+      "status": "redaction_marker_check"
     }
   ],
   "blockCount": null

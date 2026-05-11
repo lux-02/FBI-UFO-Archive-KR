@@ -8,13 +8,11 @@
     "sha256": "0cb9d177601e0006a4cac0b94065f2e0dea51a3d6fb44361c8e56ac07d9f3825"
   },
   "sourceLayer": "line_audit",
-  "translationReadiness": "partial_ready",
+  "translationReadiness": "not_ready",
   "pageType": "low_quality_or_mixed_document",
   "pageRecommendation": "READY_FOR_LINE_AUDIT",
-  "pageReadinessNote": "1 permanent_unresolved line(s) excluded under SRC-896. 4 IMAGE_MATCHED line(s) eligible for handoff.",
-  "excludedLineIds": [
-    "page_0060-l0002"
-  ],
+  "pageReadinessNote": null,
+  "excludedLineIds": [],
   "lineCount": 5,
   "lines": [
     {
@@ -25,12 +23,11 @@
     {
       "lineNumber": 2,
       "text": "to Rickenbacker, often solicited in the most sensation form by news",
-      "status": "permanent_unresolved",
-      "unresolvedReason": "other_documented"
+      "status": "image_matched"
     },
     {
       "lineNumber": 3,
-      "text": "reporters in order to make a good story, make people watch the sky and any",
+      "text": "reporters; in order to make a good story, make people watch the sky and any",
       "status": "image_matched"
     },
     {
